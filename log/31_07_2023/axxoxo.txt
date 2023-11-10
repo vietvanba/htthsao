@@ -1,0 +1,50 @@
+[04:27:19 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[04:27:24 AM]  Nhặt +109 beri
+[04:27:31 AM]  Logout : [Beri] 2.000.000.109 [Ruby] 500.000.000
+[12:10:48 PM]  Login : [Beri] 2.000.000.109 [Ruby] 500.000.000
+[12:11:31 PM]  Logout : [Beri] 2.000.000.109 [Ruby] 500.000.000
+[12:11:42 PM]  Login : [Beri] 2.000.000.109 [Ruby] 500.000.000
+[12:11:56 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[12:12:04 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[12:12:11 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[12:12:19 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[12:12:31 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[12:12:42 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x99, 
+[12:12:48 PM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[12:13:04 PM]  Mua 31000 vé vòng quay -465000 ruby
+[12:25:26 PM]  Nhặt +6006 beri
+[12:26:20 PM]  Nhặt +8036 beri
+[12:29:06 PM]  Nhặt +4346 beri
+[12:29:31 PM]  Mua Kinh nghiệm X2 -15 ruby
+[12:29:33 PM]  Mua Xp Chiêu thức -1500 ruby
+[12:29:34 PM]  Mua Xp Chiêu thức -300 ruby
+[12:30:14 PM]  Mua Râu đen -500 ruby
+[12:33:38 PM]  Nhặt +6650 beri
+[12:33:46 PM]  Nhặt +2950 beri
+[12:34:11 PM]  Nhặt +7050 beri
+[12:34:19 PM]  Nhặt +5650 beri
+[12:34:32 PM]  Nhặt +2300 beri
+[12:34:47 PM]  Nhặt +3450 beri
+[12:37:57 PM]  Nhặt +3800 beri
+[12:40:15 PM]  Logout : [Beri] 2.000.050.347 [Ruby] 1.499.530.715

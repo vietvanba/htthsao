@@ -1,0 +1,32 @@
+[04:18:54 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[04:19:50 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[04:20:00 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[04:20:19 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[04:20:29 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[04:20:45 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[04:20:51 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[04:21:01 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[04:21:10 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[04:21:27 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.005.000.000
+[04:24:24 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.005.000.000
+[04:24:30 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.005.000.000
+[04:28:20 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[04:28:23 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000

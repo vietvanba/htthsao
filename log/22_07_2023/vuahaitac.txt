@@ -1,0 +1,259 @@
+[07:39:59 SA]  Login : [Beri] 20.000.336.101 [Ruby] 1.099.808.027
+[07:40:04 SA]  Logout : [Beri] 20.000.336.101 [Ruby] 1.099.808.027
+[07:58:54 SA]  Login : [Beri] 20.000.336.101 [Ruby] 1.099.808.027
+[07:59:28 SA]  Logout : [Beri] 20.000.336.101 [Ruby] 1.099.808.027
+[08:01:10 SA]  Logout : [Beri] 20.000.336.101 [Ruby] 1.099.808.027
+[08:14:05 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.316.716
+[08:20:20 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.316.716
+[08:21:11 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.316.716
+[08:23:29 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.316.716
+[08:23:35 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.316.716
+[08:29:14 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.316.716
+[08:29:19 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.316.716
+[08:29:37 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.316.716
+[08:30:00 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.316.716
+[08:37:19 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.316.716
+[08:39:25 SA]  Cường hóa item Quả Tim -3000 beri
+[08:39:27 SA]  Cường hóa item Quả Tim -3000 beri
+[08:39:28 SA]  Cường hóa item Quả Tim -4000 beri
+[08:39:30 SA]  Cường hóa item Quả Tim -3000 beri
+[08:39:31 SA]  Cường hóa item Quả Tim -3000 beri
+[08:39:41 SA]  Cường hóa item Quả Tim -3000 beri
+[08:39:43 SA]  Cường hóa item Quả Tim -4000 beri
+[08:39:45 SA]  Cường hóa item Quả Tim -4000 beri
+[08:39:47 SA]  Cường hóa item Quả Tim -4000 beri
+[08:39:48 SA]  Cường hóa item Quả Tim -4000 beri
+[08:39:50 SA]  Cường hóa item Quả Tim -4000 beri
+[08:39:52 SA]  Cường hóa item Quả Tim -4000 beri
+[08:39:53 SA]  Cường hóa item Quả Tim -4000 beri
+[08:39:55 SA]  Cường hóa item Quả Tim -4000 beri
+[08:39:56 SA]  Cường hóa item Quả Tim -4000 beri
+[08:39:58 SA]  Cường hóa item Quả Tim -4000 beri
+[08:40:00 SA]  Cường hóa item Quả Tim -4000 beri
+[08:40:01 SA]  Cường hóa item Quả Tim -4000 beri
+[08:40:03 SA]  Cường hóa item Quả Tim -4000 beri
+[08:40:05 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:06 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:08 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:10 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:11 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:13 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:14 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:16 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:18 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:19 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:21 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:23 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:24 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:26 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:27 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:29 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:31 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:32 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:34 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:36 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:37 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:39 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:41 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:43 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:45 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:46 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:48 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:50 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:52 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:53 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:55 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:57 SA]  Cường hóa item Quả Tim -6000 beri
+[08:40:58 SA]  Cường hóa item Quả Tim -8000 beri
+[08:41:00 SA]  Cường hóa item Quả Tim -8000 beri
+[08:41:01 SA]  Cường hóa item Quả Tim -10000 beri
+[08:41:03 SA]  Cường hóa item Quả Tim -10000 beri
+[08:41:05 SA]  Cường hóa item Quả Tim -10000 beri
+[08:41:06 SA]  Cường hóa item Quả Tim -10000 beri
+[08:41:08 SA]  Cường hóa item Quả Tim -10000 beri
+[08:41:10 SA]  Cường hóa item Quả Tim -10000 beri
+[08:41:11 SA]  Cường hóa item Quả Tim -10000 beri
+[08:41:13 SA]  Cường hóa item Quả Tim -10000 beri
+[08:41:14 SA]  Cường hóa item Quả Tim -10000 beri
+[08:41:16 SA]  Cường hóa item Quả Tim -10000 beri
+[08:41:18 SA]  Cường hóa item Quả Tim -10000 beri
+[08:41:20 SA]  Cường hóa item Quả Tim -10000 beri
+[08:41:21 SA]  Cường hóa item Quả Tim -10000 beri
+[08:41:23 SA]  Cường hóa item Quả Tim -10000 beri
+[08:41:25 SA]  Cường hóa item Quả Tim -10000 beri
+[08:41:27 SA]  Cường hóa item Quả Tim -10000 beri
+[08:41:28 SA]  Cường hóa item Quả Tim -10000 beri
+[08:41:41 SA]  Mua Bột cường hóa -20 ruby
+[08:41:41 SA]  Mua Bột cường hóa -20 ruby
+[08:41:41 SA]  Mua Bột cường hóa -20 ruby
+[08:41:41 SA]  Mua Bột cường hóa -20 ruby
+[08:41:42 SA]  Mua Bột cường hóa -20 ruby
+[08:41:42 SA]  Mua Bột cường hóa -20 ruby
+[08:41:42 SA]  Mua Bột cường hóa -20 ruby
+[08:41:42 SA]  Mua Bột cường hóa -20 ruby
+[08:41:42 SA]  Mua Bột cường hóa -20 ruby
+[08:41:42 SA]  Mua Bột cường hóa -20 ruby
+[08:41:43 SA]  Mua Bột cường hóa -20 ruby
+[08:41:43 SA]  Mua Bột cường hóa -20 ruby
+[08:41:43 SA]  Mua Bột cường hóa -20 ruby
+[08:41:43 SA]  Mua Bột cường hóa -20 ruby
+[08:41:43 SA]  Mua Bột cường hóa -20 ruby
+[08:41:44 SA]  Mua Bột cường hóa -20 ruby
+[08:41:44 SA]  Mua Bột cường hóa -20 ruby
+[08:41:44 SA]  Mua Bột cường hóa -20 ruby
+[08:41:44 SA]  Mua Bột cường hóa -20 ruby
+[08:41:44 SA]  Mua Bột cường hóa -20 ruby
+[08:41:44 SA]  Mua Bột cường hóa -20 ruby
+[08:41:45 SA]  Mua Bột cường hóa -20 ruby
+[08:41:45 SA]  Mua Bột cường hóa -20 ruby
+[08:41:45 SA]  Mua Bột cường hóa -20 ruby
+[08:41:45 SA]  Mua Bột cường hóa -20 ruby
+[08:41:45 SA]  Mua Bột cường hóa -20 ruby
+[08:41:46 SA]  Mua Bột cường hóa -20 ruby
+[08:41:46 SA]  Mua Bột cường hóa -20 ruby
+[08:41:46 SA]  Mua Bột cường hóa -20 ruby
+[08:41:46 SA]  Mua Bột cường hóa -20 ruby
+[08:41:46 SA]  Mua Bột cường hóa -20 ruby
+[08:41:47 SA]  Mua Bột cường hóa -20 ruby
+[08:41:47 SA]  Mua Bột cường hóa -20 ruby
+[08:41:47 SA]  Mua Bột cường hóa -20 ruby
+[08:41:47 SA]  Mua Bột cường hóa -20 ruby
+[08:41:47 SA]  Mua Bột cường hóa -20 ruby
+[08:41:47 SA]  Mua Bột cường hóa -20 ruby
+[08:41:48 SA]  Mua Bột cường hóa -20 ruby
+[08:41:48 SA]  Mua Bột cường hóa -20 ruby
+[08:41:48 SA]  Mua Bột cường hóa -20 ruby
+[08:41:48 SA]  Mua Bột cường hóa -20 ruby
+[08:41:48 SA]  Mua Bột cường hóa -20 ruby
+[08:41:48 SA]  Mua Bột cường hóa -20 ruby
+[08:41:49 SA]  Mua Bột cường hóa -20 ruby
+[08:41:49 SA]  Mua Bột cường hóa -20 ruby
+[08:41:49 SA]  Mua Bột cường hóa -20 ruby
+[08:41:49 SA]  Mua Bột cường hóa -20 ruby
+[08:41:49 SA]  Mua Bột cường hóa -20 ruby
+[08:41:50 SA]  Mua Bột cường hóa -20 ruby
+[08:41:50 SA]  Mua Bột cường hóa -20 ruby
+[08:41:50 SA]  Mua Bột cường hóa -20 ruby
+[08:41:50 SA]  Mua Bột cường hóa -20 ruby
+[08:41:50 SA]  Mua Bột cường hóa -20 ruby
+[08:41:50 SA]  Mua Bột cường hóa -20 ruby
+[08:41:50 SA]  Mua Bột cường hóa -20 ruby
+[08:41:51 SA]  Mua Bột cường hóa -20 ruby
+[08:41:51 SA]  Mua Bột cường hóa -20 ruby
+[08:41:51 SA]  Mua Bột cường hóa -20 ruby
+[08:41:51 SA]  Mua Bột cường hóa -20 ruby
+[08:41:51 SA]  Mua Bột cường hóa -20 ruby
+[08:41:52 SA]  Mua Bột cường hóa -20 ruby
+[08:41:52 SA]  Mua Bột cường hóa -20 ruby
+[08:41:52 SA]  Mua Bột cường hóa -20 ruby
+[08:41:52 SA]  Mua Bột cường hóa -20 ruby
+[08:41:52 SA]  Mua Bột cường hóa -20 ruby
+[08:41:53 SA]  Mua Bột cường hóa -20 ruby
+[08:41:53 SA]  Mua Bột cường hóa -20 ruby
+[08:41:53 SA]  Mua Bột cường hóa -20 ruby
+[08:41:53 SA]  Mua Bột cường hóa -20 ruby
+[08:41:53 SA]  Mua Bột cường hóa -20 ruby
+[08:41:53 SA]  Mua Bột cường hóa -20 ruby
+[08:41:54 SA]  Mua Bột cường hóa -20 ruby
+[08:41:54 SA]  Mua Bột cường hóa -20 ruby
+[08:41:54 SA]  Mua Bột cường hóa -20 ruby
+[08:41:54 SA]  Mua Bột cường hóa -20 ruby
+[08:41:54 SA]  Mua Bột cường hóa -20 ruby
+[08:41:54 SA]  Mua Bột cường hóa -20 ruby
+[08:41:55 SA]  Mua Bột cường hóa -20 ruby
+[08:42:11 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:12 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:14 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:15 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:17 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:18 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:20 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:21 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:23 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:24 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:26 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:27 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:29 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:30 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:31 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:33 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:35 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:36 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:37 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:39 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:40 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:42 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:44 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:45 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:47 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:48 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:49 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:51 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:52 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:54 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:55 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:58 SA]  Cường hóa item Quả Tim -10000 beri
+[08:42:59 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:01 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:02 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:04 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:05 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:07 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:08 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:10 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:12 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:13 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:15 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:16 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:18 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:19 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:21 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:22 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:24 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:25 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:27 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:28 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:30 SA]  Cường hóa item Quả Tim -10000 beri
+[08:43:31 SA]  Cường hóa item Quả Tim -10000 beri
+[08:44:17 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:08:00 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:08:33 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:08:40 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:08:43 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:20:43 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:21:23 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:31:06 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:31:43 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:36:42 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:37:32 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:38:39 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:40:24 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:41:06 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:42:15 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:43:14 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:45:23 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:46:01 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:46:06 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:46:31 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:46:41 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:47:15 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:48:39 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:49:02 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:49:51 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:49:59 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:50:24 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:52:29 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:52:34 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:52:46 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:53:21 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:53:32 SA]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[11:59:21 SA]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[12:01:08 CH]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[12:08:59 CH]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[12:09:50 CH]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[12:23:26 CH]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[12:24:53 CH]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[12:59:04 CH]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[12:59:30 CH]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[12:59:40 CH]  Login : [Beri] 20.000.538.772 [Ruby] 1.099.315.156
+[12:59:44 CH]  Logout : [Beri] 20.000.538.772 [Ruby] 1.099.315.156

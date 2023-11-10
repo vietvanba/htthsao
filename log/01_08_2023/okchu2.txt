@@ -1,0 +1,24 @@
+[04:03:30 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[04:04:01 PM]  Nhặt +346 beri
+[04:04:42 PM]  Logout : [Beri] 2.000.000.346 [Ruby] 500.000.000
+[04:07:46 PM]  Login : [Beri] 2.000.000.346 [Ruby] 500.000.000
+[04:08:09 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[04:08:18 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[04:08:27 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Nhẫn 10x x1, 
+[04:08:37 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dây chuyền 10x x1, 
+[04:10:09 PM]  Logout : [Beri] 2.000.000.346 [Ruby] 500.000.066
+[04:10:23 PM]  Login : [Beri] 2.000.000.346 [Ruby] 500.000.066
+[04:10:59 PM]  Giao dịch bery với okchua nhận +0 beri
+[04:12:36 PM]  Logout : [Beri] 2.000.000.346 [Ruby] 500.000.066

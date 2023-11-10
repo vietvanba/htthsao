@@ -1,0 +1,10 @@
+[03:03:24 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[03:03:30 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[08:07:55 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[08:08:07 AM]  Nhặt +94 beri
+[08:08:27 AM]  Logout : [Beri] 2.000.000.094 [Ruby] 500.000
+[08:08:39 AM]  Login : [Beri] 2.000.000.094 [Ruby] 500.000
+[08:09:28 AM]  Logout : [Beri] 2.000.000.094 [Ruby] 500.000
+[08:09:38 AM]  Login : [Beri] 2.000.000.094 [Ruby] 500.000
+[08:10:04 AM]  Mua 1000 vé vòng quay -15000 ruby
+[08:10:14 AM]  Mua Trang phục Spiderman Iron -500 ruby

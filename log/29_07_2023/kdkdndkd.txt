@@ -1,0 +1,13 @@
+[05:52:15 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[05:52:46 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[05:58:40 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[05:59:43 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[06:00:02 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[06:01:06 AM]  Giao dịch bery với chienthan nhận +0 beri
+[06:03:35 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000

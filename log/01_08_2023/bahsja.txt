@@ -1,0 +1,6 @@
+[10:05:20 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[10:06:48 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[10:06:54 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[10:07:00 AM]  Chat KTG mất -5 ruby
+[10:09:41 AM]  Chat KTG mất -5 ruby
+[10:10:12 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 499.999.990

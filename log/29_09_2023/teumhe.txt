@@ -1,0 +1,2842 @@
+[10:03:39 AM]  Login : [Beri] 2.011.069.038 [Ruby] 1.999.877.924
+[10:05:13 AM]  Logout : [Beri] 2.011.069.038 [Ruby] 1.999.877.924
+[10:05:39 AM]  Login : [Beri] 2.011.069.038 [Ruby] 1.999.877.924
+[10:06:07 AM]  Logout : [Beri] 2.011.069.038 [Ruby] 1.999.877.924
+[10:06:42 AM]  Login : [Beri] 2.011.069.038 [Ruby] 1.999.877.924
+[10:09:09 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:10 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:11 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:12 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:12 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:13 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:14 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:14 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:15 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:16 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:17 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:17 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:18 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:19 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:19 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:20 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:21 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:22 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:22 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:23 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:24 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:25 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:26 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:26 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:27 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:28 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:28 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:09:29 AM]  Mua Mũ sọc tím 2 -500000 beri
+[10:15:59 AM]  Logout : [Beri] 2.011.069.038 [Ruby] 1.999.877.924
+[10:18:20 AM]  Login : [Beri] 2.011.069.038 [Ruby] 1.999.877.924
+[10:19:45 AM]  Cường hóa item Dây chuyền 10x -2 ruby
+[10:19:45 AM]  Cường hóa item Dây chuyền 10x -2 ruby
+[10:19:48 AM]  Cường hóa item Dây chuyền 10x -2 ruby
+[10:19:51 AM]  Cường hóa item Dây chuyền 10x -2 ruby
+[10:19:51 AM]  Cường hóa item Dây chuyền 10x -2 ruby
+[10:19:53 AM]  Cường hóa item Dây chuyền 10x -3 ruby
+[10:19:53 AM]  Cường hóa item Dây chuyền 10x -3 ruby
+[10:19:55 AM]  Cường hóa item Dây chuyền 10x -3 ruby
+[10:19:56 AM]  Cường hóa item Dây chuyền 10x -4 ruby
+[10:19:58 AM]  Cường hóa item Dây chuyền 10x -5 ruby
+[10:20:44 AM]  Mua 10000 vé vòng quay -150000 ruby
+[10:21:02 AM]  Logout : [Beri] 2.011.069.038 [Ruby] 1.999.727.896
+[10:21:10 AM]  Login : [Beri] 2.011.069.038 [Ruby] 1.999.727.896
+[10:21:23 AM]  Logout : [Beri] 2.011.069.038 [Ruby] 1.999.727.896
+[10:21:30 AM]  Login : [Beri] 2.011.069.038 [Ruby] 1.999.727.896
+[10:21:44 AM]  Logout : [Beri] 2.011.069.038 [Ruby] 1.999.727.896
+[10:21:59 AM]  Login : [Beri] 2.011.069.038 [Ruby] 1.999.727.896
+[10:22:06 AM]  Logout : [Beri] 2.011.069.038 [Ruby] 1.999.727.896
+[10:22:12 AM]  Login : [Beri] 2.011.069.038 [Ruby] 1.999.727.896
+[10:22:27 AM]  Logout : [Beri] 2.011.069.038 [Ruby] 1.999.727.896
+[10:22:40 AM]  Login : [Beri] 2.011.069.038 [Ruby] 1.999.727.896
+[10:37:14 AM]  Logout : [Beri] 2.011.069.038 [Ruby] 1.999.727.896
+[03:28:33 PM]  Login : [Beri] 2.011.069.038 [Ruby] 1.999.727.896
+[03:28:45 PM]  Mua Bột cường hóa -20 ruby
+[03:28:46 PM]  Mua Bột cường hóa -20 ruby
+[03:28:46 PM]  Mua Bột cường hóa -20 ruby
+[03:28:46 PM]  Mua Bột cường hóa -20 ruby
+[03:28:46 PM]  Mua Bột cường hóa -20 ruby
+[03:28:46 PM]  Mua Bột cường hóa -20 ruby
+[03:28:47 PM]  Mua Bột cường hóa -20 ruby
+[03:28:47 PM]  Mua Bột cường hóa -20 ruby
+[03:28:47 PM]  Mua Bột cường hóa -20 ruby
+[03:28:47 PM]  Mua Bột cường hóa -20 ruby
+[03:28:47 PM]  Mua Bột cường hóa -20 ruby
+[03:28:47 PM]  Mua Bột cường hóa -20 ruby
+[03:28:48 PM]  Mua Bột cường hóa -20 ruby
+[03:28:48 PM]  Mua Bột cường hóa -20 ruby
+[03:28:48 PM]  Mua Bột cường hóa -20 ruby
+[03:28:48 PM]  Mua Bột cường hóa -20 ruby
+[03:28:48 PM]  Mua Bột cường hóa -20 ruby
+[03:28:48 PM]  Mua Bột cường hóa -20 ruby
+[03:28:48 PM]  Mua Bột cường hóa -20 ruby
+[03:28:49 PM]  Mua Bột cường hóa -20 ruby
+[03:28:49 PM]  Mua Bột cường hóa -20 ruby
+[03:28:49 PM]  Mua Bột cường hóa -20 ruby
+[03:28:49 PM]  Mua Bột cường hóa -20 ruby
+[03:28:49 PM]  Mua Bột cường hóa -20 ruby
+[03:28:50 PM]  Mua Bột cường hóa -20 ruby
+[03:28:50 PM]  Mua Bột cường hóa -20 ruby
+[03:28:50 PM]  Mua Bột cường hóa -20 ruby
+[03:28:50 PM]  Mua Bột cường hóa -20 ruby
+[03:28:50 PM]  Mua Bột cường hóa -20 ruby
+[03:28:51 PM]  Mua Bột cường hóa -20 ruby
+[03:28:51 PM]  Mua Bột cường hóa -20 ruby
+[03:28:51 PM]  Mua Bột cường hóa -20 ruby
+[03:28:51 PM]  Mua Bột cường hóa -20 ruby
+[03:28:51 PM]  Mua Bột cường hóa -20 ruby
+[03:28:51 PM]  Mua Bột cường hóa -20 ruby
+[03:28:52 PM]  Mua Bột cường hóa -20 ruby
+[03:28:52 PM]  Mua Bột cường hóa -20 ruby
+[03:28:52 PM]  Mua Bột cường hóa -20 ruby
+[03:28:52 PM]  Mua Bột cường hóa -20 ruby
+[03:28:52 PM]  Mua Bột cường hóa -20 ruby
+[03:28:52 PM]  Mua Bột cường hóa -20 ruby
+[03:28:53 PM]  Mua Bột cường hóa -20 ruby
+[03:28:53 PM]  Mua Bột cường hóa -20 ruby
+[03:28:53 PM]  Mua Bột cường hóa -20 ruby
+[03:28:53 PM]  Mua Bột cường hóa -20 ruby
+[03:28:53 PM]  Mua Bột cường hóa -20 ruby
+[03:28:54 PM]  Mua Bột cường hóa -20 ruby
+[03:28:54 PM]  Mua Bột cường hóa -20 ruby
+[03:28:54 PM]  Mua Bột cường hóa -20 ruby
+[03:28:54 PM]  Mua Bột cường hóa -20 ruby
+[03:28:54 PM]  Mua Bột cường hóa -20 ruby
+[03:28:54 PM]  Mua Bột cường hóa -20 ruby
+[03:28:55 PM]  Mua Bột cường hóa -20 ruby
+[03:28:55 PM]  Mua Bột cường hóa -20 ruby
+[03:28:55 PM]  Mua Bột cường hóa -20 ruby
+[03:28:55 PM]  Mua Bột cường hóa -20 ruby
+[03:28:56 PM]  Mua Bột cường hóa -20 ruby
+[03:28:56 PM]  Mua Bột cường hóa -20 ruby
+[03:28:56 PM]  Mua Bột cường hóa -20 ruby
+[03:28:56 PM]  Mua Bột cường hóa -20 ruby
+[03:28:56 PM]  Mua Bột cường hóa -20 ruby
+[03:28:56 PM]  Mua Bột cường hóa -20 ruby
+[03:28:57 PM]  Mua Bột cường hóa -20 ruby
+[03:28:57 PM]  Mua Bột cường hóa -20 ruby
+[03:28:57 PM]  Mua Bột cường hóa -20 ruby
+[03:28:57 PM]  Mua Bột cường hóa -20 ruby
+[03:28:57 PM]  Mua Bột cường hóa -20 ruby
+[03:28:57 PM]  Mua Bột cường hóa -20 ruby
+[03:28:58 PM]  Mua Bột cường hóa -20 ruby
+[03:28:58 PM]  Mua Bột cường hóa -20 ruby
+[03:28:58 PM]  Mua Bột cường hóa -20 ruby
+[03:29:12 PM]  Mua Bột cường hóa -20 ruby
+[03:29:12 PM]  Mua Bột cường hóa -20 ruby
+[03:29:12 PM]  Mua Bột cường hóa -20 ruby
+[03:29:12 PM]  Mua Bột cường hóa -20 ruby
+[03:29:12 PM]  Mua Bột cường hóa -20 ruby
+[03:29:12 PM]  Mua Bột cường hóa -20 ruby
+[03:29:13 PM]  Mua Bột cường hóa -20 ruby
+[03:29:13 PM]  Mua Bột cường hóa -20 ruby
+[03:29:13 PM]  Mua Bột cường hóa -20 ruby
+[03:29:13 PM]  Mua Bột cường hóa -20 ruby
+[03:29:13 PM]  Mua Bột cường hóa -20 ruby
+[03:29:13 PM]  Mua Bột cường hóa -20 ruby
+[03:29:13 PM]  Mua Bột cường hóa -20 ruby
+[03:29:13 PM]  Mua Bột cường hóa -20 ruby
+[03:29:13 PM]  Mua Bột cường hóa -20 ruby
+[03:29:14 PM]  Mua Bột cường hóa -20 ruby
+[03:29:14 PM]  Mua Bột cường hóa -20 ruby
+[03:29:14 PM]  Mua Bột cường hóa -20 ruby
+[03:29:14 PM]  Mua Bột cường hóa -20 ruby
+[03:29:14 PM]  Mua Bột cường hóa -20 ruby
+[03:29:14 PM]  Mua Bột cường hóa -20 ruby
+[03:29:14 PM]  Mua Bột cường hóa -20 ruby
+[03:29:14 PM]  Mua Bột cường hóa -20 ruby
+[03:29:14 PM]  Mua Bột cường hóa -20 ruby
+[03:29:14 PM]  Mua Bột cường hóa -20 ruby
+[03:29:15 PM]  Mua Bột cường hóa -20 ruby
+[03:29:15 PM]  Mua Bột cường hóa -20 ruby
+[03:29:15 PM]  Mua Bột cường hóa -20 ruby
+[03:29:15 PM]  Mua Bột cường hóa -20 ruby
+[03:29:15 PM]  Mua Bột cường hóa -20 ruby
+[03:29:15 PM]  Mua Bột cường hóa -20 ruby
+[03:29:15 PM]  Mua Bột cường hóa -20 ruby
+[03:29:15 PM]  Mua Bột cường hóa -20 ruby
+[03:29:15 PM]  Mua Bột cường hóa -20 ruby
+[03:29:15 PM]  Mua Bột cường hóa -20 ruby
+[03:29:16 PM]  Mua Bột cường hóa -20 ruby
+[03:29:16 PM]  Mua Bột cường hóa -20 ruby
+[03:29:16 PM]  Mua Bột cường hóa -20 ruby
+[03:29:16 PM]  Mua Bột cường hóa -20 ruby
+[03:29:16 PM]  Mua Bột cường hóa -20 ruby
+[03:29:16 PM]  Mua Bột cường hóa -20 ruby
+[03:29:16 PM]  Mua Bột cường hóa -20 ruby
+[03:29:16 PM]  Mua Bột cường hóa -20 ruby
+[03:29:16 PM]  Mua Bột cường hóa -20 ruby
+[03:29:17 PM]  Mua Bột cường hóa -20 ruby
+[03:29:17 PM]  Mua Bột cường hóa -20 ruby
+[03:29:17 PM]  Mua Bột cường hóa -20 ruby
+[03:29:17 PM]  Mua Bột cường hóa -20 ruby
+[03:29:17 PM]  Mua Bột cường hóa -20 ruby
+[03:29:17 PM]  Mua Bột cường hóa -20 ruby
+[03:29:17 PM]  Mua Bột cường hóa -20 ruby
+[03:29:17 PM]  Mua Bột cường hóa -20 ruby
+[03:29:17 PM]  Mua Bột cường hóa -20 ruby
+[03:29:17 PM]  Mua Bột cường hóa -20 ruby
+[03:29:18 PM]  Mua Bột cường hóa -20 ruby
+[03:29:18 PM]  Mua Bột cường hóa -20 ruby
+[03:29:18 PM]  Mua Bột cường hóa -20 ruby
+[03:29:18 PM]  Mua Bột cường hóa -20 ruby
+[03:29:18 PM]  Mua Bột cường hóa -20 ruby
+[03:29:18 PM]  Mua Bột cường hóa -20 ruby
+[03:29:18 PM]  Mua Bột cường hóa -20 ruby
+[03:29:18 PM]  Mua Bột cường hóa -20 ruby
+[03:29:18 PM]  Mua Bột cường hóa -20 ruby
+[03:29:19 PM]  Mua Bột cường hóa -20 ruby
+[03:29:19 PM]  Mua Bột cường hóa -20 ruby
+[03:29:19 PM]  Mua Bột cường hóa -20 ruby
+[03:29:19 PM]  Mua Bột cường hóa -20 ruby
+[03:29:19 PM]  Mua Bột cường hóa -20 ruby
+[03:29:19 PM]  Mua Bột cường hóa -20 ruby
+[03:29:19 PM]  Mua Bột cường hóa -20 ruby
+[03:29:19 PM]  Mua Bột cường hóa -20 ruby
+[03:29:19 PM]  Mua Bột cường hóa -20 ruby
+[03:29:19 PM]  Mua Bột cường hóa -20 ruby
+[03:29:20 PM]  Mua Bột cường hóa -20 ruby
+[03:29:20 PM]  Mua Bột cường hóa -20 ruby
+[03:29:20 PM]  Mua Bột cường hóa -20 ruby
+[03:29:20 PM]  Mua Bột cường hóa -20 ruby
+[03:29:20 PM]  Mua Bột cường hóa -20 ruby
+[03:29:20 PM]  Mua Bột cường hóa -20 ruby
+[03:29:20 PM]  Mua Bột cường hóa -20 ruby
+[03:29:20 PM]  Mua Bột cường hóa -20 ruby
+[03:29:20 PM]  Mua Bột cường hóa -20 ruby
+[03:29:20 PM]  Mua Bột cường hóa -20 ruby
+[03:29:21 PM]  Mua Bột cường hóa -20 ruby
+[03:29:21 PM]  Mua Bột cường hóa -20 ruby
+[03:29:21 PM]  Mua Bột cường hóa -20 ruby
+[03:29:21 PM]  Mua Bột cường hóa -20 ruby
+[03:29:21 PM]  Mua Bột cường hóa -20 ruby
+[03:29:21 PM]  Mua Bột cường hóa -20 ruby
+[03:29:21 PM]  Mua Bột cường hóa -20 ruby
+[03:29:21 PM]  Mua Bột cường hóa -20 ruby
+[03:29:21 PM]  Mua Bột cường hóa -20 ruby
+[03:29:22 PM]  Mua Bột cường hóa -20 ruby
+[03:29:22 PM]  Mua Bột cường hóa -20 ruby
+[03:29:22 PM]  Mua Bột cường hóa -20 ruby
+[03:29:22 PM]  Mua Bột cường hóa -20 ruby
+[03:29:22 PM]  Mua Bột cường hóa -20 ruby
+[03:29:22 PM]  Mua Bột cường hóa -20 ruby
+[03:29:22 PM]  Mua Bột cường hóa -20 ruby
+[03:29:22 PM]  Mua Bột cường hóa -20 ruby
+[03:29:22 PM]  Mua Bột cường hóa -20 ruby
+[03:29:22 PM]  Mua Bột cường hóa -20 ruby
+[03:29:23 PM]  Mua Bột cường hóa -20 ruby
+[03:29:23 PM]  Mua Bột cường hóa -20 ruby
+[03:29:23 PM]  Mua Bột cường hóa -20 ruby
+[03:29:23 PM]  Mua Bột cường hóa -20 ruby
+[03:29:23 PM]  Mua Bột cường hóa -20 ruby
+[03:29:23 PM]  Mua Bột cường hóa -20 ruby
+[03:29:23 PM]  Mua Bột cường hóa -20 ruby
+[03:29:23 PM]  Mua Bột cường hóa -20 ruby
+[03:29:23 PM]  Mua Bột cường hóa -20 ruby
+[03:29:24 PM]  Mua Bột cường hóa -20 ruby
+[03:29:24 PM]  Mua Bột cường hóa -20 ruby
+[03:29:24 PM]  Mua Bột cường hóa -20 ruby
+[03:29:24 PM]  Mua Bột cường hóa -20 ruby
+[03:29:24 PM]  Mua Bột cường hóa -20 ruby
+[03:29:24 PM]  Mua Bột cường hóa -20 ruby
+[03:29:24 PM]  Mua Bột cường hóa -20 ruby
+[03:29:24 PM]  Mua Bột cường hóa -20 ruby
+[03:29:24 PM]  Mua Bột cường hóa -20 ruby
+[03:29:24 PM]  Mua Bột cường hóa -20 ruby
+[03:29:25 PM]  Mua Bột cường hóa -20 ruby
+[03:29:25 PM]  Mua Bột cường hóa -20 ruby
+[03:29:25 PM]  Mua Bột cường hóa -20 ruby
+[03:29:25 PM]  Mua Bột cường hóa -20 ruby
+[03:29:25 PM]  Mua Bột cường hóa -20 ruby
+[03:29:25 PM]  Mua Bột cường hóa -20 ruby
+[03:29:25 PM]  Mua Bột cường hóa -20 ruby
+[03:29:25 PM]  Mua Bột cường hóa -20 ruby
+[03:29:25 PM]  Mua Bột cường hóa -20 ruby
+[03:29:25 PM]  Mua Bột cường hóa -20 ruby
+[03:29:26 PM]  Mua Bột cường hóa -20 ruby
+[03:29:26 PM]  Mua Bột cường hóa -20 ruby
+[03:29:26 PM]  Mua Bột cường hóa -20 ruby
+[03:29:26 PM]  Mua Bột cường hóa -20 ruby
+[03:29:26 PM]  Mua Bột cường hóa -20 ruby
+[03:29:26 PM]  Mua Bột cường hóa -20 ruby
+[03:29:26 PM]  Mua Bột cường hóa -20 ruby
+[03:29:26 PM]  Mua Bột cường hóa -20 ruby
+[03:29:26 PM]  Mua Bột cường hóa -20 ruby
+[03:29:26 PM]  Mua Bột cường hóa -20 ruby
+[03:29:27 PM]  Mua Bột cường hóa -20 ruby
+[03:29:27 PM]  Mua Bột cường hóa -20 ruby
+[03:29:27 PM]  Mua Bột cường hóa -20 ruby
+[03:29:27 PM]  Mua Bột cường hóa -20 ruby
+[03:29:27 PM]  Mua Bột cường hóa -20 ruby
+[03:29:27 PM]  Mua Bột cường hóa -20 ruby
+[03:29:27 PM]  Mua Bột cường hóa -20 ruby
+[03:29:27 PM]  Mua Bột cường hóa -20 ruby
+[03:29:27 PM]  Mua Bột cường hóa -20 ruby
+[03:29:27 PM]  Mua Bột cường hóa -20 ruby
+[03:29:28 PM]  Mua Bột cường hóa -20 ruby
+[03:29:28 PM]  Mua Bột cường hóa -20 ruby
+[03:29:28 PM]  Mua Bột cường hóa -20 ruby
+[03:29:28 PM]  Mua Bột cường hóa -20 ruby
+[03:29:28 PM]  Mua Bột cường hóa -20 ruby
+[03:29:28 PM]  Mua Bột cường hóa -20 ruby
+[03:29:28 PM]  Mua Bột cường hóa -20 ruby
+[03:29:29 PM]  Mua Bột cường hóa -20 ruby
+[03:29:29 PM]  Mua Bột cường hóa -20 ruby
+[03:29:29 PM]  Mua Bột cường hóa -20 ruby
+[03:29:29 PM]  Mua Bột cường hóa -20 ruby
+[03:29:29 PM]  Mua Bột cường hóa -20 ruby
+[03:29:29 PM]  Mua Bột cường hóa -20 ruby
+[03:29:29 PM]  Mua Bột cường hóa -20 ruby
+[03:29:29 PM]  Mua Bột cường hóa -20 ruby
+[03:29:29 PM]  Mua Bột cường hóa -20 ruby
+[03:29:29 PM]  Mua Bột cường hóa -20 ruby
+[03:29:30 PM]  Mua Bột cường hóa -20 ruby
+[03:29:30 PM]  Mua Bột cường hóa -20 ruby
+[03:29:30 PM]  Mua Bột cường hóa -20 ruby
+[03:29:34 PM]  Mua Bột vàng -40 ruby
+[03:29:34 PM]  Mua Bột vàng -40 ruby
+[03:29:35 PM]  Mua Bột vàng -40 ruby
+[03:29:35 PM]  Mua Bột vàng -40 ruby
+[03:29:35 PM]  Mua Bột vàng -40 ruby
+[03:29:35 PM]  Mua Bột vàng -40 ruby
+[03:29:35 PM]  Mua Bột vàng -40 ruby
+[03:29:35 PM]  Mua Bột vàng -40 ruby
+[03:29:35 PM]  Mua Bột vàng -40 ruby
+[03:29:35 PM]  Mua Bột vàng -40 ruby
+[03:29:35 PM]  Mua Bột vàng -40 ruby
+[03:29:36 PM]  Mua Bột vàng -40 ruby
+[03:29:36 PM]  Mua Bột vàng -40 ruby
+[03:29:36 PM]  Mua Bột vàng -40 ruby
+[03:29:36 PM]  Mua Bột vàng -40 ruby
+[03:29:36 PM]  Mua Bột vàng -40 ruby
+[03:29:36 PM]  Mua Bột vàng -40 ruby
+[03:29:36 PM]  Mua Bột vàng -40 ruby
+[03:29:36 PM]  Mua Bột vàng -40 ruby
+[03:29:36 PM]  Mua Bột vàng -40 ruby
+[03:29:36 PM]  Mua Bột vàng -40 ruby
+[03:29:37 PM]  Mua Bột vàng -40 ruby
+[03:29:37 PM]  Mua Bột vàng -40 ruby
+[03:29:37 PM]  Mua Bột vàng -40 ruby
+[03:29:37 PM]  Mua Bột vàng -40 ruby
+[03:29:37 PM]  Mua Bột vàng -40 ruby
+[03:29:37 PM]  Mua Bột vàng -40 ruby
+[03:29:37 PM]  Mua Bột vàng -40 ruby
+[03:29:37 PM]  Mua Bột vàng -40 ruby
+[03:29:37 PM]  Mua Bột vàng -40 ruby
+[03:29:38 PM]  Mua Bột vàng -40 ruby
+[03:29:38 PM]  Mua Bột vàng -40 ruby
+[03:29:38 PM]  Mua Bột vàng -40 ruby
+[03:29:38 PM]  Mua Bột vàng -40 ruby
+[03:29:38 PM]  Mua Bột vàng -40 ruby
+[03:29:38 PM]  Mua Bột vàng -40 ruby
+[03:29:38 PM]  Mua Bột vàng -40 ruby
+[03:29:38 PM]  Mua Bột vàng -40 ruby
+[03:29:38 PM]  Mua Bột vàng -40 ruby
+[03:29:38 PM]  Mua Bột vàng -40 ruby
+[03:29:39 PM]  Mua Bột vàng -40 ruby
+[03:29:39 PM]  Mua Bột vàng -40 ruby
+[03:29:39 PM]  Mua Bột vàng -40 ruby
+[03:29:39 PM]  Mua Bột vàng -40 ruby
+[03:29:39 PM]  Mua Bột vàng -40 ruby
+[03:29:39 PM]  Mua Bột vàng -40 ruby
+[03:29:39 PM]  Mua Bột vàng -40 ruby
+[03:29:39 PM]  Mua Bột vàng -40 ruby
+[03:29:39 PM]  Mua Bột vàng -40 ruby
+[03:29:39 PM]  Mua Bột vàng -40 ruby
+[03:29:39 PM]  Mua Bột vàng -40 ruby
+[03:29:40 PM]  Mua Bột vàng -40 ruby
+[03:29:40 PM]  Mua Bột vàng -40 ruby
+[03:29:40 PM]  Mua Bột vàng -40 ruby
+[03:29:40 PM]  Mua Bột vàng -40 ruby
+[03:29:40 PM]  Mua Bột vàng -40 ruby
+[03:29:40 PM]  Mua Bột vàng -40 ruby
+[03:29:40 PM]  Mua Bột vàng -40 ruby
+[03:29:40 PM]  Mua Bột vàng -40 ruby
+[03:29:40 PM]  Mua Bột vàng -40 ruby
+[03:29:41 PM]  Mua Bột vàng -40 ruby
+[03:29:41 PM]  Mua Bột vàng -40 ruby
+[03:29:41 PM]  Mua Bột vàng -40 ruby
+[03:29:41 PM]  Mua Bột vàng -40 ruby
+[03:29:41 PM]  Mua Bột vàng -40 ruby
+[03:29:41 PM]  Mua Bột vàng -40 ruby
+[03:29:41 PM]  Mua Bột vàng -40 ruby
+[03:29:41 PM]  Mua Bột vàng -40 ruby
+[03:29:41 PM]  Mua Bột vàng -40 ruby
+[03:29:41 PM]  Mua Bột vàng -40 ruby
+[03:29:42 PM]  Mua Bột vàng -40 ruby
+[03:29:42 PM]  Mua Bột vàng -40 ruby
+[03:29:42 PM]  Mua Bột vàng -40 ruby
+[03:29:42 PM]  Mua Bột vàng -40 ruby
+[03:29:42 PM]  Mua Bột vàng -40 ruby
+[03:29:42 PM]  Mua Bột vàng -40 ruby
+[03:29:42 PM]  Mua Bột vàng -40 ruby
+[03:29:42 PM]  Mua Bột vàng -40 ruby
+[03:29:42 PM]  Mua Bột vàng -40 ruby
+[03:29:43 PM]  Mua Bột vàng -40 ruby
+[03:29:43 PM]  Mua Bột vàng -40 ruby
+[03:29:43 PM]  Mua Bột vàng -40 ruby
+[03:29:43 PM]  Mua Bột vàng -40 ruby
+[03:29:43 PM]  Mua Bột vàng -40 ruby
+[03:29:43 PM]  Mua Bột vàng -40 ruby
+[03:29:43 PM]  Mua Bột vàng -40 ruby
+[03:29:43 PM]  Mua Bột vàng -40 ruby
+[03:29:43 PM]  Mua Bột vàng -40 ruby
+[03:29:43 PM]  Mua Bột vàng -40 ruby
+[03:29:44 PM]  Mua Bột vàng -40 ruby
+[03:29:44 PM]  Mua Bột vàng -40 ruby
+[03:29:44 PM]  Mua Bột vàng -40 ruby
+[03:29:44 PM]  Mua Bột vàng -40 ruby
+[03:29:44 PM]  Mua Bột vàng -40 ruby
+[03:29:44 PM]  Mua Bột vàng -40 ruby
+[03:29:44 PM]  Mua Bột vàng -40 ruby
+[03:29:44 PM]  Mua Bột vàng -40 ruby
+[03:29:44 PM]  Mua Bột vàng -40 ruby
+[03:29:44 PM]  Mua Bột vàng -40 ruby
+[03:29:45 PM]  Mua Bột vàng -40 ruby
+[03:29:45 PM]  Mua Bột vàng -40 ruby
+[03:29:45 PM]  Mua Bột vàng -40 ruby
+[03:29:45 PM]  Mua Bột vàng -40 ruby
+[03:29:45 PM]  Mua Bột vàng -40 ruby
+[03:29:45 PM]  Mua Bột vàng -40 ruby
+[03:29:45 PM]  Mua Bột vàng -40 ruby
+[03:29:45 PM]  Mua Bột vàng -40 ruby
+[03:29:45 PM]  Mua Bột vàng -40 ruby
+[03:29:46 PM]  Mua Bột vàng -40 ruby
+[03:29:46 PM]  Mua Bột vàng -40 ruby
+[03:29:46 PM]  Mua Bột vàng -40 ruby
+[03:29:46 PM]  Mua Bột vàng -40 ruby
+[03:29:46 PM]  Mua Bột vàng -40 ruby
+[03:29:46 PM]  Mua Bột vàng -40 ruby
+[03:29:46 PM]  Mua Bột vàng -40 ruby
+[03:29:46 PM]  Mua Bột vàng -40 ruby
+[03:29:46 PM]  Mua Bột vàng -40 ruby
+[03:29:46 PM]  Mua Bột vàng -40 ruby
+[03:29:47 PM]  Mua Bột vàng -40 ruby
+[03:29:47 PM]  Mua Bột vàng -40 ruby
+[03:29:47 PM]  Mua Bột vàng -40 ruby
+[03:29:47 PM]  Mua Bột vàng -40 ruby
+[03:29:47 PM]  Mua Bột vàng -40 ruby
+[03:29:47 PM]  Mua Bột vàng -40 ruby
+[03:29:47 PM]  Mua Bột vàng -40 ruby
+[03:29:47 PM]  Mua Bột vàng -40 ruby
+[03:29:47 PM]  Mua Bột vàng -40 ruby
+[03:29:48 PM]  Mua Bột vàng -40 ruby
+[03:29:48 PM]  Mua Bột vàng -40 ruby
+[03:29:48 PM]  Mua Bột vàng -40 ruby
+[03:29:48 PM]  Mua Bột vàng -40 ruby
+[03:29:48 PM]  Mua Bột vàng -40 ruby
+[03:29:48 PM]  Mua Bột vàng -40 ruby
+[03:29:48 PM]  Mua Bột vàng -40 ruby
+[03:29:48 PM]  Mua Bột vàng -40 ruby
+[03:29:48 PM]  Mua Bột vàng -40 ruby
+[03:29:48 PM]  Mua Bột vàng -40 ruby
+[03:29:49 PM]  Mua Bột vàng -40 ruby
+[03:29:49 PM]  Mua Bột vàng -40 ruby
+[03:29:49 PM]  Mua Bột vàng -40 ruby
+[03:29:49 PM]  Mua Bột vàng -40 ruby
+[03:29:49 PM]  Mua Bột vàng -40 ruby
+[03:29:49 PM]  Mua Bột vàng -40 ruby
+[03:29:49 PM]  Mua Bột vàng -40 ruby
+[03:29:49 PM]  Mua Bột vàng -40 ruby
+[03:29:49 PM]  Mua Bột vàng -40 ruby
+[03:29:49 PM]  Mua Bột vàng -40 ruby
+[03:29:50 PM]  Mua Bột vàng -40 ruby
+[03:29:50 PM]  Mua Bột vàng -40 ruby
+[03:29:50 PM]  Mua Bột vàng -40 ruby
+[03:29:50 PM]  Mua Bột vàng -40 ruby
+[03:29:50 PM]  Mua Bột vàng -40 ruby
+[03:29:50 PM]  Mua Bột vàng -40 ruby
+[03:29:50 PM]  Mua Bột vàng -40 ruby
+[03:29:50 PM]  Mua Bột vàng -40 ruby
+[03:29:50 PM]  Mua Bột vàng -40 ruby
+[03:29:51 PM]  Mua Bột vàng -40 ruby
+[03:29:51 PM]  Mua Bột vàng -40 ruby
+[03:29:51 PM]  Mua Bột vàng -40 ruby
+[03:29:51 PM]  Mua Bột vàng -40 ruby
+[03:29:51 PM]  Mua Bột vàng -40 ruby
+[03:29:51 PM]  Mua Bột vàng -40 ruby
+[03:29:51 PM]  Mua Bột vàng -40 ruby
+[03:30:20 PM]  Cường hóa item Khố tím 2 -2 ruby
+[03:30:22 PM]  Cường hóa item Khố tím 2 -2 ruby
+[03:30:22 PM]  Cường hóa item Khố tím 2 -2 ruby
+[03:30:23 PM]  Cường hóa item Khố tím 2 -2 ruby
+[03:30:23 PM]  Cường hóa item Khố tím 2 -2 ruby
+[03:30:25 PM]  Cường hóa item Khố tím 2 -3 ruby
+[03:30:25 PM]  Cường hóa item Khố tím 2 -3 ruby
+[03:30:27 PM]  Cường hóa item Khố tím 2 -3 ruby
+[03:30:27 PM]  Cường hóa item Khố tím 2 -4 ruby
+[03:30:29 PM]  Cường hóa item Khố tím 2 -5 ruby
+[03:30:34 PM]  Cường hóa item Áo vắt vai 2 -2 ruby
+[03:30:36 PM]  Cường hóa item Áo vắt vai 2 -2 ruby
+[03:30:38 PM]  Cường hóa item Áo vắt vai 2 -2 ruby
+[03:30:40 PM]  Cường hóa item Áo vắt vai 2 -2 ruby
+[03:30:41 PM]  Cường hóa item Áo vắt vai 2 -2 ruby
+[03:30:43 PM]  Cường hóa item Áo vắt vai 2 -3 ruby
+[03:30:45 PM]  Cường hóa item Áo vắt vai 2 -3 ruby
+[03:30:47 PM]  Cường hóa item Áo vắt vai 2 -3 ruby
+[03:30:49 PM]  Cường hóa item Áo vắt vai 2 -4 ruby
+[03:30:52 PM]  Cường hóa item Áo vắt vai 2 -5 ruby
+[03:31:00 PM]  Cường hóa item Kiếm thất truyền 2 -2 ruby
+[03:31:02 PM]  Cường hóa item Kiếm thất truyền 2 -2 ruby
+[03:31:04 PM]  Cường hóa item Kiếm thất truyền 2 -2 ruby
+[03:31:04 PM]  Cường hóa item Kiếm thất truyền 2 -2 ruby
+[03:31:06 PM]  Cường hóa item Kiếm thất truyền 2 -2 ruby
+[03:31:06 PM]  Cường hóa item Kiếm thất truyền 2 -3 ruby
+[03:31:08 PM]  Cường hóa item Kiếm thất truyền 2 -3 ruby
+[03:31:09 PM]  Cường hóa item Kiếm thất truyền 2 -3 ruby
+[03:31:09 PM]  Cường hóa item Kiếm thất truyền 2 -4 ruby
+[03:31:11 PM]  Cường hóa item Kiếm thất truyền 2 -5 ruby
+[03:36:39 PM]  Mua Bột than -10000 beri
+[03:36:39 PM]  Mua Bột than -10000 beri
+[03:36:39 PM]  Mua Bột than -10000 beri
+[03:36:39 PM]  Mua Bột than -10000 beri
+[03:36:39 PM]  Mua Bột than -10000 beri
+[03:36:39 PM]  Mua Bột than -10000 beri
+[03:36:40 PM]  Mua Bột than -10000 beri
+[03:36:40 PM]  Mua Bột than -10000 beri
+[03:36:40 PM]  Mua Bột than -10000 beri
+[03:36:40 PM]  Mua Bột than -10000 beri
+[03:36:40 PM]  Mua Bột than -10000 beri
+[03:36:41 PM]  Mua Bột than -10000 beri
+[03:36:41 PM]  Mua Bột than -10000 beri
+[03:36:41 PM]  Mua Bột than -10000 beri
+[03:36:41 PM]  Mua Bột than -10000 beri
+[03:36:41 PM]  Mua Bột than -10000 beri
+[03:36:42 PM]  Mua Bột than -10000 beri
+[03:36:42 PM]  Mua Bột than -10000 beri
+[03:36:42 PM]  Mua Bột than -10000 beri
+[03:36:42 PM]  Mua Bột than -10000 beri
+[03:36:42 PM]  Mua Bột than -10000 beri
+[03:36:42 PM]  Mua Bột than -10000 beri
+[03:36:43 PM]  Mua Bột than -10000 beri
+[03:36:43 PM]  Mua Bột than -10000 beri
+[03:36:43 PM]  Mua Bột than -10000 beri
+[03:36:43 PM]  Mua Bột than -10000 beri
+[03:36:43 PM]  Mua Bột than -10000 beri
+[03:36:44 PM]  Mua Bột than -10000 beri
+[03:36:44 PM]  Mua Bột than -10000 beri
+[03:36:44 PM]  Mua Bột than -10000 beri
+[03:36:44 PM]  Mua Bột than -10000 beri
+[03:36:44 PM]  Mua Bột than -10000 beri
+[03:36:45 PM]  Mua Bột than -10000 beri
+[03:36:45 PM]  Mua Bột than -10000 beri
+[03:36:45 PM]  Mua Bột than -10000 beri
+[03:36:45 PM]  Mua Bột than -10000 beri
+[03:36:45 PM]  Mua Bột than -10000 beri
+[03:36:45 PM]  Mua Bột than -10000 beri
+[03:36:45 PM]  Mua Bột than -10000 beri
+[03:36:46 PM]  Mua Bột than -10000 beri
+[03:36:46 PM]  Mua Bột than -10000 beri
+[03:36:46 PM]  Mua Bột than -10000 beri
+[03:36:46 PM]  Mua Bột than -10000 beri
+[03:36:46 PM]  Mua Bột than -10000 beri
+[03:36:47 PM]  Mua Bột than -10000 beri
+[03:36:47 PM]  Mua Bột than -10000 beri
+[03:36:47 PM]  Mua Bột than -10000 beri
+[03:36:47 PM]  Mua Bột than -10000 beri
+[03:36:47 PM]  Mua Bột than -10000 beri
+[03:36:47 PM]  Mua Bột than -10000 beri
+[03:36:48 PM]  Mua Bột than -10000 beri
+[03:36:48 PM]  Mua Bột than -10000 beri
+[03:36:48 PM]  Mua Bột than -10000 beri
+[03:36:48 PM]  Mua Bột than -10000 beri
+[03:36:48 PM]  Mua Bột than -10000 beri
+[03:36:49 PM]  Mua Bột than -10000 beri
+[03:36:49 PM]  Mua Bột than -10000 beri
+[03:36:49 PM]  Mua Bột than -10000 beri
+[03:36:49 PM]  Mua Bột than -10000 beri
+[03:36:49 PM]  Mua Bột than -10000 beri
+[03:36:49 PM]  Mua Bột than -10000 beri
+[03:36:50 PM]  Mua Bột than -10000 beri
+[03:36:50 PM]  Mua Bột than -10000 beri
+[03:36:50 PM]  Mua Bột than -10000 beri
+[03:36:50 PM]  Mua Bột than -10000 beri
+[03:36:50 PM]  Mua Bột than -10000 beri
+[03:36:51 PM]  Mua Bột than -10000 beri
+[03:36:51 PM]  Mua Bột than -10000 beri
+[03:36:51 PM]  Mua Bột than -10000 beri
+[03:36:51 PM]  Mua Bột than -10000 beri
+[03:36:51 PM]  Mua Bột than -10000 beri
+[03:36:52 PM]  Mua Bột than -10000 beri
+[03:36:52 PM]  Mua Bột than -10000 beri
+[03:36:52 PM]  Mua Bột than -10000 beri
+[03:36:52 PM]  Mua Bột than -10000 beri
+[03:36:52 PM]  Mua Bột than -10000 beri
+[03:36:52 PM]  Mua Bột than -10000 beri
+[03:36:53 PM]  Mua Bột than -10000 beri
+[03:36:53 PM]  Mua Bột than -10000 beri
+[03:36:53 PM]  Mua Bột than -10000 beri
+[03:36:53 PM]  Mua Bột than -10000 beri
+[03:36:53 PM]  Mua Bột than -10000 beri
+[03:36:54 PM]  Mua Bột than -10000 beri
+[03:36:54 PM]  Mua Bột than -10000 beri
+[03:36:54 PM]  Mua Bột than -10000 beri
+[03:36:54 PM]  Mua Bột than -10000 beri
+[03:36:55 PM]  Mua Bột than -10000 beri
+[03:36:55 PM]  Mua Bột than -10000 beri
+[03:36:55 PM]  Mua Bột than -10000 beri
+[03:36:55 PM]  Mua Bột than -10000 beri
+[03:36:55 PM]  Mua Bột than -10000 beri
+[03:36:55 PM]  Mua Bột than -10000 beri
+[03:36:56 PM]  Mua Bột than -10000 beri
+[03:36:56 PM]  Mua Bột than -10000 beri
+[03:36:56 PM]  Mua Bột than -10000 beri
+[03:36:56 PM]  Mua Bột than -10000 beri
+[03:36:57 PM]  Mua Bột than -10000 beri
+[03:36:57 PM]  Mua Bột than -10000 beri
+[03:36:57 PM]  Mua Bột than -10000 beri
+[03:37:06 PM]  Cường hóa item Dial 1 -2 ruby
+[03:37:07 PM]  Cường hóa item Dial 1 -2 ruby
+[03:37:09 PM]  Cường hóa item Dial 1 -2 ruby
+[03:37:11 PM]  Cường hóa item Dial 1 -2 ruby
+[03:37:13 PM]  Cường hóa item Dial 1 -2 ruby
+[03:37:13 PM]  Cường hóa item Dial 1 -3 ruby
+[03:37:15 PM]  Cường hóa item Dial 1 -3 ruby
+[03:37:15 PM]  Cường hóa item Dial 1 -3 ruby
+[03:37:17 PM]  Cường hóa item Dial 1 -4 ruby
+[03:37:19 PM]  Cường hóa item Dial 1 -5 ruby
+[03:44:42 PM]  Cường hóa item Nhẫn 10x -2 ruby
+[03:44:42 PM]  Cường hóa item Nhẫn 10x -2 ruby
+[03:44:44 PM]  Cường hóa item Nhẫn 10x -2 ruby
+[03:44:46 PM]  Cường hóa item Nhẫn 10x -2 ruby
+[03:44:48 PM]  Cường hóa item Nhẫn 10x -2 ruby
+[03:44:50 PM]  Cường hóa item Nhẫn 10x -3 ruby
+[03:44:50 PM]  Cường hóa item Nhẫn 10x -3 ruby
+[03:44:52 PM]  Cường hóa item Nhẫn 10x -3 ruby
+[03:44:52 PM]  Cường hóa item Nhẫn 10x -4 ruby
+[03:44:54 PM]  Cường hóa item Nhẫn 10x -5 ruby
+[03:46:03 PM]  Mua Khố tím 2 -500000 beri
+[03:47:28 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:47:29 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:47:29 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:47:30 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:47:31 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:47:31 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:47:32 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:47:33 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:47:33 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:47:34 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:47:35 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:47:36 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:47:36 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:47:37 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:47:38 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:47:39 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:47:39 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:32 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:32 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:33 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:34 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:34 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:35 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:36 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:36 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:37 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:38 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:38 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:39 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:40 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:40 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:41 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:42 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:43 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:44 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:44 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:46 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:46 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:50 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:50 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:51 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:49:52 PM]  Mua Mũ sọc tím 2 -500000 beri
+[03:50:27 PM]  Logout : [Beri] 2.011.069.038 [Ruby] 1.999.711.966
+[04:16:10 PM]  Login : [Beri] 2.011.069.038 [Ruby] 1.999.711.966
+[04:16:17 PM]  Nhặt +850 beri
+[04:16:18 PM]  Nhặt +1360 beri
+[04:16:20 PM]  Nhặt +3230 beri
+[04:16:21 PM]  Nhặt +1360 beri
+[04:16:22 PM]  Nhặt +1404 beri
+[04:16:23 PM]  Nhặt +1700 beri
+[04:16:24 PM]  Nhặt +3312 beri
+[04:16:27 PM]  Nhặt +3366 beri
+[04:16:28 PM]  Nhặt +936 beri
+[04:16:29 PM]  Nhặt +1632 beri
+[04:16:30 PM]  Nhặt +2023 beri
+[04:16:33 PM]  Nhặt +1020 beri
+[04:16:34 PM]  Nhặt +884 beri
+[04:16:37 PM]  Nhặt +442 beri
+[04:16:40 PM]  Nhặt +1292 beri
+[04:16:41 PM]  Nhặt +374 beri
+[04:16:42 PM]  Nhặt +2958 beri
+[04:16:44 PM]  Nhặt +2125 beri
+[04:16:46 PM]  Nhặt +3111 beri
+[04:16:47 PM]  Nhặt +2862 beri
+[04:16:49 PM]  Nhặt +323 beri
+[04:16:50 PM]  Nhặt +2160 beri
+[04:16:52 PM]  Nhặt +119 beri
+[04:16:53 PM]  Nhặt +765 beri
+[04:16:54 PM]  Nhặt +1938 beri
+[04:16:55 PM]  Nhặt +3077 beri
+[04:16:56 PM]  Nhặt +1584 beri
+[04:16:58 PM]  Nhặt +1479 beri
+[04:17:00 PM]  Nhặt +3179 beri
+[04:17:01 PM]  Nhặt +2346 beri
+[04:17:02 PM]  Nhặt +2250 beri
+[04:17:03 PM]  Nhặt +1224 beri
+[04:17:04 PM]  Nhặt +1513 beri
+[04:17:05 PM]  Nhặt +3564 beri
+[04:17:06 PM]  Nhặt +3162 beri
+[04:17:07 PM]  Nhặt +2924 beri
+[04:17:08 PM]  Nhặt +799 beri
+[04:17:09 PM]  Nhặt +2805 beri
+[04:17:12 PM]  Nhặt +612 beri
+[04:17:14 PM]  Nhặt +1258 beri
+[04:17:15 PM]  Nhặt +1404 beri
+[04:17:19 PM]  Nhặt +2924 beri
+[04:17:20 PM]  Nhặt +833 beri
+[04:17:21 PM]  Nhặt +1972 beri
+[04:17:22 PM]  Nhặt +1818 beri
+[04:17:24 PM]  Nhặt +2125 beri
+[04:17:24 PM]  Nhặt +51 beri
+[04:17:28 PM]  Nhặt +2006 beri
+[04:17:30 PM]  Nhặt +1458 beri
+[04:17:31 PM]  Nhặt +391 beri
+[04:17:32 PM]  Nhặt +3111 beri
+[04:17:34 PM]  Nhặt +630 beri
+[04:17:35 PM]  Nhặt +765 beri
+[04:17:37 PM]  Nhặt +3332 beri
+[04:17:39 PM]  Nhặt +544 beri
+[04:17:43 PM]  Nhặt +72 beri
+[04:17:44 PM]  Nhặt +2227 beri
+[04:17:46 PM]  Nhặt +391 beri
+[04:17:47 PM]  Nhặt +2261 beri
+[04:17:48 PM]  Nhặt +2482 beri
+[04:17:49 PM]  Nhặt +1054 beri
+[04:17:50 PM]  Nhặt +612 beri
+[04:17:51 PM]  Nhặt +2227 beri
+[04:17:52 PM]  Nhặt +3114 beri
+[04:17:53 PM]  Nhặt +3366 beri
+[04:17:54 PM]  Nhặt +2805 beri
+[04:17:55 PM]  Nhặt +1921 beri
+[04:17:57 PM]  Nhặt +1548 beri
+[04:17:58 PM]  Nhặt +2788 beri
+[04:17:59 PM]  Nhặt +238 beri
+[04:18:00 PM]  Nhặt +867 beri
+[04:18:01 PM]  Nhặt +51 beri
+[04:18:04 PM]  Nhặt +2466 beri
+[04:18:06 PM]  Nhặt +2618 beri
+[04:18:07 PM]  Nhặt +2210 beri
+[04:18:08 PM]  Nhặt +2970 beri
+[04:18:09 PM]  Nhặt +3315 beri
+[04:18:10 PM]  Nhặt +3060 beri
+[04:18:11 PM]  Nhặt +2556 beri
+[04:18:12 PM]  Nhặt +2346 beri
+[04:18:13 PM]  Nhặt +51 beri
+[04:18:15 PM]  Nhặt +3528 beri
+[04:18:16 PM]  Nhặt +153 beri
+[04:18:17 PM]  Nhặt +527 beri
+[04:18:18 PM]  Nhặt +969 beri
+[04:18:19 PM]  Nhặt +2376 beri
+[04:18:20 PM]  Nhặt +2652 beri
+[04:18:21 PM]  Nhặt +816 beri
+[04:18:22 PM]  Nhặt +3240 beri
+[04:18:23 PM]  Nhặt +2601 beri
+[04:18:24 PM]  Nhặt +1156 beri
+[04:18:27 PM]  Nhặt +1512 beri
+[04:18:28 PM]  Nhặt +1173 beri
+[04:18:29 PM]  Nhặt +2703 beri
+[04:18:30 PM]  Nhặt +3294 beri
+[04:18:33 PM]  Nhặt +3264 beri
+[04:18:36 PM]  Nhặt +1566 beri
+[04:18:36 PM]  Nhặt +3078 beri
+[04:18:41 PM]  Nhặt +697 beri
+[04:18:42 PM]  Nhặt +2618 beri
+[04:18:43 PM]  Nhặt +864 beri
+[04:18:44 PM]  Nhặt +2070 beri
+[04:18:45 PM]  Nhặt +1105 beri
+[04:18:46 PM]  Nhặt +2754 beri
+[04:18:47 PM]  Nhặt +323 beri
+[04:18:48 PM]  Nhặt +1445 beri
+[04:18:50 PM]  Nhặt +1700 beri
+[04:18:52 PM]  Nhặt +2970 beri
+[04:18:53 PM]  Nhặt +3281 beri
+[04:18:56 PM]  Nhặt +1156 beri
+[04:18:58 PM]  Nhặt +2808 beri
+[04:18:59 PM]  Nhặt +204 beri
+[04:19:02 PM]  Nhặt +442 beri
+[04:19:03 PM]  Nhặt +1105 beri
+[04:19:04 PM]  Nhặt +187 beri
+[04:19:05 PM]  Nhặt +289 beri
+[04:19:06 PM]  Nhặt +1872 beri
+[04:19:07 PM]  Nhặt +1411 beri
+[04:19:08 PM]  Nhặt +234 beri
+[04:19:09 PM]  Nhặt +1190 beri
+[04:19:10 PM]  Nhặt +1105 beri
+[04:19:12 PM]  Nhặt +1854 beri
+[04:19:14 PM]  Nhặt +3060 beri
+[04:19:15 PM]  Nhặt +2635 beri
+[04:19:16 PM]  Nhặt +459 beri
+[04:19:18 PM]  Nhặt +2618 beri
+[04:19:19 PM]  Nhặt +3492 beri
+[04:19:20 PM]  Nhặt +799 beri
+[04:19:21 PM]  Nhặt +2329 beri
+[04:19:24 PM]  Nhặt +126 beri
+[04:19:24 PM]  Nhặt +3383 beri
+[04:19:25 PM]  Nhặt +2988 beri
+[04:19:26 PM]  Nhặt +2618 beri
+[04:19:27 PM]  Nhặt +68 beri
+[04:19:29 PM]  Nhặt +1020 beri
+[04:19:31 PM]  Nhặt +954 beri
+[04:19:33 PM]  Nhặt +629 beri
+[04:19:34 PM]  Nhặt +3111 beri
+[04:19:35 PM]  Nhặt +1870 beri
+[04:19:36 PM]  Nhặt +2465 beri
+[04:19:37 PM]  Nhặt +2516 beri
+[04:19:40 PM]  Nhặt +3564 beri
+[04:19:41 PM]  Nhặt +238 beri
+[04:19:42 PM]  Nhặt +2295 beri
+[04:19:46 PM]  Nhặt +442 beri
+[04:19:47 PM]  Nhặt +2907 beri
+[04:19:49 PM]  Nhặt +221 beri
+[04:19:50 PM]  Nhặt +3230 beri
+[04:19:51 PM]  Nhặt +3330 beri
+[04:19:54 PM]  Nhặt +1819 beri
+[04:19:56 PM]  Nhặt +2232 beri
+[04:19:57 PM]  Nhặt +2227 beri
+[04:19:58 PM]  Nhặt +2091 beri
+[04:20:00 PM]  Nhặt +2295 beri
+[04:20:01 PM]  Nhặt +1632 beri
+[04:20:03 PM]  Nhặt +2363 beri
+[04:20:04 PM]  Nhặt +901 beri
+[04:20:05 PM]  Nhặt +2329 beri
+[04:20:08 PM]  Nhặt +1746 beri
+[04:20:09 PM]  Nhặt +540 beri
+[04:20:10 PM]  Nhặt +1819 beri
+[04:20:11 PM]  Nhặt +748 beri
+[04:20:12 PM]  Nhặt +34 beri
+[04:20:15 PM]  Nhặt +3264 beri
+[04:20:16 PM]  Nhặt +2556 beri
+[04:20:17 PM]  Nhặt +2550 beri
+[04:20:17 PM]  Nhặt +816 beri
+[04:20:18 PM]  Nhặt +1921 beri
+[04:20:20 PM]  Nhặt +1037 beri
+[04:20:21 PM]  Nhặt +1275 beri
+[04:20:22 PM]  Nhặt +323 beri
+[04:20:23 PM]  Nhặt +833 beri
+[04:20:24 PM]  Nhặt +2992 beri
+[04:20:25 PM]  Nhặt +1768 beri
+[04:20:26 PM]  Nhặt +2601 beri
+[04:20:28 PM]  Nhặt +901 beri
+[04:20:29 PM]  Nhặt +2737 beri
+[04:20:30 PM]  Nhặt +1746 beri
+[04:20:31 PM]  Nhặt +561 beri
+[04:20:32 PM]  Nhặt +1683 beri
+[04:20:32 PM]  Nhặt +2397 beri
+[04:20:34 PM]  Nhặt +1122 beri
+[04:20:35 PM]  Nhặt +476 beri
+[04:20:35 PM]  Nhặt +3186 beri
+[04:20:36 PM]  Nhặt +2550 beri
+[04:20:37 PM]  Nhặt +1734 beri
+[04:20:39 PM]  Nhặt +272 beri
+[04:20:40 PM]  Nhặt +1547 beri
+[04:20:42 PM]  Nhặt +2880 beri
+[04:20:43 PM]  Nhặt +3009 beri
+[04:20:44 PM]  Nhặt +2414 beri
+[04:20:45 PM]  Nhặt +102 beri
+[04:20:46 PM]  Nhặt +2737 beri
+[04:20:49 PM]  Nhặt +1116 beri
+[04:20:50 PM]  Nhặt +2737 beri
+[04:20:51 PM]  Nhặt +2232 beri
+[04:20:52 PM]  Nhặt +2873 beri
+[04:20:52 PM]  Nhặt +1343 beri
+[04:20:54 PM]  Nhặt +595 beri
+[04:20:55 PM]  Nhặt +1139 beri
+[04:20:59 PM]  Nhặt +1139 beri
+[04:21:04 PM]  Nhặt +2448 beri
+[04:21:06 PM]  Nhặt +3006 beri
+[04:21:06 PM]  Nhặt +2176 beri
+[04:21:07 PM]  Nhặt +680 beri
+[04:21:08 PM]  Nhặt +3026 beri
+[04:21:09 PM]  Nhặt +714 beri
+[04:21:11 PM]  Nhặt +952 beri
+[04:21:12 PM]  Nhặt +2584 beri
+[04:21:13 PM]  Nhặt +342 beri
+[04:21:15 PM]  Nhặt +3349 beri
+[04:21:16 PM]  Nhặt +2584 beri
+[04:21:17 PM]  Nhặt +1496 beri
+[04:21:18 PM]  Nhặt +1190 beri
+[04:21:19 PM]  Nhặt +1638 beri
+[04:21:20 PM]  Nhặt +1638 beri
+[04:21:21 PM]  Nhặt +476 beri
+[04:21:24 PM]  Nhặt +442 beri
+[04:21:25 PM]  Nhặt +1309 beri
+[04:21:26 PM]  Nhặt +1938 beri
+[04:21:28 PM]  Nhặt +792 beri
+[04:21:29 PM]  Nhặt +1258 beri
+[04:21:32 PM]  Nhặt +2159 beri
+[04:21:33 PM]  Nhặt +2584 beri
+[04:21:34 PM]  Nhặt +1938 beri
+[04:21:35 PM]  Nhặt +1275 beri
+[04:21:36 PM]  Nhặt +901 beri
+[04:21:38 PM]  Nhặt +221 beri
+[04:21:39 PM]  Nhặt +990 beri
+[04:21:40 PM]  Nhặt +3043 beri
+[04:21:41 PM]  Nhặt +1530 beri
+[04:21:43 PM]  Nhặt +2380 beri
+[04:21:46 PM]  Nhặt +2958 beri
+[04:21:47 PM]  Nhặt +1008 beri
+[04:21:49 PM]  Nhặt +816 beri
+[04:21:50 PM]  Nhặt +2074 beri
+[04:21:51 PM]  Nhặt +3247 beri
+[04:21:53 PM]  Nhặt +714 beri
+[04:21:54 PM]  Nhặt +360 beri
+[04:21:56 PM]  Nhặt +17 beri
+[04:21:57 PM]  Nhặt +595 beri
+[04:21:59 PM]  Nhặt +187 beri
+[04:22:00 PM]  Nhặt +2664 beri
+[04:22:02 PM]  Nhặt +3582 beri
+[04:22:03 PM]  Nhặt +3349 beri
+[04:22:04 PM]  Nhặt +697 beri
+[04:22:05 PM]  Nhặt +1343 beri
+[04:22:07 PM]  Nhặt +833 beri
+[04:22:08 PM]  Nhặt +170 beri
+[04:22:09 PM]  Nhặt +374 beri
+[04:22:10 PM]  Nhặt +2736 beri
+[04:22:11 PM]  Nhặt +1649 beri
+[04:22:12 PM]  Nhặt +2788 beri
+[04:22:13 PM]  Nhặt +3162 beri
+[04:22:17 PM]  Nhặt +1360 beri
+[04:22:17 PM]  Nhặt +2322 beri
+[04:22:18 PM]  Nhặt +1700 beri
+[04:22:19 PM]  Nhặt +2193 beri
+[04:22:21 PM]  Nhặt +34 beri
+[04:22:22 PM]  Nhặt +2771 beri
+[04:22:24 PM]  Nhặt +2669 beri
+[04:22:25 PM]  Nhặt +594 beri
+[04:22:27 PM]  Nhặt +204 beri
+[04:22:28 PM]  Nhặt +2088 beri
+[04:22:29 PM]  Nhặt +1037 beri
+[04:22:30 PM]  Nhặt +765 beri
+[04:22:31 PM]  Nhặt +2414 beri
+[04:22:32 PM]  Nhặt +1872 beri
+[04:22:33 PM]  Nhặt +2023 beri
+[04:22:35 PM]  Nhặt +1615 beri
+[04:22:35 PM]  Nhặt +3474 beri
+[04:22:36 PM]  Nhặt +3026 beri
+[04:22:37 PM]  Nhặt +2397 beri
+[04:22:39 PM]  Nhặt +357 beri
+[04:22:40 PM]  Nhặt +663 beri
+[04:22:41 PM]  Nhặt +3145 beri
+[04:22:42 PM]  Nhặt +774 beri
+[04:22:43 PM]  Nhặt +1054 beri
+[04:22:44 PM]  Nhặt +2737 beri
+[04:22:45 PM]  Nhặt +1440 beri
+[04:22:46 PM]  Nhặt +2159 beri
+[04:22:47 PM]  Nhặt +85 beri
+[04:22:48 PM]  Nhặt +1853 beri
+[04:22:49 PM]  Nhặt +1190 beri
+[04:22:50 PM]  Nhặt +1926 beri
+[04:22:50 PM]  Nhặt +17 beri
+[04:22:52 PM]  Nhặt +1173 beri
+[04:22:52 PM]  Nhặt +2958 beri
+[04:22:53 PM]  Nhặt +3060 beri
+[04:22:54 PM]  Nhặt +969 beri
+[04:22:55 PM]  Nhặt +578 beri
+[04:22:58 PM]  Nhặt +799 beri
+[04:22:59 PM]  Nhặt +2550 beri
+[04:23:00 PM]  Nhặt +3096 beri
+[04:23:01 PM]  Nhặt +493 beri
+[04:23:02 PM]  Nhặt +476 beri
+[04:23:03 PM]  Nhặt +1190 beri
+[04:23:04 PM]  Nhặt +2635 beri
+[04:23:05 PM]  Nhặt +1656 beri
+[04:23:06 PM]  Nhặt +2193 beri
+[04:23:07 PM]  Nhặt +833 beri
+[04:23:07 PM]  Nhặt +1998 beri
+[04:23:08 PM]  Nhặt +2023 beri
+[04:23:10 PM]  Nhặt +2737 beri
+[04:23:12 PM]  Nhặt +3582 beri
+[04:23:32 PM]  Logout : [Beri] 2.011.600.278 [Ruby] 1.999.711.966
+[04:23:52 PM]  Login : [Beri] 2.011.600.278 [Ruby] 1.999.711.966
+[04:23:54 PM]  Nhặt +1190 beri
+[04:23:55 PM]  Nhặt +1224 beri
+[04:24:00 PM]  Nhặt +714 beri
+[04:24:01 PM]  Nhặt +1768 beri
+[04:24:02 PM]  Nhặt +1584 beri
+[04:24:03 PM]  Nhặt +17 beri
+[04:24:04 PM]  Nhặt +527 beri
+[04:24:09 PM]  Nhặt +2214 beri
+[04:24:10 PM]  Nhặt +2516 beri
+[04:24:11 PM]  Nhặt +3366 beri
+[04:24:12 PM]  Nhặt +3582 beri
+[04:24:13 PM]  Nhặt +2516 beri
+[04:24:14 PM]  Nhặt +2822 beri
+[04:24:17 PM]  Nhặt +2890 beri
+[04:24:18 PM]  Nhặt +1972 beri
+[04:24:19 PM]  Nhặt +1122 beri
+[04:24:20 PM]  Nhặt +1717 beri
+[04:24:21 PM]  Nhặt +1241 beri
+[04:24:22 PM]  Nhặt +1224 beri
+[04:24:23 PM]  Nhặt +1386 beri
+[04:24:24 PM]  Nhặt +1207 beri
+[04:24:25 PM]  Nhặt +765 beri
+[04:24:26 PM]  Nhặt +459 beri
+[04:24:28 PM]  Nhặt +782 beri
+[04:24:29 PM]  Nhặt +1890 beri
+[04:24:30 PM]  Nhặt +1360 beri
+[04:24:33 PM]  Nhặt +1071 beri
+[04:24:34 PM]  Nhặt +884 beri
+[04:24:44 PM]  Nhặt +374 beri
+[04:24:46 PM]  Nhặt +1818 beri
+[04:24:47 PM]  Nhặt +3366 beri
+[04:24:49 PM]  Nhặt +2448 beri
+[04:24:52 PM]  Nhặt +2312 beri
+[04:24:54 PM]  Nhặt +3094 beri
+[04:24:55 PM]  Nhặt +1530 beri
+[04:24:56 PM]  Nhặt +144 beri
+[04:24:57 PM]  Nhặt +2430 beri
+[04:24:58 PM]  Nhặt +3196 beri
+[04:25:04 PM]  Nhặt +2124 beri
+[04:25:06 PM]  Nhặt +2040 beri
+[04:25:06 PM]  Nhặt +162 beri
+[04:25:07 PM]  Nhặt +510 beri
+[04:25:08 PM]  Nhặt +2856 beri
+[04:25:09 PM]  Nhặt +2414 beri
+[04:25:10 PM]  Nhặt +680 beri
+[04:25:11 PM]  Nhặt +1764 beri
+[04:25:12 PM]  Nhặt +1054 beri
+[04:25:13 PM]  Nhặt +2880 beri
+[04:25:14 PM]  Nhặt +3196 beri
+[04:25:15 PM]  Nhặt +782 beri
+[04:25:16 PM]  Nhặt +2924 beri
+[04:25:19 PM]  Nhặt +2736 beri
+[04:25:20 PM]  Nhặt +1530 beri
+[04:25:21 PM]  Nhặt +119 beri
+[04:25:21 PM]  Nhặt +1564 beri
+[04:25:22 PM]  Nhặt +2278 beri
+[04:25:23 PM]  Nhặt +578 beri
+[04:25:24 PM]  Nhặt +1853 beri
+[04:25:25 PM]  Nhặt +3096 beri
+[04:25:26 PM]  Nhặt +1156 beri
+[04:25:27 PM]  Nhặt +969 beri
+[04:25:30 PM]  Nhặt +1802 beri
+[04:25:32 PM]  Nhặt +884 beri
+[04:25:33 PM]  Nhặt +2533 beri
+[04:25:35 PM]  Nhặt +3230 beri
+[04:25:37 PM]  Nhặt +3009 beri
+[04:25:38 PM]  Nhặt +1547 beri
+[04:25:39 PM]  Nhặt +3145 beri
+[04:25:40 PM]  Nhặt +3162 beri
+[04:25:42 PM]  Nhặt +1938 beri
+[04:25:43 PM]  Nhặt +1008 beri
+[04:25:44 PM]  Nhặt +3582 beri
+[04:25:45 PM]  Nhặt +1564 beri
+[04:25:46 PM]  Nhặt +2142 beri
+[04:25:47 PM]  Nhặt +3402 beri
+[04:25:47 PM]  Nhặt +1530 beri
+[04:25:48 PM]  Nhặt +594 beri
+[04:25:49 PM]  Nhặt +2465 beri
+[04:25:51 PM]  Nhặt +850 beri
+[04:25:52 PM]  Nhặt +1904 beri
+[04:25:53 PM]  Nhặt +1944 beri
+[04:25:54 PM]  Nhặt +2074 beri
+[04:25:56 PM]  Nhặt +1296 beri
+[04:25:57 PM]  Nhặt +3349 beri
+[04:25:59 PM]  Nhặt +2808 beri
+[04:25:59 PM]  Nhặt +1386 beri
+[04:26:00 PM]  Nhặt +144 beri
+[04:26:01 PM]  Nhặt +1020 beri
+[04:26:02 PM]  Nhặt +702 beri
+[04:26:03 PM]  Nhặt +629 beri
+[04:26:04 PM]  Nhặt +2788 beri
+[04:26:05 PM]  Nhặt +1026 beri
+[04:26:06 PM]  Nhặt +289 beri
+[04:26:08 PM]  Nhặt +2268 beri
+[04:26:09 PM]  Nhặt +2448 beri
+[04:26:10 PM]  Nhặt +2771 beri
+[04:26:11 PM]  Nhặt +1134 beri
+[04:26:11 PM]  Nhặt +935 beri
+[04:26:13 PM]  Nhặt +3213 beri
+[04:26:14 PM]  Nhặt +1152 beri
+[04:26:15 PM]  Nhặt +799 beri
+[04:26:16 PM]  Nhặt +1258 beri
+[04:26:19 PM]  Nhặt +1343 beri
+[04:26:20 PM]  Nhặt +1224 beri
+[04:26:21 PM]  Nhặt +1921 beri
+[04:26:22 PM]  Nhặt +3060 beri
+[04:26:23 PM]  Nhặt +2484 beri
+[04:26:25 PM]  Nhặt +2584 beri
+[04:26:26 PM]  Nhặt +1173 beri
+[04:26:27 PM]  Nhặt +1530 beri
+[04:26:31 PM]  Nhặt +1921 beri
+[04:26:32 PM]  Nhặt +1938 beri
+[04:26:33 PM]  Nhặt +1955 beri
+[04:26:35 PM]  Nhặt +986 beri
+[04:26:36 PM]  Nhặt +1275 beri
+[04:26:37 PM]  Nhặt +102 beri
+[04:26:38 PM]  Nhặt +2992 beri
+[04:26:40 PM]  Nhặt +1615 beri
+[04:26:43 PM]  Nhặt +2516 beri
+[04:26:44 PM]  Nhặt +34 beri
+[04:26:45 PM]  Nhặt +2958 beri
+[04:26:48 PM]  Nhặt +612 beri
+[04:26:49 PM]  Nhặt +2839 beri
+[04:26:49 PM]  Nhặt +3332 beri
+[04:26:50 PM]  Nhặt +1802 beri
+[04:26:51 PM]  Nhặt +901 beri
+[04:26:53 PM]  Nhặt +1972 beri
+[04:26:55 PM]  Nhặt +2669 beri
+[04:26:56 PM]  Nhặt +3366 beri
+[04:26:57 PM]  Nhặt +2550 beri
+[04:26:58 PM]  Nhặt +3247 beri
+[04:27:00 PM]  Nhặt +493 beri
+[04:27:02 PM]  Nhặt +1404 beri
+[04:27:03 PM]  Nhặt +527 beri
+[04:27:04 PM]  Nhặt +442 beri
+[04:27:05 PM]  Nhặt +187 beri
+[04:27:07 PM]  Nhặt +2312 beri
+[04:27:09 PM]  Nhặt +2516 beri
+[04:27:10 PM]  Nhặt +1944 beri
+[04:27:11 PM]  Nhặt +136 beri
+[04:27:12 PM]  Nhặt +3383 beri
+[04:27:14 PM]  Nhặt +3009 beri
+[04:27:14 PM]  Nhặt +1343 beri
+[04:27:17 PM]  Nhặt +2363 beri
+[04:27:18 PM]  Nhặt +1764 beri
+[04:27:19 PM]  Nhặt +2652 beri
+[04:27:20 PM]  Nhặt +1512 beri
+[04:27:21 PM]  Nhặt +306 beri
+[04:27:23 PM]  Nhặt +2278 beri
+[04:27:24 PM]  Nhặt +2771 beri
+[04:27:26 PM]  Nhặt +2295 beri
+[04:27:26 PM]  Nhặt +2340 beri
+[04:27:28 PM]  Nhặt +2040 beri
+[04:27:29 PM]  Nhặt +2890 beri
+[04:27:30 PM]  Nhặt +378 beri
+[04:27:33 PM]  Nhặt +289 beri
+[04:27:35 PM]  Nhặt +2286 beri
+[04:27:36 PM]  Nhặt +2550 beri
+[04:27:37 PM]  Nhặt +3258 beri
+[04:27:38 PM]  Nhặt +2312 beri
+[04:27:39 PM]  Nhặt +986 beri
+[04:27:42 PM]  Nhặt +1632 beri
+[04:27:42 PM]  Nhặt +306 beri
+[04:27:43 PM]  Nhặt +1134 beri
+[04:27:44 PM]  Nhặt +1854 beri
+[04:27:45 PM]  Nhặt +1105 beri
+[04:27:46 PM]  Nhặt +2700 beri
+[04:27:48 PM]  Nhặt +2057 beri
+[04:27:49 PM]  Nhặt +2261 beri
+[04:27:50 PM]  Nhặt +216 beri
+[04:27:51 PM]  Nhặt +1260 beri
+[04:27:52 PM]  Nhặt +1785 beri
+[04:27:53 PM]  Nhặt +2664 beri
+[04:27:54 PM]  Nhặt +2329 beri
+[04:27:57 PM]  Nhặt +162 beri
+[04:27:59 PM]  Nhặt +3128 beri
+[04:28:00 PM]  Nhặt +2502 beri
+[04:28:00 PM]  Nhặt +765 beri
+[04:28:01 PM]  Nhặt +374 beri
+[04:28:02 PM]  Nhặt +3298 beri
+[04:28:03 PM]  Nhặt +3564 beri
+[04:28:04 PM]  Nhặt +3349 beri
+[04:28:05 PM]  Nhặt +1170 beri
+[04:28:06 PM]  Nhặt +2574 beri
+[04:28:07 PM]  Nhặt +2278 beri
+[04:28:09 PM]  Nhặt +2295 beri
+[04:28:12 PM]  Nhặt +2907 beri
+[04:28:13 PM]  Nhặt +425 beri
+[04:28:14 PM]  Nhặt +3247 beri
+[04:28:15 PM]  Nhặt +1080 beri
+[04:28:16 PM]  Nhặt +1564 beri
+[04:28:18 PM]  Nhặt +3264 beri
+[04:28:19 PM]  Nhặt +2941 beri
+[04:28:21 PM]  Nhặt +493 beri
+[04:28:22 PM]  Nhặt +1962 beri
+[04:28:24 PM]  Nhặt +360 beri
+[04:28:27 PM]  Nhặt +3330 beri
+[04:28:29 PM]  Nhặt +252 beri
+[04:28:32 PM]  Nhặt +2736 beri
+[04:28:33 PM]  Nhặt +2771 beri
+[04:28:34 PM]  Nhặt +2618 beri
+[04:28:35 PM]  Nhặt +2941 beri
+[04:28:36 PM]  Nhặt +1360 beri
+[04:28:40 PM]  Nhặt +1071 beri
+[04:28:42 PM]  Nhặt +2482 beri
+[04:28:43 PM]  Nhặt +2567 beri
+[04:28:44 PM]  Nhặt +1206 beri
+[04:28:46 PM]  Nhặt +2160 beri
+[04:28:47 PM]  Nhặt +1292 beri
+[04:28:48 PM]  Nhặt +3060 beri
+[04:28:53 PM]  Nhặt +2862 beri
+[04:28:54 PM]  Nhặt +3298 beri
+[04:28:55 PM]  Nhặt +816 beri
+[04:28:57 PM]  Nhặt +3315 beri
+[04:28:58 PM]  Nhặt +1566 beri
+[04:28:59 PM]  Nhặt +2771 beri
+[04:29:03 PM]  Nhặt +2652 beri
+[04:29:04 PM]  Nhặt +1513 beri
+[04:29:05 PM]  Nhặt +2142 beri
+[04:29:06 PM]  Nhặt +1054 beri
+[04:29:08 PM]  Nhặt +3009 beri
+[04:29:09 PM]  Nhặt +3204 beri
+[04:29:10 PM]  Nhặt +2124 beri
+[04:29:11 PM]  Nhặt +3196 beri
+[04:29:12 PM]  Nhặt +3420 beri
+[04:29:13 PM]  Nhặt +1700 beri
+[04:29:14 PM]  Nhặt +1241 beri
+[04:29:15 PM]  Nhặt +306 beri
+[04:29:19 PM]  Nhặt +2023 beri
+[04:29:20 PM]  Nhặt +3128 beri
+[04:29:21 PM]  Nhặt +102 beri
+[04:29:22 PM]  Nhặt +935 beri
+[04:29:23 PM]  Nhặt +2652 beri
+[04:29:24 PM]  Nhặt +2771 beri
+[04:29:25 PM]  Nhặt +2790 beri
+[04:29:26 PM]  Nhặt +3204 beri
+[04:29:28 PM]  Nhặt +901 beri
+[04:29:29 PM]  Nhặt +2907 beri
+[04:29:30 PM]  Nhặt +3043 beri
+[04:29:31 PM]  Nhặt +3043 beri
+[04:29:32 PM]  Nhặt +1080 beri
+[04:29:34 PM]  Nhặt +3264 beri
+[04:29:38 PM]  Nhặt +3096 beri
+[04:29:40 PM]  Nhặt +2822 beri
+[04:29:41 PM]  Nhặt +2088 beri
+[04:29:43 PM]  Nhặt +2074 beri
+[04:29:44 PM]  Nhặt +2839 beri
+[04:29:45 PM]  Nhặt +324 beri
+[04:29:46 PM]  Nhặt +1717 beri
+[04:29:47 PM]  Nhặt +272 beri
+[04:29:48 PM]  Nhặt +3096 beri
+[04:29:49 PM]  Nhặt +1819 beri
+[04:29:50 PM]  Nhặt +3315 beri
+[04:29:51 PM]  Nhặt +2499 beri
+[04:29:52 PM]  Nhặt +136 beri
+[04:29:53 PM]  Nhặt +2034 beri
+[04:29:56 PM]  Nhặt +2584 beri
+[04:29:58 PM]  Nhặt +2227 beri
+[04:30:00 PM]  Nhặt +102 beri
+[04:30:01 PM]  Nhặt +1666 beri
+[04:30:02 PM]  Nhặt +1207 beri
+[04:30:03 PM]  Nhặt +306 beri
+[04:30:06 PM]  Nhặt +1241 beri
+[04:30:08 PM]  Nhặt +1037 beri
+[04:30:09 PM]  Nhặt +2975 beri
+[04:30:10 PM]  Nhặt +561 beri
+[04:30:11 PM]  Nhặt +1764 beri
+[04:30:12 PM]  Nhặt +1802 beri
+[04:30:13 PM]  Nhặt +2006 beri
+[04:30:14 PM]  Nhặt +2567 beri
+[04:30:15 PM]  Nhặt +2520 beri
+[04:30:16 PM]  Nhặt +221 beri
+[04:30:17 PM]  Nhặt +816 beri
+[04:30:18 PM]  Nhặt +1152 beri
+[04:30:18 PM]  Nhặt +2210 beri
+[04:30:19 PM]  Nhặt +1887 beri
+[04:30:20 PM]  Nhặt +1764 beri
+[04:30:21 PM]  Nhặt +1980 beri
+[04:30:22 PM]  Nhặt +2975 beri
+[04:30:23 PM]  Nhặt +1768 beri
+[04:30:25 PM]  Nhặt +1530 beri
+[04:30:26 PM]  Nhặt +306 beri
+[04:30:28 PM]  Nhặt +1494 beri
+[04:30:30 PM]  Nhặt +2856 beri
+[04:30:31 PM]  Nhặt +255 beri
+[04:30:32 PM]  Nhặt +1258 beri
+[04:30:33 PM]  Nhặt +1683 beri
+[04:30:36 PM]  Nhặt +3222 beri
+[04:30:37 PM]  Nhặt +3094 beri
+[04:30:38 PM]  Nhặt +3348 beri
+[04:30:39 PM]  Nhặt +3315 beri
+[04:30:41 PM]  Nhặt +578 beri
+[04:30:42 PM]  Nhặt +2196 beri
+[04:30:43 PM]  Nhặt +1854 beri
+[04:30:44 PM]  Nhặt +221 beri
+[04:30:45 PM]  Nhặt +2431 beri
+[04:30:46 PM]  Nhặt +2646 beri
+[04:30:49 PM]  Nhặt +3096 beri
+[04:30:50 PM]  Nhặt +288 beri
+[04:30:51 PM]  Nhặt +1122 beri
+[04:30:54 PM]  Nhặt +2016 beri
+[04:30:55 PM]  Nhặt +901 beri
+[04:30:56 PM]  Nhặt +408 beri
+[04:30:57 PM]  Nhặt +306 beri
+[04:30:59 PM]  Nhặt +2988 beri
+[04:31:00 PM]  Nhặt +1785 beri
+[04:31:01 PM]  Nhặt +1632 beri
+[04:31:02 PM]  Nhặt +2788 beri
+[04:31:03 PM]  Nhặt +702 beri
+[04:31:04 PM]  Nhặt +2232 beri
+[04:31:07 PM]  Nhặt +476 beri
+[04:31:11 PM]  Nhặt +1494 beri
+[04:31:11 PM]  Nhặt +540 beri
+[04:31:12 PM]  Nhặt +1156 beri
+[04:31:13 PM]  Nhặt +221 beri
+[04:31:15 PM]  Nhặt +2652 beri
+[04:31:16 PM]  Nhặt +2376 beri
+[04:31:17 PM]  Nhặt +2703 beri
+[04:31:18 PM]  Nhặt +3128 beri
+[04:31:19 PM]  Nhặt +1377 beri
+[04:31:21 PM]  Nhặt +630 beri
+[04:31:23 PM]  Nhặt +3528 beri
+[04:31:23 PM]  Nhặt +2448 beri
+[04:31:24 PM]  Nhặt +323 beri
+[04:31:25 PM]  Nhặt +2805 beri
+[04:31:26 PM]  Nhặt +720 beri
+[04:31:27 PM]  Nhặt +1547 beri
+[04:31:28 PM]  Nhặt +684 beri
+[04:31:29 PM]  Nhặt +2862 beri
+[04:31:31 PM]  Nhặt +2822 beri
+[04:31:32 PM]  Nhặt +2006 beri
+[04:31:33 PM]  Nhặt +3294 beri
+[04:31:34 PM]  Nhặt +1054 beri
+[04:31:35 PM]  Nhặt +2652 beri
+[04:31:36 PM]  Nhặt +1700 beri
+[04:31:37 PM]  Nhặt +2856 beri
+[04:31:38 PM]  Nhặt +2057 beri
+[04:31:39 PM]  Nhặt +578 beri
+[04:31:41 PM]  Nhặt +1309 beri
+[04:31:42 PM]  Nhặt +2635 beri
+[04:31:43 PM]  Nhặt +2070 beri
+[04:31:44 PM]  Nhặt +3230 beri
+[04:31:48 PM]  Nhặt +204 beri
+[04:31:49 PM]  Nhặt +918 beri
+[04:31:50 PM]  Nhặt +1764 beri
+[04:31:52 PM]  Nhặt +425 beri
+[04:31:53 PM]  Nhặt +1872 beri
+[04:31:54 PM]  Nhặt +901 beri
+[04:31:56 PM]  Nhặt +1972 beri
+[04:31:57 PM]  Nhặt +2686 beri
+[04:32:00 PM]  Nhặt +1764 beri
+[04:32:01 PM]  Nhặt +2295 beri
+[04:32:01 PM]  Nhặt +3276 beri
+[04:32:02 PM]  Nhặt +3026 beri
+[04:32:03 PM]  Nhặt +1394 beri
+[04:32:04 PM]  Nhặt +493 beri
+[04:32:06 PM]  Nhặt +442 beri
+[04:32:07 PM]  Nhặt +1190 beri
+[04:32:09 PM]  Nhặt +1513 beri
+[04:32:10 PM]  Nhặt +2074 beri
+[04:32:12 PM]  Nhặt +3366 beri
+[04:32:13 PM]  Nhặt +2074 beri
+[04:32:14 PM]  Nhặt +1904 beri
+[04:32:15 PM]  Nhặt +1853 beri
+[04:32:16 PM]  Nhặt +850 beri
+[04:32:16 PM]  Nhặt +2363 beri
+[04:32:17 PM]  Nhặt +782 beri
+[04:32:18 PM]  Nhặt +2380 beri
+[04:32:19 PM]  Nhặt +816 beri
+[04:32:21 PM]  Nhặt +2465 beri
+[04:32:23 PM]  Nhặt +1360 beri
+[04:32:24 PM]  Nhặt +3366 beri
+[04:32:25 PM]  Nhặt +187 beri
+[04:32:26 PM]  Nhặt +1938 beri
+[04:32:27 PM]  Nhặt +3078 beri
+[04:32:28 PM]  Nhặt +578 beri
+[04:32:29 PM]  Nhặt +1458 beri
+[04:32:29 PM]  Nhặt +2465 beri
+[04:32:31 PM]  Nhặt +198 beri
+[04:32:32 PM]  Nhặt +36 beri
+[04:32:33 PM]  Nhặt +3096 beri
+[04:32:34 PM]  Nhặt +1802 beri
+[04:32:35 PM]  Nhặt +3204 beri
+[04:32:36 PM]  Nhặt +1530 beri
+[04:32:37 PM]  Nhặt +2941 beri
+[04:32:38 PM]  Nhặt +2074 beri
+[04:32:39 PM]  Nhặt +1980 beri
+[04:32:40 PM]  Nhặt +136 beri
+[04:32:41 PM]  Nhặt +374 beri
+[04:32:42 PM]  Nhặt +221 beri
+[04:32:43 PM]  Nhặt +1782 beri
+[04:32:44 PM]  Nhặt +1768 beri
+[04:32:45 PM]  Nhặt +3330 beri
+[04:32:46 PM]  Nhặt +2232 beri
+[04:32:47 PM]  Nhặt +2898 beri
+[04:32:48 PM]  Nhặt +1632 beri
+[04:32:49 PM]  Nhặt +2533 beri
+[04:32:50 PM]  Nhặt +2125 beri
+[04:32:53 PM]  Nhặt +3204 beri
+[04:32:54 PM]  Nhặt +2669 beri
+[04:32:55 PM]  Nhặt +2805 beri
+[04:33:00 PM]  Nhặt +2465 beri
+[04:33:01 PM]  Nhặt +493 beri
+[04:33:04 PM]  Nhặt +2700 beri
+[04:33:05 PM]  Nhặt +3438 beri
+[04:33:06 PM]  Nhặt +1054 beri
+[04:33:06 PM]  Nhặt +2329 beri
+[04:33:07 PM]  Nhặt +90 beri
+[04:33:08 PM]  Nhặt +1962 beri
+[04:33:13 PM]  Nhặt +882 beri
+[04:33:14 PM]  Nhặt +2628 beri
+[04:33:15 PM]  Nhặt +1904 beri
+[04:33:16 PM]  Nhặt +3128 beri
+[04:33:17 PM]  Nhặt +544 beri
+[04:33:18 PM]  Nhặt +1309 beri
+[04:33:19 PM]  Nhặt +663 beri
+[04:33:20 PM]  Nhặt +1440 beri
+[04:33:22 PM]  Nhặt +1071 beri
+[04:33:23 PM]  Nhặt +2499 beri
+[04:33:27 PM]  Nhặt +3247 beri
+[04:33:29 PM]  Nhặt +2772 beri
+[04:33:30 PM]  Nhặt +2244 beri
+[04:33:32 PM]  Nhặt +2856 beri
+[04:33:32 PM]  Nhặt +3009 beri
+[04:33:34 PM]  Nhặt +1564 beri
+[04:33:35 PM]  Nhặt +1944 beri
+[04:33:36 PM]  Nhặt +3145 beri
+[04:33:37 PM]  Nhặt +1242 beri
+[04:33:38 PM]  Nhặt +1853 beri
+[04:33:39 PM]  Nhặt +289 beri
+[04:33:40 PM]  Nhặt +391 beri
+[04:33:42 PM]  Nhặt +2538 beri
+[04:33:43 PM]  Nhặt +1547 beri
+[04:33:45 PM]  Nhặt +1258 beri
+[04:33:46 PM]  Nhặt +2312 beri
+[04:33:48 PM]  Nhặt +34 beri
+[04:33:51 PM]  Nhặt +1494 beri
+[04:33:52 PM]  Nhặt +1547 beri
+[04:33:53 PM]  Nhặt +2295 beri
+[04:33:54 PM]  Nhặt +2601 beri
+[04:33:55 PM]  Nhặt +810 beri
+[04:33:57 PM]  Nhặt +1037 beri
+[04:33:57 PM]  Nhặt +3366 beri
+[04:33:58 PM]  Nhặt +2499 beri
+[04:33:59 PM]  Nhặt +1853 beri
+[04:34:00 PM]  Nhặt +2091 beri
+[04:34:01 PM]  Nhặt +1440 beri
+[04:34:03 PM]  Nhặt +1530 beri
+[04:34:04 PM]  Nhặt +459 beri
+[04:34:05 PM]  Nhặt +738 beri
+[04:34:06 PM]  Nhặt +2268 beri
+[04:34:07 PM]  Nhặt +2448 beri
+[04:34:08 PM]  Nhặt +2941 beri
+[04:34:09 PM]  Nhặt +1649 beri
+[04:34:09 PM]  Nhặt +170 beri
+[04:34:11 PM]  Nhặt +697 beri
+[04:34:11 PM]  Nhặt +238 beri
+[04:34:15 PM]  Nhặt +1785 beri
+[04:34:16 PM]  Nhặt +3258 beri
+[04:34:17 PM]  Nhặt +1292 beri
+[04:34:18 PM]  Nhặt +1080 beri
+[04:34:19 PM]  Nhặt +1854 beri
+[04:34:20 PM]  Nhặt +1649 beri
+[04:34:21 PM]  Nhặt +1080 beri
+[04:34:22 PM]  Nhặt +1751 beri
+[04:34:24 PM]  Nhặt +2970 beri
+[04:34:25 PM]  Nhặt +306 beri
+[04:34:26 PM]  Nhặt +816 beri
+[04:34:27 PM]  Nhặt +1581 beri
+[04:34:29 PM]  Nhặt +1054 beri
+[04:34:30 PM]  Nhặt +450 beri
+[04:34:31 PM]  Nhặt +1764 beri
+[04:34:32 PM]  Nhặt +765 beri
+[04:34:35 PM]  Nhặt +2686 beri
+[04:34:36 PM]  Nhặt +3349 beri
+[04:34:37 PM]  Nhặt +3276 beri
+[04:34:39 PM]  Nhặt +3230 beri
+[04:34:41 PM]  Nhặt +828 beri
+[04:34:42 PM]  Nhặt +1615 beri
+[04:34:45 PM]  Nhặt +2941 beri
+[04:34:46 PM]  Nhặt +323 beri
+[04:34:48 PM]  Nhặt +3026 beri
+[04:34:48 PM]  Nhặt +255 beri
+[04:34:49 PM]  Nhặt +2736 beri
+[04:34:50 PM]  Nhặt +648 beri
+[04:34:52 PM]  Nhặt +2312 beri
+[04:34:53 PM]  Nhặt +1394 beri
+[04:34:54 PM]  Nhặt +442 beri
+[04:34:55 PM]  Nhặt +2346 beri
+[04:34:56 PM]  Nhặt +1494 beri
+[04:34:57 PM]  Nhặt +3546 beri
+[04:34:58 PM]  Nhặt +3024 beri
+[04:34:59 PM]  Nhặt +2610 beri
+[04:35:01 PM]  Nhặt +1173 beri
+[04:35:01 PM]  Nhặt +2414 beri
+[04:35:02 PM]  Nhặt +918 beri
+[04:35:05 PM]  Nhặt +3510 beri
+[04:35:06 PM]  Nhặt +782 beri
+[04:35:07 PM]  Nhặt +1872 beri
+[04:35:08 PM]  Nhặt +952 beri
+[04:35:09 PM]  Nhặt +2412 beri
+[04:35:11 PM]  Nhặt +901 beri
+[04:35:12 PM]  Nhặt +3162 beri
+[04:35:13 PM]  Nhặt +1802 beri
+[04:35:15 PM]  Nhặt +646 beri
+[04:35:15 PM]  Nhặt +2074 beri
+[04:35:16 PM]  Nhặt +3196 beri
+[04:35:17 PM]  Nhặt +1360 beri
+[04:35:18 PM]  Nhặt +2250 beri
+[04:35:19 PM]  Nhặt +1173 beri
+[04:35:20 PM]  Nhặt +828 beri
+[04:35:21 PM]  Nhặt +108 beri
+[04:35:22 PM]  Nhặt +936 beri
+[04:35:23 PM]  Nhặt +2646 beri
+[04:35:24 PM]  Nhặt +2125 beri
+[04:35:25 PM]  Nhặt +374 beri
+[04:35:26 PM]  Nhặt +3077 beri
+[04:35:27 PM]  Nhặt +2176 beri
+[04:35:31 PM]  Nhặt +833 beri
+[04:35:32 PM]  Nhặt +648 beri
+[04:35:33 PM]  Nhặt +2941 beri
+[04:35:34 PM]  Nhặt +51 beri
+[04:35:35 PM]  Nhặt +1394 beri
+[04:35:37 PM]  Nhặt +3009 beri
+[04:35:38 PM]  Nhặt +1020 beri
+[04:35:42 PM]  Nhặt +714 beri
+[04:35:43 PM]  Nhặt +2567 beri
+[04:35:45 PM]  Nhặt +85 beri
+[04:35:46 PM]  Nhặt +1088 beri
+[04:35:49 PM]  Nhặt +1904 beri
+[04:35:50 PM]  Nhặt +646 beri
+[04:35:51 PM]  Nhặt +2394 beri
+[04:35:52 PM]  Nhặt +170 beri
+[04:35:53 PM]  Nhặt +2771 beri
+[04:35:54 PM]  Nhặt +2550 beri
+[04:35:55 PM]  Nhặt +1870 beri
+[04:35:56 PM]  Nhặt +2805 beri
+[04:35:57 PM]  Nhặt +612 beri
+[04:35:57 PM]  Nhặt +1581 beri
+[04:35:58 PM]  Nhặt +629 beri
+[04:35:59 PM]  Nhặt +2023 beri
+[04:36:01 PM]  Nhặt +136 beri
+[04:36:02 PM]  Nhặt +1139 beri
+[04:36:03 PM]  Nhặt +2244 beri
+[04:36:04 PM]  Nhặt +2635 beri
+[04:36:05 PM]  Nhặt +2363 beri
+[04:36:06 PM]  Nhặt +1564 beri
+[04:36:07 PM]  Nhặt +3186 beri
+[04:36:08 PM]  Nhặt +3383 beri
+[04:36:09 PM]  Nhặt +1343 beri
+[04:36:10 PM]  Nhặt +270 beri
+[04:36:10 PM]  Nhặt +2499 beri
+[04:36:12 PM]  Nhặt +1649 beri
+[04:36:13 PM]  Nhặt +1445 beri
+[04:36:14 PM]  Nhặt +952 beri
+[04:36:15 PM]  Nhặt +2686 beri
+[04:36:16 PM]  Nhặt +1602 beri
+[04:36:19 PM]  Nhặt +238 beri
+[04:36:20 PM]  Nhặt +544 beri
+[04:36:21 PM]  Nhặt +187 beri
+[04:36:23 PM]  Nhặt +1377 beri
+[04:36:23 PM]  Nhặt +1411 beri
+[04:36:24 PM]  Nhặt +1904 beri
+[04:36:25 PM]  Nhặt +1260 beri
+[04:36:26 PM]  Nhặt +3383 beri
+[04:36:27 PM]  Nhặt +2363 beri
+[04:36:30 PM]  Nhặt +1088 beri
+[04:36:31 PM]  Nhặt +3060 beri
+[04:36:33 PM]  Nhặt +1445 beri
+[04:36:35 PM]  Nhặt +2703 beri
+[04:36:36 PM]  Nhặt +578 beri
+[04:36:37 PM]  Nhặt +51 beri
+[04:36:38 PM]  Nhặt +2232 beri
+[04:36:40 PM]  Nhặt +3315 beri
+[04:36:41 PM]  Nhặt +720 beri
+[04:36:42 PM]  Nhặt +396 beri
+[04:36:44 PM]  Nhặt +3077 beri
+[04:36:46 PM]  Nhặt +1530 beri
+[04:36:48 PM]  Nhặt +2916 beri
+[04:36:48 PM]  Nhặt +1598 beri
+[04:36:51 PM]  Nhặt +340 beri
+[04:36:52 PM]  Nhặt +1656 beri
+[04:36:54 PM]  Nhặt +756 beri
+[04:36:55 PM]  Nhặt +816 beri
+[04:36:56 PM]  Nhặt +119 beri
+[04:36:58 PM]  Nhặt +2669 beri
+[04:36:59 PM]  Nhặt +1751 beri
+[04:37:01 PM]  Nhặt +3438 beri
+[04:37:01 PM]  Nhặt +1462 beri
+[04:37:02 PM]  Nhặt +1872 beri
+[04:37:03 PM]  Nhặt +3094 beri
+[04:37:05 PM]  Nhặt +3111 beri
+[04:37:06 PM]  Nhặt +663 beri
+[04:37:07 PM]  Nhặt +828 beri
+[04:37:11 PM]  Nhặt +2329 beri
+[04:37:12 PM]  Nhặt +2227 beri
+[04:37:13 PM]  Nhặt +136 beri
+[04:37:13 PM]  Nhặt +792 beri
+[04:37:15 PM]  Nhặt +2040 beri
+[04:37:15 PM]  Nhặt +2232 beri
+[04:37:18 PM]  Nhặt +1598 beri
+[04:37:19 PM]  Nhặt +1054 beri
+[04:37:20 PM]  Nhặt +2160 beri
+[04:37:21 PM]  Nhặt +1802 beri
+[04:37:22 PM]  Nhặt +612 beri
+[04:37:23 PM]  Nhặt +2108 beri
+[04:37:24 PM]  Nhặt +2873 beri
+[04:37:25 PM]  Nhặt +1326 beri
+[04:37:26 PM]  Nhặt +2533 beri
+[04:37:27 PM]  Nhặt +540 beri
+[04:37:28 PM]  Nhặt +2227 beri
+[04:37:29 PM]  Nhặt +578 beri
+[04:37:30 PM]  Nhặt +1241 beri
+[04:37:31 PM]  Nhặt +187 beri
+[04:37:32 PM]  Nhặt +2346 beri
+[04:37:34 PM]  Nhặt +1785 beri
+[04:37:35 PM]  Nhặt +2652 beri
+[04:37:36 PM]  Nhặt +323 beri
+[04:37:37 PM]  Nhặt +3264 beri
+[04:37:38 PM]  Nhặt +493 beri
+[04:37:39 PM]  Nhặt +2686 beri
+[04:37:40 PM]  Nhặt +799 beri
+[04:37:41 PM]  Nhặt +1275 beri
+[04:37:42 PM]  Nhặt +1479 beri
+[04:37:44 PM]  Nhặt +2669 beri
+[04:37:45 PM]  Nhặt +2482 beri
+[04:37:46 PM]  Nhặt +1683 beri
+[04:37:47 PM]  Nhặt +1428 beri
+[04:37:49 PM]  Nhặt +170 beri
+[04:37:50 PM]  Nhặt +85 beri
+[04:37:52 PM]  Nhặt +1080 beri
+[04:37:53 PM]  Nhặt +289 beri
+[04:37:54 PM]  Nhặt +2363 beri
+[04:37:54 PM]  Nhặt +204 beri
+[04:37:58 PM]  Nhặt +2286 beri
+[04:37:59 PM]  Nhặt +3315 beri
+[04:38:02 PM]  Nhặt +1260 beri
+[04:38:03 PM]  Nhặt +1054 beri
+[04:38:05 PM]  Nhặt +486 beri
+[04:38:07 PM]  Nhặt +1224 beri
+[04:38:07 PM]  Nhặt +1377 beri
+[04:38:08 PM]  Nhặt +684 beri
+[04:38:09 PM]  Nhặt +1088 beri
+[04:38:11 PM]  Nhặt +2322 beri
+[04:38:12 PM]  Nhặt +1080 beri
+[04:38:13 PM]  Nhặt +2720 beri
+[04:38:14 PM]  Nhặt +2873 beri
+[04:38:16 PM]  Nhặt +2958 beri
+[04:38:17 PM]  Nhặt +901 beri
+[04:38:18 PM]  Nhặt +2880 beri
+[04:38:19 PM]  Nhặt +1188 beri
+[04:38:20 PM]  Nhặt +1054 beri
+[04:38:21 PM]  Nhặt +2322 beri
+[04:38:21 PM]  Nhặt +3420 beri
+[04:38:23 PM]  Nhặt +3247 beri
+[04:38:24 PM]  Nhặt +3042 beri
+[04:38:26 PM]  Nhặt +2286 beri
+[04:38:27 PM]  Nhặt +2941 beri
+[04:38:28 PM]  Nhặt +576 beri
+[04:38:29 PM]  Nhặt +2720 beri
+[04:38:30 PM]  Nhặt +850 beri
+[04:38:31 PM]  Nhặt +2556 beri
+[04:38:32 PM]  Nhặt +1037 beri
+[04:38:33 PM]  Nhặt +357 beri
+[04:38:34 PM]  Nhặt +2499 beri
+[04:38:34 PM]  Nhặt +2516 beri
+[04:38:35 PM]  Nhặt +578 beri
+[04:38:37 PM]  Nhặt +3582 beri
+[04:38:38 PM]  Nhặt +2805 beri
+[04:38:39 PM]  Nhặt +1275 beri
+[04:38:40 PM]  Nhặt +3128 beri
+[04:38:41 PM]  Nhặt +2907 beri
+[04:38:42 PM]  Nhặt +2465 beri
+[04:38:43 PM]  Nhặt +2567 beri
+[04:38:44 PM]  Nhặt +2376 beri
+[04:38:45 PM]  Nhặt +476 beri
+[04:38:47 PM]  Nhặt +3094 beri
+[04:38:47 PM]  Nhặt +493 beri
+[04:38:48 PM]  Nhặt +816 beri
+[04:38:50 PM]  Nhặt +2244 beri
+[04:38:51 PM]  Nhặt +1870 beri
+[04:38:52 PM]  Nhặt +493 beri
+[04:38:54 PM]  Nhặt +2567 beri
+[04:38:56 PM]  Nhặt +2941 beri
+[04:38:59 PM]  Nhặt +3196 beri
+[04:39:01 PM]  Nhặt +2907 beri
+[04:39:04 PM]  Nhặt +1088 beri
+[04:39:06 PM]  Nhặt +2397 beri
+[04:39:07 PM]  Nhặt +2142 beri
+[04:39:09 PM]  Nhặt +1938 beri
+[04:39:10 PM]  Nhặt +486 beri
+[04:39:11 PM]  Nhặt +153 beri
+[04:39:13 PM]  Nhặt +1853 beri
+[04:39:14 PM]  Nhặt +1326 beri
+[04:39:15 PM]  Nhặt +1904 beri
+[04:39:17 PM]  Nhặt +1224 beri
+[04:39:17 PM]  Nhặt +3026 beri
+[04:39:18 PM]  Nhặt +68 beri
+[04:39:19 PM]  Nhặt +3204 beri
+[04:39:20 PM]  Nhặt +1938 beri
+[04:39:21 PM]  Nhặt +3162 beri
+[04:39:22 PM]  Nhặt +1207 beri
+[04:39:23 PM]  Nhặt +2584 beri
+[04:39:24 PM]  Nhặt +442 beri
+[04:39:26 PM]  Nhặt +936 beri
+[04:39:29 PM]  Nhặt +901 beri
+[04:39:30 PM]  Nhặt +986 beri
+[04:39:33 PM]  Nhặt +2880 beri
+[04:39:34 PM]  Nhặt +3009 beri
+[04:39:36 PM]  Nhặt +1496 beri
+[04:39:37 PM]  Nhặt +1746 beri
+[04:39:38 PM]  Nhặt +756 beri
+[04:39:39 PM]  Nhặt +576 beri
+[04:39:40 PM]  Nhặt +792 beri
+[04:39:41 PM]  Nhặt +867 beri
+[04:39:44 PM]  Nhặt +714 beri
+[04:39:45 PM]  Nhặt +2502 beri
+[04:39:49 PM]  Nhặt +3145 beri
+[04:39:50 PM]  Nhặt +3024 beri
+[04:39:51 PM]  Nhặt +2227 beri
+[04:39:52 PM]  Nhặt +2227 beri
+[04:39:53 PM]  Nhặt +612 beri
+[04:39:54 PM]  Nhặt +2567 beri
+[04:39:55 PM]  Nhặt +3162 beri
+[04:39:58 PM]  Nhặt +288 beri
+[04:39:59 PM]  Nhặt +432 beri
+[04:40:00 PM]  Nhặt +2720 beri
+[04:40:01 PM]  Nhặt +2363 beri
+[04:40:02 PM]  Nhặt +1972 beri
+[04:40:03 PM]  Nhặt +378 beri
+[04:40:03 PM]  Nhặt +2074 beri
+[04:40:04 PM]  Nhặt +594 beri
+[04:40:05 PM]  Nhặt +2567 beri
+[04:40:08 PM]  Nhặt +731 beri
+[04:40:09 PM]  Nhặt +3162 beri
+[04:40:10 PM]  Nhặt +1872 beri
+[04:40:11 PM]  Nhặt +306 beri
+[04:40:15 PM]  Nhặt +1071 beri
+[04:40:16 PM]  Nhặt +1343 beri
+[04:40:19 PM]  Nhặt +119 beri
+[04:40:21 PM]  Nhặt +1296 beri
+[04:40:22 PM]  Nhặt +1386 beri
+[04:40:23 PM]  Nhặt +3213 beri
+[04:40:24 PM]  Nhặt +2788 beri
+[04:40:25 PM]  Nhặt +578 beri
+[04:40:26 PM]  Nhặt +1088 beri
+[04:40:28 PM]  Nhặt +126 beri
+[04:40:30 PM]  Nhặt +1054 beri
+[04:40:31 PM]  Nhặt +1944 beri
+[04:40:32 PM]  Nhặt +527 beri
+[04:40:34 PM]  Nhặt +2856 beri
+[04:40:36 PM]  Nhặt +2329 beri
+[04:40:37 PM]  Nhặt +108 beri
+[04:40:40 PM]  Nhặt +3349 beri
+[04:40:41 PM]  Nhặt +816 beri
+[04:40:42 PM]  Nhặt +901 beri
+[04:40:43 PM]  Nhặt +612 beri
+[04:40:44 PM]  Nhặt +3456 beri
+[04:40:46 PM]  Nhặt +1054 beri
+[04:40:47 PM]  Nhặt +18 beri
+[04:40:48 PM]  Nhặt +3026 beri
+[04:40:50 PM]  Nhặt +2232 beri
+[04:40:52 PM]  Nhặt +1602 beri
+[04:40:53 PM]  Nhặt +1309 beri
+[04:40:54 PM]  Nhặt +3546 beri
+[04:40:54 PM]  Nhặt +1921 beri
+[04:40:55 PM]  Nhặt +2975 beri
+[04:40:56 PM]  Nhặt +1598 beri
+[04:40:58 PM]  Nhặt +85 beri
+[04:41:00 PM]  Nhặt +1674 beri
+[04:41:02 PM]  Nhặt +1938 beri
+[04:41:03 PM]  Nhặt +3043 beri
+[04:41:04 PM]  Nhặt +2329 beri
+[04:41:07 PM]  Nhặt +170 beri
+[04:41:08 PM]  Nhặt +2108 beri
+[04:41:08 PM]  Nhặt +1411 beri
+[04:41:09 PM]  Nhặt +3060 beri
+[04:41:10 PM]  Nhặt +561 beri
+[04:41:12 PM]  Nhặt +1530 beri
+[04:41:13 PM]  Nhặt +1972 beri
+[04:41:14 PM]  Nhặt +2414 beri
+[04:41:15 PM]  Nhặt +629 beri
+[04:41:16 PM]  Nhặt +629 beri
+[04:41:17 PM]  Nhặt +2975 beri
+[04:41:19 PM]  Nhặt +1496 beri
+[04:41:19 PM]  Nhặt +1190 beri
+[04:41:20 PM]  Nhặt +136 beri
+[04:41:21 PM]  Nhặt +1734 beri
+[04:41:24 PM]  Nhặt +3366 beri
+[04:41:25 PM]  Nhặt +2414 beri
+[04:41:26 PM]  Nhặt +1836 beri
+[04:41:27 PM]  Nhặt +2210 beri
+[04:41:28 PM]  Nhặt +1598 beri
+[04:41:30 PM]  Nhặt +1581 beri
+[04:41:31 PM]  Nhặt +2210 beri
+[04:41:32 PM]  Nhặt +425 beri
+[04:41:33 PM]  Nhặt +1428 beri
+[04:41:34 PM]  Nhặt +3162 beri
+[04:41:35 PM]  Nhặt +714 beri
+[04:41:36 PM]  Nhặt +1496 beri
+[04:41:38 PM]  Nhặt +595 beri
+[04:41:39 PM]  Nhặt +72 beri
+[04:41:41 PM]  Nhặt +2567 beri
+[04:41:43 PM]  Nhặt +1207 beri
+[04:41:44 PM]  Nhặt +1207 beri
+[04:41:45 PM]  Nhặt +2822 beri
+[04:41:46 PM]  Nhặt +666 beri
+[04:41:47 PM]  Nhặt +1836 beri
+[04:41:49 PM]  Nhặt +799 beri
+[04:41:50 PM]  Nhặt +2210 beri
+[04:41:52 PM]  Nhặt +952 beri
+[04:41:53 PM]  Nhặt +2754 beri
+[04:41:54 PM]  Nhặt +2628 beri
+[04:41:55 PM]  Nhặt +2346 beri
+[04:41:56 PM]  Nhặt +3330 beri
+[04:41:57 PM]  Nhặt +2771 beri
+[04:41:59 PM]  Nhặt +2070 beri
+[04:42:01 PM]  Nhặt +1003 beri
+[04:42:02 PM]  Nhặt +1080 beri
+[04:42:03 PM]  Nhặt +3196 beri
+[04:42:05 PM]  Nhặt +2808 beri
+[04:42:06 PM]  Nhặt +1088 beri
+[04:42:10 PM]  Nhặt +2125 beri
+[04:42:11 PM]  Nhặt +3315 beri
+[04:42:13 PM]  Nhặt +2907 beri
+[04:42:14 PM]  Nhặt +1080 beri
+[04:42:16 PM]  Nhặt +1989 beri
+[04:42:18 PM]  Nhặt +882 beri
+[04:42:21 PM]  Nhặt +901 beri
+[04:42:22 PM]  Nhặt +1513 beri
+[04:42:23 PM]  Nhặt +1800 beri
+[04:42:24 PM]  Nhặt +2584 beri
+[04:42:25 PM]  Nhặt +850 beri
+[04:42:26 PM]  Nhặt +1904 beri
+[04:42:27 PM]  Nhặt +2958 beri
+[04:42:28 PM]  Nhặt +1241 beri
+[04:42:29 PM]  Nhặt +2380 beri
+[04:42:30 PM]  Nhặt +323 beri
+[04:42:31 PM]  Nhặt +2295 beri
+[04:42:32 PM]  Nhặt +1479 beri
+[04:42:35 PM]  Nhặt +1656 beri
+[04:42:36 PM]  Nhặt +1440 beri
+[04:42:37 PM]  Nhặt +663 beri
+[04:42:38 PM]  Nhặt +2720 beri
+[04:42:39 PM]  Nhặt +799 beri
+[04:42:40 PM]  Nhặt +3510 beri
+[04:42:41 PM]  Nhặt +1224 beri
+[04:42:42 PM]  Nhặt +1071 beri
+[04:42:44 PM]  Nhặt +2057 beri
+[04:42:46 PM]  Nhặt +2584 beri
+[04:42:47 PM]  Nhặt +2720 beri
+[04:42:49 PM]  Nhặt +918 beri
+[04:42:49 PM]  Nhặt +1116 beri
+[04:42:51 PM]  Nhặt +3213 beri
+[04:42:53 PM]  Nhặt +1955 beri
+[04:42:54 PM]  Nhặt +2380 beri
+[04:42:55 PM]  Nhặt +2142 beri
+[04:42:59 PM]  Nhặt +1122 beri
+[04:43:00 PM]  Nhặt +918 beri
+[04:43:02 PM]  Nhặt +2754 beri
+[04:43:03 PM]  Nhặt +3009 beri
+[04:43:04 PM]  Nhặt +1242 beri
+[04:43:04 PM]  Nhặt +1496 beri
+[04:43:07 PM]  Nhặt +2227 beri
+[04:43:13 PM]  Nhặt +493 beri
+[04:43:14 PM]  Nhặt +756 beri
+[04:43:15 PM]  Nhặt +3060 beri
+[04:43:15 PM]  Nhặt +900 beri
+[04:43:17 PM]  Nhặt +442 beri
+[04:43:17 PM]  Nhặt +2363 beri
+[04:43:19 PM]  Nhặt +684 beri
+[04:43:20 PM]  Nhặt +378 beri
+[04:43:21 PM]  Nhặt +3128 beri
+[04:43:22 PM]  Nhặt +3150 beri
+[04:43:24 PM]  Nhặt +1445 beri
+[04:43:25 PM]  Nhặt +3349 beri
+[04:43:26 PM]  Nhặt +2193 beri
+[04:43:27 PM]  Nhặt +1782 beri
+[04:43:29 PM]  Nhặt +2700 beri
+[04:43:30 PM]  Nhặt +34 beri
+[04:43:31 PM]  Nhặt +187 beri
+[04:43:32 PM]  Nhặt +374 beri
+[04:43:35 PM]  Nhặt +2610 beri
+[04:43:36 PM]  Nhặt +1258 beri
+[04:43:37 PM]  Nhặt +289 beri
+[04:43:38 PM]  Nhặt +2244 beri
+[04:43:40 PM]  Nhặt +629 beri
+[04:43:41 PM]  Nhặt +34 beri
+[04:43:43 PM]  Nhặt +1853 beri
+[04:43:43 PM]  Nhặt +2088 beri
+[04:43:44 PM]  Nhặt +1258 beri
+[04:43:45 PM]  Nhặt +2091 beri
+[04:43:46 PM]  Nhặt +2890 beri
+[04:43:49 PM]  Nhặt +816 beri
+[04:43:50 PM]  Nhặt +1944 beri
+[04:43:52 PM]  Nhặt +1156 beri
+[04:43:53 PM]  Nhặt +2482 beri
+[04:43:55 PM]  Nhặt +68 beri
+[04:43:55 PM]  Nhặt +204 beri
+[04:43:56 PM]  Nhặt +342 beri
+[04:43:57 PM]  Nhặt +935 beri
+[04:43:59 PM]  Nhặt +782 beri
+[04:44:00 PM]  Nhặt +646 beri
+[04:44:01 PM]  Nhặt +1173 beri
+[04:44:02 PM]  Nhặt +2465 beri
+[04:44:04 PM]  Nhặt +34 beri
+[04:44:05 PM]  Nhặt +1206 beri
+[04:44:06 PM]  Nhặt +2516 beri
+[04:44:08 PM]  Nhặt +2873 beri
+[04:44:09 PM]  Nhặt +3281 beri
+[04:44:09 PM]  Nhặt +1343 beri
+[04:44:12 PM]  Nhặt +1458 beri
+[04:44:13 PM]  Nhặt +119 beri
+[04:44:14 PM]  Nhặt +3043 beri
+[04:44:15 PM]  Nhặt +102 beri
+[04:44:16 PM]  Nhặt +578 beri
+[04:44:17 PM]  Nhặt +2125 beri
+[04:44:20 PM]  Nhặt +3168 beri
+[04:44:22 PM]  Nhặt +3060 beri
+[04:44:22 PM]  Nhặt +2550 beri
+[04:44:23 PM]  Nhặt +1785 beri
+[04:44:24 PM]  Nhặt +1683 beri
+[04:44:26 PM]  Nhặt +2227 beri
+[04:44:27 PM]  Nhặt +2873 beri
+[04:44:28 PM]  Nhặt +1242 beri
+[04:44:29 PM]  Nhặt +3366 beri
+[04:44:31 PM]  Nhặt +2414 beri
+[04:44:32 PM]  Nhặt +1998 beri
+[04:44:33 PM]  Nhặt +2924 beri
+[04:44:34 PM]  Nhặt +3247 beri
+[04:44:34 PM]  Nhặt +952 beri
+[04:44:35 PM]  Nhặt +1938 beri
+[04:44:37 PM]  Nhặt +1496 beri
+[04:44:38 PM]  Nhặt +720 beri
+[04:44:39 PM]  Nhặt +663 beri
+[04:44:41 PM]  Nhặt +1802 beri
+[04:44:42 PM]  Nhặt +1314 beri
+[04:44:46 PM]  Nhặt +3332 beri
+[04:44:47 PM]  Nhặt +1134 beri
+[04:44:47 PM]  Nhặt +867 beri
+[04:44:49 PM]  Nhặt +2856 beri
+[04:44:50 PM]  Nhặt +1782 beri
+[04:44:51 PM]  Nhặt +2178 beri
+[04:44:52 PM]  Nhặt +1564 beri
+[04:44:53 PM]  Nhặt +810 beri
+[04:44:54 PM]  Nhặt +68 beri
+[04:44:55 PM]  Nhặt +1368 beri
+[04:44:56 PM]  Nhặt +2720 beri
+[04:44:58 PM]  Nhặt +2160 beri
+[04:44:59 PM]  Nhặt +952 beri
+[04:44:59 PM]  Nhặt +663 beri
+[04:45:00 PM]  Nhặt +1530 beri
+[04:45:01 PM]  Nhặt +2718 beri
+[04:45:02 PM]  Nhặt +425 beri
+[04:45:03 PM]  Nhặt +833 beri
+[04:45:06 PM]  Nhặt +2584 beri
+[04:45:07 PM]  Nhặt +2159 beri
+[04:45:10 PM]  Nhặt +2516 beri
+[04:45:11 PM]  Nhặt +187 beri
+[04:45:12 PM]  Nhặt +3230 beri
+[04:45:13 PM]  Nhặt +2958 beri
+[04:45:13 PM]  Nhặt +1188 beri
+[04:45:14 PM]  Nhặt +2329 beri
+[04:45:18 PM]  Nhặt +1649 beri
+[04:45:19 PM]  Nhặt +2686 beri
+[04:45:20 PM]  Nhặt +3546 beri
+[04:45:21 PM]  Nhặt +306 beri
+[04:45:23 PM]  Nhặt +2244 beri
+[04:45:24 PM]  Nhặt +3366 beri
+[04:45:25 PM]  Nhặt +2448 beri
+[04:45:27 PM]  Nhặt +2718 beri
+[04:45:28 PM]  Nhặt +3145 beri
+[04:45:30 PM]  Nhặt +510 beri
+[04:45:32 PM]  Nhặt +1530 beri
+[04:45:33 PM]  Nhặt +2907 beri
+[04:45:35 PM]  Nhặt +1173 beri
+[04:45:37 PM]  Nhặt +1156 beri
+[04:45:38 PM]  Nhặt +2790 beri
+[04:45:39 PM]  Nhặt +527 beri
+[04:45:40 PM]  Nhặt +2516 beri
+[04:45:42 PM]  Nhặt +2196 beri
+[04:45:43 PM]  Nhặt +3096 beri
+[04:45:45 PM]  Nhặt +2159 beri
+[04:45:46 PM]  Nhặt +1105 beri
+[04:45:47 PM]  Nhặt +2142 beri
+[04:45:48 PM]  Nhặt +2448 beri
+[04:45:49 PM]  Nhặt +1224 beri
+[04:45:52 PM]  Nhặt +646 beri
+[04:45:53 PM]  Nhặt +901 beri
+[04:45:55 PM]  Nhặt +969 beri
+[04:45:56 PM]  Nhặt +2159 beri
+[04:45:57 PM]  Nhặt +2934 beri
+[04:45:58 PM]  Nhặt +648 beri
+[04:46:00 PM]  Nhặt +1377 beri
+[04:46:02 PM]  Nhặt +2907 beri
+[04:46:03 PM]  Nhặt +3348 beri
+[04:46:05 PM]  Nhặt +476 beri
+[04:46:05 PM]  Nhặt +144 beri
+[04:46:07 PM]  Nhặt +1638 beri
+[04:46:08 PM]  Nhặt +714 beri
+[04:46:09 PM]  Nhặt +629 beri
+[04:46:10 PM]  Nhặt +2805 beri
+[04:46:11 PM]  Nhặt +408 beri
+[04:46:12 PM]  Nhặt +1044 beri
+[04:46:14 PM]  Nhặt +85 beri
+[04:46:15 PM]  Nhặt +2210 beri
+[04:46:16 PM]  Nhặt +216 beri
+[04:46:16 PM]  Nhặt +2907 beri
+[04:46:17 PM]  Nhặt +2754 beri
+[04:46:18 PM]  Nhặt +2720 beri
+[04:46:19 PM]  Nhặt +2057 beri
+[04:46:21 PM]  Nhặt +714 beri
+[04:46:22 PM]  Nhặt +935 beri
+[04:46:23 PM]  Nhặt +731 beri
+[04:46:25 PM]  Nhặt +216 beri
+[04:46:26 PM]  Nhặt +3264 beri
+[04:46:27 PM]  Nhặt +1003 beri
+[04:46:28 PM]  Nhặt +1666 beri
+[04:46:30 PM]  Nhặt +612 beri
+[04:46:30 PM]  Nhặt +2448 beri
+[04:46:32 PM]  Nhặt +2720 beri
+[04:46:34 PM]  Nhặt +2873 beri
+[04:46:35 PM]  Nhặt +1530 beri
+[04:46:36 PM]  Nhặt +119 beri
+[04:46:37 PM]  Nhặt +1615 beri
+[04:46:38 PM]  Nhặt +900 beri
+[04:46:39 PM]  Nhặt +1615 beri
+[04:46:40 PM]  Nhặt +714 beri
+[04:46:41 PM]  Nhặt +1428 beri
+[04:46:43 PM]  Nhặt +2941 beri
+[04:46:43 PM]  Nhặt +1887 beri
+[04:46:47 PM]  Nhặt +1547 beri
+[04:46:48 PM]  Nhặt +1802 beri
+[04:46:49 PM]  Nhặt +663 beri
+[04:46:50 PM]  Nhặt +2941 beri
+[04:46:51 PM]  Nhặt +1962 beri
+[04:46:52 PM]  Nhặt +3298 beri
+[04:46:53 PM]  Nhặt +2988 beri
+[04:46:54 PM]  Nhặt +935 beri
+[04:46:55 PM]  Nhặt +918 beri
+[04:46:56 PM]  Nhặt +3128 beri
+[04:46:58 PM]  Nhặt +2839 beri
+[04:47:01 PM]  Nhặt +85 beri
+[04:47:04 PM]  Nhặt +527 beri
+[04:47:05 PM]  Nhặt +2737 beri
+[04:47:06 PM]  Nhặt +2286 beri
+[04:47:07 PM]  Nhặt +153 beri
+[04:47:09 PM]  Nhặt +765 beri
+[04:47:11 PM]  Nhặt +629 beri
+[04:47:12 PM]  Nhặt +1224 beri
+[04:47:13 PM]  Nhặt +72 beri
+[04:47:14 PM]  Nhặt +153 beri
+[04:47:15 PM]  Nhặt +162 beri
+[04:47:40 PM]  Nhặt +2074 beri
+[04:47:41 PM]  Nhặt +1071 beri
+[04:47:43 PM]  Nhặt +2839 beri
+[04:47:44 PM]  Nhặt +663 beri
+[04:47:45 PM]  Nhặt +3492 beri
+[04:47:46 PM]  Nhặt +54 beri
+[04:47:46 PM]  Nhặt +1598 beri
+[04:47:49 PM]  Nhặt +340 beri
+[04:47:51 PM]  Nhặt +2788 beri
+[04:47:54 PM]  Nhặt +595 beri
+[04:47:57 PM]  Nhặt +2340 beri
+[04:47:58 PM]  Nhặt +578 beri
+[04:47:59 PM]  Nhặt +3024 beri
+[04:48:00 PM]  Nhặt +756 beri
+[04:48:01 PM]  Nhặt +3145 beri
+[04:48:02 PM]  Nhặt +1275 beri
+[04:48:04 PM]  Nhặt +2652 beri
+[04:48:06 PM]  Nhặt +3230 beri
+[04:48:07 PM]  Nhặt +1292 beri
+[04:48:08 PM]  Nhặt +3009 beri
+[04:48:10 PM]  Nhặt +3281 beri
+[04:48:12 PM]  Nhặt +738 beri
+[04:48:15 PM]  Nhặt +1190 beri
+[04:48:16 PM]  Nhặt +1768 beri
+[04:48:17 PM]  Nhặt +1683 beri
+[04:48:18 PM]  Nhặt +1326 beri
+[04:48:19 PM]  Nhặt +252 beri
+[04:48:20 PM]  Nhặt +1819 beri
+[04:48:21 PM]  Nhặt +2720 beri
+[04:48:22 PM]  Nhặt +544 beri
+[04:48:24 PM]  Nhặt +2873 beri
+[04:48:25 PM]  Nhặt +1853 beri
+[04:48:27 PM]  Nhặt +3186 beri
+[04:48:29 PM]  Nhặt +1530 beri
+[04:48:30 PM]  Nhặt +1632 beri
+[04:48:31 PM]  Nhặt +2499 beri
+[04:48:32 PM]  Nhặt +3026 beri
+[04:48:33 PM]  Nhặt +3111 beri
+[04:48:33 PM]  Nhặt +1802 beri
+[04:48:34 PM]  Nhặt +1802 beri
+[04:48:35 PM]  Nhặt +612 beri
+[04:48:36 PM]  Nhặt +2992 beri
+[04:48:37 PM]  Nhặt +1649 beri
+[04:48:38 PM]  Nhặt +1728 beri
+[04:48:39 PM]  Nhặt +1350 beri
+[04:48:40 PM]  Nhặt +799 beri
+[04:48:41 PM]  Nhặt +799 beri
+[04:48:42 PM]  Nhặt +1818 beri
+[04:48:43 PM]  Nhặt +2584 beri
+[04:48:46 PM]  Nhặt +1139 beri
+[04:48:46 PM]  Nhặt +2088 beri
+[04:49:09 PM]  Nhặt +1819 beri
+[04:49:14 PM]  Nhặt +340 beri
+[04:49:15 PM]  Nhặt +1003 beri
+[04:49:17 PM]  Nhặt +1241 beri
+[04:49:18 PM]  Nhặt +1156 beri
+[04:49:19 PM]  Nhặt +2941 beri
+[04:49:21 PM]  Nhặt +153 beri
+[04:49:22 PM]  Nhặt +1462 beri
+[04:49:22 PM]  Nhặt +2635 beri
+[04:49:23 PM]  Nhặt +3230 beri
+[04:49:25 PM]  Nhặt +1989 beri
+[04:49:26 PM]  Nhặt +2826 beri
+[04:49:28 PM]  Nhặt +2006 beri
+[04:49:29 PM]  Nhặt +2278 beri
+[04:49:30 PM]  Nhặt +2924 beri
+[04:49:31 PM]  Nhặt +1190 beri
+[04:49:32 PM]  Nhặt +357 beri
+[04:49:34 PM]  Nhặt +3264 beri
+[04:49:35 PM]  Nhặt +2686 beri
+[04:49:35 PM]  Nhặt +1768 beri
+[04:49:37 PM]  Nhặt +1717 beri
+[04:49:38 PM]  Nhặt +1615 beri
+[04:49:40 PM]  Nhặt +2006 beri
+[04:49:42 PM]  Nhặt +1411 beri
+[04:49:44 PM]  Nhặt +306 beri
+[04:49:45 PM]  Nhặt +170 beri
+[04:49:46 PM]  Nhặt +357 beri
+[04:49:49 PM]  Nhặt +2482 beri
+[04:49:50 PM]  Nhặt +1496 beri
+[04:49:53 PM]  Nhặt +1241 beri
+[04:49:55 PM]  Nhặt +221 beri
+[04:49:55 PM]  Nhặt +850 beri
+[04:49:56 PM]  Nhặt +2601 beri
+[04:49:57 PM]  Nhặt +1326 beri
+[04:49:58 PM]  Nhặt +3366 beri
+[04:49:59 PM]  Nhặt +2052 beri
+[04:50:00 PM]  Nhặt +1152 beri
+[04:50:01 PM]  Nhặt +1853 beri
+[04:50:02 PM]  Nhặt +702 beri
+[04:50:03 PM]  Nhặt +714 beri
+[04:50:04 PM]  Nhặt +2108 beri
+[04:50:05 PM]  Nhặt +102 beri
+[04:50:07 PM]  Nhặt +136 beri
+[04:50:08 PM]  Nhặt +51 beri
+[04:50:09 PM]  Nhặt +1156 beri
+[04:50:10 PM]  Nhặt +2448 beri
+[04:50:11 PM]  Nhặt +2538 beri
+[04:50:13 PM]  Nhặt +255 beri
+[04:50:14 PM]  Nhặt +630 beri
+[04:50:18 PM]  Nhặt +1445 beri
+[04:50:19 PM]  Nhặt +2431 beri
+[04:50:21 PM]  Nhặt +1224 beri
+[04:50:21 PM]  Nhặt +1989 beri
+[04:50:22 PM]  Nhặt +2040 beri
+[04:50:23 PM]  Nhặt +306 beri
+[04:50:24 PM]  Nhặt +1116 beri
+[04:50:25 PM]  Nhặt +1649 beri
+[04:50:26 PM]  Nhặt +2006 beri
+[04:50:27 PM]  Nhặt +2584 beri
+[04:50:29 PM]  Nhặt +884 beri
+[04:50:30 PM]  Nhặt +3026 beri
+[04:50:31 PM]  Nhặt +918 beri
+[04:50:33 PM]  Nhặt +1921 beri
+[04:50:33 PM]  Nhặt +1173 beri
+[04:50:34 PM]  Nhặt +136 beri
+[04:50:35 PM]  Nhặt +864 beri
+[04:50:38 PM]  Nhặt +289 beri
+[04:50:39 PM]  Nhặt +459 beri
+[04:50:41 PM]  Nhặt +2754 beri
+[04:50:42 PM]  Nhặt +2826 beri
+[04:50:44 PM]  Nhặt +680 beri
+[04:50:45 PM]  Nhặt +36 beri
+[04:50:46 PM]  Nhặt +119 beri
+[04:50:46 PM]  Nhặt +1088 beri
+[04:50:47 PM]  Nhặt +2244 beri
+[04:50:48 PM]  Nhặt +272 beri
+[04:50:50 PM]  Nhặt +1728 beri
+[04:50:51 PM]  Nhặt +1710 beri
+[04:50:52 PM]  Nhặt +2329 beri
+[04:50:53 PM]  Nhặt +54 beri
+[04:50:54 PM]  Nhặt +2091 beri
+[04:50:55 PM]  Nhặt +2176 beri
+[04:50:57 PM]  Nhặt +1445 beri
+[04:50:59 PM]  Nhặt +1768 beri
+[04:51:00 PM]  Nhặt +252 beri
+[04:51:01 PM]  Nhặt +289 beri
+[04:51:04 PM]  Nhặt +680 beri
+[04:51:05 PM]  Nhặt +697 beri
+[04:51:06 PM]  Nhặt +3315 beri
+[04:51:07 PM]  Nhặt +306 beri
+[04:51:09 PM]  Nhặt +425 beri
+[04:51:10 PM]  Nhặt +1170 beri
+[04:51:11 PM]  Nhặt +2193 beri
+[04:51:13 PM]  Nhặt +799 beri
+[04:51:14 PM]  Nhặt +2193 beri
+[04:51:15 PM]  Nhặt +765 beri
+[04:51:17 PM]  Nhặt +2646 beri
+[04:51:18 PM]  Nhặt +1564 beri
+[04:51:19 PM]  Nhặt +119 beri
+[04:51:20 PM]  Nhặt +3312 beri
+[04:51:23 PM]  Nhặt +1326 beri
+[04:51:24 PM]  Nhặt +1440 beri
+[04:51:25 PM]  Nhặt +2346 beri
+[04:51:26 PM]  Nhặt +663 beri
+[04:51:27 PM]  Nhặt +1314 beri
+[04:51:29 PM]  Nhặt +2346 beri
+[04:51:30 PM]  Nhặt +1296 beri
+[04:51:32 PM]  Nhặt +867 beri
+[04:51:33 PM]  Nhặt +2703 beri
+[04:51:35 PM]  Nhặt +1494 beri
+[04:51:39 PM]  Nhặt +85 beri
+[04:51:39 PM]  Nhặt +1343 beri
+[04:51:40 PM]  Nhặt +1836 beri
+[04:51:41 PM]  Nhặt +1656 beri
+[04:51:42 PM]  Nhặt +374 beri
+[04:51:43 PM]  Nhặt +2890 beri
+[04:51:44 PM]  Nhặt +990 beri
+[04:51:46 PM]  Nhặt +3276 beri
+[04:51:48 PM]  Nhặt +2808 beri
+[04:51:49 PM]  Nhặt +2754 beri
+[04:51:50 PM]  Nhặt +2584 beri
+[04:51:51 PM]  Nhặt +544 beri
+[04:51:51 PM]  Nhặt +459 beri
+[04:51:52 PM]  Nhặt +2873 beri
+[04:51:53 PM]  Nhặt +450 beri
+[04:51:56 PM]  Nhặt +1080 beri
+[04:51:57 PM]  Nhặt +2718 beri
+[04:51:59 PM]  Nhặt +918 beri
+[04:52:01 PM]  Nhặt +51 beri
+[04:52:03 PM]  Nhặt +561 beri
+[04:52:04 PM]  Nhặt +360 beri
+[04:52:04 PM]  Nhặt +1309 beri
+[04:52:05 PM]  Nhặt +3213 beri
+[04:52:07 PM]  Nhặt +493 beri
+[04:52:08 PM]  Nhặt +3042 beri
+[04:52:13 PM]  Nhặt +2916 beri
+[04:52:14 PM]  Nhặt +238 beri
+[04:52:15 PM]  Nhặt +2790 beri
+[04:52:16 PM]  Nhặt +2924 beri
+[04:52:17 PM]  Nhặt +774 beri
+[04:52:18 PM]  Nhặt +3366 beri
+[04:52:19 PM]  Nhặt +3179 beri
+[04:52:20 PM]  Nhặt +1170 beri
+[04:52:21 PM]  Nhặt +833 beri
+[04:52:22 PM]  Nhặt +425 beri
+[04:52:23 PM]  Nhặt +1872 beri
+[04:52:24 PM]  Nhặt +3060 beri
+[04:52:27 PM]  Nhặt +1547 beri
+[04:52:29 PM]  Nhặt +3330 beri
+[04:52:30 PM]  Nhặt +450 beri
+[04:52:30 PM]  Nhặt +646 beri
+[04:52:31 PM]  Nhặt +2091 beri
+[04:52:32 PM]  Nhặt +3077 beri
+[04:52:33 PM]  Nhặt +2720 beri
+[04:52:34 PM]  Nhặt +2618 beri
+[04:52:35 PM]  Nhặt +2839 beri
+[04:52:36 PM]  Nhặt +714 beri
+[04:52:38 PM]  Nhặt +1764 beri
+[04:52:40 PM]  Nhặt +204 beri
+[04:52:41 PM]  Nhặt +3043 beri
+[04:52:42 PM]  Nhặt +1955 beri
+[04:52:44 PM]  Nhặt +595 beri
+[04:52:46 PM]  Nhặt +3043 beri
+[04:52:49 PM]  Nhặt +1343 beri
+[04:52:50 PM]  Nhặt +527 beri
+[04:52:52 PM]  Nhặt +3196 beri
+[04:52:54 PM]  Nhặt +3383 beri
+[04:52:55 PM]  Nhặt +1989 beri
+[04:52:58 PM]  Nhặt +2856 beri
+[04:52:59 PM]  Nhặt +765 beri
+[04:52:59 PM]  Nhặt +952 beri
+[04:53:00 PM]  Nhặt +3315 beri
+[04:53:02 PM]  Nhặt +2329 beri
+[04:53:04 PM]  Nhặt +2754 beri
+[04:53:06 PM]  Nhặt +2431 beri
+[04:53:10 PM]  Nhặt +1649 beri
+[04:53:10 PM]  Nhặt +1360 beri
+[04:53:12 PM]  Nhặt +1938 beri
+[04:53:14 PM]  Nhặt +1080 beri
+[04:53:16 PM]  Nhặt +561 beri
+[04:53:17 PM]  Nhặt +2244 beri
+[04:53:18 PM]  Nhặt +1854 beri
+[04:53:19 PM]  Nhặt +1411 beri
+[04:53:20 PM]  Nhặt +2394 beri
+[04:53:21 PM]  Nhặt +720 beri
+[04:53:22 PM]  Nhặt +1768 beri
+[04:53:23 PM]  Nhặt +1326 beri
+[04:53:23 PM]  Nhặt +2295 beri
+[04:53:24 PM]  Nhặt +3330 beri
+[04:53:26 PM]  Nhặt +3420 beri
+[04:53:27 PM]  Nhặt +2718 beri
+[04:53:28 PM]  Nhặt +323 beri
+[04:53:30 PM]  Nhặt +3247 beri
+[04:53:31 PM]  Nhặt +1496 beri
+[04:53:32 PM]  Nhặt +204 beri
+[04:53:33 PM]  Nhặt +2592 beri
+[04:53:35 PM]  Nhặt +630 beri
+[04:53:36 PM]  Nhặt +340 beri
+[04:53:36 PM]  Nhặt +1513 beri
+[04:53:37 PM]  Nhặt +578 beri
+[04:53:38 PM]  Nhặt +595 beri
+[04:53:40 PM]  Nhặt +2502 beri
+[04:53:41 PM]  Nhặt +2992 beri
+[04:53:42 PM]  Nhặt +2363 beri
+[04:53:43 PM]  Nhặt +1332 beri
+[04:53:45 PM]  Nhặt +935 beri
+[04:53:46 PM]  Nhặt +3298 beri
+[04:53:47 PM]  Nhặt +3582 beri
+[04:53:48 PM]  Nhặt +2295 beri
+[04:53:49 PM]  Nhặt +2771 beri
+[04:53:51 PM]  Nhặt +2244 beri
+[04:53:52 PM]  Nhặt +493 beri
+[04:53:52 PM]  Nhặt +2520 beri
+[04:53:53 PM]  Nhặt +846 beri
+[04:53:57 PM]  Nhặt +2244 beri
+[04:53:58 PM]  Nhặt +204 beri
+[04:53:59 PM]  Nhặt +731 beri
+[04:54:00 PM]  Nhặt +2278 beri
+[04:54:01 PM]  Nhặt +2159 beri
+[04:54:03 PM]  Nhặt +2346 beri
+[04:54:05 PM]  Nhặt +2856 beri
+[04:54:05 PM]  Nhặt +1440 beri
+[04:54:09 PM]  Nhặt +697 beri
+[04:54:12 PM]  Nhặt +187 beri
+[04:54:13 PM]  Nhặt +2880 beri
+[04:54:14 PM]  Nhặt +2329 beri
+[04:54:15 PM]  Nhặt +3111 beri
+[04:54:16 PM]  Nhặt +1224 beri
+[04:54:18 PM]  Nhặt +1870 beri
+[04:54:19 PM]  Nhặt +2210 beri
+[04:54:20 PM]  Nhặt +2106 beri
+[04:54:21 PM]  Nhặt +1071 beri
+[04:54:22 PM]  Nhặt +1343 beri
+[04:54:23 PM]  Nhặt +969 beri
+[04:54:26 PM]  Nhặt +1887 beri
+[04:54:30 PM]  Nhặt +2686 beri
+[04:54:31 PM]  Nhặt +3196 beri
+[04:54:33 PM]  Nhặt +2533 beri
+[04:54:34 PM]  Nhặt +2125 beri
+[04:54:35 PM]  Nhặt +2040 beri
+[04:54:39 PM]  Nhặt +2397 beri
+[04:54:40 PM]  Nhặt +2934 beri
+[04:54:41 PM]  Nhặt +2718 beri
+[04:54:42 PM]  Nhặt +799 beri
+[04:54:45 PM]  Nhặt +1071 beri
+[04:54:46 PM]  Nhặt +697 beri
+[04:54:47 PM]  Nhặt +2790 beri
+[04:54:50 PM]  Nhặt +2176 beri
+[04:54:51 PM]  Nhặt +792 beri
+[04:54:52 PM]  Nhặt +3042 beri
+[04:54:55 PM]  Nhặt +3009 beri
+[04:54:56 PM]  Nhặt +972 beri
+[04:54:58 PM]  Nhặt +3132 beri
+[04:54:58 PM]  Nhặt +799 beri
+[04:55:00 PM]  Nhặt +1683 beri
+[04:55:01 PM]  Nhặt +34 beri
+[04:55:02 PM]  Nhặt +1156 beri
+[04:55:03 PM]  Nhặt +1062 beri
+[04:55:04 PM]  Nhặt +1428 beri
+[04:55:05 PM]  Nhặt +1224 beri
+[04:55:06 PM]  Nhặt +2380 beri
+[04:55:08 PM]  Nhặt +51 beri
+[04:55:09 PM]  Nhặt +2363 beri
+[04:55:10 PM]  Nhặt +2380 beri
+[04:55:10 PM]  Nhặt +374 beri
+[04:55:11 PM]  Nhặt +3060 beri
+[04:55:12 PM]  Nhặt +1343 beri
+[04:55:13 PM]  Nhặt +3247 beri
+[04:55:14 PM]  Nhặt +1632 beri
+[04:55:15 PM]  Nhặt +986 beri
+[04:55:16 PM]  Nhặt +493 beri
+[04:55:18 PM]  Nhặt +68 beri
+[04:55:19 PM]  Nhặt +1394 beri
+[04:55:21 PM]  Nhặt +1921 beri
+[04:55:22 PM]  Nhặt +2574 beri
+[04:55:23 PM]  Nhặt +1768 beri
+[04:55:23 PM]  Nhặt +2088 beri
+[04:55:24 PM]  Nhặt +2934 beri
+[04:55:25 PM]  Nhặt +680 beri
+[04:55:26 PM]  Nhặt +2618 beri
+[04:55:27 PM]  Nhặt +663 beri
+[04:55:28 PM]  Nhặt +2006 beri
+[04:55:29 PM]  Nhặt +1785 beri
+[04:55:31 PM]  Nhặt +2430 beri
+[04:55:32 PM]  Nhặt +1020 beri
+[04:55:34 PM]  Nhặt +3094 beri
+[04:55:36 PM]  Nhặt +2397 beri
+[04:55:37 PM]  Nhặt +3060 beri
+[04:55:38 PM]  Nhặt +850 beri
+[04:55:39 PM]  Nhặt +1260 beri
+[04:55:40 PM]  Nhặt +2975 beri
+[04:55:41 PM]  Nhặt +2703 beri
+[04:55:43 PM]  Nhặt +1785 beri
+[04:55:44 PM]  Nhặt +1666 beri
+[04:55:45 PM]  Nhặt +1819 beri
+[04:55:48 PM]  Nhặt +408 beri
+[04:55:49 PM]  Nhặt +2312 beri
+[04:55:50 PM]  Nhặt +2159 beri
+[04:55:53 PM]  Nhặt +2232 beri
+[04:55:56 PM]  Nhặt +2771 beri
+[04:55:59 PM]  Nhặt +2737 beri
+[04:56:00 PM]  Nhặt +1962 beri
+[04:56:01 PM]  Nhặt +1139 beri
+[04:56:02 PM]  Nhặt +2448 beri
+[04:56:02 PM]  Nhặt +136 beri
+[04:56:03 PM]  Nhặt +153 beri
+[04:56:04 PM]  Nhặt +2295 beri
+[04:56:05 PM]  Nhặt +2686 beri
+[04:56:06 PM]  Nhặt +2016 beri
+[04:56:08 PM]  Nhặt +2682 beri
+[04:56:09 PM]  Nhặt +2040 beri
+[04:56:10 PM]  Nhặt +3298 beri
+[04:56:11 PM]  Nhặt +3315 beri
+[04:56:12 PM]  Nhặt +1292 beri
+[04:56:13 PM]  Nhặt +1360 beri
+[04:56:14 PM]  Nhặt +342 beri
+[04:56:15 PM]  Nhặt +2992 beri
+[04:56:16 PM]  Nhặt +408 beri
+[04:56:18 PM]  Nhặt +221 beri
+[04:56:19 PM]  Nhặt +1512 beri
+[04:56:22 PM]  Nhặt +476 beri
+[04:56:23 PM]  Nhặt +2720 beri
+[04:56:26 PM]  Nhặt +1440 beri
+[04:56:29 PM]  Nhặt +2363 beri
+[04:56:30 PM]  Nhặt +2088 beri
+[04:56:31 PM]  Nhặt +1190 beri
+[04:56:32 PM]  Nhặt +2952 beri
+[04:56:33 PM]  Nhặt +36 beri
+[04:56:34 PM]  Nhặt +2736 beri
+[04:56:35 PM]  Nhặt +2193 beri
+[04:56:36 PM]  Nhặt +2669 beri
+[04:56:37 PM]  Nhặt +3276 beri
+[04:56:38 PM]  Nhặt +68 beri
+[04:56:39 PM]  Nhặt +90 beri
+[04:56:40 PM]  Nhặt +2538 beri
+[04:56:41 PM]  Nhặt +646 beri
+[04:56:42 PM]  Nhặt +170 beri
+[04:56:43 PM]  Nhặt +2556 beri
+[04:56:44 PM]  Nhặt +1955 beri
+[04:56:45 PM]  Nhặt +1692 beri
+[04:56:46 PM]  Nhặt +1638 beri
+[04:56:47 PM]  Nhặt +153 beri
+[04:56:48 PM]  Nhặt +255 beri
+[04:56:49 PM]  Nhặt +2070 beri
+[04:56:50 PM]  Nhặt +702 beri
+[04:56:51 PM]  Nhặt +476 beri
+[04:56:52 PM]  Nhặt +1044 beri
+[04:56:54 PM]  Nhặt +2856 beri
+[04:56:54 PM]  Nhặt +2805 beri
+[04:56:55 PM]  Nhặt +2142 beri
+[04:56:56 PM]  Nhặt +1584 beri
+[04:57:00 PM]  Nhặt +864 beri
+[04:57:03 PM]  Nhặt +3298 beri
+[04:57:04 PM]  Nhặt +2771 beri
+[04:57:05 PM]  Nhặt +1476 beri
+[04:57:06 PM]  Nhặt +306 beri
+[04:57:07 PM]  Nhặt +2023 beri
+[04:57:10 PM]  Nhặt +187 beri
+[04:57:11 PM]  Nhặt +1350 beri
+[04:57:13 PM]  Nhặt +198 beri
+[04:57:16 PM]  Nhặt +2261 beri
+[04:57:17 PM]  Nhặt +2244 beri
+[04:57:18 PM]  Nhặt +3474 beri
+[04:57:19 PM]  Nhặt +1700 beri
+[04:57:21 PM]  Nhặt +3213 beri
+[04:57:23 PM]  Nhặt +1156 beri
+[04:57:24 PM]  Nhặt +972 beri
+[04:57:25 PM]  Nhặt +3456 beri
+[04:57:26 PM]  Nhặt +2550 beri
+[04:57:28 PM]  Nhặt +2754 beri
+[04:57:29 PM]  Nhặt +1513 beri
+[04:57:32 PM]  Nhặt +1620 beri
+[04:57:33 PM]  Nhặt +1785 beri
+[04:57:35 PM]  Nhặt +1853 beri
+[04:57:35 PM]  Nhặt +3315 beri
+[04:57:36 PM]  Nhặt +1479 beri
+[04:57:38 PM]  Nhặt +714 beri
+[04:57:39 PM]  Nhặt +1496 beri
+[04:57:40 PM]  Nhặt +3179 beri
+[04:57:43 PM]  Nhặt +2329 beri
+[04:57:45 PM]  Nhặt +561 beri
+[04:57:45 PM]  Nhặt +1717 beri
+[04:57:46 PM]  Nhặt +3162 beri
+[04:57:48 PM]  Nhặt +3196 beri
+[04:57:49 PM]  Nhặt +1054 beri
+[04:57:50 PM]  Nhặt +204 beri
+[04:57:51 PM]  Nhặt +612 beri
+[04:57:54 PM]  Nhặt +2890 beri
+[04:57:55 PM]  Nhặt +1496 beri
+[04:57:57 PM]  Nhặt +2465 beri
+[04:57:58 PM]  Nhặt +2970 beri
+[04:57:59 PM]  Nhặt +2646 beri
+[04:58:00 PM]  Nhặt +2227 beri
+[04:58:02 PM]  Nhặt +2312 beri
+[04:58:03 PM]  Nhặt +595 beri
+[04:58:04 PM]  Nhặt +1343 beri
+[04:58:06 PM]  Nhặt +1854 beri
+[04:58:07 PM]  Nhặt +3281 beri
+[04:58:09 PM]  Nhặt +1445 beri
+[04:58:10 PM]  Nhặt +612 beri
+[04:58:11 PM]  Nhặt +2244 beri
+[04:58:11 PM]  Nhặt +1326 beri
+[04:58:13 PM]  Nhặt +3564 beri
+[04:58:14 PM]  Nhặt +833 beri
+[04:58:16 PM]  Nhặt +3230 beri
+[04:58:17 PM]  Nhặt +1054 beri
+[04:58:18 PM]  Nhặt +3546 beri
+[04:58:19 PM]  Nhặt +2448 beri
+[04:58:20 PM]  Nhặt +2196 beri
+[04:58:23 PM]  Nhặt +2346 beri
+[04:58:24 PM]  Nhặt +1548 beri
+[04:58:25 PM]  Nhặt +17 beri
+[04:58:26 PM]  Nhặt +1584 beri
+[04:58:27 PM]  Nhặt +3298 beri
+[04:58:28 PM]  Nhặt +425 beri
+[04:58:29 PM]  Nhặt +2635 beri
+[04:58:30 PM]  Nhặt +324 beri
+[04:58:31 PM]  Nhặt +3060 beri
+[04:58:32 PM]  Nhặt +1908 beri
+[04:58:33 PM]  Nhặt +1746 beri
+[04:58:35 PM]  Nhặt +2618 beri
+[04:58:36 PM]  Nhặt +1632 beri
+[04:58:37 PM]  Nhặt +1071 beri
+[04:58:38 PM]  Nhặt +3330 beri
+[04:58:39 PM]  Nhặt +3196 beri
+[04:58:41 PM]  Nhặt +2346 beri
+[04:58:42 PM]  Nhặt +1062 beri
+[04:58:43 PM]  Nhặt +2412 beri
+[04:58:45 PM]  Nhặt +3006 beri
+[04:58:46 PM]  Nhặt +1802 beri
+[04:58:47 PM]  Nhặt +459 beri
+[04:58:48 PM]  Nhặt +2125 beri
+[04:58:49 PM]  Nhặt +1904 beri
+[04:58:49 PM]  Nhặt +1044 beri
+[04:58:50 PM]  Nhặt +2736 beri
+[04:58:51 PM]  Nhặt +2808 beri
+[04:58:52 PM]  Nhặt +2329 beri
+[04:58:53 PM]  Nhặt +3315 beri
+[04:58:55 PM]  Nhặt +1734 beri
+[04:58:57 PM]  Nhặt +450 beri
+[04:58:59 PM]  Nhặt +493 beri
+[04:59:01 PM]  Nhặt +2652 beri
+[04:59:02 PM]  Nhặt +425 beri
+[04:59:03 PM]  Nhặt +1683 beri
+[04:59:03 PM]  Nhặt +2376 beri
+[04:59:04 PM]  Nhặt +1620 beri
+[04:59:05 PM]  Nhặt +3213 beri
+[04:59:07 PM]  Nhặt +414 beri
+[04:59:08 PM]  Nhặt +3230 beri
+[04:59:09 PM]  Nhặt +3009 beri
+[04:59:10 PM]  Nhặt +810 beri
+[04:59:11 PM]  Nhặt +1764 beri
+[04:59:12 PM]  Nhặt +252 beri
+[04:59:14 PM]  Nhặt +2322 beri
+[04:59:17 PM]  Nhặt +1190 beri
+[04:59:18 PM]  Nhặt +2826 beri
+[04:59:20 PM]  Nhặt +2516 beri
+[04:59:21 PM]  Nhặt +1768 beri
+[04:59:22 PM]  Nhặt +1326 beri
+[04:59:25 PM]  Nhặt +1368 beri
+[04:59:28 PM]  Nhặt +108 beri
+[04:59:31 PM]  Nhặt +1428 beri
+[04:59:31 PM]  Nhặt +2380 beri
+[04:59:32 PM]  Nhặt +1802 beri
+[04:59:33 PM]  Nhặt +2057 beri
+[04:59:36 PM]  Nhặt +2482 beri
+[04:59:37 PM]  Nhặt +2244 beri
+[04:59:39 PM]  Nhặt +1088 beri
+[04:59:40 PM]  Nhặt +2414 beri
+[04:59:42 PM]  Nhặt +3077 beri
+[04:59:43 PM]  Nhặt +1020 beri
+[04:59:44 PM]  Nhặt +2826 beri
+[04:59:45 PM]  Nhặt +170 beri
+[04:59:46 PM]  Nhặt +2057 beri
+[04:59:49 PM]  Nhặt +2788 beri
+[04:59:50 PM]  Nhặt +918 beri
+[04:59:53 PM]  Nhặt +1152 beri
+[04:59:54 PM]  Nhặt +629 beri
+[04:59:55 PM]  Nhặt +3094 beri
+[04:59:55 PM]  Nhặt +2567 beri
+[04:59:56 PM]  Nhặt +1615 beri
+[04:59:58 PM]  Nhặt +2601 beri
+[05:00:00 PM]  Nhặt +2856 beri
+[05:00:04 PM]  Nhặt +1278 beri
+[05:00:05 PM]  Nhặt +731 beri
+[05:00:09 PM]  Nhặt +629 beri
+[05:00:11 PM]  Nhặt +288 beri
+[05:00:11 PM]  Nhặt +102 beri
+[05:00:12 PM]  Nhặt +187 beri
+[05:00:13 PM]  Nhặt +3196 beri
+[05:00:14 PM]  Nhặt +1190 beri
+[05:00:18 PM]  Nhặt +2502 beri
+[05:00:19 PM]  Nhặt +1278 beri
+[05:00:20 PM]  Nhặt +1139 beri
+[05:00:22 PM]  Nhặt +119 beri
+[05:00:23 PM]  Nhặt +1921 beri
+[05:00:25 PM]  Nhặt +1836 beri
+[05:00:26 PM]  Nhặt +2482 beri
+[05:00:28 PM]  Nhặt +936 beri
+[05:00:29 PM]  Nhặt +2601 beri
+[05:00:30 PM]  Nhặt +3009 beri
+[05:00:31 PM]  Nhặt +374 beri
+[05:00:32 PM]  Nhặt +630 beri
+[05:00:34 PM]  Nhặt +144 beri
+[05:00:36 PM]  Nhặt +748 beri
+[05:00:37 PM]  Nhặt +1360 beri
+[05:00:39 PM]  Nhặt +1955 beri
+[05:00:40 PM]  Nhặt +1242 beri
+[05:00:41 PM]  Nhặt +1404 beri
+[05:00:42 PM]  Nhặt +2856 beri
+[05:00:43 PM]  Nhặt +374 beri
+[05:00:44 PM]  Nhặt +2210 beri
+[05:00:45 PM]  Nhặt +2160 beri
+[05:00:47 PM]  Nhặt +2669 beri
+[05:00:49 PM]  Nhặt +648 beri
+[05:00:49 PM]  Nhặt +935 beri
+[05:00:50 PM]  Nhặt +1026 beri
+[05:00:51 PM]  Nhặt +1944 beri
+[05:00:52 PM]  Nhặt +1314 beri
+[05:00:53 PM]  Nhặt +85 beri
+[05:00:54 PM]  Nhặt +1105 beri
+[05:00:55 PM]  Nhặt +3196 beri
+[05:02:36 PM]  Chuyển hóa Kiếm thất truyền 2 sang Vũ khí kiếm khách 10x -150 ruby
+[05:02:56 PM]  Đục lỗ Vũ khí kiếm khách 10x -50 ruby
+[05:02:58 PM]  Đục lỗ Vũ khí kiếm khách 10x -100 ruby
+[05:03:01 PM]  Đục lỗ Vũ khí kiếm khách 10x -150 ruby
+[05:03:03 PM]  Đục lỗ Vũ khí kiếm khách 10x -200 ruby
+[05:03:06 PM]  Đục lỗ Vũ khí kiếm khách 10x -250 ruby
+[05:03:08 PM]  Đục lỗ Vũ khí kiếm khách 10x -300 ruby
+[05:03:11 PM]  Đục lỗ Vũ khí kiếm khách 10x -350 ruby
+[05:04:33 PM]  Mua Khố tím 2 -500000 beri
+[05:04:34 PM]  Mua Áo vắt vai 2 -500000 beri
+[05:06:42 PM]  Chuyển hóa Khố tím 2 sang Quần kiếm khách 10x -150 ruby
+[05:06:50 PM]  Chuyển hóa Áo vắt vai 2 sang Áo kiếm khách 10x -150 ruby
+[05:07:19 PM]  Đục lỗ Quần kiếm khách 10x -50 ruby
+[05:07:23 PM]  Đục lỗ Áo kiếm khách 10x -50 ruby
+[05:07:25 PM]  Đục lỗ Áo kiếm khách 10x -100 ruby
+[05:07:27 PM]  Đục lỗ Áo kiếm khách 10x -150 ruby
+[05:07:30 PM]  Đục lỗ Áo kiếm khách 10x -200 ruby
+[05:07:32 PM]  Đục lỗ Áo kiếm khách 10x -250 ruby
+[05:07:34 PM]  Đục lỗ Áo kiếm khách 10x -300 ruby
+[05:07:37 PM]  Đục lỗ Áo kiếm khách 10x -350 ruby
+[05:07:39 PM]  Đục lỗ Quần kiếm khách 10x -100 ruby
+[05:07:41 PM]  Đục lỗ Quần kiếm khách 10x -150 ruby
+[05:07:44 PM]  Đục lỗ Quần kiếm khách 10x -200 ruby
+[05:07:46 PM]  Đục lỗ Quần kiếm khách 10x -250 ruby
+[05:07:49 PM]  Đục lỗ Quần kiếm khách 10x -300 ruby
+[05:07:51 PM]  Đục lỗ Quần kiếm khách 10x -350 ruby
+[05:08:46 PM]  Nhặt +170 beri
+[05:08:46 PM]  Nhặt +3349 beri
+[05:08:47 PM]  Nhặt +1098 beri
+[05:08:48 PM]  Nhặt +306 beri
+[05:08:51 PM]  Nhặt +2890 beri
+[05:08:54 PM]  Nhặt +323 beri
+[05:08:55 PM]  Nhặt +3332 beri
+[05:08:56 PM]  Nhặt +3222 beri
+[05:08:58 PM]  Nhặt +2916 beri
+[05:08:59 PM]  Nhặt +1428 beri
+[05:09:01 PM]  Nhặt +3456 beri
+[05:09:02 PM]  Nhặt +2788 beri
+[05:09:03 PM]  Nhặt +2533 beri
+[05:09:04 PM]  Nhặt +1700 beri
+[05:09:05 PM]  Nhặt +2584 beri
+[05:09:06 PM]  Nhặt +578 beri
+[05:09:07 PM]  Nhặt +3009 beri
+[05:09:08 PM]  Nhặt +360 beri
+[05:09:09 PM]  Nhặt +2664 beri
+[05:09:10 PM]  Nhặt +1278 beri
+[05:09:11 PM]  Nhặt +2210 beri
+[05:09:13 PM]  Nhặt +680 beri
+[05:09:14 PM]  Nhặt +1785 beri
+[05:09:15 PM]  Nhặt +2700 beri
+[05:09:16 PM]  Nhặt +2070 beri
+[05:09:18 PM]  Nhặt +170 beri
+[05:09:19 PM]  Nhặt +782 beri
+[05:09:20 PM]  Nhặt +3213 beri
+[05:09:21 PM]  Nhặt +1547 beri
+[05:09:23 PM]  Nhặt +1710 beri
+[05:09:24 PM]  Nhặt +2108 beri
+[05:09:25 PM]  Nhặt +459 beri
+[05:09:28 PM]  Nhặt +2227 beri
+[05:09:29 PM]  Nhặt +324 beri
+[05:09:31 PM]  Nhặt +1241 beri
+[05:09:32 PM]  Nhặt +3298 beri
+[05:09:32 PM]  Nhặt +1872 beri
+[05:09:35 PM]  Nhặt +1818 beri
+[05:09:36 PM]  Nhặt +2312 beri
+[05:09:37 PM]  Nhặt +289 beri
+[05:09:38 PM]  Nhặt +594 beri
+[05:09:39 PM]  Nhặt +234 beri
+[05:09:40 PM]  Nhặt +2159 beri
+[05:09:42 PM]  Nhặt +2160 beri
+[05:09:43 PM]  Nhặt +3006 beri
+[05:09:44 PM]  Nhặt +2601 beri
+[05:09:46 PM]  Nhặt +1768 beri
+[05:09:46 PM]  Nhặt +558 beri
+[05:09:48 PM]  Nhặt +1044 beri
+[05:09:49 PM]  Nhặt +108 beri
+[05:09:51 PM]  Nhặt +3042 beri
+[05:09:52 PM]  Nhặt +774 beri
+[05:09:53 PM]  Nhặt +1476 beri
+[05:09:54 PM]  Nhặt +2176 beri
+[05:09:55 PM]  Nhặt +2682 beri
+[05:09:57 PM]  Nhặt +697 beri
+[05:09:58 PM]  Nhặt +2431 beri
+[05:09:59 PM]  Nhặt +2142 beri
+[05:10:00 PM]  Nhặt +2214 beri
+[05:10:01 PM]  Nhặt +1872 beri
+[05:10:02 PM]  Nhặt +935 beri
+[05:10:03 PM]  Nhặt +1632 beri
+[05:10:07 PM]  Nhặt +2376 beri
+[05:10:08 PM]  Nhặt +1008 beri
+[05:10:09 PM]  Nhặt +459 beri
+[05:10:11 PM]  Nhặt +1260 beri
+[05:10:12 PM]  Nhặt +2592 beri
+[05:10:14 PM]  Nhặt +1998 beri
+[05:10:14 PM]  Nhặt +1692 beri
+[05:10:15 PM]  Nhặt +493 beri
+[05:10:17 PM]  Nhặt +1513 beri
+[05:10:18 PM]  Nhặt +3060 beri
+[05:10:19 PM]  Nhặt +850 beri
+[05:10:20 PM]  Nhặt +2414 beri
+[05:10:23 PM]  Nhặt +3204 beri
+[05:10:25 PM]  Nhặt +2839 beri
+[05:10:26 PM]  Nhặt +3420 beri
+[05:10:26 PM]  Nhặt +2907 beri
+[05:10:27 PM]  Nhặt +972 beri
+[05:10:28 PM]  Nhặt +2244 beri
+[05:10:29 PM]  Nhặt +2465 beri
+[05:10:30 PM]  Nhặt +799 beri
+[05:10:32 PM]  Nhặt +1020 beri
+[05:10:33 PM]  Nhặt +187 beri
+[05:10:34 PM]  Nhặt +323 beri
+[05:10:35 PM]  Nhặt +731 beri
+[05:10:36 PM]  Nhặt +2992 beri
+[05:10:37 PM]  Nhặt +408 beri
+[05:10:38 PM]  Nhặt +1445 beri
+[05:10:39 PM]  Nhặt +2737 beri
+[05:10:40 PM]  Nhặt +1955 beri
+[05:10:41 PM]  Nhặt +1734 beri
+[05:10:42 PM]  Nhặt +391 beri
+[05:10:44 PM]  Nhặt +2376 beri
+[05:10:46 PM]  Nhặt +867 beri
+[05:10:47 PM]  Nhặt +2106 beri
+[05:10:48 PM]  Nhặt +986 beri
+[05:10:49 PM]  Nhặt +17 beri
+[05:10:50 PM]  Nhặt +323 beri
+[05:10:51 PM]  Nhặt +374 beri
+[05:10:53 PM]  Nhặt +1494 beri
+[05:10:54 PM]  Nhặt +238 beri
+[05:10:55 PM]  Nhặt +187 beri
+[05:10:57 PM]  Nhặt +3312 beri
+[05:10:58 PM]  Nhặt +3094 beri
+[05:10:59 PM]  Nhặt +1088 beri
+[05:11:00 PM]  Nhặt +1071 beri
+[05:11:02 PM]  Nhặt +1309 beri
+[05:11:04 PM]  Nhặt +2669 beri
+[05:11:05 PM]  Nhặt +2142 beri
+[05:11:06 PM]  Nhặt +1411 beri
+[05:11:08 PM]  Nhặt +1088 beri
+[05:11:09 PM]  Nhặt +374 beri
+[05:11:10 PM]  Nhặt +714 beri
+[05:11:11 PM]  Nhặt +2754 beri
+[05:11:12 PM]  Nhặt +1632 beri
+[05:11:13 PM]  Nhặt +3438 beri
+[05:11:14 PM]  Nhặt +1785 beri
+[05:11:15 PM]  Nhặt +1785 beri
+[05:11:16 PM]  Nhặt +1581 beri
+[05:11:18 PM]  Nhặt +272 beri
+[05:11:19 PM]  Nhặt +2516 beri
+[05:11:23 PM]  Nhặt +3114 beri
+[05:11:24 PM]  Nhặt +136 beri
+[05:11:26 PM]  Nhặt +2091 beri
+[05:11:27 PM]  Nhặt +2227 beri
+[05:11:28 PM]  Nhặt +1296 beri
+[05:11:29 PM]  Nhặt +2924 beri
+[05:11:34 PM]  Logout : [Beri] 2.014.657.238 [Ruby] 1.999.705.641
+[11:55:16 PM]  Login : [Beri] 2.014.657.238 [Ruby] 1.999.705.641
+[11:55:22 PM]  Nhặt +684 beri
+[11:55:22 PM]  Nhặt +1258 beri
+[11:55:23 PM]  Nhặt +2227 beri
+[11:55:24 PM]  Nhặt +816 beri
+[11:55:26 PM]  Nhặt +2465 beri
+[11:55:27 PM]  Nhặt +1717 beri
+[11:55:28 PM]  Nhặt +1921 beri
+[11:55:30 PM]  Nhặt +527 beri
+[11:55:31 PM]  Nhặt +1734 beri
+[11:55:33 PM]  Nhặt +2584 beri
+[11:55:34 PM]  Nhặt +1105 beri
+[11:55:35 PM]  Nhặt +3383 beri
+[11:55:36 PM]  Nhặt +1394 beri
+[11:55:37 PM]  Nhặt +595 beri
+[11:55:38 PM]  Nhặt +702 beri
+[11:55:39 PM]  Nhặt +748 beri
+[11:55:42 PM]  Nhặt +697 beri
+[11:55:44 PM]  Nhặt +1292 beri
+[11:55:45 PM]  Nhặt +3162 beri
+[11:55:46 PM]  Nhặt +1649 beri
+[11:55:48 PM]  Nhặt +144 beri
+[11:55:48 PM]  Nhặt +1564 beri
+[11:55:50 PM]  Nhặt +2805 beri
+[11:55:52 PM]  Nhặt +3009 beri
+[11:55:53 PM]  Nhặt +252 beri
+[11:55:55 PM]  Nhặt +2261 beri
+[11:55:57 PM]  Nhặt +2703 beri
+[11:55:59 PM]  Nhặt +2856 beri
+[11:56:00 PM]  Nhặt +3111 beri
+[11:56:01 PM]  Nhặt +969 beri
+[11:56:02 PM]  Nhặt +408 beri
+[11:56:02 PM]  Nhặt +1394 beri
+[11:56:03 PM]  Nhặt +476 beri
+[11:56:04 PM]  Nhặt +2380 beri
+[11:56:05 PM]  Nhặt +1598 beri
+[11:56:06 PM]  Nhặt +1258 beri
+[11:56:08 PM]  Nhặt +765 beri
+[11:56:09 PM]  Nhặt +1241 beri
+[11:56:10 PM]  Nhặt +2176 beri
+[11:56:11 PM]  Nhặt +459 beri
+[11:56:12 PM]  Nhặt +2610 beri
+[11:56:14 PM]  Nhặt +1445 beri
+[11:56:14 PM]  Nhặt +850 beri
+[11:56:15 PM]  Nhặt +2686 beri
+[11:56:16 PM]  Nhặt +1476 beri
+[11:56:17 PM]  Nhặt +756 beri
+[11:56:18 PM]  Nhặt +986 beri
+[11:56:19 PM]  Nhặt +1564 beri
+[11:56:20 PM]  Nhặt +3162 beri
+[11:56:23 PM]  Nhặt +2958 beri
+[11:56:25 PM]  Nhặt +1440 beri
+[11:56:26 PM]  Nhặt +2538 beri
+[11:56:27 PM]  Nhặt +731 beri
+[11:56:30 PM]  Nhặt +187 beri
+[11:56:31 PM]  Nhặt +1343 beri
+[11:56:33 PM]  Nhặt +2856 beri
+[11:56:34 PM]  Nhặt +2790 beri
+[11:56:35 PM]  Nhặt +252 beri
+[11:56:36 PM]  Nhặt +2196 beri
+[11:56:37 PM]  Nhặt +1683 beri
+[11:56:40 PM]  Nhặt +3060 beri
+[11:56:42 PM]  Nhặt +3213 beri
+[11:56:45 PM]  Nhặt +17 beri
+[11:56:46 PM]  Nhặt +2924 beri
+[11:56:46 PM]  Nhặt +1258 beri
+[11:56:47 PM]  Nhặt +1377 beri
+[11:57:10 PM]  Khảm ngọc lên -> Vũ khí kiếm khách 10x -400 ruby
+[11:57:56 PM]  Khảm ngọc lên -> Vũ khí kiếm khách 10x -400 ruby
+[11:59:09 PM]  Nhặt +306 beri
+[11:59:10 PM]  Nhặt +1206 beri
+[11:59:11 PM]  Nhặt +1746 beri
+[11:59:12 PM]  Nhặt +1854 beri
+[11:59:14 PM]  Nhặt +612 beri
+[11:59:15 PM]  Nhặt +323 beri
+[11:59:16 PM]  Nhặt +2482 beri
+[11:59:19 PM]  Nhặt +1122 beri
+[11:59:20 PM]  Nhặt +1122 beri
+[11:59:21 PM]  Nhặt +2686 beri
+[11:59:22 PM]  Nhặt +630 beri
+[11:59:24 PM]  Nhặt +1260 beri
+[11:59:25 PM]  Nhặt +2023 beri
+[11:59:26 PM]  Nhặt +2057 beri
+[11:59:26 PM]  Nhặt +2720 beri
+[11:59:30 PM]  Nhặt +1819 beri
+[11:59:31 PM]  Nhặt +153 beri
+[11:59:35 PM]  Nhặt +918 beri
+[11:59:35 PM]  Nhặt +884 beri
+[11:59:36 PM]  Nhặt +1854 beri
+[11:59:37 PM]  Nhặt +540 beri
+[11:59:41 PM]  Nhặt +34 beri
+[11:59:44 PM]  Nhặt +2788 beri
+[11:59:45 PM]  Nhặt +34 beri
+[11:59:53 PM]  Nhặt +3366 beri
+[11:59:54 PM]  Nhặt +2397 beri
+[11:59:57 PM]  Nhặt +1020 beri
+[11:59:58 PM]  Nhặt +289 beri

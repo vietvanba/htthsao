@@ -1,0 +1,275 @@
+[12:52:11 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[12:53:29 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[12:53:39 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[12:54:11 PM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[12:54:33 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x99, 
+[12:54:42 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[12:54:52 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[12:55:00 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[12:56:24 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[12:57:05 PM]  Mua 10000 vé vòng quay -150000 ruby
+[01:00:46 PM]  Nhặt +7708 beri
+[01:01:08 PM]  Mua Thịt heo -600 beri
+[01:01:10 PM]  Mua Súp baratie -1600 beri
+[01:01:10 PM]  Mua Súp baratie -1600 beri
+[01:01:10 PM]  Mua Súp baratie -1600 beri
+[01:01:10 PM]  Mua Súp baratie -1600 beri
+[01:01:10 PM]  Mua Súp baratie -1600 beri
+[01:01:10 PM]  Mua Súp baratie -1600 beri
+[01:01:11 PM]  Mua Súp baratie -1600 beri
+[01:01:11 PM]  Mua Súp baratie -1600 beri
+[01:01:11 PM]  Mua Súp baratie -1600 beri
+[01:01:11 PM]  Mua Súp baratie -1600 beri
+[01:01:11 PM]  Mua Súp baratie -1600 beri
+[01:01:11 PM]  Mua Súp baratie -1600 beri
+[01:01:13 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:13 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:13 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:13 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:13 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:13 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:14 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:14 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:14 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:14 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:14 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:14 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:15 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:15 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:15 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:15 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:15 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:15 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:16 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:01:17 PM]  Mua Quả Conache -0 beri
+[01:01:17 PM]  Mua Quả Conache -0 beri
+[01:01:17 PM]  Mua Quả Conache -0 beri
+[01:01:17 PM]  Mua Quả Conache -0 beri
+[01:01:18 PM]  Mua Quả Conache -0 beri
+[01:01:18 PM]  Mua Quả Conache -0 beri
+[01:01:18 PM]  Mua Quả Conache -0 beri
+[01:01:18 PM]  Mua Quả Conache -0 beri
+[01:01:18 PM]  Mua Quả Conache -0 beri
+[01:01:18 PM]  Mua Quả Conache -0 beri
+[01:01:19 PM]  Mua Quả Conache -0 beri
+[01:01:19 PM]  Mua Quả Conache -0 beri
+[01:01:19 PM]  Mua Quả Conache -0 beri
+[01:01:19 PM]  Mua Quả Conache -0 beri
+[01:01:19 PM]  Mua Quả Conache -0 beri
+[01:01:19 PM]  Mua Quả Conache -0 beri
+[01:01:20 PM]  Mua Quả Conache -0 beri
+[01:01:20 PM]  Mua Quả Conache -0 beri
+[01:04:00 PM]  Nhặt +1450 beri
+[01:04:51 PM]  Mua Áo thun nâu 2 -2600 beri
+[01:04:56 PM]  Mua Quần tây đen -2400 beri
+[01:05:09 PM]  Bán item +45 beri
+[01:05:10 PM]  Bán item +45 beri
+[01:05:11 PM]  Bán item +45 beri
+[01:05:12 PM]  Bán item +45 beri
+[01:05:12 PM]  Bán item +45 beri
+[01:05:15 PM]  Bán item +45 beri
+[01:05:15 PM]  Bán item +45 beri
+[01:05:16 PM]  Bán item +45 beri
+[01:05:16 PM]  Bán item +45 beri
+[01:05:17 PM]  Bán item +45 beri
+[01:05:18 PM]  Bán item +45 beri
+[01:05:24 PM]  Mua Quần tây đen 2 -2400 beri
+[01:05:26 PM]  Mua Kiếm thủy quái -3200 beri
+[01:05:32 PM]  Mua Bột cường hóa -20 ruby
+[01:05:32 PM]  Mua Bột cường hóa -20 ruby
+[01:05:33 PM]  Mua Bột cường hóa -20 ruby
+[01:05:33 PM]  Mua Bột cường hóa -20 ruby
+[01:05:33 PM]  Mua Bột cường hóa -20 ruby
+[01:05:33 PM]  Mua Bột cường hóa -20 ruby
+[01:05:33 PM]  Mua Bột cường hóa -20 ruby
+[01:05:33 PM]  Mua Bột cường hóa -20 ruby
+[01:05:34 PM]  Mua Bột cường hóa -20 ruby
+[01:05:34 PM]  Mua Bột cường hóa -20 ruby
+[01:05:34 PM]  Mua Bột cường hóa -20 ruby
+[01:05:34 PM]  Mua Bột cường hóa -20 ruby
+[01:05:34 PM]  Mua Bột cường hóa -20 ruby
+[01:05:34 PM]  Mua Bột cường hóa -20 ruby
+[01:05:35 PM]  Mua Bột cường hóa -20 ruby
+[01:05:35 PM]  Mua Bột cường hóa -20 ruby
+[01:05:35 PM]  Mua Bột cường hóa -20 ruby
+[01:05:35 PM]  Mua Bột cường hóa -20 ruby
+[01:05:35 PM]  Mua Bột cường hóa -20 ruby
+[01:05:36 PM]  Mua Bột cường hóa -20 ruby
+[01:05:36 PM]  Mua Bột cường hóa -20 ruby
+[01:05:36 PM]  Mua Bột cường hóa -20 ruby
+[01:05:36 PM]  Mua Bột cường hóa -20 ruby
+[01:05:36 PM]  Mua Bột cường hóa -20 ruby
+[01:05:36 PM]  Mua Bột cường hóa -20 ruby
+[01:05:39 PM]  Mua Bột than -10000 beri
+[01:05:39 PM]  Mua Bột than -10000 beri
+[01:05:40 PM]  Mua Bột than -10000 beri
+[01:05:40 PM]  Mua Bột than -10000 beri
+[01:05:40 PM]  Mua Bột than -10000 beri
+[01:05:40 PM]  Mua Bột than -10000 beri
+[01:05:40 PM]  Mua Bột than -10000 beri
+[01:05:41 PM]  Mua Bột than -10000 beri
+[01:05:41 PM]  Mua Bột than -10000 beri
+[01:05:41 PM]  Mua Bột than -10000 beri
+[01:05:41 PM]  Mua Bột than -10000 beri
+[01:05:41 PM]  Mua Bột than -10000 beri
+[01:05:41 PM]  Mua Bột than -10000 beri
+[01:05:42 PM]  Mua Bột than -10000 beri
+[01:05:42 PM]  Mua Bột than -10000 beri
+[01:05:42 PM]  Mua Bột than -10000 beri
+[01:05:42 PM]  Mua Bột than -10000 beri
+[01:05:42 PM]  Mua Bột than -10000 beri
+[01:05:43 PM]  Mua Bột than -10000 beri
+[01:05:43 PM]  Mua Bột than -10000 beri
+[01:05:43 PM]  Mua Bột than -10000 beri
+[01:05:43 PM]  Mua Bột than -10000 beri
+[01:05:43 PM]  Mua Bột than -10000 beri
+[01:05:43 PM]  Mua Bột than -10000 beri
+[01:05:55 PM]  Cường hóa item Quần tây đen -3000 beri
+[01:05:55 PM]  Cường hóa item Quần tây đen -3000 beri
+[01:05:56 PM]  Cường hóa item Quần tây đen -3000 beri
+[01:05:57 PM]  Cường hóa item Quần tây đen -3000 beri
+[01:05:58 PM]  Cường hóa item Quần tây đen -4000 beri
+[01:05:59 PM]  Cường hóa item Quần tây đen -3000 beri
+[01:06:00 PM]  Cường hóa item Quần tây đen -3000 beri
+[01:06:00 PM]  Cường hóa item Quần tây đen -3000 beri
+[01:06:09 PM]  Mua Mai rùa -140 ruby
+[01:06:09 PM]  Mua Mai rùa -140 ruby
+[01:06:09 PM]  Mua Mai rùa -140 ruby
+[01:06:10 PM]  Mua Mai rùa -140 ruby
+[01:06:10 PM]  Mua Mai rùa -140 ruby
+[01:06:10 PM]  Mua Mai rùa -140 ruby
+[01:06:10 PM]  Mua Mai rùa -140 ruby
+[01:06:10 PM]  Mua Mai rùa -140 ruby
+[01:06:10 PM]  Mua Mai rùa -140 ruby
+[01:06:11 PM]  Mua Mai rùa -140 ruby
+[01:06:11 PM]  Mua Mai rùa -140 ruby
+[01:06:11 PM]  Mua Mai rùa -140 ruby
+[01:06:11 PM]  Mua Mai rùa -140 ruby
+[01:06:11 PM]  Mua Mai rùa -140 ruby
+[01:06:11 PM]  Mua Mai rùa -140 ruby
+[01:06:11 PM]  Mua Mai rùa -140 ruby
+[01:06:11 PM]  Mua Mai rùa -140 ruby
+[01:06:20 PM]  Cường hóa item Quần tây đen -4000 beri
+[01:06:21 PM]  Cường hóa item Quần tây đen -4000 beri
+[01:06:21 PM]  Cường hóa item Quần tây đen -4000 beri
+[01:06:22 PM]  Cường hóa item Quần tây đen -4000 beri
+[01:06:22 PM]  Cường hóa item Quần tây đen -4000 beri
+[01:06:24 PM]  Cường hóa item Quần tây đen -4000 beri
+[01:06:24 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:06:26 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:06:26 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:06:28 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:06:28 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:06:30 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:06:30 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:06:32 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:06:32 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:06:34 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:06:35 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:06:36 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:06:37 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:06:38 PM]  Cường hóa item Quần tây đen -8000 beri
+[01:06:38 PM]  Cường hóa item Quần tây đen -8000 beri
+[01:06:40 PM]  Cường hóa item Quần tây đen -8000 beri
+[01:06:40 PM]  Cường hóa item Quần tây đen -8000 beri
+[01:06:43 PM]  Cường hóa item Kiếm thủy quái -3000 beri
+[01:06:44 PM]  Cường hóa item Kiếm thủy quái -3000 beri
+[01:06:46 PM]  Cường hóa item Kiếm thủy quái -3000 beri
+[01:06:46 PM]  Cường hóa item Kiếm thủy quái -3000 beri
+[01:06:48 PM]  Cường hóa item Kiếm thủy quái -3000 beri
+[01:06:48 PM]  Cường hóa item Kiếm thủy quái -4000 beri
+[01:06:50 PM]  Cường hóa item Kiếm thủy quái -4000 beri
+[01:06:50 PM]  Cường hóa item Kiếm thủy quái -4000 beri
+[01:06:52 PM]  Cường hóa item Kiếm thủy quái -4000 beri
+[01:06:52 PM]  Cường hóa item Kiếm thủy quái -4000 beri
+[01:06:54 PM]  Cường hóa item Kiếm thủy quái -4000 beri
+[01:06:54 PM]  Cường hóa item Kiếm thủy quái -4000 beri
+[01:06:56 PM]  Cường hóa item Kiếm thủy quái -4000 beri
+[01:06:57 PM]  Cường hóa item Kiếm thủy quái -4000 beri
+[01:06:58 PM]  Cường hóa item Kiếm thủy quái -4000 beri
+[01:06:58 PM]  Cường hóa item Kiếm thủy quái -4000 beri
+[01:07:00 PM]  Cường hóa item Kiếm thủy quái -4000 beri
+[01:07:01 PM]  Cường hóa item Kiếm thủy quái -4000 beri
+[01:07:02 PM]  Cường hóa item Kiếm thủy quái -4000 beri
+[01:07:02 PM]  Cường hóa item Kiếm thủy quái -4000 beri
+[01:07:05 PM]  Cường hóa item Kiếm thủy quái -6000 beri
+[01:07:05 PM]  Cường hóa item Kiếm thủy quái -6000 beri
+[01:07:07 PM]  Cường hóa item Kiếm thủy quái -6000 beri
+[01:07:07 PM]  Cường hóa item Kiếm thủy quái -6000 beri
+[01:07:09 PM]  Cường hóa item Kiếm thủy quái -6000 beri
+[01:07:09 PM]  Cường hóa item Kiếm thủy quái -6000 beri
+[01:07:11 PM]  Cường hóa item Kiếm thủy quái -6000 beri
+[01:07:11 PM]  Cường hóa item Kiếm thủy quái -6000 beri
+[01:07:13 PM]  Cường hóa item Kiếm thủy quái -6000 beri
+[01:07:13 PM]  Cường hóa item Kiếm thủy quái -6000 beri
+[01:07:16 PM]  Cường hóa item Kiếm thủy quái -6000 beri
+[01:07:16 PM]  Cường hóa item Quần tây đen 2 -3000 beri
+[01:07:18 PM]  Cường hóa item Quần tây đen 2 -3000 beri
+[01:07:18 PM]  Cường hóa item Quần tây đen 2 -3000 beri
+[01:07:20 PM]  Cường hóa item Quần tây đen 2 -4000 beri
+[01:07:20 PM]  Cường hóa item Quần tây đen 2 -4000 beri
+[01:07:21 PM]  Cường hóa item Quần tây đen 2 -4000 beri
+[01:07:22 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:24 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:24 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:26 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:26 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:28 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:28 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:28 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:30 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:30 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:32 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:32 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:34 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:34 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:37 PM]  Cường hóa item Quần tây đen 2 -3 ruby
+[01:07:37 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:37 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:39 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:39 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:40 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:40 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:42 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:42 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:44 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:44 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:46 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:46 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:48 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:48 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:50 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:50 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:52 PM]  Cường hóa item Quần tây đen 2 -6000 beri
+[01:07:52 PM]  Cường hóa item Quần tây đen 2 -8000 beri
+[01:07:57 PM]  Cường hóa item Quần tây đen -8000 beri
+[01:07:57 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:07:59 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:07:59 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:08:01 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:08:01 PM]  Cường hóa item Quần tây đen -6000 beri
+[01:08:04 PM]  Cường hóa item Kiếm thủy quái -6000 beri
+[01:08:04 PM]  Cường hóa item Kiếm thủy quái -6000 beri
+[01:08:05 PM]  Cường hóa item Kiếm thủy quái -6000 beri
+[01:08:06 PM]  Cường hóa item Kiếm thủy quái -6000 beri
+[01:09:28 PM]  Logout : [Beri] 1.999.192.158 [Ruby] 1.499.847.117
+[01:20:02 PM]  Login : [Beri] 1.999.192.158 [Ruby] 1.499.847.117
+[01:21:57 PM]  Logout : [Beri] 1.999.192.158 [Ruby] 1.499.847.117

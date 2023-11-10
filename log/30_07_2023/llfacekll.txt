@@ -1,0 +1,90 @@
+[07:15:02 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[07:15:48 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000
+[07:16:03 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[07:16:30 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[07:16:41 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[07:16:49 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[07:17:00 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[07:17:10 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[07:17:20 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[07:17:29 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[07:18:49 AM]  Mua 20000 vé vòng quay -300000 ruby
+[07:55:39 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.200.000
+[12:23:00 PM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.200.000
+[12:23:28 PM]  Giao dịch bery với lldirell nhận +0 beri
+[12:23:28 PM]  Giao dịch bery với lldirell nhận Nhẫn 2 Lv70 2
+[12:23:42 PM]  Mua Bột cường hóa -20 ruby
+[12:23:42 PM]  Mua Bột cường hóa -20 ruby
+[12:23:42 PM]  Mua Bột cường hóa -20 ruby
+[12:23:42 PM]  Mua Bột cường hóa -20 ruby
+[12:23:43 PM]  Mua Bột cường hóa -20 ruby
+[12:23:43 PM]  Mua Bột cường hóa -20 ruby
+[12:23:43 PM]  Mua Bột cường hóa -20 ruby
+[12:23:43 PM]  Mua Bột cường hóa -20 ruby
+[12:23:44 PM]  Mua Bột cường hóa -20 ruby
+[12:23:44 PM]  Mua Bột cường hóa -20 ruby
+[12:23:44 PM]  Mua Bột cường hóa -20 ruby
+[12:23:45 PM]  Mua Bột cường hóa -20 ruby
+[12:23:45 PM]  Mua Bột cường hóa -20 ruby
+[12:23:45 PM]  Mua Bột cường hóa -20 ruby
+[12:23:45 PM]  Mua Bột cường hóa -20 ruby
+[12:23:45 PM]  Mua Bột cường hóa -20 ruby
+[12:23:46 PM]  Mua Bột cường hóa -20 ruby
+[12:23:46 PM]  Mua Bột cường hóa -20 ruby
+[12:23:46 PM]  Mua Bột cường hóa -20 ruby
+[12:23:46 PM]  Mua Bột cường hóa -20 ruby
+[12:23:46 PM]  Mua Bột cường hóa -20 ruby
+[12:23:47 PM]  Mua Bột cường hóa -20 ruby
+[12:23:47 PM]  Mua Bột cường hóa -20 ruby
+[12:23:47 PM]  Mua Bột cường hóa -20 ruby
+[12:23:47 PM]  Mua Bột cường hóa -20 ruby
+[12:23:47 PM]  Mua Bột cường hóa -20 ruby
+[12:23:48 PM]  Mua Bột cường hóa -20 ruby
+[12:23:48 PM]  Mua Bột cường hóa -20 ruby
+[12:23:48 PM]  Mua Bột cường hóa -20 ruby
+[12:23:48 PM]  Mua Bột cường hóa -20 ruby
+[12:23:49 PM]  Mua Bột cường hóa -20 ruby
+[12:23:49 PM]  Mua Bột cường hóa -20 ruby
+[12:23:49 PM]  Mua Bột cường hóa -20 ruby
+[12:23:49 PM]  Mua Bột cường hóa -20 ruby
+[12:23:49 PM]  Mua Bột cường hóa -20 ruby
+[12:23:49 PM]  Mua Bột cường hóa -20 ruby
+[12:23:50 PM]  Mua Bột cường hóa -20 ruby
+[12:23:50 PM]  Mua Bột cường hóa -20 ruby
+[12:23:50 PM]  Mua Bột cường hóa -20 ruby
+[12:23:50 PM]  Mua Bột cường hóa -20 ruby
+[12:23:51 PM]  Mua Bột cường hóa -20 ruby
+[12:23:51 PM]  Mua Bột cường hóa -20 ruby
+[12:23:51 PM]  Mua Bột cường hóa -20 ruby
+[12:23:54 PM]  Mua Bột vàng -40 ruby
+[12:23:54 PM]  Mua Bột vàng -40 ruby
+[12:23:54 PM]  Mua Bột vàng -40 ruby
+[12:23:55 PM]  Mua Bột vàng -40 ruby
+[12:23:55 PM]  Mua Bột vàng -40 ruby
+[12:23:55 PM]  Mua Bột vàng -40 ruby
+[12:23:55 PM]  Mua Bột vàng -40 ruby
+[12:23:55 PM]  Mua Bột vàng -40 ruby
+[12:23:56 PM]  Mua Bột vàng -40 ruby
+[12:24:29 PM]  Giao dịch bery với lldirell nhận +0 beri
+[12:26:52 PM]  Logout : [Beri] 1.996.500.000 [Ruby] 1.000.198.780

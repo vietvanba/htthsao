@@ -1,0 +1,18 @@
+[07:24:09 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.499.993.940
+[07:24:18 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Nhẫn 10x x1, 
+[07:24:24 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dây chuyền 10x x1, 
+[07:24:33 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.993.940
+[09:55:59 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.499.993.940
+[09:56:18 AM]  Mua aokiji -500 ruby
+[09:56:26 AM]  Mua Tóc băng -500 ruby
+[09:58:15 AM]  Nhặt +763 beri
+[10:13:22 AM]  Logout : [Beri] 2.000.000.763 [Ruby] 1.499.992.940
+[10:16:38 AM]  Login : [Beri] 2.000.000.763 [Ruby] 1.499.992.940
+[10:16:44 AM]  Nhặt +273 beri
+[10:21:59 AM]  Logout : [Beri] 2.000.001.036 [Ruby] 1.499.992.940

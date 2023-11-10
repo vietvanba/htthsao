@@ -1,0 +1,334 @@
+[01:25:33 AM]  Login : [Beri] 530.767.783 [Ruby] 278.520
+[01:30:00 AM]  Logout : [Beri] 530.767.783 [Ruby] 278.520
+[11:32:30 AM]  Login : [Beri] 530.767.783 [Ruby] 278.520
+[11:47:40 AM]  Logout : [Beri] 530.767.783 [Ruby] 278.520
+[12:52:55 PM]  Login : [Beri] 530.767.783 [Ruby] 278.520
+[12:54:37 PM]  Logout : [Beri] 530.767.783 [Ruby] 278.520
+[12:55:13 PM]  Login : [Beri] 530.767.783 [Ruby] 278.520
+[12:56:26 PM]  Chat KTG mất -5 ruby
+[12:57:12 PM]  Chat KTG mất -5 ruby
+[01:01:21 PM]  Chat KTG mất -5 ruby
+[01:09:10 PM]  Logout : [Beri] 530.767.783 [Ruby] 278.505
+[01:10:22 PM]  Login : [Beri] 530.767.783 [Ruby] 278.505
+[01:11:12 PM]  Logout : [Beri] 530.767.783 [Ruby] 278.505
+[01:59:02 PM]  Login : [Beri] 530.767.783 [Ruby] 278.505
+[02:05:28 PM]  Chat KTG mất -5 ruby
+[02:11:17 PM]  Chat KTG mất -5 ruby
+[02:11:51 PM]  Chat KTG mất -5 ruby
+[02:12:32 PM]  Mua Râu trắng -500 ruby
+[02:12:47 PM]  Chat KTG mất -5 ruby
+[02:13:12 PM]  Mua Bão tố -500 ruby
+[02:13:29 PM]  Mua Trang phục người Dơi -500 ruby
+[02:13:46 PM]  Mua Đấng tối cao -500 ruby
+[02:13:55 PM]  Mua D-Gap -500 ruby
+[02:15:14 PM]  Chat KTG mất -5 ruby
+[02:16:22 PM]  Chat KTG mất -5 ruby
+[02:20:42 PM]  Mua Topaz - Saphia siêu cấp -40 ruby
+[02:20:50 PM]  Bán item +28 beri
+[02:20:53 PM]  Mua Topaz - Saphia siêu cấp -10 ruby
+[02:20:54 PM]  Mua Topaz - Saphia siêu cấp -40 ruby
+[02:21:11 PM]  Mua Topaz - Saphia siêu cấp -40 ruby
+[02:21:20 PM]  Khảm ngọc lên -> Nhẫn 1 Lv60 2 -400 ruby
+[02:21:29 PM]  Khảm ngọc lên -> Nhẫn 1 Lv60 2 -400 ruby
+[02:21:32 PM]  Khảm ngọc lên -> Nhẫn 1 Lv60 2 -400 ruby
+[02:21:35 PM]  Khảm ngọc lên -> Nhẫn 1 Lv60 2 -400 ruby
+[02:21:39 PM]  Khảm ngọc lên -> Nhẫn 1 Lv60 2 -400 ruby
+[02:21:43 PM]  Khảm ngọc lên -> Nhẫn 1 Lv60 2 -400 ruby
+[02:21:46 PM]  Khảm ngọc lên -> Nhẫn 1 Lv60 2 -400 ruby
+[02:21:48 PM]  Khảm ngọc lên -> Nón 4 Lv60 -400 ruby
+[02:21:51 PM]  Khảm ngọc lên -> Nón 4 Lv60 -400 ruby
+[02:21:54 PM]  Khảm ngọc lên -> Nón 4 Lv60 -400 ruby
+[02:21:56 PM]  Khảm ngọc lên -> Nón 4 Lv60 -400 ruby
+[02:21:59 PM]  Khảm ngọc lên -> Nón 4 Lv60 -400 ruby
+[02:22:02 PM]  Khảm ngọc lên -> Nón 4 Lv60 -400 ruby
+[02:22:07 PM]  Khảm ngọc lên -> Nón 4 Lv60 -400 ruby
+[02:22:09 PM]  Khảm ngọc lên -> Quần jean 2 -350 ruby
+[02:22:12 PM]  Khảm ngọc lên -> Quần jean 2 -350 ruby
+[02:22:15 PM]  Khảm ngọc lên -> Quần jean 2 -350 ruby
+[02:22:17 PM]  Khảm ngọc lên -> Quần jean 2 -350 ruby
+[02:22:19 PM]  Khảm ngọc lên -> Quần jean 2 -350 ruby
+[02:22:22 PM]  Khảm ngọc lên -> Quần jean 2 -350 ruby
+[02:22:55 PM]  Chat KTG mất -5 ruby
+[02:23:05 PM]  Khảm ngọc lên -> Dây chuyền 1 Lv60 2 -350 ruby
+[02:23:10 PM]  Khảm ngọc lên -> Dây chuyền 1 Lv60 2 -350 ruby
+[02:23:13 PM]  Khảm ngọc lên -> Dây chuyền 1 Lv60 2 -350 ruby
+[02:23:16 PM]  Khảm ngọc lên -> Dây chuyền 1 Lv60 2 -350 ruby
+[02:23:18 PM]  Khảm ngọc lên -> Dây chuyền 1 Lv60 2 -350 ruby
+[02:23:31 PM]  Mua Topaz - Saphia siêu cấp -40 ruby
+[02:23:40 PM]  Khảm ngọc lên -> Dây chuyền 1 Lv60 2 -350 ruby
+[02:23:43 PM]  Khảm ngọc lên -> Bikini 2 -350 ruby
+[02:23:46 PM]  Khảm ngọc lên -> Bikini 2 -350 ruby
+[02:23:49 PM]  Khảm ngọc lên -> Bikini 2 -350 ruby
+[02:23:51 PM]  Khảm ngọc lên -> Bikini 2 -350 ruby
+[02:23:54 PM]  Khảm ngọc lên -> Bikini 2 -350 ruby
+[02:23:58 PM]  Khảm ngọc lên -> Bikini 2 -350 ruby
+[02:24:15 PM]  Chat KTG mất -5 ruby
+[02:42:51 PM]  Logout : [Beri] 530.767.811 [Ruby] 255.895
+[03:27:33 PM]  Login : [Beri] 530.767.811 [Ruby] 255.895
+[03:28:22 PM]  Chat KTG mất -5 ruby
+[03:29:25 PM]  Chat KTG mất -5 ruby
+[03:31:14 PM]  Chat KTG mất -5 ruby
+[03:32:03 PM]  Chat KTG mất -5 ruby
+[03:33:03 PM]  Chat KTG mất -5 ruby
+[03:33:56 PM]  Chat KTG mất -5 ruby
+[03:35:13 PM]  Chat KTG mất -5 ruby
+[03:41:26 PM]  Chat KTG mất -5 ruby
+[03:45:35 PM]  Chat KTG mất -5 ruby
+[03:47:18 PM]  Chat KTG mất -5 ruby
+[03:48:01 PM]  Chat KTG mất -5 ruby
+[03:48:25 PM]  Chat KTG mất -5 ruby
+[03:55:26 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:26 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:26 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:26 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:26 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:26 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:27 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:27 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:27 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:27 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:27 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:27 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:27 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:27 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:27 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:27 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:27 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:28 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:28 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:28 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:28 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:28 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:28 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:28 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:28 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:28 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:28 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:29 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:29 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:29 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:29 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:29 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:29 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:29 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:29 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:29 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:29 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:29 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:30 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:30 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:30 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:30 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:30 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:30 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:30 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:30 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:30 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:30 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:30 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:31 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:31 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:31 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:31 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:31 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:31 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:31 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:31 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:31 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:31 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:31 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:32 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:32 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:32 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:32 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:32 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:32 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:32 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:32 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:32 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:33 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:33 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:33 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:33 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:33 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:33 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:33 PM]  Mua Đá ác quỷ -40 ruby
+[03:55:33 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:42 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:42 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:42 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:42 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:42 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:42 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:42 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:42 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:43 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:43 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:43 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:43 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:43 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:43 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:43 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:43 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:43 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:43 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:43 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:44 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:44 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:44 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:44 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:44 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:44 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:44 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:44 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:44 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:45 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:45 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:45 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:45 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:45 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:45 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:45 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:45 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:45 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:45 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:45 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:46 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:46 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:46 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:46 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:46 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:46 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:46 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:46 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:46 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:46 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:46 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:47 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:47 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:47 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:47 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:47 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:47 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:47 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:47 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:47 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:47 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:47 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:48 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:48 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:48 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:48 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:48 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:48 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:48 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:48 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:48 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:49 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:49 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:49 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:49 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:49 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:49 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:49 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:49 PM]  Mua Đá ác quỷ -40 ruby
+[03:56:49 PM]  Mua Đá ác quỷ -40 ruby
+[03:57:38 PM]  Chat KTG mất -5 ruby
+[03:57:42 PM]  Logout : [Beri] 516.817.811 [Ruby] 249.590
+[03:57:52 PM]  Login : [Beri] 516.817.811 [Ruby] 249.590
+[03:58:18 PM]  Chat KTG mất -5 ruby
+[03:59:51 PM]  Chat KTG mất -5 ruby
+[04:00:51 PM]  Logout : [Beri] 516.817.811 [Ruby] 249.580
+[04:00:58 PM]  Login : [Beri] 516.817.811 [Ruby] 249.580
+[04:01:34 PM]  Chat KTG mất -5 ruby
+[04:05:30 PM]  Mua 2000 vé vòng quay -30000 ruby
+[04:09:05 PM]  Cường hóa item Nón 4 Lv60 -3000 beri
+[04:09:08 PM]  Cường hóa item Nón 4 Lv60 -3000 beri
+[04:09:12 PM]  Cường hóa item Nón 4 Lv60 -4000 beri
+[04:09:12 PM]  Cường hóa item Nón 4 Lv60 -4000 beri
+[04:09:14 PM]  Cường hóa item Nón 4 Lv60 -4000 beri
+[04:09:14 PM]  Cường hóa item Nón 4 Lv60 -4000 beri
+[04:09:16 PM]  Cường hóa item Nón 4 Lv60 -4000 beri
+[04:09:16 PM]  Cường hóa item Nón 4 Lv60 -4000 beri
+[04:09:17 PM]  Cường hóa item Nón 4 Lv60 -4000 beri
+[04:09:18 PM]  Cường hóa item Nón 4 Lv60 -4000 beri
+[04:09:19 PM]  Cường hóa item Nón 4 Lv60 -4000 beri
+[04:09:19 PM]  Cường hóa item Nón 4 Lv60 -4000 beri
+[04:09:21 PM]  Cường hóa item Nón 4 Lv60 -4000 beri
+[04:09:21 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:32 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:32 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:34 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:34 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:44 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:45 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:46 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:46 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:48 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:48 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:50 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:50 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:51 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:52 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:53 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:53 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:54 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:55 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:56 PM]  Cường hóa item Nón 4 Lv60 -6000 beri
+[04:09:57 PM]  Cường hóa item Nón 4 Lv60 -8000 beri
+[04:09:58 PM]  Cường hóa item Nón 4 Lv60 -8000 beri
+[04:09:58 PM]  Cường hóa item Nón 4 Lv60 -8000 beri
+[04:10:00 PM]  Cường hóa item Nón 4 Lv60 -8000 beri
+[04:10:00 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:02 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:02 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:06 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:06 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:08 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:08 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:09 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:10 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:11 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:11 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:13 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:13 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:14 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:15 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:16 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:16 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:18 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:18 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:20 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:20 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:22 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:22 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:23 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:24 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:25 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:25 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:27 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:28 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:29 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:29 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:31 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:31 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:33 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:33 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:34 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:34 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:36 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:36 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:38 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:38 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:39 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:40 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:10:41 PM]  Cường hóa item Nón 4 Lv60 -10000 beri
+[04:11:32 PM]  Chat KTG mất -5 ruby
+[04:12:32 PM]  Chat KTG mất -5 ruby
+[04:15:14 PM]  Logout : [Beri] 672.691.884 [Ruby] 219.410
+[09:18:42 PM]  Login : [Beri] 672.691.884 [Ruby] 219.410
+[09:19:19 PM]  Logout : [Beri] 672.691.884 [Ruby] 219.410
+[09:25:00 PM]  Login : [Beri] 672.691.884 [Ruby] 219.410
+[09:26:09 PM]  Logout : [Beri] 672.691.884 [Ruby] 219.410
+[09:32:43 PM]  Login : [Beri] 672.691.884 [Ruby] 219.410
+[09:36:33 PM]  Logout : [Beri] 672.691.884 [Ruby] 219.410

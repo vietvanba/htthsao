@@ -1,0 +1,24 @@
+[02:23:28 AM]  Login : [Beri] 20.000.000 [Ruby] 50.000
+[02:28:04 AM]  Logout : [Beri] 20.000.000 [Ruby] 50.000
+[06:44:33 AM]  Login : [Beri] 20.000.000 [Ruby] 50.000
+[06:53:30 AM]  Logout : [Beri] 119.999.900 [Ruby] 100.049.890
+[06:53:46 AM]  Login : [Beri] 119.999.900 [Ruby] 100.049.890
+[06:54:54 AM]  Mua Nữ thần -500 ruby
+[06:54:59 AM]  Mua Tóc Công Chúa -500 ruby
+[06:55:08 AM]  Mua Pell -500 ruby
+[06:55:14 AM]  Mua Mặt Trái xoan -500 ruby
+[09:19:05 AM]  Logout : [Beri] 119.999.900 [Ruby] 100.047.890
+[09:28:14 AM]  Login : [Beri] 119.999.900 [Ruby] 100.047.890
+[09:28:30 AM]  Logout : [Beri] 119.999.900 [Ruby] 100.047.890
+[09:37:25 AM]  Login : [Beri] 119.999.900 [Ruby] 100.047.890
+[09:37:34 AM]  Logout : [Beri] 119.999.900 [Ruby] 100.047.890
+[01:49:57 PM]  Login : [Beri] 119.999.900 [Ruby] 100.047.890
+[01:50:04 PM]  Logout : [Beri] 119.999.900 [Ruby] 100.047.890
+[06:50:54 PM]  Login : [Beri] 119.999.900 [Ruby] 100.047.890
+[07:34:09 PM]  Logout : [Beri] 119.999.900 [Ruby] 100.047.890
+[07:39:51 PM]  Login : [Beri] 119.999.900 [Ruby] 100.047.890
+[07:40:02 PM]  Mua 3000 vé vòng quay -45000 ruby
+[07:44:55 PM]  Logout : [Beri] 143.147.057 [Ruby] 100.002.890
+[08:27:16 PM]  Login : [Beri] 143.147.057 [Ruby] 100.002.890
+[08:36:32 PM]  Login : [Beri] 143.147.057 [Ruby] 100.002.890
+[09:16:53 PM]  Logout : [Beri] 143.147.057 [Ruby] 100.002.890

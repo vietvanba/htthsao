@@ -1,0 +1,44 @@
+[05:13:38 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[05:14:13 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[05:14:23 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[05:14:41 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[05:14:48 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x99, 
+[05:14:55 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[05:15:02 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[05:15:10 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[05:15:16 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[05:15:34 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[05:15:42 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[08:48:45 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[08:48:54 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[08:49:12 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[08:49:50 AM]  Giao dịch bery với trumgame nhận +0 beri
+[08:49:50 AM]  Giao dịch bery với trumgame nhận Quả Tim
+[08:49:50 AM]  Giao dịch bery với trumgame nhận Dial 4
+[08:54:25 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[09:13:58 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[09:14:24 AM]  Giao dịch bery với trumgame nhận +0 beri
+[09:25:22 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[09:28:59 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[09:29:04 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.500.000.000

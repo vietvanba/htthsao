@@ -1,0 +1,47 @@
+[05:46:48 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[05:47:01 PM]  Nhặt +53 beri
+[05:47:47 PM]  Logout : [Beri] 2.000.000.053 [Ruby] 500.000
+[05:50:26 PM]  Login : [Beri] 2.000.000.053 [Ruby] 500.000
+[05:50:59 PM]  Logout : [Beri] 2.000.000.053 [Ruby] 500.000
+[05:51:07 PM]  Login : [Beri] 2.000.000.053 [Ruby] 500.000
+[05:51:08 PM]  Logout : [Beri] 2.000.000.053 [Ruby] 500.000
+[05:51:19 PM]  Login : [Beri] 2.000.000.053 [Ruby] 500.000
+[05:52:09 PM]  Mua 3000 vé vòng quay -45000 ruby
+[05:55:17 PM]  Logout : [Beri] 2.000.000.053 [Ruby] 455.000
+[05:55:29 PM]  Login : [Beri] 2.000.000.053 [Ruby] 455.000
+[05:56:12 PM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[05:56:23 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[05:56:36 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[05:56:38 PM]  Logout : [Beri] 2.000.000.053 [Ruby] 1.000.455.000
+[05:57:03 PM]  Login : [Beri] 2.000.000.053 [Ruby] 1.000.455.000
+[05:57:15 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[05:57:25 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[05:57:33 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[05:57:51 PM]  Mua boa hancock -500 ruby
+[05:58:21 PM]  Mua Tóc Công Chúa -500 ruby
+[05:58:28 PM]  Mua Tóc Siêu Sao -500 ruby
+[05:58:40 PM]  Logout : [Beri] 2.000.000.053 [Ruby] 1.000.453.500
+[05:59:04 PM]  Login : [Beri] 2.000.000.053 [Ruby] 1.000.453.500
+[05:59:29 PM]  Logout : [Beri] 2.000.000.053 [Ruby] 1.000.453.500
+[06:01:46 PM]  Login : [Beri] 2.000.000.053 [Ruby] 1.000.453.500
+[06:01:58 PM]  Logout : [Beri] 2.000.000.053 [Ruby] 1.000.453.500
+[06:15:07 PM]  Login : [Beri] 2.000.000.053 [Ruby] 1.000.453.500
+[06:15:56 PM]  Logout : [Beri] 2.000.000.053 [Ruby] 1.000.453.500

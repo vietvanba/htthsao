@@ -1,0 +1,197 @@
+[10:33:31 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[10:34:26 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000
+[10:34:37 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[10:34:52 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[10:35:00 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[10:35:19 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[10:35:27 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[10:35:36 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[10:36:01 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[10:36:10 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[10:36:24 AM]  Mua 8888 vé vòng quay -133320 ruby
+[10:39:55 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.366.680
+[10:40:24 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.366.680
+[10:43:13 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.366.680
+[10:43:43 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.366.680
+[10:44:57 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.366.680
+[10:45:04 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.366.680
+[11:03:56 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.365.670
+[11:04:03 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.365.670
+[11:04:24 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.365.670
+[11:04:51 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.365.670
+[11:10:14 AM]  Mua Trang phục Thần Tài -500 ruby
+[11:21:05 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.364.835
+[11:21:14 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.364.835
+[11:21:15 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.364.835
+[11:21:28 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.364.835
+[11:22:45 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.364.835
+[11:23:35 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.364.835
+[11:28:14 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.364.595
+[11:28:23 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.364.595
+[11:28:57 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.364.575
+[11:29:04 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.364.575
+[11:30:17 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.364.575
+[11:30:27 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.364.575
+[11:36:14 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.364.575
+[11:36:28 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.364.575
+[11:36:54 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.364.575
+[11:37:14 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.364.575
+[11:43:12 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.363.875
+[11:43:19 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.363.875
+[11:43:21 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.363.875
+[11:43:30 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.363.875
+[11:44:24 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.363.875
+[11:44:52 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.363.875
+[11:46:15 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.363.875
+[11:46:24 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.363.875
+[11:46:37 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.363.875
+[11:46:43 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.363.875
+[11:48:12 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.363.875
+[12:03:11 PM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.363.875
+[12:07:17 PM]  Logout : [Beri] 1.978.800.000 [Ruby] 1.000.363.875
+[12:07:26 PM]  Login : [Beri] 1.978.800.000 [Ruby] 1.000.363.875
+[12:08:26 PM]  Nhặt +820 beri
+[12:08:58 PM]  Nhặt +3362 beri
+[12:09:00 PM]  Nhặt +4346 beri
+[12:09:13 PM]  Logout : [Beri] 1.978.808.528 [Ruby] 1.000.363.875
+[12:09:20 PM]  Login : [Beri] 1.978.808.528 [Ruby] 1.000.363.875
+[12:09:25 PM]  Nhặt +2747 beri
+[12:09:28 PM]  Nhặt +3854 beri
+[12:09:31 PM]  Nhặt +7052 beri
+[12:09:32 PM]  Nhặt +7257 beri
+[12:10:22 PM]  Logout : [Beri] 1.978.829.438 [Ruby] 1.000.363.875
+[12:11:13 PM]  Login : [Beri] 1.978.829.438 [Ruby] 1.000.363.875
+[12:11:40 PM]  Nhặt +6450 beri
+[12:11:41 PM]  Nhặt +3150 beri
+[12:11:47 PM]  Nhặt +4150 beri
+[12:12:16 PM]  Nhặt +2300 beri
+[12:14:23 PM]  Mua Quả Conache -0 beri
+[12:14:23 PM]  Mua Quả Conache -0 beri
+[12:14:23 PM]  Mua Quả Conache -0 beri
+[12:14:23 PM]  Mua Quả Conache -0 beri
+[12:14:23 PM]  Mua Quả Conache -0 beri
+[12:14:23 PM]  Mua Quả Conache -0 beri
+[12:14:24 PM]  Mua Quả Conache -0 beri
+[12:14:24 PM]  Mua Quả Conache -0 beri
+[12:14:24 PM]  Mua Quả Conache -0 beri
+[12:14:24 PM]  Mua Quả Conache -0 beri
+[12:14:24 PM]  Mua Quả Conache -0 beri
+[12:14:24 PM]  Mua Quả Conache -0 beri
+[12:14:25 PM]  Mua Quả Conache -0 beri
+[12:14:25 PM]  Mua Quả Conache -0 beri
+[12:14:25 PM]  Mua Quả Conache -0 beri
+[12:14:25 PM]  Mua Quả Conache -0 beri
+[12:14:25 PM]  Mua Quả Conache -0 beri
+[12:14:25 PM]  Mua Quả Conache -0 beri
+[12:14:26 PM]  Mua Quả Conache -0 beri
+[12:14:26 PM]  Mua Quả Conache -0 beri
+[12:14:26 PM]  Mua Quả Conache -0 beri
+[12:14:26 PM]  Mua Quả Conache -0 beri
+[12:14:26 PM]  Mua Quả Conache -0 beri
+[12:14:26 PM]  Mua Quả Conache -0 beri
+[12:14:27 PM]  Mua Quả Conache -0 beri
+[12:14:27 PM]  Mua Quả Conache -0 beri
+[12:14:27 PM]  Mua Quả Conache -0 beri
+[12:14:27 PM]  Mua Quả Conache -0 beri
+[12:14:29 PM]  Mua Quả Conache -0 beri
+[12:14:29 PM]  Mua Quả Conache -0 beri
+[12:14:29 PM]  Mua Quả Conache -0 beri
+[12:14:29 PM]  Mua Quả Conache -0 beri
+[12:14:29 PM]  Mua Quả Conache -0 beri
+[12:14:29 PM]  Mua Quả Conache -0 beri
+[12:14:29 PM]  Mua Quả Conache -0 beri
+[12:14:29 PM]  Mua Quả Conache -0 beri
+[12:14:29 PM]  Mua Quả Conache -0 beri
+[12:14:29 PM]  Mua Quả Conache -0 beri
+[12:14:29 PM]  Mua Quả Conache -0 beri
+[12:14:29 PM]  Mua Quả Conache -0 beri
+[12:14:29 PM]  Mua Quả Conache -0 beri
+[12:14:30 PM]  Mua Quả Conache -0 beri
+[12:14:30 PM]  Mua Quả Conache -0 beri
+[12:14:30 PM]  Mua Quả Conache -0 beri
+[12:14:30 PM]  Mua Quả Conache -0 beri
+[12:14:31 PM]  Mua Kinh nghiệm X2 -60 ruby
+[12:14:31 PM]  Mua Kinh nghiệm X2 -60 ruby
+[12:14:32 PM]  Mua Kinh nghiệm X2 -60 ruby
+[12:14:32 PM]  Mua Kinh nghiệm X2 -60 ruby
+[12:14:32 PM]  Mua Kinh nghiệm X2 -60 ruby
+[12:14:32 PM]  Mua Kinh nghiệm X2 -60 ruby
+[12:14:32 PM]  Mua Kinh nghiệm X2 -60 ruby
+[12:14:33 PM]  Mua Xp Chiêu thức -6000 ruby
+[12:14:34 PM]  Mua Xp Chiêu thức -6000 ruby
+[12:14:34 PM]  Mua Xp Chiêu thức -6000 ruby
+[12:14:34 PM]  Mua Xp Chiêu thức -6000 ruby
+[12:14:47 PM]  Nhặt +2700 beri
+[12:14:49 PM]  Nhặt +9250 beri
+[12:15:11 PM]  Nhặt +7350 beri
+[12:15:27 PM]  Mua Thần chết -500 ruby
+[12:15:53 PM]  Nhặt +8200 beri
+[12:15:54 PM]  Nhặt +4150 beri
+[12:15:59 PM]  Nhặt +4500 beri
+[12:18:08 PM]  Nhặt +2650 beri
+[12:18:29 PM]  Nhặt +2950 beri
+[12:18:43 PM]  Nhặt +150 beri
+[12:19:28 PM]  Logout : [Beri] 1.978.887.388 [Ruby] 1.000.338.955
+[12:19:42 PM]  Login : [Beri] 1.978.887.388 [Ruby] 1.000.338.955
+[12:19:57 PM]  Nhặt +9089 beri
+[12:20:13 PM]  Nhặt +7320 beri
+[12:20:23 PM]  Nhặt +4758 beri
+[12:20:25 PM]  Nhặt +3233 beri
+[12:20:31 PM]  Nhặt +7564 beri
+[12:20:34 PM]  Nhặt +1159 beri
+[12:20:46 PM]  Nhặt +9760 beri
+[12:21:13 PM]  Nhặt +305 beri
+[12:21:22 PM]  Nhặt +4941 beri
+[12:22:34 PM]  Nhặt +10858 beri
+[12:22:35 PM]  Nhặt +2135 beri
+[12:23:04 PM]  Nhặt +9272 beri
+[12:23:45 PM]  Nhặt +854 beri
+[12:24:03 PM]  Nhặt +9882 beri
+[12:24:27 PM]  Logout : [Beri] 1.978.968.518 [Ruby] 1.000.338.955
+[12:24:34 PM]  Login : [Beri] 1.978.968.518 [Ruby] 1.000.338.955
+[12:24:49 PM]  Nhặt +2013 beri
+[12:25:01 PM]  Nhặt +4026 beri
+[12:25:01 PM]  Nhặt +11590 beri
+[12:25:28 PM]  Nhặt +2013 beri
+[12:25:43 PM]  Nhặt +11895 beri
+[12:25:45 PM]  Logout : [Beri] 1.979.000.055 [Ruby] 1.000.338.955
+[12:25:58 PM]  Login : [Beri] 1.979.000.055 [Ruby] 1.000.338.955
+[12:26:15 PM]  Logout : [Beri] 1.979.000.055 [Ruby] 1.000.338.955
+[12:26:24 PM]  Login : [Beri] 1.979.000.055 [Ruby] 1.000.338.955
+[12:26:40 PM]  Nhặt +7991 beri
+[12:26:50 PM]  Nhặt +183 beri
+[12:26:54 PM]  Nhặt +11590 beri
+[12:26:57 PM]  Logout : [Beri] 1.979.019.819 [Ruby] 1.000.338.955
+[12:27:06 PM]  Login : [Beri] 1.979.019.819 [Ruby] 1.000.338.955
+[12:27:21 PM]  Nhặt +2074 beri
+[12:27:48 PM]  Nhặt +549 beri
+[12:28:58 PM]  Nhặt +1891 beri
+[12:32:19 PM]  Login : [Beri] 1.979.024.333 [Ruby] 1.000.338.955
+[12:32:24 PM]  Logout : [Beri] 1.979.024.333 [Ruby] 1.000.338.955
+[12:32:34 PM]  Login : [Beri] 1.979.024.333 [Ruby] 1.000.338.955
+[12:32:38 PM]  Logout : [Beri] 1.979.024.333 [Ruby] 1.000.338.955
+[12:35:07 PM]  Login : [Beri] 1.979.024.333 [Ruby] 1.000.338.955
+[12:43:33 PM]  Login : [Beri] 1.979.024.333 [Ruby] 1.000.338.955
+[12:43:41 PM]  Logout : [Beri] 1.979.024.333 [Ruby] 1.000.338.955
+[12:43:48 PM]  Login : [Beri] 1.979.024.333 [Ruby] 1.000.338.955

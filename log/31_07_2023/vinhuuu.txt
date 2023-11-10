@@ -1,0 +1,17 @@
+[01:12:06 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:13:20 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:13:28 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:13:58 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[01:14:10 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x99, 
+[01:14:28 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[01:15:35 AM]  Giao dịch bery với vinhcuto nhận +0 beri
+[01:15:41 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.500.000.000

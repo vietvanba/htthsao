@@ -1,0 +1,12 @@
+[02:43:55 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[02:44:00 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[02:44:06 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[02:44:31 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[02:44:45 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[02:44:55 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000

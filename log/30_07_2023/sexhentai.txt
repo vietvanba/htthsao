@@ -1,0 +1,9 @@
+[01:58:48 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[02:00:26 AM]  Mua Đấng -500 ruby
+[02:00:46 AM]  Mua Tóc bạch kim -500 ruby
+[02:02:23 AM]  Mua 1000 vé vòng quay -15000 ruby
+[02:03:39 AM]  Mua 1000 vé vòng quay -15000 ruby
+[02:06:30 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 469.000
+[02:07:19 AM]  Login : [Beri] 2.000.000.000 [Ruby] 469.000
+[02:11:16 AM]  Nhặt +585 beri
+[02:13:12 AM]  Logout : [Beri] 2.000.000.585 [Ruby] 469.000

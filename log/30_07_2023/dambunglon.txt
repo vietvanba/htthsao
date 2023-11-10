@@ -1,0 +1,54 @@
+[07:54:09 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[07:54:37 AM]  Nhặt +28 beri
+[07:55:09 AM]  Logout : [Beri] 2.000.000.028 [Ruby] 500.000
+[07:55:22 AM]  Login : [Beri] 2.000.000.028 [Ruby] 500.000
+[07:55:31 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[07:56:11 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[07:56:24 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[07:56:39 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[07:56:53 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[07:57:09 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[07:57:26 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[07:57:36 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[07:58:40 AM]  Mua chopper -500 ruby
+[07:58:47 AM]  Mua Pell -500 ruby
+[07:58:51 AM]  Mua Tóc ngựa -500 ruby
+[07:58:57 AM]  Mua chopper -500 ruby
+[07:59:07 AM]  Mua Đầu trọc -500 ruby
+[07:59:15 AM]  Mua Tóc thép -500 ruby
+[07:59:20 AM]  Mua Tóc Kool -500 ruby
+[07:59:26 AM]  Mua aokiji -500 ruby
+[07:59:42 AM]  Mua Tóc băng -500 ruby
+[08:00:11 AM]  Mua gold roger -500 ruby
+[08:00:16 AM]  Mua Râu trắng -500 ruby
+[08:00:23 AM]  Mua Tóc nhà vô địch -500 ruby
+[08:00:37 AM]  Mua Nữ thần -500 ruby
+[08:00:46 AM]  Mua Râu đen -500 ruby
+[08:01:22 AM]  Logout : [Beri] 2.000.000.028 [Ruby] 1.000.493.000
+[12:20:51 PM]  Login : [Beri] 2.000.000.028 [Ruby] 1.000.493.000
+[12:22:23 PM]  Giao dịch bery với boizfrend nhận +0 beri
+[12:22:33 PM]  Logout : [Beri] 2.000.000.028 [Ruby] 1.000.493.000

@@ -1,0 +1,43 @@
+[08:31:22 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[08:31:45 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[08:31:54 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[08:32:08 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Nhẫn 10x x1, 
+[08:32:13 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dây chuyền 10x x1, 
+[08:32:40 AM]  Nhập giftcode Bạn nhận được:
+Beri : 1000000000
+Ruby : 1000000000
+Item : Thiên thạch may mắn x99, 
+[08:32:47 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[08:33:01 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x1000, 
+[08:33:30 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[08:33:35 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[08:33:50 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[08:42:12 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[08:45:07 AM]  Giao dịch bery với trumgame nhận +0 beri
+[08:45:14 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[08:46:17 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[08:46:46 AM]  Giao dịch bery với trumgame nhận +0 beri
+[08:46:46 AM]  Giao dịch bery với trumgame nhận Quả Tim
+[08:49:02 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[12:03:52 PM]  Login : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[12:06:50 PM]  Mua boa hancock -500 ruby
+[12:07:09 PM]  Mua Tóc Công Chúa -500 ruby
+[12:07:27 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.999.000

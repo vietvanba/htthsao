@@ -1,0 +1,9 @@
+[01:13:58 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:14:05 AM]  Nhặt +179 beri
+[01:16:19 AM]  Logout : [Beri] 2.000.000.179 [Ruby] 500.000.000
+[04:05:44 AM]  Login : [Beri] 2.000.000.179 [Ruby] 500.000.000
+[04:07:15 AM]  Mua Gậy gỗ 2 -1500 beri
+[04:07:18 AM]  Mua Áo thun nữ 2 -1200 beri
+[04:07:21 AM]  Mua Váy ngắn 2 -1000 beri
+[04:07:49 AM]  Mua 1200 vé vòng quay -18000 ruby
+[04:30:26 AM]  Logout : [Beri] 1.999.996.479 [Ruby] 499.982.004

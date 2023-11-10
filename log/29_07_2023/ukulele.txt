@@ -1,0 +1,579 @@
+[02:38:06 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[02:38:30 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[02:38:38 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[02:38:49 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[02:38:56 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[02:39:02 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[02:39:08 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[02:39:23 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[02:39:30 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[02:42:21 AM]  Giao dịch bery với kiemvodanh nhận +0 beri
+[02:42:21 AM]  Giao dịch bery với kiemvodanh nhận Dây chuyền 2 Lv70 2
+[02:42:21 AM]  Giao dịch bery với kiemvodanh nhận Nhẫn 2 Lv70
+[02:42:47 AM]  Mua Bột cường hóa -20 ruby
+[02:42:47 AM]  Mua Bột cường hóa -20 ruby
+[02:42:47 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:48 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:49 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:50 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:51 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:52 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:53 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:54 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:55 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:56 AM]  Mua Bột cường hóa -20 ruby
+[02:42:57 AM]  Mua Bột cường hóa -20 ruby
+[02:42:57 AM]  Mua Bột cường hóa -20 ruby
+[02:42:57 AM]  Mua Bột cường hóa -20 ruby
+[02:42:57 AM]  Mua Bột cường hóa -20 ruby
+[02:42:57 AM]  Mua Bột cường hóa -20 ruby
+[02:42:57 AM]  Mua Bột cường hóa -20 ruby
+[02:42:57 AM]  Mua Bột cường hóa -20 ruby
+[02:42:57 AM]  Mua Bột cường hóa -20 ruby
+[02:42:57 AM]  Mua Bột cường hóa -20 ruby
+[02:42:57 AM]  Mua Bột cường hóa -20 ruby
+[02:42:57 AM]  Mua Bột cường hóa -20 ruby
+[02:42:57 AM]  Mua Bột cường hóa -20 ruby
+[02:42:57 AM]  Mua Bột cường hóa -20 ruby
+[02:43:01 AM]  Mua Bột vàng -2 ruby
+[02:43:01 AM]  Mua Bột vàng -2 ruby
+[02:43:01 AM]  Mua Bột vàng -2 ruby
+[02:43:01 AM]  Mua Bột vàng -2 ruby
+[02:43:01 AM]  Mua Bột vàng -2 ruby
+[02:43:02 AM]  Mua Bột vàng -2 ruby
+[02:43:02 AM]  Mua Bột vàng -2 ruby
+[02:43:02 AM]  Mua Bột vàng -2 ruby
+[02:43:02 AM]  Mua Bột vàng -10 ruby
+[02:43:02 AM]  Mua Bột vàng -10 ruby
+[02:43:02 AM]  Mua Bột vàng -10 ruby
+[02:43:02 AM]  Mua Bột vàng -10 ruby
+[02:43:02 AM]  Mua Bột vàng -10 ruby
+[02:43:02 AM]  Mua Bột vàng -10 ruby
+[02:43:02 AM]  Mua Bột vàng -10 ruby
+[02:43:02 AM]  Mua Bột vàng -40 ruby
+[02:43:02 AM]  Mua Bột vàng -40 ruby
+[02:43:02 AM]  Mua Bột vàng -40 ruby
+[02:43:02 AM]  Mua Bột vàng -40 ruby
+[02:43:02 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:03 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:04 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:05 AM]  Mua Bột vàng -40 ruby
+[02:43:06 AM]  Mua Bột vàng -40 ruby
+[02:43:06 AM]  Mua Bột vàng -40 ruby
+[02:43:06 AM]  Mua Bột vàng -40 ruby
+[02:43:06 AM]  Mua Bột vàng -40 ruby
+[02:43:06 AM]  Mua Bột vàng -40 ruby
+[02:43:06 AM]  Mua Bột vàng -40 ruby
+[02:43:06 AM]  Mua Bột vàng -40 ruby
+[02:43:06 AM]  Mua Bột vàng -40 ruby
+[02:43:06 AM]  Mua Bột vàng -40 ruby
+[02:43:06 AM]  Mua Bột vàng -40 ruby
+[02:43:06 AM]  Mua Bột vàng -40 ruby
+[02:43:06 AM]  Mua Bột vàng -40 ruby
+[02:43:06 AM]  Mua Bột vàng -40 ruby
+[02:43:06 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:07 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:08 AM]  Mua Bột vàng -40 ruby
+[02:43:09 AM]  Mua Bột vàng -40 ruby
+[02:43:09 AM]  Mua Bột vàng -40 ruby
+[02:43:09 AM]  Mua Bột vàng -40 ruby
+[02:43:10 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:10 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:10 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:10 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:10 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:11 AM]  Mua Ngôi sao may mắn -5 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -25 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -25 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:12 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:13 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:13 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:13 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:13 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:13 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:13 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:13 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:13 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:13 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:13 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:13 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:13 AM]  Mua Ngôi sao may mắn -100 ruby
+[02:43:16 AM]  Mua Mai rùa -140 ruby
+[02:43:16 AM]  Mua Mai rùa -140 ruby
+[02:43:16 AM]  Mua Mai rùa -140 ruby
+[02:43:16 AM]  Mua Mai rùa -140 ruby
+[02:43:16 AM]  Mua Mai rùa -140 ruby
+[02:43:16 AM]  Mua Mai rùa -140 ruby
+[02:43:16 AM]  Mua Mai rùa -140 ruby
+[02:43:16 AM]  Mua Mai rùa -140 ruby
+[02:43:16 AM]  Mua Mai rùa -140 ruby
+[02:43:17 AM]  Mua Mai rùa -140 ruby
+[02:43:17 AM]  Mua Mai rùa -140 ruby
+[02:43:17 AM]  Mua Mai rùa -140 ruby
+[02:43:17 AM]  Mua Mai rùa -140 ruby
+[02:43:17 AM]  Mua Mai rùa -140 ruby
+[02:43:17 AM]  Mua Mai rùa -140 ruby
+[02:43:17 AM]  Mua Mai rùa -140 ruby
+[02:43:17 AM]  Mua Mai rùa -140 ruby
+[02:43:17 AM]  Mua Mai rùa -140 ruby
+[02:43:17 AM]  Mua Mai rùa -140 ruby
+[02:43:17 AM]  Mua Mai rùa -140 ruby
+[02:43:17 AM]  Mua Mai rùa -140 ruby
+[02:43:17 AM]  Mua Mai rùa -140 ruby
+[02:43:17 AM]  Mua Mai rùa -140 ruby
+[02:43:17 AM]  Mua Mai rùa -140 ruby
+[02:43:18 AM]  Mua Mai rùa -140 ruby
+[02:43:18 AM]  Mua Mai rùa -140 ruby
+[02:43:18 AM]  Mua Mai rùa -140 ruby
+[02:43:18 AM]  Mua Mai rùa -140 ruby
+[02:43:18 AM]  Mua Mai rùa -140 ruby
+[02:43:18 AM]  Mua Mai rùa -140 ruby
+[02:43:18 AM]  Mua Mai rùa -140 ruby
+[02:43:18 AM]  Mua Mai rùa -140 ruby
+[02:43:18 AM]  Mua Mai rùa -140 ruby
+[02:43:18 AM]  Mua Mai rùa -140 ruby
+[02:43:18 AM]  Mua Mai rùa -140 ruby
+[02:43:18 AM]  Mua Mai rùa -140 ruby
+[02:43:18 AM]  Mua Mai rùa -140 ruby
+[02:43:31 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -3000 beri
+[02:43:31 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -3000 beri
+[02:43:31 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:43:31 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:43:31 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:43:31 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:43:31 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:43:31 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:43:32 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:43:32 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:43:32 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:43:33 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:33 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:33 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:33 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:33 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:33 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:33 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:33 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:33 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:35 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:35 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:35 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:35 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:35 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:35 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:35 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:36 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:36 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:36 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:43:37 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:43:37 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:43:37 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:43:37 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:43:37 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:43:38 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:43:38 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:43:38 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:43:38 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:43:38 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:43:38 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:43:38 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:43:39 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:43:39 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:43:39 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:43:39 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:43:39 AM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:43:47 AM]  Cường hóa item Nhẫn 2 Lv70 -3000 beri
+[02:43:47 AM]  Cường hóa item Nhẫn 2 Lv70 -3000 beri
+[02:43:47 AM]  Cường hóa item Nhẫn 2 Lv70 -3000 beri
+[02:43:47 AM]  Cường hóa item Nhẫn 2 Lv70 -3000 beri
+[02:43:47 AM]  Cường hóa item Nhẫn 2 Lv70 -3000 beri
+[02:43:47 AM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:47 AM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:47 AM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:47 AM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:47 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:48 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:48 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:48 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:49 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:49 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:49 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:49 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:49 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:49 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:49 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:50 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:50 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:50 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:50 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:50 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:50 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:50 AM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:50 AM]  Cường hóa item Nhẫn 2 Lv70 -8000 beri
+[02:43:50 AM]  Cường hóa item Nhẫn 2 Lv70 -8000 beri
+[02:43:51 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:52 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:52 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:52 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:52 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:52 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:52 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:52 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:52 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:53 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:53 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:53 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:53 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:53 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:54 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:54 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:54 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:54 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:54 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:55 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:55 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:55 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:55 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:55 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:56 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:56 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:56 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:56 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:56 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:56 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:57 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:57 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:49:10 AM]  Logout : [Beri] 1.988.709.000 [Ruby] 1.004.982.244
+[05:04:52 AM]  Login : [Beri] 1.988.709.000 [Ruby] 1.004.982.244
+[05:12:23 AM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[05:12:43 AM]  Logout : [Beri] 1.985.199.000 [Ruby] 1.004.981.924
+[05:14:03 AM]  Login : [Beri] 1.985.199.000 [Ruby] 1.004.981.924
+[05:15:08 AM]  Giao dịch bery với kiemvodanh nhận +0 beri
+[05:15:18 AM]  Logout : [Beri] 1.985.199.000 [Ruby] 1.004.981.924
+[06:51:51 AM]  Login : [Beri] 1.985.199.000 [Ruby] 1.004.981.924
+[06:52:01 AM]  Logout : [Beri] 1.985.199.000 [Ruby] 1.004.981.924

@@ -1,0 +1,48 @@
+[01:58:13 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[01:59:55 AM]  Mua Chấn thiên -500 ruby
+[02:00:11 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 499.500
+[02:00:24 AM]  Login : [Beri] 2.000.000.000 [Ruby] 499.500
+[02:00:32 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[02:00:43 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[02:00:55 AM]  Mua Tóc khỉ con -500 ruby
+[02:01:02 AM]  Mua Killer -500 ruby
+[02:02:49 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 498.500
+[02:06:28 AM]  Login : [Beri] 2.000.000.000 [Ruby] 498.500
+[02:06:56 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 498.500
+[02:07:49 AM]  Login : [Beri] 2.000.000.000 [Ruby] 498.500
+[02:07:52 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 498.500
+[03:22:11 AM]  Login : [Beri] 2.000.000.000 [Ruby] 498.500
+[03:22:26 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[03:22:41 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[03:23:03 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[03:23:12 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[03:25:35 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.498.500
+[07:53:57 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.498.500
+[07:54:16 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[07:54:21 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.498.500
+[08:55:06 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.498.500
+[08:58:39 AM]  Giao dịch bery với namtrum nhận +0 beri
+[08:58:44 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.498.500
+[10:04:13 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.498.500
+[10:04:15 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.498.500

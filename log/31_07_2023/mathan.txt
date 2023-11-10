@@ -1,0 +1,13 @@
+[07:22:37 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[07:23:03 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[07:23:06 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[07:23:27 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[07:23:48 AM]  Mua 9999 vé vòng quay -149985 ruby
+[07:23:56 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.850.015
+[07:24:00 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.499.850.015
+[07:25:10 AM]  Mua Găng tay vải -400 beri
+[07:25:42 AM]  Mua Găng tay gai sắt 2 -2000 beri
+[07:29:13 AM]  Logout : [Beri] 1.999.997.600 [Ruby] 1.499.849.815

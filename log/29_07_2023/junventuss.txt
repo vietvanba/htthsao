@@ -1,0 +1,35 @@
+[06:34:07 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[06:34:50 PM]  Mua Xp Chiêu thức -6000 ruby
+[06:34:52 PM]  Mua Kinh nghiệm X2 -60 ruby
+[06:35:41 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 493.940
+[06:35:49 PM]  Login : [Beri] 2.000.000.000 [Ruby] 493.940
+[06:36:28 PM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[06:36:37 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[06:36:45 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[06:36:52 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[06:36:59 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[06:37:05 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[06:37:10 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[06:38:01 PM]  Giao dịch bery với chembayxac nhận +0 beri
+[06:38:59 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.493.940

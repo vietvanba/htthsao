@@ -1,0 +1,13 @@
+[04:19:37 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[04:19:55 AM]  Nhặt +99 beri
+[04:20:07 AM]  Nhặt +6 beri
+[04:20:59 AM]  Logout : [Beri] 2.000.000.105 [Ruby] 500.000.000
+[04:21:09 AM]  Login : [Beri] 2.000.000.105 [Ruby] 500.000.000
+[04:21:32 AM]  Mua 2000 vé vòng quay -30000 ruby
+[04:23:28 AM]  Mua 1 vé vòng quay -15 ruby
+[04:32:35 AM]  Giao dịch bery với memcho nhận +0 beri
+[04:32:54 AM]  Logout : [Beri] 2.000.000.105 [Ruby] 499.968.325
+[04:34:48 AM]  Login : [Beri] 2.000.000.105 [Ruby] 499.968.325
+[04:34:53 AM]  Logout : [Beri] 2.000.000.105 [Ruby] 499.968.325
+[08:01:49 AM]  Login : [Beri] 2.000.000.105 [Ruby] 499.968.325
+[08:01:56 AM]  Logout : [Beri] 2.000.000.105 [Ruby] 499.968.325

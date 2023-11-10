@@ -1,0 +1,62 @@
+[12:53:50 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[12:57:18 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000
+[12:57:32 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[01:00:44 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[01:00:58 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[01:01:40 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[01:01:55 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[01:02:05 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[01:02:19 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[01:02:40 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[01:05:00 AM]  Mua Tóc khỉ con -500 ruby
+[01:05:10 AM]  Mua Pell -500 ruby
+[01:05:57 AM]  Mua Đấng -500 ruby
+[01:09:37 AM]  Mua Súp baratie -1600 beri
+[01:09:38 AM]  Mua Súp baratie -1600 beri
+[01:09:39 AM]  Mua Súp baratie -1600 beri
+[01:09:39 AM]  Mua Súp baratie -1600 beri
+[01:09:40 AM]  Mua Súp baratie -1600 beri
+[01:09:41 AM]  Mua Súp baratie -1600 beri
+[01:09:41 AM]  Mua Súp baratie -1600 beri
+[01:09:42 AM]  Mua Súp baratie -1600 beri
+[01:09:42 AM]  Mua Súp baratie -1600 beri
+[01:09:48 AM]  Mua Sữa -400 beri
+[01:09:48 AM]  Mua Sữa -400 beri
+[01:09:48 AM]  Mua Sữa -400 beri
+[01:09:48 AM]  Mua Sữa -400 beri
+[01:09:49 AM]  Mua Sữa -400 beri
+[01:09:49 AM]  Mua Sữa -400 beri
+[01:09:49 AM]  Mua Sữa -400 beri
+[01:09:49 AM]  Mua Sữa -400 beri
+[01:09:49 AM]  Mua Sữa -400 beri
+[01:09:50 AM]  Mua Sữa -400 beri
+[01:09:59 AM]  Mua Súp baratie -1600 beri
+[01:11:19 AM]  Mua 10 vé vòng quay -150 ruby
+[01:11:57 AM]  Mua 50 vé vòng quay -750 ruby
+[01:18:47 AM]  Mua 90 vé vòng quay -1350 ruby
+[01:24:10 AM]  Mua 90 vé vòng quay -1350 ruby
+[01:30:54 AM]  Logout : [Beri] 1.999.980.000 [Ruby] 1.000.494.900
+[01:31:28 AM]  Login : [Beri] 1.999.980.000 [Ruby] 1.000.494.900
+[01:38:47 AM]  Mua Súng xạ thủ 2 -2300 beri
+[01:43:44 AM]  Logout : [Beri] 1.999.977.700 [Ruby] 1.000.494.900

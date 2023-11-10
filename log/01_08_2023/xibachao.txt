@@ -1,0 +1,72 @@
+[04:12:12 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[04:12:57 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[04:13:09 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[04:13:57 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.092
+[04:14:01 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.092
+[04:14:13 AM]  Nhập giftcode Bạn nhận được:
+Beri : 1000000000
+Ruby : 1000000000
+Item : Thiên thạch may mắn x99, 
+[04:14:22 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[04:14:32 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[04:14:46 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.500.000.092
+[04:14:53 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.500.000.092
+[04:15:00 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[04:15:09 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x1000, 
+[04:15:35 AM]  Nhặt +1200 beri
+[04:16:13 AM]  Mua Xp Chiêu thức -6000 ruby
+[04:16:13 AM]  Mua Xp Chiêu thức -6000 ruby
+[04:16:15 AM]  Mua Kinh nghiệm X2 -60 ruby
+[04:16:15 AM]  Mua Kinh nghiệm X2 -60 ruby
+[04:16:35 AM]  Mua Súp baratie -1600 beri
+[04:16:35 AM]  Mua Súp baratie -1600 beri
+[04:16:35 AM]  Mua Súp baratie -1600 beri
+[04:16:35 AM]  Mua Súp baratie -1600 beri
+[04:16:36 AM]  Mua Súp baratie -1600 beri
+[04:16:36 AM]  Mua Súp baratie -1600 beri
+[04:16:36 AM]  Mua Súp baratie -1600 beri
+[04:16:37 AM]  Mua Súp baratie -1600 beri
+[04:16:37 AM]  Mua Súp baratie -1600 beri
+[04:16:38 AM]  Mua Quả Conache -0 beri
+[04:16:39 AM]  Mua Quả Conache -0 beri
+[04:16:39 AM]  Mua Quả Conache -0 beri
+[04:16:39 AM]  Mua Quả Conache -0 beri
+[04:16:39 AM]  Mua Quả Conache -0 beri
+[04:16:40 AM]  Mua Quả Conache -0 beri
+[04:16:40 AM]  Mua Quả Conache -0 beri
+[04:16:40 AM]  Mua Quả Conache -0 beri
+[04:16:41 AM]  Mua Quả Conache -0 beri
+[04:16:43 AM]  Mua Sữa -400 beri
+[04:16:43 AM]  Mua Sữa -400 beri
+[04:16:44 AM]  Mua Sữa -400 beri
+[04:16:44 AM]  Mua Sữa -400 beri
+[04:18:43 AM]  Mua 999 vé vòng quay -14985 ruby
+[04:24:17 AM]  Nhặt +1717 beri
+[04:25:28 AM]  Mua Tóc thổ dân -500 ruby
+[04:25:41 AM]  Mua Pell -500 ruby
+[04:26:01 AM]  Logout : [Beri] 1.999.986.917 [Ruby] 1.499.971.987
+[04:26:20 AM]  Login : [Beri] 1.999.986.917 [Ruby] 1.499.971.987
+[04:27:25 AM]  Nhặt +2537 beri
+[04:29:02 AM]  Logout : [Beri] 1.999.989.454 [Ruby] 1.499.971.987
+[12:22:21 PM]  Login : [Beri] 1.999.989.454 [Ruby] 1.499.971.987
+[12:22:42 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Nhẫn 10x x1, 
+[12:22:50 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dây chuyền 10x x1, 
+[12:23:34 PM]  Logout : [Beri] 1.999.989.454 [Ruby] 1.499.971.987

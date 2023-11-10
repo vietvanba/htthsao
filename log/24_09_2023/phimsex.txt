@@ -1,0 +1,15 @@
+[12:52:18 PM]  Login : [Beri] 20.000.000 [Ruby] 50.000
+[12:52:53 PM]  Logout : [Beri] 20.000.000 [Ruby] 50.000
+[12:53:10 PM]  Login : [Beri] 20.000.000 [Ruby] 50.000
+[12:58:05 PM]  Login : [Beri] 21.000.000 [Ruby] 1.050.000
+[12:59:00 PM]  Login : [Beri] 21.000.000 [Ruby] 1.050.000
+[12:59:16 PM]  Mua 5000 vé vòng quay -75000 ruby
+[01:00:34 PM]  Logout : [Beri] 32.008.234 [Ruby] 975.000
+[01:01:11 PM]  Login : [Beri] 32.008.234 [Ruby] 975.000
+[01:02:45 PM]  Logout : [Beri] 73.031.876 [Ruby] 975.000
+[01:02:52 PM]  Login : [Beri] 73.031.876 [Ruby] 975.000
+[01:05:02 PM]  Logout : [Beri] 111.022.197 [Ruby] 975.000
+[01:06:11 PM]  Login : [Beri] 111.022.197 [Ruby] 975.000
+[01:06:14 PM]  Logout : [Beri] 111.022.197 [Ruby] 975.000
+[03:03:54 PM]  Login : [Beri] 111.022.197 [Ruby] 975.000
+[03:04:02 PM]  Logout : [Beri] 111.022.197 [Ruby] 975.000

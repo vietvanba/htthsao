@@ -1,0 +1,26 @@
+[12:00:59 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[12:01:16 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[12:01:17 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[12:01:59 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[12:02:29 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[12:03:06 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[12:03:55 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[12:04:09 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[12:04:20 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[12:04:31 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[12:04:55 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[12:05:07 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[12:07:35 AM]  Giao dịch bery với accountlv5 nhận +0 beri
+[12:07:40 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.005.000.000

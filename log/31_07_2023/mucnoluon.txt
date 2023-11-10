@@ -1,0 +1,43 @@
+[12:51:56 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[12:52:56 PM]  Mua Xp Chiêu thức -1500 ruby
+[12:52:59 PM]  Mua Kinh nghiệm X2 -3 ruby
+[12:53:35 PM]  Mua Quần thể thao 2 -1500 beri
+[12:54:01 PM]  Mua Súng hỏa mai 2 -2000 beri
+[12:54:10 PM]  Mua Áo thể thao -1700 beri
+[12:54:53 PM]  Logout : [Beri] 1.999.994.800 [Ruby] 499.998.497
+[12:54:57 PM]  Login : [Beri] 1.999.994.800 [Ruby] 499.998.497
+[12:56:37 PM]  Logout : [Beri] 1.999.994.800 [Ruby] 499.998.593
+[12:56:57 PM]  Login : [Beri] 1.999.994.800 [Ruby] 499.998.593
+[12:57:09 PM]  Logout : [Beri] 1.999.994.800 [Ruby] 499.998.593
+[12:57:19 PM]  Login : [Beri] 1.999.994.800 [Ruby] 499.998.593
+[12:57:48 PM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[12:57:56 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x99, 
+[12:58:09 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[12:58:18 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[12:58:26 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[12:58:33 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[12:58:40 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[01:00:10 PM]  Logout : [Beri] 1.999.994.800 [Ruby] 1.499.998.593
+[01:00:14 PM]  Login : [Beri] 1.999.994.800 [Ruby] 1.499.998.593
+[01:02:21 PM]  Logout : [Beri] 1.999.994.800 [Ruby] 1.499.998.593

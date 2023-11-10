@@ -1,0 +1,25 @@
+[05:35:56 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[05:38:42 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[05:38:51 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[05:39:05 AM]  Mua xác ướp trắng -500 ruby
+[05:40:52 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[05:41:03 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x1000, 
+[05:41:25 AM]  Nhập giftcode Bạn nhận được:
+Beri : 1000000000
+Ruby : 1000000000
+Item : Thiên thạch may mắn x99, 
+[05:41:35 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[05:41:43 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[05:42:48 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.999.500

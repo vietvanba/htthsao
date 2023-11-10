@@ -1,0 +1,38 @@
+[12:31:29 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[12:32:32 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000
+[12:32:50 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[12:35:06 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[12:35:23 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[12:35:39 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[12:35:51 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[12:36:05 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[12:36:19 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[12:36:40 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.500.000
+[02:00:49 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.500.000
+[02:01:50 AM]  Giao dịch bery với lnextl nhận +0 beri
+[02:01:50 AM]  Giao dịch bery với lnextl nhận Dây chuyền 1 Lv20
+[02:02:29 AM]  Mua 40 vé vòng quay -600 ruby
+[02:03:50 AM]  Giao dịch bery với lnextl nhận +0 beri
+[02:03:50 AM]  Giao dịch bery với lnextl nhận Dial 4
+[02:04:54 AM]  Giao dịch bery với lnextl nhận +0 beri
+[02:44:34 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.499.370
+[02:44:44 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.499.370
+[02:44:50 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.499.370

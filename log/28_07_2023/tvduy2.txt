@@ -1,0 +1,830 @@
+[08:17:46 PM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[08:18:10 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[08:18:22 PM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[08:18:39 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[08:18:44 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[09:45:11 PM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[09:45:18 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[09:45:33 PM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[09:46:15 PM]  Giao dịch bery với boyphoco nhận +0 beri
+[09:46:15 PM]  Giao dịch bery với boyphoco nhận Kiếm thất truyền 2
+[09:46:24 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[09:47:15 PM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[09:47:40 PM]  Mua Bột cường hóa -20 ruby
+[09:47:41 PM]  Mua Bột cường hóa -20 ruby
+[09:47:41 PM]  Mua Bột cường hóa -20 ruby
+[09:47:41 PM]  Mua Bột cường hóa -20 ruby
+[09:47:41 PM]  Mua Bột cường hóa -20 ruby
+[09:47:41 PM]  Mua Bột cường hóa -20 ruby
+[09:47:42 PM]  Mua Bột cường hóa -20 ruby
+[09:47:42 PM]  Mua Bột cường hóa -20 ruby
+[09:47:42 PM]  Mua Bột cường hóa -20 ruby
+[09:47:42 PM]  Mua Bột cường hóa -20 ruby
+[09:47:42 PM]  Mua Bột cường hóa -20 ruby
+[09:47:42 PM]  Mua Bột cường hóa -20 ruby
+[09:47:43 PM]  Mua Bột cường hóa -20 ruby
+[09:47:43 PM]  Mua Bột cường hóa -20 ruby
+[09:47:43 PM]  Mua Bột cường hóa -20 ruby
+[09:47:43 PM]  Mua Bột cường hóa -20 ruby
+[09:47:43 PM]  Mua Bột cường hóa -20 ruby
+[09:47:44 PM]  Mua Bột cường hóa -20 ruby
+[09:47:44 PM]  Mua Bột cường hóa -20 ruby
+[09:47:44 PM]  Mua Bột cường hóa -20 ruby
+[09:47:44 PM]  Mua Bột cường hóa -20 ruby
+[09:47:44 PM]  Mua Bột cường hóa -20 ruby
+[09:47:44 PM]  Mua Bột cường hóa -20 ruby
+[09:47:45 PM]  Mua Bột cường hóa -20 ruby
+[09:47:45 PM]  Mua Bột cường hóa -20 ruby
+[09:47:45 PM]  Mua Bột cường hóa -20 ruby
+[09:47:45 PM]  Mua Bột cường hóa -20 ruby
+[09:47:45 PM]  Mua Bột cường hóa -20 ruby
+[09:47:45 PM]  Mua Bột cường hóa -20 ruby
+[09:47:46 PM]  Mua Bột cường hóa -20 ruby
+[09:47:46 PM]  Mua Bột cường hóa -20 ruby
+[09:47:46 PM]  Mua Bột cường hóa -20 ruby
+[09:47:46 PM]  Mua Bột cường hóa -20 ruby
+[09:47:46 PM]  Mua Bột cường hóa -20 ruby
+[09:47:47 PM]  Mua Bột cường hóa -20 ruby
+[09:47:47 PM]  Mua Bột cường hóa -20 ruby
+[09:47:47 PM]  Mua Bột cường hóa -20 ruby
+[09:47:47 PM]  Mua Bột cường hóa -20 ruby
+[09:47:47 PM]  Mua Bột cường hóa -20 ruby
+[09:47:48 PM]  Mua Bột cường hóa -20 ruby
+[09:47:48 PM]  Mua Bột cường hóa -20 ruby
+[09:47:48 PM]  Mua Bột cường hóa -20 ruby
+[09:47:48 PM]  Mua Bột cường hóa -20 ruby
+[09:47:48 PM]  Mua Bột cường hóa -20 ruby
+[09:47:49 PM]  Mua Bột cường hóa -20 ruby
+[09:47:49 PM]  Mua Bột cường hóa -20 ruby
+[09:47:49 PM]  Mua Bột cường hóa -20 ruby
+[09:47:49 PM]  Mua Bột cường hóa -20 ruby
+[09:47:49 PM]  Mua Bột cường hóa -20 ruby
+[09:47:50 PM]  Mua Bột cường hóa -20 ruby
+[09:47:50 PM]  Mua Bột cường hóa -20 ruby
+[09:47:50 PM]  Mua Bột cường hóa -20 ruby
+[09:47:50 PM]  Mua Bột cường hóa -20 ruby
+[09:47:50 PM]  Mua Bột cường hóa -20 ruby
+[09:47:51 PM]  Mua Bột cường hóa -20 ruby
+[09:47:51 PM]  Mua Bột cường hóa -20 ruby
+[09:47:51 PM]  Mua Bột cường hóa -20 ruby
+[09:47:51 PM]  Mua Bột cường hóa -20 ruby
+[09:47:51 PM]  Mua Bột cường hóa -20 ruby
+[09:47:51 PM]  Mua Bột cường hóa -20 ruby
+[09:47:52 PM]  Mua Bột cường hóa -20 ruby
+[09:47:52 PM]  Mua Bột cường hóa -20 ruby
+[09:47:52 PM]  Mua Bột cường hóa -20 ruby
+[09:47:52 PM]  Mua Bột cường hóa -20 ruby
+[09:47:52 PM]  Mua Bột cường hóa -20 ruby
+[09:47:52 PM]  Mua Bột cường hóa -20 ruby
+[09:47:53 PM]  Mua Bột cường hóa -20 ruby
+[09:47:53 PM]  Mua Bột cường hóa -20 ruby
+[09:47:53 PM]  Mua Bột cường hóa -20 ruby
+[09:47:53 PM]  Mua Bột cường hóa -20 ruby
+[09:47:53 PM]  Mua Bột cường hóa -20 ruby
+[09:47:54 PM]  Mua Bột cường hóa -20 ruby
+[09:47:54 PM]  Mua Bột cường hóa -20 ruby
+[09:47:54 PM]  Mua Bột cường hóa -20 ruby
+[09:47:54 PM]  Mua Bột cường hóa -20 ruby
+[09:47:54 PM]  Mua Bột cường hóa -20 ruby
+[09:47:54 PM]  Mua Bột cường hóa -20 ruby
+[09:47:54 PM]  Mua Bột cường hóa -20 ruby
+[09:47:55 PM]  Mua Bột cường hóa -20 ruby
+[09:47:55 PM]  Mua Bột cường hóa -20 ruby
+[09:47:55 PM]  Mua Bột cường hóa -20 ruby
+[09:47:55 PM]  Mua Bột cường hóa -20 ruby
+[09:47:56 PM]  Mua Bột cường hóa -20 ruby
+[09:47:56 PM]  Mua Bột cường hóa -20 ruby
+[09:47:56 PM]  Mua Bột cường hóa -20 ruby
+[09:47:56 PM]  Mua Bột cường hóa -20 ruby
+[09:47:56 PM]  Mua Bột cường hóa -20 ruby
+[09:47:57 PM]  Mua Bột cường hóa -20 ruby
+[09:47:57 PM]  Mua Bột cường hóa -20 ruby
+[09:48:00 PM]  Mua Bột vàng -40 ruby
+[09:48:00 PM]  Mua Bột vàng -40 ruby
+[09:48:00 PM]  Mua Bột vàng -40 ruby
+[09:48:00 PM]  Mua Bột vàng -40 ruby
+[09:48:01 PM]  Mua Bột vàng -40 ruby
+[09:48:01 PM]  Mua Bột vàng -40 ruby
+[09:48:01 PM]  Mua Bột vàng -40 ruby
+[09:48:01 PM]  Mua Bột vàng -40 ruby
+[09:48:01 PM]  Mua Bột vàng -40 ruby
+[09:48:01 PM]  Mua Bột vàng -40 ruby
+[09:48:02 PM]  Mua Bột vàng -40 ruby
+[09:48:02 PM]  Mua Bột vàng -40 ruby
+[09:48:02 PM]  Mua Bột vàng -40 ruby
+[09:48:02 PM]  Mua Bột vàng -40 ruby
+[09:48:02 PM]  Mua Bột vàng -40 ruby
+[09:48:02 PM]  Mua Bột vàng -40 ruby
+[09:48:03 PM]  Mua Bột vàng -40 ruby
+[09:48:03 PM]  Mua Bột vàng -40 ruby
+[09:48:03 PM]  Mua Bột vàng -40 ruby
+[09:48:03 PM]  Mua Bột vàng -40 ruby
+[09:48:03 PM]  Mua Bột vàng -40 ruby
+[09:48:03 PM]  Mua Bột vàng -40 ruby
+[09:48:04 PM]  Mua Bột vàng -40 ruby
+[09:48:04 PM]  Mua Bột vàng -40 ruby
+[09:48:04 PM]  Mua Bột vàng -40 ruby
+[09:48:04 PM]  Mua Bột vàng -40 ruby
+[09:48:04 PM]  Mua Bột vàng -40 ruby
+[09:48:05 PM]  Mua Bột vàng -40 ruby
+[09:48:05 PM]  Mua Bột vàng -40 ruby
+[09:48:05 PM]  Mua Bột vàng -40 ruby
+[09:48:05 PM]  Mua Bột vàng -40 ruby
+[09:48:05 PM]  Mua Bột vàng -40 ruby
+[09:48:06 PM]  Mua Bột vàng -40 ruby
+[09:48:06 PM]  Mua Bột vàng -40 ruby
+[09:48:06 PM]  Mua Bột vàng -40 ruby
+[09:48:06 PM]  Mua Bột vàng -40 ruby
+[09:48:06 PM]  Mua Bột vàng -40 ruby
+[09:48:06 PM]  Mua Bột vàng -40 ruby
+[09:48:07 PM]  Mua Bột vàng -40 ruby
+[09:48:07 PM]  Mua Bột vàng -40 ruby
+[09:48:07 PM]  Mua Bột vàng -40 ruby
+[09:48:07 PM]  Mua Bột vàng -40 ruby
+[09:48:07 PM]  Mua Bột vàng -40 ruby
+[09:48:07 PM]  Mua Bột vàng -40 ruby
+[09:48:07 PM]  Mua Bột vàng -40 ruby
+[09:48:08 PM]  Mua Bột vàng -40 ruby
+[09:48:08 PM]  Mua Bột vàng -40 ruby
+[09:48:08 PM]  Mua Bột vàng -40 ruby
+[09:48:08 PM]  Mua Bột vàng -40 ruby
+[09:48:08 PM]  Mua Bột vàng -40 ruby
+[09:48:09 PM]  Mua Bột vàng -40 ruby
+[09:48:09 PM]  Mua Bột vàng -40 ruby
+[09:48:09 PM]  Mua Bột vàng -40 ruby
+[09:48:09 PM]  Mua Bột vàng -40 ruby
+[09:48:09 PM]  Mua Bột vàng -40 ruby
+[09:48:09 PM]  Mua Bột vàng -40 ruby
+[09:48:10 PM]  Mua Bột vàng -40 ruby
+[09:48:10 PM]  Mua Bột vàng -40 ruby
+[09:48:10 PM]  Mua Bột vàng -40 ruby
+[09:48:10 PM]  Mua Bột vàng -40 ruby
+[09:48:10 PM]  Mua Bột vàng -40 ruby
+[09:48:11 PM]  Mua Bột vàng -40 ruby
+[09:48:11 PM]  Mua Bột vàng -40 ruby
+[09:48:11 PM]  Mua Bột vàng -40 ruby
+[09:48:11 PM]  Mua Bột vàng -40 ruby
+[09:48:11 PM]  Mua Bột vàng -40 ruby
+[09:48:11 PM]  Mua Bột vàng -40 ruby
+[09:48:12 PM]  Mua Bột vàng -40 ruby
+[09:48:12 PM]  Mua Bột vàng -40 ruby
+[09:48:12 PM]  Mua Bột vàng -40 ruby
+[09:48:12 PM]  Mua Bột vàng -40 ruby
+[09:48:12 PM]  Mua Bột vàng -40 ruby
+[09:48:12 PM]  Mua Bột vàng -40 ruby
+[09:48:13 PM]  Mua Bột vàng -40 ruby
+[09:48:13 PM]  Mua Bột vàng -40 ruby
+[09:48:13 PM]  Mua Bột vàng -40 ruby
+[09:48:13 PM]  Mua Bột vàng -40 ruby
+[09:48:13 PM]  Mua Bột vàng -40 ruby
+[09:48:13 PM]  Mua Bột vàng -40 ruby
+[09:48:14 PM]  Mua Bột vàng -40 ruby
+[09:48:14 PM]  Mua Bột vàng -40 ruby
+[09:48:14 PM]  Mua Bột vàng -40 ruby
+[09:48:14 PM]  Mua Bột vàng -40 ruby
+[09:48:14 PM]  Mua Bột vàng -40 ruby
+[09:48:14 PM]  Mua Bột vàng -40 ruby
+[09:48:15 PM]  Mua Bột vàng -40 ruby
+[09:48:15 PM]  Mua Bột vàng -40 ruby
+[09:48:15 PM]  Mua Bột vàng -40 ruby
+[09:48:15 PM]  Mua Bột vàng -40 ruby
+[09:48:15 PM]  Mua Bột vàng -40 ruby
+[09:48:19 PM]  Mua Ngôi sao may mắn -100 ruby
+[09:48:19 PM]  Mua Ngôi sao may mắn -100 ruby
+[09:48:19 PM]  Mua Ngôi sao may mắn -100 ruby
+[09:48:19 PM]  Mua Ngôi sao may mắn -100 ruby
+[09:48:19 PM]  Mua Ngôi sao may mắn -100 ruby
+[09:48:20 PM]  Mua Ngôi sao may mắn -100 ruby
+[09:48:20 PM]  Mua Ngôi sao may mắn -100 ruby
+[09:48:20 PM]  Mua Ngôi sao may mắn -100 ruby
+[09:48:20 PM]  Mua Ngôi sao may mắn -100 ruby
+[09:48:28 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:28 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:28 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:28 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:28 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:30 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:30 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:30 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:30 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:30 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:32 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:32 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:32 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:32 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:32 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:32 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:34 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:34 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:34 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:34 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:34 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:34 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:34 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:36 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:36 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:36 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:36 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:36 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:36 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:37 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:38 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:38 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:38 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:38 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:39 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:39 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:39 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:40 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:40 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:41 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:48:41 PM]  Cường hóa item Kiếm thất truyền 2 -10000 beri
+[09:49:21 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:21 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:21 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:21 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:21 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:21 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:22 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:22 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:22 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:22 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:22 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:23 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:23 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:23 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:23 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:23 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:23 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:23 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:24 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:24 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:24 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:24 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:24 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:24 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:25 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:25 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:25 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:25 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:25 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:25 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:26 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:26 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:26 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:26 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:26 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:26 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:27 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:27 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:27 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:27 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:27 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:27 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:28 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:28 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:28 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:28 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:28 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:28 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:29 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:29 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:29 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:29 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:29 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:29 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:30 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:30 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:30 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:30 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:30 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:30 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:30 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:31 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:31 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:31 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:31 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:31 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:32 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:32 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:32 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:32 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:32 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:32 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:32 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:33 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:33 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:33 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:33 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:33 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:33 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:34 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:34 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:34 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:34 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:34 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:35 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:35 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:35 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:35 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:35 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:35 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:35 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:36 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:36 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:36 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:36 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:36 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:36 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:37 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:37 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:37 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:37 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:37 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:38 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:38 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:38 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:38 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:38 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:39 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:39 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:39 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:39 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:39 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:39 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:40 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:40 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:40 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:40 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:40 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:40 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:41 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:41 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:41 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:41 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:41 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:41 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:42 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:42 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:42 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:42 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:42 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:42 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:49:47 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:47 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:47 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:47 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:47 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:48 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:48 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:48 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:48 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:48 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:48 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:49 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:49 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:49 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:49 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:49 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:49 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:50 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:50 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:50 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:50 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:50 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:51 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:51 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:51 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:51 PM]  Mua Búa siêu cấp -10000 ruby
+[09:49:55 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:55 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:55 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:56 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:56 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:56 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:56 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:56 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:57 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:57 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:57 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:57 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:57 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:57 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:58 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:58 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:58 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:58 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:58 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:58 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:59 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:59 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:59 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:59 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:59 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:49:59 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:00 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:00 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:00 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:00 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:00 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:01 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:01 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:01 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:01 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:01 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:01 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:01 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:02 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:02 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:02 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:02 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:02 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:03 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:03 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:03 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:03 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:03 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:03 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:04 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:04 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:04 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:04 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:04 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:04 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:05 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:05 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:05 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:05 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:05 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:05 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:06 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:06 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:06 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:06 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:06 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:07 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:07 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:07 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:07 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:07 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:07 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:08 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:08 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:08 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:08 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:08 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:09 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:09 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:09 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:09 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:09 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:09 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:10 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:10 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:10 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:10 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:10 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:10 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:11 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:11 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:11 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:11 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:11 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:11 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:12 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:12 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:12 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:12 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:12 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:13 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:13 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:13 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:13 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:13 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:13 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:14 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:14 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:14 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:14 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:14 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:15 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:15 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:15 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:15 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:15 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:16 PM]  Mua Cẩm thạch cấp 1 -40 ruby
+[09:50:28 PM]  Hợp đá khảm -> Đá Topaz cấp 2 -50 ruby
+[09:50:30 PM]  Hợp đá khảm -> Đá Topaz cấp 3 -50 ruby
+[09:50:33 PM]  Hợp đá khảm -> Đá Topaz cấp 4 -50 ruby
+[09:50:35 PM]  Hợp đá khảm -> Đá Topaz cấp 5 -50 ruby
+[09:50:37 PM]  Hợp đá khảm -> Đá Topaz cấp 6 -50 ruby
+[09:50:43 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:44 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:44 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:44 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:44 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:44 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:45 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:45 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:45 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:45 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:45 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:45 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:46 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:46 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:46 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:46 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:46 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:46 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:47 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:47 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:47 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:47 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:47 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:47 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:48 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:48 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:48 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:48 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:48 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:49 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:49 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:49 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:49 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:49 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:50 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:50 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:50 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:50 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:50 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:50 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:51 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:51 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:51 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:51 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:51 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:51 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:52 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:52 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:52 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:52 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:52 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:53 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:53 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:53 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:53 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:53 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:54 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:54 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:54 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:54 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:54 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:54 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:55 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:55 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:55 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:55 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:55 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:55 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:56 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:56 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:56 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:56 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:56 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:56 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:57 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:57 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:57 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:57 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:57 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:57 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:58 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:58 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:58 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:58 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:58 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:59 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:59 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:59 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:59 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:59 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:50:59 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:00 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:00 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:00 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:00 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:01 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:01 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:01 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:01 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:01 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:01 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:02 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:02 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:02 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:02 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:02 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:03 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:03 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:03 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:03 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:04 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:04 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:04 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:04 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:04 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:04 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:05 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:05 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:05 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[09:51:13 PM]  Hợp đá khảm -> Đá Topaz cấp 6 -50 ruby
+[09:51:16 PM]  Hợp đá khảm -> Đá Topaz cấp 2 -50 ruby
+[09:51:18 PM]  Hợp đá khảm -> Đá Topaz cấp 3 -50 ruby
+[09:51:21 PM]  Hợp đá khảm -> Đá Topaz cấp 4 -50 ruby
+[09:51:23 PM]  Hợp đá khảm -> Đá Topaz cấp 5 -50 ruby
+[09:51:25 PM]  Hợp đá khảm -> Đá Topaz cấp 6 -50 ruby
+[09:52:11 PM]  Đục lỗ Kiếm thất truyền 2 -50 ruby
+[09:52:11 PM]  Đục lỗ Kiếm thất truyền 2 -50 ruby
+[09:52:12 PM]  Đục lỗ Kiếm thất truyền 2 -50 ruby
+[09:52:12 PM]  Đục lỗ Kiếm thất truyền 2 -100 ruby
+[09:52:12 PM]  Đục lỗ Kiếm thất truyền 2 -100 ruby
+[09:52:15 PM]  Đục lỗ Kiếm thất truyền 2 -100 ruby
+[09:52:15 PM]  Đục lỗ Kiếm thất truyền 2 -150 ruby
+[09:52:15 PM]  Đục lỗ Kiếm thất truyền 2 -150 ruby
+[09:52:15 PM]  Đục lỗ Kiếm thất truyền 2 -150 ruby
+[09:52:16 PM]  Đục lỗ Kiếm thất truyền 2 -150 ruby
+[09:52:16 PM]  Đục lỗ Kiếm thất truyền 2 -200 ruby
+[09:52:17 PM]  Đục lỗ Kiếm thất truyền 2 -200 ruby
+[09:52:17 PM]  Đục lỗ Kiếm thất truyền 2 -200 ruby
+[09:52:17 PM]  Đục lỗ Kiếm thất truyền 2 -200 ruby
+[09:52:18 PM]  Đục lỗ Kiếm thất truyền 2 -200 ruby
+[09:52:18 PM]  Đục lỗ Kiếm thất truyền 2 -200 ruby
+[09:52:18 PM]  Đục lỗ Kiếm thất truyền 2 -200 ruby
+[09:52:18 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:18 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:18 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:19 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:19 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:20 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:20 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:20 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:20 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:20 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:22 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:22 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:22 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:22 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:22 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:22 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:23 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:23 PM]  Đục lỗ Kiếm thất truyền 2 -250 ruby
+[09:52:23 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:23 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:23 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:23 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:24 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:24 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:24 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:26 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:26 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:27 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:27 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:28 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:28 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:28 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:28 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:28 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:29 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:29 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:29 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:31 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:31 PM]  Đục lỗ Kiếm thất truyền 2 -300 ruby
+[09:52:31 PM]  Đục lỗ Kiếm thất truyền 2 -350 ruby
+[09:52:49 PM]  Khảm ngọc lên -> Kiếm thất truyền 2 -400 ruby
+[09:52:50 PM]  Khảm ngọc lên -> Kiếm thất truyền 2 -400 ruby
+[09:52:52 PM]  Khảm ngọc lên -> Kiếm thất truyền 2 -400 ruby
+[09:52:53 PM]  Khảm ngọc lên -> Kiếm thất truyền 2 -400 ruby
+[09:52:55 PM]  Khảm ngọc lên -> Kiếm thất truyền 2 -400 ruby
+[09:52:57 PM]  Khảm ngọc lên -> Kiếm thất truyền 2 -400 ruby
+[09:52:58 PM]  Khảm ngọc lên -> Kiếm thất truyền 2 -400 ruby
+[09:53:35 PM]  Giao dịch bery với boyphoco nhận +0 beri
+[09:54:28 PM]  Nhặt +3104 beri
+[09:56:16 PM]  Mua 5000 vé vòng quay -75000 ruby
+[10:02:23 PM]  Logout : [Beri] 1.999.875.931 [Ruby] 4.627.090
+[10:02:29 PM]  Login : [Beri] 1.999.875.931 [Ruby] 4.627.090
+[10:02:54 PM]  Mua Kinh nghiệm X2 -3 ruby
+[10:02:54 PM]  Mua Kinh nghiệm X2 -3 ruby
+[10:02:54 PM]  Mua Kinh nghiệm X2 -3 ruby
+[10:03:22 PM]  Mua Kinh nghiệm X2 -3 ruby
+[10:03:22 PM]  Mua Kinh nghiệm X2 -3 ruby
+[10:03:22 PM]  Mua Kinh nghiệm X2 -3 ruby
+[10:03:23 PM]  Mua Kinh nghiệm X2 -3 ruby
+[10:03:23 PM]  Mua Kinh nghiệm X2 -3 ruby
+[10:03:24 PM]  Mua Xp Chiêu thức -300 ruby
+[10:03:24 PM]  Mua Xp Chiêu thức -300 ruby
+[10:03:24 PM]  Mua Xp Chiêu thức -300 ruby
+[10:03:24 PM]  Mua Xp Chiêu thức -300 ruby
+[10:03:24 PM]  Mua Xp Chiêu thức -300 ruby
+[10:03:24 PM]  Mua Xp Chiêu thức -300 ruby
+[10:03:25 PM]  Mua Xp Chiêu thức -300 ruby
+[10:03:25 PM]  Mua Xp Chiêu thức -300 ruby
+[10:03:25 PM]  Mua Xp Chiêu thức -300 ruby
+[10:03:40 PM]  Mua Quả Conache -0 beri
+[10:03:40 PM]  Mua Quả Conache -0 beri
+[10:03:40 PM]  Mua Quả Conache -0 beri
+[10:03:40 PM]  Mua Quả Conache -0 beri
+[10:03:40 PM]  Mua Quả Conache -0 beri
+[10:03:41 PM]  Mua Quả Conache -0 beri
+[10:03:41 PM]  Mua Quả Conache -0 beri
+[10:03:41 PM]  Mua Quả Conache -0 beri
+[10:03:41 PM]  Mua Quả Conache -0 beri
+[10:03:41 PM]  Mua Quả Conache -0 beri
+[10:03:42 PM]  Mua Quả Conache -0 beri
+[10:03:42 PM]  Mua Quả Conache -0 beri
+[10:03:42 PM]  Mua Quả Conache -0 beri
+[10:03:42 PM]  Mua Quả Conache -0 beri
+[10:03:42 PM]  Mua Quả Conache -0 beri
+[10:03:43 PM]  Mua Quả Conache -0 beri
+[10:03:43 PM]  Mua Quả Conache -0 beri
+[10:03:43 PM]  Mua Quả Conache -0 beri
+[10:03:43 PM]  Mua Quả Conache -0 beri
+[10:03:43 PM]  Mua Quả Conache -0 beri
+[10:03:43 PM]  Mua Quả Conache -0 beri
+[10:03:44 PM]  Mua Quả Conache -0 beri
+[10:03:44 PM]  Mua Quả Conache -0 beri
+[10:03:44 PM]  Mua Quả Conache -0 beri
+[10:03:44 PM]  Mua Quả Conache -0 beri
+[10:03:44 PM]  Mua Quả Conache -0 beri
+[10:03:44 PM]  Mua Quả Conache -0 beri
+[10:03:45 PM]  Mua Quả Conache -0 beri
+[10:03:45 PM]  Mua Quả Conache -0 beri
+[10:03:45 PM]  Mua Quả Conache -0 beri
+[10:03:45 PM]  Mua Quả Conache -0 beri
+[10:03:45 PM]  Mua Quả Conache -0 beri
+[10:03:46 PM]  Mua Quả Conache -0 beri
+[10:03:46 PM]  Mua Quả Conache -0 beri
+[10:03:46 PM]  Mua Quả Conache -0 beri
+[10:03:46 PM]  Mua Quả Conache -0 beri
+[10:03:47 PM]  Mua Quả Conache -0 beri
+[10:03:47 PM]  Mua Quả Conache -0 beri
+[10:03:47 PM]  Mua Quả Conache -0 beri
+[10:03:47 PM]  Mua Quả Conache -0 beri
+[10:03:47 PM]  Mua Quả Conache -0 beri
+[10:03:48 PM]  Mua Quả Conache -0 beri
+[10:03:48 PM]  Mua Quả Conache -0 beri
+[10:03:48 PM]  Mua Quả Conache -0 beri
+[10:03:48 PM]  Mua Quả Conache -0 beri
+[10:03:49 PM]  Mua Quả Conache -0 beri
+[10:03:49 PM]  Mua Quả Conache -0 beri
+[10:03:49 PM]  Mua Quả Conache -0 beri
+[10:03:49 PM]  Mua Quả Conache -0 beri
+[10:03:49 PM]  Mua Quả Conache -0 beri
+[10:03:50 PM]  Mua Quả Conache -0 beri
+[10:03:50 PM]  Mua Quả Conache -0 beri
+[10:03:50 PM]  Mua Quả Conache -0 beri
+[10:03:50 PM]  Mua Quả Conache -0 beri
+[10:03:55 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:55 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:55 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:56 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:56 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:56 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:56 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:56 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:56 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:57 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:57 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:57 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:57 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:57 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:57 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:58 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:58 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:58 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:58 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:58 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:58 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:03:58 PM]  Mua Cơm hộp hải tặc -0 beri
+[10:04:37 PM]  Nhặt +6765 beri
+[10:08:18 PM]  Nhặt +1850 beri
+[10:12:04 PM]  Nhặt +4200 beri
+[10:14:47 PM]  Logout : [Beri] 1.999.888.746 [Ruby] 4.624.366
+[10:15:01 PM]  Login : [Beri] 1.999.888.746 [Ruby] 4.624.366
+[10:21:15 PM]  Nhặt +732 beri
+[10:23:31 PM]  Nhặt +10614 beri
+[10:25:56 PM]  Nhặt +5002 beri
+[10:33:28 PM]  Nhặt +11590 beri
+[10:41:03 PM]  Nhặt +7686 beri
+[10:44:08 PM]  Nhặt +9333 beri
+[10:48:22 PM]  Nhặt +10675 beri
+[10:50:05 PM]  Nhặt +1159 beri
+[10:51:24 PM]  Nhặt +11407 beri
+[10:51:43 PM]  Nhặt +549 beri
+[10:52:33 PM]  Logout : [Beri] 1.999.957.493 [Ruby] 4.624.366
+[11:25:58 PM]  Login : [Beri] 1.999.957.493 [Ruby] 4.624.366
+[11:26:24 PM]  Logout : [Beri] 1.999.957.493 [Ruby] 4.624.366
+[11:26:52 PM]  Login : [Beri] 1.999.957.493 [Ruby] 4.624.366
+[11:26:54 PM]  Logout : [Beri] 1.999.957.493 [Ruby] 4.624.366

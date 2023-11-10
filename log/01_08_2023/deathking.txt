@@ -1,0 +1,51 @@
+[04:35:50 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[04:37:43 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[04:39:17 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[04:39:18 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[04:39:27 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[04:39:47 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Nhẫn 10x x1, 
+[04:40:02 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dây chuyền 10x x1, 
+[04:40:30 PM]  Nhập giftcode Bạn nhận được:
+Beri : 1000000000
+Ruby : 1000000000
+Item : Thiên thạch may mắn x99, 
+[04:40:52 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[04:41:13 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[04:41:28 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x1000, 
+[04:41:59 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[04:43:55 PM]  Mua 2000 vé vòng quay -30000 ruby
+[04:54:07 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.970.000
+[05:14:21 PM]  Login : [Beri] 2.000.000.000 [Ruby] 1.499.970.000
+[05:19:40 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.970.000
+[05:19:49 PM]  Login : [Beri] 2.000.000.000 [Ruby] 1.499.970.000
+[05:24:36 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.970.000
+[05:24:46 PM]  Login : [Beri] 2.000.000.000 [Ruby] 1.499.970.000
+[05:32:12 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.970.000
+[05:41:28 PM]  Login : [Beri] 2.000.000.000 [Ruby] 1.499.970.000
+[10:10:50 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.970.000
+[11:23:12 PM]  Login : [Beri] 2.000.000.000 [Ruby] 1.499.970.000
+[11:24:51 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.970.000
+[11:24:58 PM]  Login : [Beri] 2.000.000.000 [Ruby] 1.499.970.000
+[11:25:41 PM]  Hợp đá khảm -> Tinh thể ruby cấp 4 -50 ruby
+[11:25:55 PM]  Hợp đá khảm -> Tinh thể ruby cấp 5 -50 ruby
+[11:26:03 PM]  Hợp đá khảm -> Tinh thể ruby cấp 6 -50 ruby
+[11:26:21 PM]  Hợp đá khảm -> Tinh thể ruby cấp 5 -50 ruby
+[11:30:18 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.969.800

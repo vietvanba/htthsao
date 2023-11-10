@@ -1,0 +1,120 @@
+[08:25:27 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[08:26:00 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[10:08:46 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[10:16:52 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[11:06:07 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[11:06:35 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Nhẫn 10x x1, 
+[11:06:55 AM]  Nhập giftcode Bạn nhận được:
+Beri : 1000000000
+Ruby : 1000000000
+Item : Thiên thạch may mắn x99, 
+[11:07:13 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dây chuyền 10x x1, 
+[11:08:03 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[11:08:17 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x1000, 
+[11:09:08 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[11:09:19 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[11:10:01 AM]  Mua Vé tẩy tiềm năng -0 beri
+[11:10:03 AM]  Mua Vé tẩy tiềm năng -0 beri
+[11:10:12 AM]  Mua Gà nướng -1000 beri
+[11:10:13 AM]  Mua Gà nướng -1000 beri
+[11:10:13 AM]  Mua Gà nướng -1000 beri
+[11:10:18 AM]  Mua Sữa -400 beri
+[11:10:19 AM]  Mua Sữa -400 beri
+[11:10:19 AM]  Mua Sữa -400 beri
+[11:10:20 AM]  Mua Sữa -400 beri
+[11:10:20 AM]  Mua Sữa -400 beri
+[11:10:20 AM]  Mua Sữa -400 beri
+[11:10:20 AM]  Mua Sữa -400 beri
+[11:10:21 AM]  Mua Sữa -400 beri
+[11:10:21 AM]  Mua Sữa -400 beri
+[11:10:23 AM]  Mua Gà nướng -1000 beri
+[11:10:24 AM]  Mua Gà nướng -1000 beri
+[11:10:24 AM]  Mua Gà nướng -1000 beri
+[11:10:24 AM]  Mua Gà nướng -1000 beri
+[11:10:25 AM]  Mua Gà nướng -1000 beri
+[11:10:25 AM]  Mua Gà nướng -1000 beri
+[11:10:38 AM]  Mua Kinh nghiệm X2 -60 ruby
+[11:10:38 AM]  Mua Kinh nghiệm X2 -60 ruby
+[11:10:39 AM]  Mua Kinh nghiệm X2 -60 ruby
+[11:10:45 AM]  Mua Xp Chiêu thức -6000 ruby
+[11:10:45 AM]  Mua Xp Chiêu thức -6000 ruby
+[11:10:45 AM]  Mua Xp Chiêu thức -6000 ruby
+[11:10:46 AM]  Mua Xp Chiêu thức -6000 ruby
+[11:12:08 AM]  Mua Găng tay gai sắt 2 -2000 beri
+[11:12:22 AM]  Mua Quần short mùa hè 2 -1500 beri
+[11:12:27 AM]  Mua Áo khoác mùa hè 2 -1700 beri
+[11:15:13 AM]  Nhặt +1639 beri
+[11:16:43 AM]  Mua Killer -500 ruby
+[11:17:11 AM]  Mua Tóc khỉ con -500 ruby
+[11:24:55 AM]  Nhặt +651 beri
+[11:26:17 AM]  Logout : [Beri] 1.999.984.490 [Ruby] 1.499.974.897
+[07:44:19 PM]  Login : [Beri] 1.999.984.490 [Ruby] 1.499.974.897
+[07:44:46 PM]  Nhặt +2484 beri
+[07:46:16 PM]  Mua Quần short thám hiểm 2 -1800 beri
+[07:46:19 PM]  Mua Áo khoác thám hiểm 2 -2000 beri
+[07:46:27 PM]  Mua Găng tay võ sĩ 2 -2300 beri
+[07:55:01 PM]  Mua Áo thể thao 2 -2300 beri
+[07:55:07 PM]  Mua Quần đùi nâu 2 -2100 beri
+[07:55:12 PM]  Mua Găng tay thể thao 2 -2600 beri
+[07:57:24 PM]  Nhặt +2065 beri
+[08:03:42 PM]  Mua Áo khoác xanh -2600 beri
+[08:03:48 PM]  Mua Găng tay bạc 2 -2900 beri
+[08:03:57 PM]  Mua Quần đùi hồng 2 -2400 beri
+[08:05:25 PM]  Nhặt +5408 beri
+[08:09:10 PM]  Mua Súp baratie -1600 beri
+[08:09:10 PM]  Mua Súp baratie -1600 beri
+[08:09:11 PM]  Mua Súp baratie -1600 beri
+[08:09:11 PM]  Mua Súp baratie -1600 beri
+[08:09:11 PM]  Mua Súp baratie -1600 beri
+[08:09:11 PM]  Mua Súp baratie -1600 beri
+[08:09:12 PM]  Mua Súp baratie -1600 beri
+[08:09:12 PM]  Mua Súp baratie -1600 beri
+[08:09:12 PM]  Mua Súp baratie -1600 beri
+[08:09:13 PM]  Mua Súp baratie -1600 beri
+[08:09:26 PM]  Mua Cơm hộp hải tặc -0 beri
+[08:09:26 PM]  Mua Cơm hộp hải tặc -0 beri
+[08:09:26 PM]  Mua Cơm hộp hải tặc -0 beri
+[08:09:27 PM]  Mua Cơm hộp hải tặc -0 beri
+[08:09:27 PM]  Mua Cơm hộp hải tặc -0 beri
+[08:09:27 PM]  Mua Cơm hộp hải tặc -0 beri
+[08:09:27 PM]  Mua Cơm hộp hải tặc -0 beri
+[08:09:28 PM]  Mua Cơm hộp hải tặc -0 beri
+[08:09:28 PM]  Mua Cơm hộp hải tặc -0 beri
+[08:09:28 PM]  Mua Cơm hộp hải tặc -0 beri
+[08:09:34 PM]  Mua Quả Conache -0 beri
+[08:09:35 PM]  Mua Quả Conache -0 beri
+[08:09:35 PM]  Mua Quả Conache -0 beri
+[08:09:35 PM]  Mua Quả Conache -0 beri
+[08:09:36 PM]  Mua Quả Conache -0 beri
+[08:09:36 PM]  Mua Quả Conache -0 beri
+[08:09:36 PM]  Mua Quả Conache -0 beri
+[08:09:37 PM]  Mua Quả Conache -0 beri
+[08:30:02 PM]  Mua Súp baratie -1600 beri
+[08:30:02 PM]  Mua Súp baratie -1600 beri
+[08:30:02 PM]  Mua Súp baratie -1600 beri
+[08:30:03 PM]  Mua Súp baratie -1600 beri
+[08:30:03 PM]  Mua Súp baratie -1600 beri
+[08:30:04 PM]  Mua Súp baratie -1600 beri
+[08:30:04 PM]  Mua Súp baratie -1600 beri
+[08:30:05 PM]  Mua Súp baratie -1600 beri
+[08:30:05 PM]  Mua Súp baratie -1600 beri
+[08:30:05 PM]  Mua Súp baratie -1600 beri
+[08:37:25 PM]  Logout : [Beri] 1.997.391.447 [Ruby] 1.499.974.682

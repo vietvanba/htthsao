@@ -1,0 +1,2763 @@
+[01:12:30 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:13:15 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:13:38 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:13:40 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:13:48 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:14:00 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[01:14:06 PM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[01:14:13 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x99, 
+[01:14:32 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[01:14:37 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[01:14:45 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[01:14:54 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[01:15:58 PM]  Mua Trang phục Doctor Strange -500 ruby
+[01:16:14 PM]  Mua 30000 vé vòng quay -450000 ruby
+[01:20:04 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.549.500
+[01:20:11 PM]  Login : [Beri] 2.000.000.000 [Ruby] 1.499.549.500
+[01:23:03 PM]  Mua Kinh nghiệm X2 -60 ruby
+[01:23:03 PM]  Mua Kinh nghiệm X2 -60 ruby
+[01:23:04 PM]  Mua Xp Chiêu thức -6000 ruby
+[01:23:04 PM]  Mua Xp Chiêu thức -6000 ruby
+[01:33:24 PM]  Nhặt +550 beri
+[01:33:48 PM]  Nhặt +4250 beri
+[01:34:52 PM]  Nhặt +8550 beri
+[01:35:51 PM]  Nhặt +2350 beri
+[01:36:10 PM]  Nhặt +6950 beri
+[01:36:50 PM]  Nhặt +6500 beri
+[01:37:13 PM]  Nhặt +300 beri
+[01:38:46 PM]  Mua Tóc khỉ con -500 ruby
+[01:43:55 PM]  Logout : [Beri] 2.000.029.450 [Ruby] 1.499.535.170
+[01:44:06 PM]  Login : [Beri] 2.000.029.450 [Ruby] 1.499.535.170
+[01:44:12 PM]  Logout : [Beri] 2.000.029.450 [Ruby] 1.499.535.170
+[01:44:21 PM]  Login : [Beri] 2.000.029.450 [Ruby] 1.499.535.170
+[01:45:27 PM]  Nhặt +6816 beri
+[01:45:33 PM]  Nhặt +10011 beri
+[01:45:41 PM]  Nhặt +8023 beri
+[01:45:48 PM]  Nhặt +1988 beri
+[01:46:07 PM]  Nhặt +9514 beri
+[01:46:08 PM]  Nhặt +3124 beri
+[01:46:10 PM]  Nhặt +9301 beri
+[01:46:11 PM]  Nhặt +1917 beri
+[01:46:44 PM]  Nhặt +2187 beri
+[01:46:48 PM]  Nhặt +1620 beri
+[01:46:52 PM]  Nhặt +7614 beri
+[01:46:55 PM]  Nhặt +2268 beri
+[01:47:00 PM]  Nhặt +5022 beri
+[01:47:17 PM]  Nhặt +10206 beri
+[01:47:19 PM]  Nhặt +7209 beri
+[01:47:43 PM]  Nhặt +4131 beri
+[01:47:44 PM]  Nhặt +8586 beri
+[01:47:47 PM]  Nhặt +1782 beri
+[01:47:54 PM]  Nhặt +9882 beri
+[01:48:16 PM]  Nhặt +12474 beri
+[01:48:29 PM]  Nhặt +7209 beri
+[01:48:32 PM]  Nhặt +13689 beri
+[01:49:11 PM]  Nhặt +6642 beri
+[01:49:14 PM]  Nhặt +4536 beri
+[01:49:15 PM]  Nhặt +12231 beri
+[01:49:23 PM]  Nhặt +1701 beri
+[01:49:50 PM]  Nhặt +8991 beri
+[01:49:52 PM]  Nhặt +1377 beri
+[01:49:53 PM]  Nhặt +15066 beri
+[01:49:55 PM]  Nhặt +13851 beri
+[01:49:56 PM]  Nhặt +486 beri
+[01:50:17 PM]  Nhặt +3094 beri
+[01:50:30 PM]  Nhặt +13013 beri
+[01:50:45 PM]  Nhặt +5642 beri
+[01:51:27 PM]  Logout : [Beri] 2.000.260.653 [Ruby] 1.499.535.170
+[01:51:41 PM]  Login : [Beri] 2.000.260.653 [Ruby] 1.499.535.170
+[01:51:44 PM]  Logout : [Beri] 2.000.260.653 [Ruby] 1.499.535.170
+[01:52:10 PM]  Login : [Beri] 2.000.260.653 [Ruby] 1.499.535.170
+[01:52:39 PM]  Mua Súng thần công 2 -500000 beri
+[01:52:39 PM]  Mua Súng thần công 2 -500000 beri
+[01:52:40 PM]  Mua Súng thần công 2 -500000 beri
+[01:52:40 PM]  Mua Súng thần công 2 -500000 beri
+[01:52:41 PM]  Mua Súng thần công 2 -500000 beri
+[01:52:41 PM]  Mua Súng thần công 2 -500000 beri
+[01:52:41 PM]  Mua Súng thần công 2 -500000 beri
+[01:52:41 PM]  Mua Súng thần công 2 -500000 beri
+[01:52:42 PM]  Mua Súng thần công 2 -500000 beri
+[01:52:42 PM]  Mua Súng thần công 2 -500000 beri
+[01:52:42 PM]  Mua Súng thần công 2 -500000 beri
+[01:52:43 PM]  Mua Súng thần công 2 -500000 beri
+[01:52:43 PM]  Mua Súng thần công 2 -500000 beri
+[01:52:43 PM]  Mua Súng thần công 2 -500000 beri
+[01:52:43 PM]  Mua Súng thần công 2 -500000 beri
+[01:52:44 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:52 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:52 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:53 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:53 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:53 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:54 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:54 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:55 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:55 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:55 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:56 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:56 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:56 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:57 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:57 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:57 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:58 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:58 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:58 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:59 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:59 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:59 PM]  Mua Súng thần công 2 -500000 beri
+[01:59:59 PM]  Mua Súng thần công 2 -500000 beri
+[02:00:01 PM]  Mua Súng thần công 2 -500000 beri
+[02:00:01 PM]  Mua Súng thần công 2 -500000 beri
+[02:00:02 PM]  Mua Súng thần công 2 -500000 beri
+[02:00:10 PM]  Mua Vé tẩy tiềm năng -0 beri
+[02:00:45 PM]  Bán item +45 beri
+[02:00:45 PM]  Bán item +45 beri
+[02:00:45 PM]  Bán item +45 beri
+[02:00:46 PM]  Bán item +45 beri
+[02:00:46 PM]  Bán item +45 beri
+[02:00:47 PM]  Bán item +45 beri
+[02:00:47 PM]  Bán item +45 beri
+[02:00:47 PM]  Bán item +45 beri
+[02:00:47 PM]  Bán item +45 beri
+[02:00:48 PM]  Bán item +45 beri
+[02:00:49 PM]  Bán item +45 beri
+[02:00:49 PM]  Bán item +45 beri
+[02:00:50 PM]  Bán item +45 beri
+[02:00:50 PM]  Bán item +45 beri
+[02:00:51 PM]  Bán item +45 beri
+[02:00:51 PM]  Bán item +45 beri
+[02:00:52 PM]  Bán item +45 beri
+[02:00:52 PM]  Bán item +45 beri
+[02:00:53 PM]  Bán item +45 beri
+[02:00:53 PM]  Bán item +45 beri
+[02:00:53 PM]  Bán item +45 beri
+[02:00:54 PM]  Bán item +45 beri
+[02:00:54 PM]  Bán item +45 beri
+[02:00:55 PM]  Bán item +45 beri
+[02:00:55 PM]  Bán item +45 beri
+[02:00:55 PM]  Bán item +45 beri
+[02:00:59 PM]  Mua Súng thần công 2 -500000 beri
+[02:00:59 PM]  Mua Súng thần công 2 -500000 beri
+[02:00:59 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:00 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:01 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:01 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:01 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:02 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:02 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:02 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:02 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:02 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:03 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:03 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:04 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:04 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:04 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:05 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:05 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:05 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:05 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:06 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:06 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:07 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:07 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:07 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:08 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:30 PM]  Bán item +45 beri
+[02:01:31 PM]  Bán item +45 beri
+[02:01:31 PM]  Bán item +45 beri
+[02:01:32 PM]  Bán item +45 beri
+[02:01:32 PM]  Bán item +45 beri
+[02:01:33 PM]  Bán item +45 beri
+[02:01:33 PM]  Bán item +45 beri
+[02:01:33 PM]  Bán item +45 beri
+[02:01:34 PM]  Bán item +45 beri
+[02:01:34 PM]  Bán item +45 beri
+[02:01:35 PM]  Bán item +45 beri
+[02:01:35 PM]  Bán item +45 beri
+[02:01:36 PM]  Bán item +45 beri
+[02:01:36 PM]  Bán item +45 beri
+[02:01:37 PM]  Bán item +45 beri
+[02:01:37 PM]  Bán item +45 beri
+[02:01:37 PM]  Bán item +45 beri
+[02:01:38 PM]  Bán item +45 beri
+[02:01:38 PM]  Bán item +45 beri
+[02:01:39 PM]  Bán item +45 beri
+[02:01:39 PM]  Bán item +45 beri
+[02:01:39 PM]  Bán item +45 beri
+[02:01:40 PM]  Bán item +45 beri
+[02:01:40 PM]  Bán item +45 beri
+[02:01:40 PM]  Bán item +45 beri
+[02:01:41 PM]  Bán item +45 beri
+[02:01:41 PM]  Bán item +45 beri
+[02:01:44 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:45 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:45 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:45 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:46 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:46 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:46 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:47 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:47 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:48 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:48 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:48 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:49 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:49 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:49 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:50 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:50 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:51 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:51 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:52 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:52 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:53 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:53 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:54 PM]  Mua Súng thần công 2 -500000 beri
+[02:01:56 PM]  Mua Súng thần công 2 -500000 beri
+[02:02:00 PM]  Mua Súng thần công 2 -500000 beri
+[02:02:02 PM]  Mua Súng thần công 2 -500000 beri
+[02:02:11 PM]  Bán item +45 beri
+[02:02:34 PM]  Bán item +45 beri
+[02:02:35 PM]  Bán item +45 beri
+[02:02:35 PM]  Bán item +45 beri
+[02:02:35 PM]  Bán item +45 beri
+[02:02:36 PM]  Bán item +45 beri
+[02:02:36 PM]  Bán item +45 beri
+[02:02:37 PM]  Bán item +45 beri
+[02:02:37 PM]  Bán item +45 beri
+[02:02:37 PM]  Bán item +45 beri
+[02:02:38 PM]  Bán item +45 beri
+[02:02:38 PM]  Bán item +45 beri
+[02:02:39 PM]  Bán item +45 beri
+[02:02:39 PM]  Bán item +45 beri
+[02:02:40 PM]  Bán item +45 beri
+[02:02:40 PM]  Bán item +45 beri
+[02:02:41 PM]  Bán item +45 beri
+[02:02:41 PM]  Bán item +45 beri
+[02:02:42 PM]  Bán item +45 beri
+[02:02:42 PM]  Bán item +45 beri
+[02:02:43 PM]  Bán item +45 beri
+[02:02:43 PM]  Bán item +45 beri
+[02:02:44 PM]  Bán item +45 beri
+[02:02:44 PM]  Bán item +45 beri
+[02:02:45 PM]  Bán item +45 beri
+[02:02:45 PM]  Bán item +45 beri
+[02:03:18 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:18 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:19 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:19 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:19 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:20 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:20 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:20 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:20 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:21 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:21 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:21 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:22 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:22 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:22 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:23 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:23 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:23 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:24 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:25 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:25 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:25 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:25 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:25 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:26 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:26 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:27 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:03:50 PM]  Bán item +45 beri
+[02:03:50 PM]  Bán item +45 beri
+[02:03:51 PM]  Bán item +45 beri
+[02:03:51 PM]  Bán item +45 beri
+[02:03:52 PM]  Bán item +45 beri
+[02:03:52 PM]  Bán item +45 beri
+[02:03:53 PM]  Bán item +45 beri
+[02:03:53 PM]  Bán item +45 beri
+[02:03:54 PM]  Bán item +45 beri
+[02:03:54 PM]  Bán item +45 beri
+[02:03:55 PM]  Bán item +45 beri
+[02:03:55 PM]  Bán item +45 beri
+[02:03:56 PM]  Bán item +45 beri
+[02:03:56 PM]  Bán item +45 beri
+[02:03:57 PM]  Bán item +45 beri
+[02:03:57 PM]  Bán item +45 beri
+[02:03:58 PM]  Bán item +45 beri
+[02:03:58 PM]  Bán item +45 beri
+[02:03:59 PM]  Bán item +45 beri
+[02:03:59 PM]  Bán item +45 beri
+[02:04:00 PM]  Bán item +45 beri
+[02:04:00 PM]  Bán item +45 beri
+[02:04:01 PM]  Bán item +45 beri
+[02:04:01 PM]  Bán item +45 beri
+[02:04:01 PM]  Bán item +45 beri
+[02:04:02 PM]  Bán item +45 beri
+[02:04:02 PM]  Bán item +45 beri
+[02:04:06 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:06 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:07 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:07 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:08 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:08 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:08 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:09 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:09 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:09 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:10 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:10 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:10 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:11 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:11 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:11 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:12 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:12 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:12 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:13 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:13 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:13 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:13 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:14 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:14 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:14 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:15 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:35 PM]  Bán item +45 beri
+[02:04:36 PM]  Bán item +45 beri
+[02:04:36 PM]  Bán item +45 beri
+[02:04:36 PM]  Bán item +45 beri
+[02:04:37 PM]  Bán item +45 beri
+[02:04:37 PM]  Bán item +45 beri
+[02:04:38 PM]  Bán item +45 beri
+[02:04:38 PM]  Bán item +45 beri
+[02:04:39 PM]  Bán item +45 beri
+[02:04:39 PM]  Bán item +45 beri
+[02:04:39 PM]  Bán item +45 beri
+[02:04:40 PM]  Bán item +45 beri
+[02:04:40 PM]  Bán item +45 beri
+[02:04:41 PM]  Bán item +45 beri
+[02:04:41 PM]  Bán item +45 beri
+[02:04:41 PM]  Bán item +45 beri
+[02:04:42 PM]  Bán item +45 beri
+[02:04:42 PM]  Bán item +45 beri
+[02:04:43 PM]  Bán item +45 beri
+[02:04:43 PM]  Bán item +45 beri
+[02:04:43 PM]  Bán item +45 beri
+[02:04:44 PM]  Bán item +45 beri
+[02:04:44 PM]  Bán item +45 beri
+[02:04:45 PM]  Bán item +45 beri
+[02:04:46 PM]  Bán item +45 beri
+[02:04:46 PM]  Bán item +45 beri
+[02:04:46 PM]  Bán item +45 beri
+[02:04:52 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:52 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:53 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:53 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:53 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:53 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:54 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:54 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:54 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:55 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:55 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:55 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:55 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:55 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:56 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:56 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:57 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:57 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:58 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:58 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:58 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:58 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:59 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:59 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:04:59 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:05:00 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:05:00 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:05:25 PM]  Bán item +45 beri
+[02:05:25 PM]  Bán item +45 beri
+[02:05:26 PM]  Bán item +45 beri
+[02:05:26 PM]  Bán item +45 beri
+[02:05:27 PM]  Bán item +45 beri
+[02:05:27 PM]  Bán item +45 beri
+[02:05:27 PM]  Bán item +45 beri
+[02:05:28 PM]  Bán item +45 beri
+[02:05:28 PM]  Bán item +45 beri
+[02:05:28 PM]  Bán item +45 beri
+[02:05:28 PM]  Bán item +45 beri
+[02:05:29 PM]  Bán item +45 beri
+[02:05:29 PM]  Bán item +45 beri
+[02:05:30 PM]  Bán item +45 beri
+[02:05:30 PM]  Bán item +45 beri
+[02:05:30 PM]  Bán item +45 beri
+[02:05:31 PM]  Bán item +45 beri
+[02:05:31 PM]  Bán item +45 beri
+[02:05:32 PM]  Bán item +45 beri
+[02:05:32 PM]  Bán item +45 beri
+[02:05:33 PM]  Bán item +45 beri
+[02:05:33 PM]  Bán item +45 beri
+[02:05:34 PM]  Bán item +45 beri
+[02:05:34 PM]  Bán item +1 beri
+[02:05:34 PM]  Bán item +1 beri
+[02:05:34 PM]  Bán item +1 beri
+[02:05:34 PM]  Bán item +45 beri
+[02:05:35 PM]  Bán item +45 beri
+[02:05:35 PM]  Bán item +45 beri
+[02:05:36 PM]  Bán item +45 beri
+[02:05:40 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:41 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:41 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:41 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:41 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:42 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:42 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:43 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:43 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:43 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:44 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:44 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:44 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:45 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:45 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:46 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:46 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:46 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:46 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:47 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:47 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:48 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:48 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:48 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:50 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:50 PM]  Mua Khố phong cách 2 -500000 beri
+[02:05:50 PM]  Mua Khố phong cách 2 -500000 beri
+[02:06:12 PM]  Bán item +45 beri
+[02:06:26 PM]  Bán item +45 beri
+[02:06:27 PM]  Bán item +45 beri
+[02:06:27 PM]  Bán item +45 beri
+[02:06:28 PM]  Bán item +45 beri
+[02:06:28 PM]  Bán item +45 beri
+[02:06:28 PM]  Bán item +45 beri
+[02:06:29 PM]  Bán item +45 beri
+[02:06:30 PM]  Bán item +45 beri
+[02:06:30 PM]  Bán item +45 beri
+[02:06:31 PM]  Bán item +45 beri
+[02:06:32 PM]  Bán item +45 beri
+[02:06:32 PM]  Bán item +45 beri
+[02:06:32 PM]  Bán item +45 beri
+[02:06:33 PM]  Bán item +45 beri
+[02:06:33 PM]  Bán item +45 beri
+[02:06:34 PM]  Bán item +45 beri
+[02:06:34 PM]  Bán item +45 beri
+[02:06:35 PM]  Bán item +45 beri
+[02:06:35 PM]  Bán item +45 beri
+[02:06:36 PM]  Bán item +45 beri
+[02:06:36 PM]  Bán item +45 beri
+[02:06:37 PM]  Bán item +45 beri
+[02:06:37 PM]  Bán item +45 beri
+[02:06:37 PM]  Bán item +45 beri
+[02:06:38 PM]  Bán item +45 beri
+[02:06:44 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:45 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:45 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:46 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:46 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:46 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:46 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:47 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:47 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:47 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:48 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:48 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:48 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:48 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:49 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:49 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:50 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:50 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:50 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:51 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:51 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:51 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:52 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:52 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:52 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:52 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:06:53 PM]  Mua Mũ len thần bí 2 -500000 beri
+[02:07:15 PM]  Bán item +45 beri
+[02:07:36 PM]  Bán item +45 beri
+[02:07:37 PM]  Bán item +45 beri
+[02:07:37 PM]  Bán item +45 beri
+[02:07:37 PM]  Bán item +45 beri
+[02:07:37 PM]  Bán item +45 beri
+[02:07:38 PM]  Bán item +45 beri
+[02:07:38 PM]  Bán item +45 beri
+[02:07:39 PM]  Bán item +45 beri
+[02:07:39 PM]  Bán item +45 beri
+[02:07:39 PM]  Bán item +45 beri
+[02:07:40 PM]  Bán item +45 beri
+[02:07:41 PM]  Bán item +45 beri
+[02:07:41 PM]  Bán item +45 beri
+[02:07:41 PM]  Bán item +45 beri
+[02:07:41 PM]  Bán item +45 beri
+[02:07:42 PM]  Bán item +45 beri
+[02:07:42 PM]  Bán item +45 beri
+[02:07:42 PM]  Bán item +45 beri
+[02:07:43 PM]  Bán item +45 beri
+[02:07:43 PM]  Bán item +45 beri
+[02:07:44 PM]  Bán item +45 beri
+[02:07:44 PM]  Bán item +45 beri
+[02:07:44 PM]  Bán item +45 beri
+[02:07:45 PM]  Bán item +1 beri
+[02:07:45 PM]  Bán item +1 beri
+[02:07:45 PM]  Bán item +1 beri
+[02:07:45 PM]  Bán item +45 beri
+[02:07:46 PM]  Bán item +45 beri
+[02:07:50 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:50 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:50 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:50 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:51 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:51 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:52 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:52 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:52 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:52 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:53 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:53 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:53 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:54 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:54 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:54 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:55 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:55 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:55 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:56 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:56 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:56 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:57 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:57 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:57 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:58 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:07:58 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:25 PM]  Bán item +45 beri
+[02:08:31 PM]  Bán item +45 beri
+[02:08:31 PM]  Bán item +45 beri
+[02:08:32 PM]  Bán item +45 beri
+[02:08:32 PM]  Bán item +45 beri
+[02:08:32 PM]  Bán item +45 beri
+[02:08:33 PM]  Bán item +45 beri
+[02:08:33 PM]  Bán item +45 beri
+[02:08:33 PM]  Bán item +45 beri
+[02:08:34 PM]  Bán item +45 beri
+[02:08:34 PM]  Bán item +45 beri
+[02:08:34 PM]  Bán item +45 beri
+[02:08:34 PM]  Bán item +45 beri
+[02:08:35 PM]  Bán item +45 beri
+[02:08:35 PM]  Bán item +45 beri
+[02:08:36 PM]  Bán item +45 beri
+[02:08:36 PM]  Bán item +45 beri
+[02:08:36 PM]  Bán item +45 beri
+[02:08:37 PM]  Bán item +45 beri
+[02:08:37 PM]  Bán item +45 beri
+[02:08:38 PM]  Bán item +45 beri
+[02:08:38 PM]  Bán item +45 beri
+[02:08:39 PM]  Bán item +45 beri
+[02:08:39 PM]  Bán item +45 beri
+[02:08:40 PM]  Bán item +45 beri
+[02:08:40 PM]  Bán item +45 beri
+[02:08:40 PM]  Bán item +45 beri
+[02:08:44 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:44 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:44 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:45 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:45 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:46 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:46 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:46 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:46 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:46 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:47 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:47 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:48 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:48 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:48 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:48 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:49 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:49 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:49 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:49 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:50 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:50 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:51 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:51 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:51 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:52 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:08:52 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:16 PM]  Bán item +45 beri
+[02:09:16 PM]  Bán item +45 beri
+[02:09:16 PM]  Bán item +45 beri
+[02:09:17 PM]  Bán item +45 beri
+[02:09:17 PM]  Bán item +45 beri
+[02:09:17 PM]  Bán item +45 beri
+[02:09:18 PM]  Bán item +45 beri
+[02:09:18 PM]  Bán item +45 beri
+[02:09:18 PM]  Bán item +45 beri
+[02:09:19 PM]  Bán item +45 beri
+[02:09:19 PM]  Bán item +45 beri
+[02:09:20 PM]  Bán item +45 beri
+[02:09:20 PM]  Bán item +45 beri
+[02:09:21 PM]  Bán item +45 beri
+[02:09:21 PM]  Bán item +45 beri
+[02:09:21 PM]  Bán item +45 beri
+[02:09:22 PM]  Bán item +45 beri
+[02:09:22 PM]  Bán item +45 beri
+[02:09:22 PM]  Bán item +45 beri
+[02:09:23 PM]  Bán item +45 beri
+[02:09:23 PM]  Bán item +45 beri
+[02:09:23 PM]  Bán item +45 beri
+[02:09:24 PM]  Bán item +45 beri
+[02:09:24 PM]  Bán item +45 beri
+[02:09:25 PM]  Bán item +45 beri
+[02:09:25 PM]  Bán item +45 beri
+[02:09:26 PM]  Bán item +45 beri
+[02:09:30 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:31 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:31 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:31 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:32 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:32 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:32 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:32 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:33 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:33 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:34 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:34 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:34 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:34 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:35 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:35 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:36 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:36 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:36 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:37 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:37 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:37 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:38 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:38 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:39 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:39 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:40 PM]  Mua Áo khoác cao cấp 2 -500000 beri
+[02:09:55 PM]  Bán item +45 beri
+[02:10:10 PM]  Bán item +45 beri
+[02:10:11 PM]  Bán item +45 beri
+[02:10:11 PM]  Bán item +45 beri
+[02:10:11 PM]  Bán item +45 beri
+[02:10:12 PM]  Bán item +45 beri
+[02:10:12 PM]  Bán item +45 beri
+[02:10:12 PM]  Bán item +45 beri
+[02:10:13 PM]  Bán item +45 beri
+[02:10:13 PM]  Bán item +45 beri
+[02:10:13 PM]  Bán item +45 beri
+[02:10:14 PM]  Bán item +45 beri
+[02:10:14 PM]  Bán item +45 beri
+[02:10:15 PM]  Bán item +45 beri
+[02:10:15 PM]  Bán item +1 beri
+[02:10:15 PM]  Bán item +45 beri
+[02:10:15 PM]  Bán item +45 beri
+[02:10:16 PM]  Bán item +45 beri
+[02:10:16 PM]  Bán item +45 beri
+[02:10:17 PM]  Bán item +45 beri
+[02:10:17 PM]  Bán item +45 beri
+[02:10:18 PM]  Bán item +45 beri
+[02:10:18 PM]  Bán item +45 beri
+[02:10:19 PM]  Bán item +45 beri
+[02:10:19 PM]  Bán item +45 beri
+[02:10:20 PM]  Bán item +45 beri
+[02:10:20 PM]  Bán item +45 beri
+[02:12:13 PM]  Mua Bột cường hóa -20 ruby
+[02:12:13 PM]  Mua Bột cường hóa -20 ruby
+[02:12:13 PM]  Mua Bột cường hóa -20 ruby
+[02:12:13 PM]  Mua Bột cường hóa -20 ruby
+[02:12:14 PM]  Mua Bột cường hóa -20 ruby
+[02:12:14 PM]  Mua Bột cường hóa -20 ruby
+[02:12:14 PM]  Mua Bột cường hóa -20 ruby
+[02:12:14 PM]  Mua Bột cường hóa -20 ruby
+[02:12:14 PM]  Mua Bột cường hóa -20 ruby
+[02:12:14 PM]  Mua Bột cường hóa -20 ruby
+[02:12:15 PM]  Mua Bột cường hóa -20 ruby
+[02:12:15 PM]  Mua Bột cường hóa -20 ruby
+[02:12:15 PM]  Mua Bột cường hóa -20 ruby
+[02:12:15 PM]  Mua Bột cường hóa -20 ruby
+[02:12:15 PM]  Mua Bột cường hóa -20 ruby
+[02:12:15 PM]  Mua Bột cường hóa -20 ruby
+[02:12:15 PM]  Mua Bột cường hóa -20 ruby
+[02:12:16 PM]  Mua Bột cường hóa -20 ruby
+[02:12:16 PM]  Mua Bột cường hóa -20 ruby
+[02:12:16 PM]  Mua Bột cường hóa -20 ruby
+[02:12:16 PM]  Mua Bột cường hóa -20 ruby
+[02:12:16 PM]  Mua Bột cường hóa -20 ruby
+[02:12:16 PM]  Mua Bột cường hóa -20 ruby
+[02:12:17 PM]  Mua Bột cường hóa -20 ruby
+[02:12:17 PM]  Mua Bột cường hóa -20 ruby
+[02:12:17 PM]  Mua Bột cường hóa -20 ruby
+[02:12:17 PM]  Mua Bột cường hóa -20 ruby
+[02:12:17 PM]  Mua Bột cường hóa -20 ruby
+[02:12:17 PM]  Mua Bột cường hóa -20 ruby
+[02:12:18 PM]  Mua Bột cường hóa -20 ruby
+[02:12:18 PM]  Mua Bột cường hóa -20 ruby
+[02:12:18 PM]  Mua Bột cường hóa -20 ruby
+[02:12:18 PM]  Mua Bột cường hóa -20 ruby
+[02:12:18 PM]  Mua Bột cường hóa -20 ruby
+[02:12:18 PM]  Mua Bột cường hóa -20 ruby
+[02:12:18 PM]  Mua Bột cường hóa -20 ruby
+[02:12:18 PM]  Mua Bột cường hóa -20 ruby
+[02:12:18 PM]  Mua Bột cường hóa -20 ruby
+[02:12:18 PM]  Mua Bột cường hóa -20 ruby
+[02:12:19 PM]  Mua Bột cường hóa -20 ruby
+[02:12:19 PM]  Mua Bột cường hóa -20 ruby
+[02:12:19 PM]  Mua Bột cường hóa -20 ruby
+[02:12:19 PM]  Mua Bột cường hóa -20 ruby
+[02:12:19 PM]  Mua Bột cường hóa -20 ruby
+[02:12:19 PM]  Mua Bột cường hóa -20 ruby
+[02:12:20 PM]  Mua Bột cường hóa -20 ruby
+[02:12:20 PM]  Mua Bột cường hóa -20 ruby
+[02:12:20 PM]  Mua Bột cường hóa -20 ruby
+[02:12:20 PM]  Mua Bột cường hóa -20 ruby
+[02:12:20 PM]  Mua Bột cường hóa -20 ruby
+[02:12:20 PM]  Mua Bột cường hóa -20 ruby
+[02:12:20 PM]  Mua Bột cường hóa -20 ruby
+[02:12:20 PM]  Mua Bột cường hóa -20 ruby
+[02:12:20 PM]  Mua Bột cường hóa -20 ruby
+[02:12:20 PM]  Mua Bột cường hóa -20 ruby
+[02:12:20 PM]  Mua Bột cường hóa -20 ruby
+[02:12:20 PM]  Mua Bột cường hóa -20 ruby
+[02:12:21 PM]  Mua Bột cường hóa -20 ruby
+[02:12:21 PM]  Mua Bột cường hóa -20 ruby
+[02:12:21 PM]  Mua Bột cường hóa -20 ruby
+[02:12:21 PM]  Mua Bột cường hóa -20 ruby
+[02:12:21 PM]  Mua Bột cường hóa -20 ruby
+[02:12:21 PM]  Mua Bột cường hóa -20 ruby
+[02:12:21 PM]  Mua Bột cường hóa -20 ruby
+[02:12:21 PM]  Mua Bột cường hóa -20 ruby
+[02:12:22 PM]  Mua Bột cường hóa -20 ruby
+[02:12:22 PM]  Mua Bột cường hóa -20 ruby
+[02:12:22 PM]  Mua Bột cường hóa -20 ruby
+[02:12:22 PM]  Mua Bột cường hóa -20 ruby
+[02:12:22 PM]  Mua Bột cường hóa -20 ruby
+[02:12:22 PM]  Mua Bột cường hóa -20 ruby
+[02:12:22 PM]  Mua Bột cường hóa -20 ruby
+[02:12:22 PM]  Mua Bột cường hóa -20 ruby
+[02:12:23 PM]  Mua Bột cường hóa -20 ruby
+[02:12:23 PM]  Mua Bột cường hóa -20 ruby
+[02:12:23 PM]  Mua Bột cường hóa -20 ruby
+[02:12:23 PM]  Mua Bột cường hóa -20 ruby
+[02:12:23 PM]  Mua Bột cường hóa -20 ruby
+[02:12:24 PM]  Mua Bột cường hóa -20 ruby
+[02:12:24 PM]  Mua Bột cường hóa -20 ruby
+[02:12:24 PM]  Mua Bột cường hóa -20 ruby
+[02:12:24 PM]  Mua Bột cường hóa -20 ruby
+[02:12:24 PM]  Mua Bột cường hóa -20 ruby
+[02:12:24 PM]  Mua Bột cường hóa -20 ruby
+[02:12:24 PM]  Mua Bột cường hóa -20 ruby
+[02:12:24 PM]  Mua Bột cường hóa -20 ruby
+[02:12:25 PM]  Mua Bột cường hóa -20 ruby
+[02:12:25 PM]  Mua Bột cường hóa -20 ruby
+[02:12:25 PM]  Mua Bột cường hóa -20 ruby
+[02:12:25 PM]  Mua Bột cường hóa -20 ruby
+[02:12:25 PM]  Mua Bột cường hóa -20 ruby
+[02:12:25 PM]  Mua Bột cường hóa -20 ruby
+[02:12:25 PM]  Mua Bột cường hóa -20 ruby
+[02:12:26 PM]  Mua Bột cường hóa -20 ruby
+[02:12:26 PM]  Mua Bột cường hóa -20 ruby
+[02:12:26 PM]  Mua Bột cường hóa -20 ruby
+[02:12:26 PM]  Mua Bột cường hóa -20 ruby
+[02:12:26 PM]  Mua Bột cường hóa -20 ruby
+[02:12:26 PM]  Mua Bột cường hóa -20 ruby
+[02:12:27 PM]  Mua Bột cường hóa -20 ruby
+[02:12:27 PM]  Mua Bột cường hóa -20 ruby
+[02:12:27 PM]  Mua Bột cường hóa -20 ruby
+[02:12:27 PM]  Mua Bột cường hóa -20 ruby
+[02:12:27 PM]  Mua Bột cường hóa -20 ruby
+[02:12:27 PM]  Mua Bột cường hóa -20 ruby
+[02:12:27 PM]  Mua Bột cường hóa -20 ruby
+[02:12:27 PM]  Mua Bột cường hóa -20 ruby
+[02:12:27 PM]  Mua Bột cường hóa -20 ruby
+[02:12:27 PM]  Mua Bột cường hóa -20 ruby
+[02:12:28 PM]  Mua Bột cường hóa -20 ruby
+[02:12:28 PM]  Mua Bột cường hóa -20 ruby
+[02:12:28 PM]  Mua Bột cường hóa -20 ruby
+[02:12:28 PM]  Mua Bột cường hóa -20 ruby
+[02:12:28 PM]  Mua Bột cường hóa -20 ruby
+[02:12:28 PM]  Mua Bột cường hóa -20 ruby
+[02:12:28 PM]  Mua Bột cường hóa -20 ruby
+[02:12:28 PM]  Mua Bột cường hóa -20 ruby
+[02:12:29 PM]  Mua Bột cường hóa -20 ruby
+[02:12:29 PM]  Mua Bột cường hóa -20 ruby
+[02:12:29 PM]  Mua Bột cường hóa -20 ruby
+[02:12:29 PM]  Mua Bột cường hóa -20 ruby
+[02:12:29 PM]  Mua Bột cường hóa -20 ruby
+[02:12:29 PM]  Mua Bột cường hóa -20 ruby
+[02:12:29 PM]  Mua Bột cường hóa -20 ruby
+[02:12:30 PM]  Mua Bột cường hóa -20 ruby
+[02:12:30 PM]  Mua Bột cường hóa -20 ruby
+[02:12:30 PM]  Mua Bột cường hóa -20 ruby
+[02:12:30 PM]  Mua Bột cường hóa -20 ruby
+[02:12:30 PM]  Mua Bột cường hóa -20 ruby
+[02:12:30 PM]  Mua Bột cường hóa -20 ruby
+[02:12:30 PM]  Mua Bột cường hóa -20 ruby
+[02:12:30 PM]  Mua Bột cường hóa -20 ruby
+[02:12:31 PM]  Mua Bột cường hóa -20 ruby
+[02:12:31 PM]  Mua Bột cường hóa -20 ruby
+[02:12:31 PM]  Mua Bột cường hóa -20 ruby
+[02:12:31 PM]  Mua Bột cường hóa -20 ruby
+[02:12:31 PM]  Mua Bột cường hóa -20 ruby
+[02:12:31 PM]  Mua Bột cường hóa -20 ruby
+[02:12:31 PM]  Mua Bột cường hóa -20 ruby
+[02:12:31 PM]  Mua Bột cường hóa -20 ruby
+[02:12:32 PM]  Mua Bột cường hóa -20 ruby
+[02:12:32 PM]  Mua Bột cường hóa -20 ruby
+[02:12:32 PM]  Mua Bột cường hóa -20 ruby
+[02:12:32 PM]  Mua Bột cường hóa -20 ruby
+[02:12:32 PM]  Mua Bột cường hóa -20 ruby
+[02:12:32 PM]  Mua Bột cường hóa -20 ruby
+[02:12:32 PM]  Mua Bột cường hóa -20 ruby
+[02:12:32 PM]  Mua Bột cường hóa -20 ruby
+[02:12:33 PM]  Mua Bột cường hóa -20 ruby
+[02:12:33 PM]  Mua Bột cường hóa -20 ruby
+[02:12:33 PM]  Mua Bột cường hóa -20 ruby
+[02:12:33 PM]  Mua Bột cường hóa -20 ruby
+[02:12:33 PM]  Mua Bột cường hóa -20 ruby
+[02:12:33 PM]  Mua Bột cường hóa -20 ruby
+[02:12:33 PM]  Mua Bột cường hóa -20 ruby
+[02:12:33 PM]  Mua Bột cường hóa -20 ruby
+[02:12:34 PM]  Mua Bột cường hóa -20 ruby
+[02:12:34 PM]  Mua Bột cường hóa -20 ruby
+[02:12:34 PM]  Mua Bột cường hóa -20 ruby
+[02:12:34 PM]  Mua Bột cường hóa -20 ruby
+[02:12:34 PM]  Mua Bột cường hóa -20 ruby
+[02:12:34 PM]  Mua Bột cường hóa -20 ruby
+[02:12:34 PM]  Mua Bột cường hóa -20 ruby
+[02:12:34 PM]  Mua Bột cường hóa -20 ruby
+[02:12:34 PM]  Mua Bột cường hóa -20 ruby
+[02:12:34 PM]  Mua Bột cường hóa -20 ruby
+[02:12:35 PM]  Mua Bột cường hóa -20 ruby
+[02:12:35 PM]  Mua Bột cường hóa -20 ruby
+[02:12:35 PM]  Mua Bột cường hóa -20 ruby
+[02:12:35 PM]  Mua Bột cường hóa -20 ruby
+[02:12:35 PM]  Mua Bột cường hóa -20 ruby
+[02:12:35 PM]  Mua Bột cường hóa -20 ruby
+[02:13:10 PM]  Mua Bột vàng -40 ruby
+[02:13:10 PM]  Mua Bột vàng -40 ruby
+[02:13:10 PM]  Mua Bột vàng -40 ruby
+[02:13:10 PM]  Mua Bột vàng -40 ruby
+[02:13:10 PM]  Mua Bột vàng -40 ruby
+[02:13:10 PM]  Mua Bột vàng -40 ruby
+[02:13:10 PM]  Mua Bột vàng -40 ruby
+[02:13:10 PM]  Mua Bột vàng -40 ruby
+[02:13:10 PM]  Mua Bột vàng -40 ruby
+[02:13:11 PM]  Mua Bột vàng -40 ruby
+[02:13:11 PM]  Mua Bột vàng -40 ruby
+[02:13:11 PM]  Mua Bột vàng -40 ruby
+[02:13:11 PM]  Mua Bột vàng -40 ruby
+[02:13:11 PM]  Mua Bột vàng -40 ruby
+[02:13:11 PM]  Mua Bột vàng -40 ruby
+[02:13:11 PM]  Mua Bột vàng -40 ruby
+[02:13:11 PM]  Mua Bột vàng -40 ruby
+[02:13:11 PM]  Mua Bột vàng -40 ruby
+[02:13:12 PM]  Mua Bột vàng -40 ruby
+[02:13:12 PM]  Mua Bột vàng -40 ruby
+[02:13:12 PM]  Mua Bột vàng -40 ruby
+[02:13:12 PM]  Mua Bột vàng -40 ruby
+[02:13:12 PM]  Mua Bột vàng -40 ruby
+[02:13:12 PM]  Mua Bột vàng -40 ruby
+[02:13:12 PM]  Mua Bột vàng -40 ruby
+[02:13:13 PM]  Mua Bột vàng -40 ruby
+[02:13:13 PM]  Mua Bột vàng -40 ruby
+[02:13:13 PM]  Mua Bột vàng -40 ruby
+[02:13:13 PM]  Mua Bột vàng -40 ruby
+[02:13:13 PM]  Mua Bột vàng -40 ruby
+[02:13:13 PM]  Mua Bột vàng -40 ruby
+[02:13:13 PM]  Mua Bột vàng -40 ruby
+[02:13:14 PM]  Mua Bột vàng -40 ruby
+[02:13:14 PM]  Mua Bột vàng -40 ruby
+[02:13:14 PM]  Mua Bột vàng -40 ruby
+[02:13:14 PM]  Mua Bột vàng -40 ruby
+[02:13:14 PM]  Mua Bột vàng -40 ruby
+[02:13:14 PM]  Mua Bột vàng -40 ruby
+[02:13:14 PM]  Mua Bột vàng -40 ruby
+[02:13:15 PM]  Mua Bột vàng -40 ruby
+[02:13:15 PM]  Mua Bột vàng -40 ruby
+[02:13:15 PM]  Mua Bột vàng -40 ruby
+[02:13:15 PM]  Mua Bột vàng -40 ruby
+[02:13:15 PM]  Mua Bột vàng -40 ruby
+[02:13:15 PM]  Mua Bột vàng -40 ruby
+[02:13:15 PM]  Mua Bột vàng -40 ruby
+[02:13:15 PM]  Mua Bột vàng -40 ruby
+[02:13:16 PM]  Mua Bột vàng -40 ruby
+[02:13:16 PM]  Mua Bột vàng -40 ruby
+[02:13:16 PM]  Mua Bột vàng -40 ruby
+[02:13:16 PM]  Mua Bột vàng -40 ruby
+[02:13:16 PM]  Mua Bột vàng -40 ruby
+[02:13:16 PM]  Mua Bột vàng -40 ruby
+[02:13:16 PM]  Mua Bột vàng -40 ruby
+[02:13:16 PM]  Mua Bột vàng -40 ruby
+[02:13:17 PM]  Mua Bột vàng -40 ruby
+[02:13:17 PM]  Mua Bột vàng -40 ruby
+[02:13:17 PM]  Mua Bột vàng -40 ruby
+[02:13:17 PM]  Mua Bột vàng -40 ruby
+[02:13:17 PM]  Mua Bột vàng -40 ruby
+[02:13:17 PM]  Mua Bột vàng -40 ruby
+[02:13:18 PM]  Mua Bột vàng -40 ruby
+[02:13:18 PM]  Mua Bột vàng -40 ruby
+[02:13:18 PM]  Mua Bột vàng -40 ruby
+[02:13:18 PM]  Mua Bột vàng -40 ruby
+[02:13:18 PM]  Mua Bột vàng -40 ruby
+[02:13:18 PM]  Mua Bột vàng -40 ruby
+[02:13:18 PM]  Mua Bột vàng -40 ruby
+[02:13:18 PM]  Mua Bột vàng -40 ruby
+[02:13:18 PM]  Mua Bột vàng -40 ruby
+[02:13:18 PM]  Mua Bột vàng -40 ruby
+[02:13:19 PM]  Mua Bột vàng -40 ruby
+[02:13:19 PM]  Mua Bột vàng -40 ruby
+[02:13:19 PM]  Mua Bột vàng -40 ruby
+[02:13:19 PM]  Mua Bột vàng -40 ruby
+[02:13:19 PM]  Mua Bột vàng -40 ruby
+[02:13:20 PM]  Mua Bột vàng -40 ruby
+[02:13:20 PM]  Mua Bột vàng -40 ruby
+[02:13:20 PM]  Mua Bột vàng -40 ruby
+[02:13:20 PM]  Mua Bột vàng -40 ruby
+[02:13:20 PM]  Mua Bột vàng -40 ruby
+[02:13:20 PM]  Mua Bột vàng -40 ruby
+[02:13:20 PM]  Mua Bột vàng -40 ruby
+[02:13:20 PM]  Mua Bột vàng -40 ruby
+[02:13:21 PM]  Mua Bột vàng -40 ruby
+[02:13:21 PM]  Mua Bột vàng -40 ruby
+[02:13:21 PM]  Mua Bột vàng -40 ruby
+[02:13:21 PM]  Mua Bột vàng -40 ruby
+[02:13:21 PM]  Mua Bột vàng -40 ruby
+[02:13:21 PM]  Mua Bột vàng -40 ruby
+[02:13:21 PM]  Mua Bột vàng -40 ruby
+[02:13:22 PM]  Mua Bột vàng -40 ruby
+[02:13:22 PM]  Mua Bột vàng -40 ruby
+[02:13:22 PM]  Mua Bột vàng -40 ruby
+[02:13:22 PM]  Mua Bột vàng -40 ruby
+[02:13:22 PM]  Mua Bột vàng -40 ruby
+[02:13:22 PM]  Mua Bột vàng -40 ruby
+[02:13:23 PM]  Mua Bột vàng -40 ruby
+[02:13:23 PM]  Mua Bột vàng -40 ruby
+[02:13:23 PM]  Mua Bột vàng -40 ruby
+[02:13:23 PM]  Mua Bột vàng -40 ruby
+[02:13:24 PM]  Mua Bột vàng -40 ruby
+[02:13:24 PM]  Mua Bột vàng -40 ruby
+[02:13:24 PM]  Mua Bột vàng -40 ruby
+[02:13:24 PM]  Mua Bột vàng -40 ruby
+[02:13:24 PM]  Mua Bột vàng -40 ruby
+[02:13:24 PM]  Mua Bột vàng -40 ruby
+[02:13:25 PM]  Mua Bột vàng -40 ruby
+[02:13:25 PM]  Mua Bột vàng -40 ruby
+[02:13:25 PM]  Mua Bột vàng -40 ruby
+[02:13:26 PM]  Mua Bột vàng -40 ruby
+[02:13:26 PM]  Mua Bột vàng -40 ruby
+[02:13:26 PM]  Mua Bột vàng -40 ruby
+[02:13:26 PM]  Mua Bột vàng -40 ruby
+[02:13:26 PM]  Mua Bột vàng -40 ruby
+[02:13:26 PM]  Mua Bột vàng -40 ruby
+[02:13:26 PM]  Mua Bột vàng -40 ruby
+[02:13:26 PM]  Mua Bột vàng -40 ruby
+[02:13:26 PM]  Mua Bột vàng -40 ruby
+[02:13:27 PM]  Mua Bột vàng -40 ruby
+[02:13:37 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:37 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:37 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:37 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:37 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:37 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:37 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:38 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:38 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:38 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:38 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:39 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:39 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:39 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:39 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:39 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:39 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:39 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:39 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:40 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:40 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:13:43 PM]  Mua Mai rùa -140 ruby
+[02:13:43 PM]  Mua Mai rùa -140 ruby
+[02:13:43 PM]  Mua Mai rùa -140 ruby
+[02:13:43 PM]  Mua Mai rùa -140 ruby
+[02:13:43 PM]  Mua Mai rùa -140 ruby
+[02:13:43 PM]  Mua Mai rùa -140 ruby
+[02:13:44 PM]  Mua Mai rùa -140 ruby
+[02:13:44 PM]  Mua Mai rùa -140 ruby
+[02:13:44 PM]  Mua Mai rùa -140 ruby
+[02:13:44 PM]  Mua Mai rùa -140 ruby
+[02:13:44 PM]  Mua Mai rùa -140 ruby
+[02:13:44 PM]  Mua Mai rùa -140 ruby
+[02:13:44 PM]  Mua Mai rùa -140 ruby
+[02:13:45 PM]  Mua Mai rùa -140 ruby
+[02:13:45 PM]  Mua Mai rùa -140 ruby
+[02:13:45 PM]  Mua Mai rùa -140 ruby
+[02:13:45 PM]  Mua Mai rùa -140 ruby
+[02:13:46 PM]  Mua Mai rùa -140 ruby
+[02:13:46 PM]  Mua Mai rùa -140 ruby
+[02:13:46 PM]  Mua Mai rùa -140 ruby
+[02:13:46 PM]  Mua Mai rùa -140 ruby
+[02:13:46 PM]  Mua Mai rùa -140 ruby
+[02:13:46 PM]  Mua Mai rùa -140 ruby
+[02:13:46 PM]  Mua Mai rùa -140 ruby
+[02:13:46 PM]  Mua Mai rùa -140 ruby
+[02:13:46 PM]  Mua Mai rùa -140 ruby
+[02:13:46 PM]  Mua Mai rùa -140 ruby
+[02:13:46 PM]  Mua Mai rùa -140 ruby
+[02:13:47 PM]  Mua Mai rùa -140 ruby
+[02:13:47 PM]  Mua Mai rùa -140 ruby
+[02:13:47 PM]  Mua Mai rùa -140 ruby
+[02:14:01 PM]  Cường hóa item Súng thần công 2 -3000 beri
+[02:14:02 PM]  Cường hóa item Súng thần công 2 -3000 beri
+[02:14:02 PM]  Cường hóa item Súng thần công 2 -4000 beri
+[02:14:02 PM]  Cường hóa item Súng thần công 2 -4000 beri
+[02:14:03 PM]  Cường hóa item Súng thần công 2 -4000 beri
+[02:14:03 PM]  Cường hóa item Súng thần công 2 -4000 beri
+[02:14:03 PM]  Cường hóa item Súng thần công 2 -4000 beri
+[02:14:05 PM]  Cường hóa item Súng thần công 2 -4000 beri
+[02:14:05 PM]  Cường hóa item Súng thần công 2 -4000 beri
+[02:14:05 PM]  Cường hóa item Súng thần công 2 -4000 beri
+[02:14:05 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:07 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:07 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:07 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:07 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:07 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:07 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:09 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:09 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:09 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:09 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:10 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:11 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:11 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:12 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:14 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:14 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:14 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:15 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:16 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:17 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:17 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:19 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:19 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:19 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:19 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:20 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:20 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:21 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:21 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:22 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:22 PM]  Cường hóa item Súng thần công 2 -6000 beri
+[02:14:22 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:23 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:23 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:23 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:23 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:24 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:25 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:26 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:26 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:27 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:27 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:28 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:29 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:29 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:30 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:30 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:30 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:30 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:31 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:32 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:32 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:32 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:32 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:33 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:34 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:34 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:34 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:34 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:34 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:36 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:36 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:36 PM]  Cường hóa item Súng thần công 2 -8000 beri
+[02:14:36 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:36 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:36 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:38 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:38 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:38 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:38 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:38 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:38 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:40 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:40 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:41 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:41 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:48 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:48 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:49 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:49 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:49 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:49 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:51 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:51 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:51 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:52 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:53 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:54 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:54 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:54 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:55 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:56 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:56 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:56 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:57 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:58 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:58 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:58 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:14:59 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:00 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:00 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:00 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:01 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:02 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:02 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:02 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:02 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:02 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:04 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:04 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:04 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:04 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:04 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:05 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:05 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:06 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:06 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:07 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:08 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:08 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:08 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:09 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:10 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:11 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:12 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:13 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:13 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:14 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:14 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:14 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:15 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:16 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:16 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:18 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:18 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:18 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:18 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:18 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:18 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:18 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:20 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:20 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:20 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:21 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:21 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:22 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:22 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:23 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:23 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:25 PM]  Cường hóa item Súng thần công 2 -5 ruby
+[02:15:26 PM]  Cường hóa item Súng thần công 2 -5 ruby
+[02:15:28 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:28 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:29 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:29 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:31 PM]  Cường hóa item Súng thần công 2 -10000 beri
+[02:15:43 PM]  Cường hóa item Áo khoác cao cấp 2 -3000 beri
+[02:15:43 PM]  Cường hóa item Áo khoác cao cấp 2 -3000 beri
+[02:15:44 PM]  Cường hóa item Áo khoác cao cấp 2 -4000 beri
+[02:15:45 PM]  Cường hóa item Áo khoác cao cấp 2 -4000 beri
+[02:15:46 PM]  Cường hóa item Áo khoác cao cấp 2 -4000 beri
+[02:15:46 PM]  Cường hóa item Áo khoác cao cấp 2 -4000 beri
+[02:15:46 PM]  Cường hóa item Áo khoác cao cấp 2 -4000 beri
+[02:15:47 PM]  Cường hóa item Áo khoác cao cấp 2 -4000 beri
+[02:15:48 PM]  Cường hóa item Áo khoác cao cấp 2 -6000 beri
+[02:15:48 PM]  Cường hóa item Áo khoác cao cấp 2 -6000 beri
+[02:15:48 PM]  Cường hóa item Áo khoác cao cấp 2 -6000 beri
+[02:15:48 PM]  Cường hóa item Áo khoác cao cấp 2 -6000 beri
+[02:15:48 PM]  Cường hóa item Áo khoác cao cấp 2 -6000 beri
+[02:15:49 PM]  Cường hóa item Áo khoác cao cấp 2 -6000 beri
+[02:15:49 PM]  Cường hóa item Áo khoác cao cấp 2 -6000 beri
+[02:15:50 PM]  Cường hóa item Áo khoác cao cấp 2 -6000 beri
+[02:15:50 PM]  Cường hóa item Áo khoác cao cấp 2 -6000 beri
+[02:15:50 PM]  Cường hóa item Áo khoác cao cấp 2 -6000 beri
+[02:15:52 PM]  Cường hóa item Áo khoác cao cấp 2 -6000 beri
+[02:15:52 PM]  Cường hóa item Áo khoác cao cấp 2 -6000 beri
+[02:15:53 PM]  Cường hóa item Áo khoác cao cấp 2 -6000 beri
+[02:15:54 PM]  Cường hóa item Áo khoác cao cấp 2 -6000 beri
+[02:15:54 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:15:55 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:15:56 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:15:56 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:15:56 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:15:56 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:15:57 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:15:58 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:15:59 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:15:59 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:15:59 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:16:01 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:16:01 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:16:01 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:16:01 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:16:03 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:16:03 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:16:03 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:16:03 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:16:03 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:16:05 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:16:05 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:16:05 PM]  Cường hóa item Áo khoác cao cấp 2 -8000 beri
+[02:16:05 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:05 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:07 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:07 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:07 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:08 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:08 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:09 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:09 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:09 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:09 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:10 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:11 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:11 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:11 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:12 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:12 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:12 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:12 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:12 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:13 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:14 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:14 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:14 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:14 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:15 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:16 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:16 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:16 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:18 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:18 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:18 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:19 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:20 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:21 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:21 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:21 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:21 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:23 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:16:36 PM]  Mua Bột cường hóa -20 ruby
+[02:16:36 PM]  Mua Bột cường hóa -20 ruby
+[02:16:36 PM]  Mua Bột cường hóa -20 ruby
+[02:16:36 PM]  Mua Bột cường hóa -20 ruby
+[02:16:36 PM]  Mua Bột cường hóa -20 ruby
+[02:16:36 PM]  Mua Bột cường hóa -20 ruby
+[02:16:36 PM]  Mua Bột cường hóa -20 ruby
+[02:16:36 PM]  Mua Bột cường hóa -20 ruby
+[02:16:37 PM]  Mua Bột cường hóa -20 ruby
+[02:16:37 PM]  Mua Bột cường hóa -20 ruby
+[02:16:37 PM]  Mua Bột cường hóa -20 ruby
+[02:16:37 PM]  Mua Bột cường hóa -20 ruby
+[02:16:37 PM]  Mua Bột cường hóa -20 ruby
+[02:16:37 PM]  Mua Bột cường hóa -20 ruby
+[02:16:37 PM]  Mua Bột cường hóa -20 ruby
+[02:16:38 PM]  Mua Bột cường hóa -20 ruby
+[02:16:38 PM]  Mua Bột cường hóa -20 ruby
+[02:16:38 PM]  Mua Bột cường hóa -20 ruby
+[02:16:38 PM]  Mua Bột cường hóa -20 ruby
+[02:16:38 PM]  Mua Bột cường hóa -20 ruby
+[02:16:38 PM]  Mua Bột cường hóa -20 ruby
+[02:16:38 PM]  Mua Bột cường hóa -20 ruby
+[02:16:38 PM]  Mua Bột cường hóa -20 ruby
+[02:16:39 PM]  Mua Bột cường hóa -20 ruby
+[02:16:39 PM]  Mua Bột cường hóa -20 ruby
+[02:16:39 PM]  Mua Bột cường hóa -20 ruby
+[02:16:39 PM]  Mua Bột cường hóa -20 ruby
+[02:16:39 PM]  Mua Bột cường hóa -20 ruby
+[02:16:39 PM]  Mua Bột cường hóa -20 ruby
+[02:16:39 PM]  Mua Bột cường hóa -20 ruby
+[02:16:39 PM]  Mua Bột cường hóa -20 ruby
+[02:16:40 PM]  Mua Bột cường hóa -20 ruby
+[02:16:40 PM]  Mua Bột cường hóa -20 ruby
+[02:16:40 PM]  Mua Bột cường hóa -20 ruby
+[02:16:40 PM]  Mua Bột cường hóa -20 ruby
+[02:16:40 PM]  Mua Bột cường hóa -20 ruby
+[02:16:40 PM]  Mua Bột cường hóa -20 ruby
+[02:16:41 PM]  Mua Bột cường hóa -20 ruby
+[02:16:41 PM]  Mua Bột cường hóa -20 ruby
+[02:16:41 PM]  Mua Bột cường hóa -20 ruby
+[02:16:41 PM]  Mua Bột cường hóa -20 ruby
+[02:16:41 PM]  Mua Bột cường hóa -20 ruby
+[02:16:41 PM]  Mua Bột cường hóa -20 ruby
+[02:16:41 PM]  Mua Bột cường hóa -20 ruby
+[02:16:41 PM]  Mua Bột cường hóa -20 ruby
+[02:16:42 PM]  Mua Bột cường hóa -20 ruby
+[02:16:42 PM]  Mua Bột cường hóa -20 ruby
+[02:17:09 PM]  Mua Bột cường hóa -20 ruby
+[02:17:09 PM]  Mua Bột cường hóa -20 ruby
+[02:17:09 PM]  Mua Bột cường hóa -20 ruby
+[02:17:09 PM]  Mua Bột cường hóa -20 ruby
+[02:17:09 PM]  Mua Bột cường hóa -20 ruby
+[02:17:09 PM]  Mua Bột cường hóa -20 ruby
+[02:17:09 PM]  Mua Bột cường hóa -20 ruby
+[02:17:09 PM]  Mua Bột cường hóa -20 ruby
+[02:17:10 PM]  Mua Bột cường hóa -20 ruby
+[02:17:10 PM]  Mua Bột cường hóa -20 ruby
+[02:17:10 PM]  Mua Bột cường hóa -20 ruby
+[02:17:10 PM]  Mua Bột cường hóa -20 ruby
+[02:17:10 PM]  Mua Bột cường hóa -20 ruby
+[02:17:10 PM]  Mua Bột cường hóa -20 ruby
+[02:17:11 PM]  Mua Bột cường hóa -20 ruby
+[02:17:11 PM]  Mua Bột cường hóa -20 ruby
+[02:17:11 PM]  Mua Bột cường hóa -20 ruby
+[02:17:11 PM]  Mua Bột cường hóa -20 ruby
+[02:17:11 PM]  Mua Bột cường hóa -20 ruby
+[02:17:11 PM]  Mua Bột cường hóa -20 ruby
+[02:17:11 PM]  Mua Bột cường hóa -20 ruby
+[02:17:11 PM]  Mua Bột cường hóa -20 ruby
+[02:17:12 PM]  Mua Bột cường hóa -20 ruby
+[02:17:12 PM]  Mua Bột cường hóa -20 ruby
+[02:17:12 PM]  Mua Bột cường hóa -20 ruby
+[02:17:12 PM]  Mua Bột cường hóa -20 ruby
+[02:17:12 PM]  Mua Bột cường hóa -20 ruby
+[02:17:12 PM]  Mua Bột cường hóa -20 ruby
+[02:17:12 PM]  Mua Bột cường hóa -20 ruby
+[02:17:12 PM]  Mua Bột cường hóa -20 ruby
+[02:17:13 PM]  Mua Bột cường hóa -20 ruby
+[02:17:13 PM]  Mua Bột cường hóa -20 ruby
+[02:17:13 PM]  Mua Bột cường hóa -20 ruby
+[02:17:25 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:25 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:26 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:26 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:26 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:26 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:27 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:27 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:28 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:28 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:28 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:30 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:31 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:31 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:31 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:32 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:33 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:34 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:34 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:34 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:35 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:36 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:36 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:17:37 PM]  Cường hóa item Áo khoác cao cấp 2 -10000 beri
+[02:19:42 PM]  Mua Bột cường hóa -20 ruby
+[02:19:42 PM]  Mua Bột cường hóa -20 ruby
+[02:19:42 PM]  Mua Bột cường hóa -20 ruby
+[02:19:42 PM]  Mua Bột cường hóa -20 ruby
+[02:19:43 PM]  Mua Bột cường hóa -20 ruby
+[02:19:43 PM]  Mua Bột cường hóa -20 ruby
+[02:19:43 PM]  Mua Bột cường hóa -20 ruby
+[02:19:43 PM]  Mua Bột cường hóa -20 ruby
+[02:19:43 PM]  Mua Bột cường hóa -20 ruby
+[02:19:43 PM]  Mua Bột cường hóa -20 ruby
+[02:19:44 PM]  Mua Bột cường hóa -20 ruby
+[02:19:44 PM]  Mua Bột cường hóa -20 ruby
+[02:19:44 PM]  Mua Bột cường hóa -20 ruby
+[02:19:44 PM]  Mua Bột cường hóa -20 ruby
+[02:19:44 PM]  Mua Bột cường hóa -20 ruby
+[02:19:44 PM]  Mua Bột cường hóa -20 ruby
+[02:19:44 PM]  Mua Bột cường hóa -20 ruby
+[02:19:44 PM]  Mua Bột cường hóa -20 ruby
+[02:19:44 PM]  Mua Bột cường hóa -20 ruby
+[02:19:45 PM]  Mua Bột cường hóa -20 ruby
+[02:19:45 PM]  Mua Bột cường hóa -20 ruby
+[02:19:45 PM]  Mua Bột cường hóa -20 ruby
+[02:19:45 PM]  Mua Bột cường hóa -20 ruby
+[02:19:45 PM]  Mua Bột cường hóa -20 ruby
+[02:19:45 PM]  Mua Bột cường hóa -20 ruby
+[02:19:45 PM]  Mua Bột cường hóa -20 ruby
+[02:19:45 PM]  Mua Bột cường hóa -20 ruby
+[02:19:46 PM]  Mua Bột cường hóa -20 ruby
+[02:19:46 PM]  Mua Bột cường hóa -20 ruby
+[02:19:46 PM]  Mua Bột cường hóa -20 ruby
+[02:19:46 PM]  Mua Bột cường hóa -20 ruby
+[02:19:46 PM]  Mua Bột cường hóa -20 ruby
+[02:19:46 PM]  Mua Bột cường hóa -20 ruby
+[02:19:46 PM]  Mua Bột cường hóa -20 ruby
+[02:19:46 PM]  Mua Bột cường hóa -20 ruby
+[02:19:46 PM]  Mua Bột cường hóa -20 ruby
+[02:19:47 PM]  Mua Bột cường hóa -20 ruby
+[02:19:47 PM]  Mua Bột cường hóa -20 ruby
+[02:19:47 PM]  Mua Bột cường hóa -20 ruby
+[02:19:47 PM]  Mua Bột cường hóa -20 ruby
+[02:19:48 PM]  Mua Bột cường hóa -20 ruby
+[02:19:48 PM]  Mua Bột cường hóa -20 ruby
+[02:19:48 PM]  Mua Bột cường hóa -20 ruby
+[02:19:48 PM]  Mua Bột cường hóa -20 ruby
+[02:19:48 PM]  Mua Bột cường hóa -20 ruby
+[02:19:48 PM]  Mua Bột cường hóa -20 ruby
+[02:19:48 PM]  Mua Bột cường hóa -20 ruby
+[02:19:48 PM]  Mua Bột cường hóa -20 ruby
+[02:19:48 PM]  Mua Bột cường hóa -20 ruby
+[02:19:49 PM]  Mua Bột cường hóa -20 ruby
+[02:19:49 PM]  Mua Bột cường hóa -20 ruby
+[02:19:49 PM]  Mua Bột cường hóa -20 ruby
+[02:19:49 PM]  Mua Bột cường hóa -20 ruby
+[02:19:49 PM]  Mua Bột cường hóa -20 ruby
+[02:19:49 PM]  Mua Bột cường hóa -20 ruby
+[02:19:49 PM]  Mua Bột cường hóa -20 ruby
+[02:19:50 PM]  Mua Bột cường hóa -20 ruby
+[02:19:50 PM]  Mua Bột cường hóa -20 ruby
+[02:19:50 PM]  Mua Bột cường hóa -20 ruby
+[02:19:50 PM]  Mua Bột cường hóa -20 ruby
+[02:19:50 PM]  Mua Bột cường hóa -20 ruby
+[02:19:50 PM]  Mua Bột cường hóa -20 ruby
+[02:19:50 PM]  Mua Bột cường hóa -20 ruby
+[02:19:50 PM]  Mua Bột cường hóa -20 ruby
+[02:19:51 PM]  Mua Bột cường hóa -20 ruby
+[02:19:51 PM]  Mua Bột cường hóa -20 ruby
+[02:19:51 PM]  Mua Bột cường hóa -20 ruby
+[02:19:51 PM]  Mua Bột cường hóa -20 ruby
+[02:19:52 PM]  Mua Bột cường hóa -20 ruby
+[02:19:52 PM]  Mua Bột cường hóa -20 ruby
+[02:19:52 PM]  Mua Bột cường hóa -20 ruby
+[02:19:52 PM]  Mua Bột cường hóa -20 ruby
+[02:19:52 PM]  Mua Bột cường hóa -20 ruby
+[02:19:52 PM]  Mua Bột cường hóa -20 ruby
+[02:19:52 PM]  Mua Bột cường hóa -20 ruby
+[02:19:52 PM]  Mua Bột cường hóa -20 ruby
+[02:19:52 PM]  Mua Bột cường hóa -20 ruby
+[02:19:52 PM]  Mua Bột cường hóa -20 ruby
+[02:19:53 PM]  Mua Bột cường hóa -20 ruby
+[02:19:53 PM]  Mua Bột cường hóa -20 ruby
+[02:19:53 PM]  Mua Bột cường hóa -20 ruby
+[02:19:53 PM]  Mua Bột cường hóa -20 ruby
+[02:19:54 PM]  Mua Bột cường hóa -20 ruby
+[02:19:54 PM]  Mua Bột cường hóa -20 ruby
+[02:19:54 PM]  Mua Bột cường hóa -20 ruby
+[02:19:54 PM]  Mua Bột cường hóa -20 ruby
+[02:19:54 PM]  Mua Bột cường hóa -20 ruby
+[02:19:54 PM]  Mua Bột cường hóa -20 ruby
+[02:19:54 PM]  Mua Bột cường hóa -20 ruby
+[02:19:54 PM]  Mua Bột cường hóa -20 ruby
+[02:19:54 PM]  Mua Bột cường hóa -20 ruby
+[02:19:54 PM]  Mua Bột cường hóa -20 ruby
+[02:19:55 PM]  Mua Bột cường hóa -20 ruby
+[02:19:55 PM]  Mua Bột cường hóa -20 ruby
+[02:19:55 PM]  Mua Bột cường hóa -20 ruby
+[02:19:55 PM]  Mua Bột cường hóa -20 ruby
+[02:19:55 PM]  Mua Bột cường hóa -20 ruby
+[02:19:55 PM]  Mua Bột cường hóa -20 ruby
+[02:19:56 PM]  Mua Bột cường hóa -20 ruby
+[02:19:56 PM]  Mua Bột cường hóa -20 ruby
+[02:19:56 PM]  Mua Bột cường hóa -20 ruby
+[02:19:56 PM]  Mua Bột cường hóa -20 ruby
+[02:19:56 PM]  Mua Bột cường hóa -20 ruby
+[02:19:56 PM]  Mua Bột cường hóa -20 ruby
+[02:19:56 PM]  Mua Bột cường hóa -20 ruby
+[02:19:56 PM]  Mua Bột cường hóa -20 ruby
+[02:19:56 PM]  Mua Bột cường hóa -20 ruby
+[02:19:56 PM]  Mua Bột cường hóa -20 ruby
+[02:19:57 PM]  Mua Bột cường hóa -20 ruby
+[02:19:57 PM]  Mua Bột cường hóa -20 ruby
+[02:19:57 PM]  Mua Bột cường hóa -20 ruby
+[02:19:57 PM]  Mua Bột cường hóa -20 ruby
+[02:19:57 PM]  Mua Bột cường hóa -20 ruby
+[02:19:57 PM]  Mua Bột cường hóa -20 ruby
+[02:19:57 PM]  Mua Bột cường hóa -20 ruby
+[02:19:58 PM]  Mua Bột cường hóa -20 ruby
+[02:19:58 PM]  Mua Bột cường hóa -20 ruby
+[02:19:58 PM]  Mua Bột cường hóa -20 ruby
+[02:19:58 PM]  Mua Bột cường hóa -20 ruby
+[02:19:58 PM]  Mua Bột cường hóa -20 ruby
+[02:19:58 PM]  Mua Bột cường hóa -20 ruby
+[02:19:59 PM]  Mua Bột cường hóa -20 ruby
+[02:19:59 PM]  Mua Bột cường hóa -20 ruby
+[02:19:59 PM]  Mua Bột cường hóa -20 ruby
+[02:19:59 PM]  Mua Bột cường hóa -20 ruby
+[02:19:59 PM]  Mua Bột cường hóa -20 ruby
+[02:19:59 PM]  Mua Bột cường hóa -20 ruby
+[02:19:59 PM]  Mua Bột cường hóa -20 ruby
+[02:19:59 PM]  Mua Bột cường hóa -20 ruby
+[02:20:00 PM]  Mua Bột cường hóa -20 ruby
+[02:20:00 PM]  Mua Bột cường hóa -20 ruby
+[02:20:00 PM]  Mua Bột cường hóa -20 ruby
+[02:20:00 PM]  Mua Bột cường hóa -20 ruby
+[02:20:00 PM]  Mua Bột cường hóa -20 ruby
+[02:20:00 PM]  Mua Bột cường hóa -20 ruby
+[02:20:00 PM]  Mua Bột cường hóa -20 ruby
+[02:20:00 PM]  Mua Bột cường hóa -20 ruby
+[02:20:00 PM]  Mua Bột cường hóa -20 ruby
+[02:20:01 PM]  Mua Bột cường hóa -20 ruby
+[02:20:01 PM]  Mua Bột cường hóa -20 ruby
+[02:20:01 PM]  Mua Bột cường hóa -20 ruby
+[02:20:01 PM]  Mua Bột cường hóa -20 ruby
+[02:20:01 PM]  Mua Bột cường hóa -20 ruby
+[02:20:01 PM]  Mua Bột cường hóa -20 ruby
+[02:20:02 PM]  Mua Bột cường hóa -20 ruby
+[02:20:02 PM]  Mua Bột cường hóa -20 ruby
+[02:20:02 PM]  Mua Bột cường hóa -20 ruby
+[02:20:02 PM]  Mua Bột cường hóa -20 ruby
+[02:20:02 PM]  Mua Bột cường hóa -20 ruby
+[02:20:02 PM]  Mua Bột cường hóa -20 ruby
+[02:20:02 PM]  Mua Bột cường hóa -20 ruby
+[02:20:02 PM]  Mua Bột cường hóa -20 ruby
+[02:20:03 PM]  Mua Bột cường hóa -20 ruby
+[02:20:03 PM]  Mua Bột cường hóa -20 ruby
+[02:20:03 PM]  Mua Bột cường hóa -20 ruby
+[02:20:03 PM]  Mua Bột cường hóa -20 ruby
+[02:20:03 PM]  Mua Bột cường hóa -20 ruby
+[02:20:03 PM]  Mua Bột cường hóa -20 ruby
+[02:20:03 PM]  Mua Bột cường hóa -20 ruby
+[02:20:04 PM]  Mua Bột cường hóa -20 ruby
+[02:20:04 PM]  Mua Bột cường hóa -20 ruby
+[02:20:04 PM]  Mua Bột cường hóa -20 ruby
+[02:20:04 PM]  Mua Bột cường hóa -20 ruby
+[02:20:04 PM]  Mua Bột cường hóa -20 ruby
+[02:20:04 PM]  Mua Bột cường hóa -20 ruby
+[02:20:04 PM]  Mua Bột cường hóa -20 ruby
+[02:20:04 PM]  Mua Bột cường hóa -20 ruby
+[02:20:04 PM]  Mua Bột cường hóa -20 ruby
+[02:20:04 PM]  Mua Bột cường hóa -20 ruby
+[02:20:05 PM]  Mua Bột cường hóa -20 ruby
+[02:20:05 PM]  Mua Bột cường hóa -20 ruby
+[02:20:05 PM]  Mua Bột cường hóa -20 ruby
+[02:20:05 PM]  Mua Bột cường hóa -20 ruby
+[02:20:05 PM]  Mua Bột cường hóa -20 ruby
+[02:20:05 PM]  Mua Bột cường hóa -20 ruby
+[02:20:06 PM]  Mua Bột cường hóa -20 ruby
+[02:20:06 PM]  Mua Bột cường hóa -20 ruby
+[02:20:06 PM]  Mua Bột cường hóa -20 ruby
+[02:20:06 PM]  Mua Bột cường hóa -20 ruby
+[02:20:06 PM]  Mua Bột cường hóa -20 ruby
+[02:20:06 PM]  Mua Bột cường hóa -20 ruby
+[02:20:06 PM]  Mua Bột cường hóa -20 ruby
+[02:20:06 PM]  Mua Bột cường hóa -20 ruby
+[02:20:06 PM]  Mua Bột cường hóa -20 ruby
+[02:20:06 PM]  Mua Bột cường hóa -20 ruby
+[02:20:07 PM]  Mua Bột cường hóa -20 ruby
+[02:20:07 PM]  Mua Bột cường hóa -20 ruby
+[02:20:07 PM]  Mua Bột cường hóa -20 ruby
+[02:20:07 PM]  Mua Bột cường hóa -20 ruby
+[02:20:07 PM]  Mua Bột cường hóa -20 ruby
+[02:20:07 PM]  Mua Bột cường hóa -20 ruby
+[02:20:07 PM]  Mua Bột cường hóa -20 ruby
+[02:20:07 PM]  Mua Bột cường hóa -20 ruby
+[02:20:08 PM]  Mua Bột cường hóa -20 ruby
+[02:20:08 PM]  Mua Bột cường hóa -20 ruby
+[02:20:08 PM]  Mua Bột cường hóa -20 ruby
+[02:20:08 PM]  Mua Bột cường hóa -20 ruby
+[02:20:08 PM]  Mua Bột cường hóa -20 ruby
+[02:20:08 PM]  Mua Bột cường hóa -20 ruby
+[02:20:08 PM]  Mua Bột cường hóa -20 ruby
+[02:20:09 PM]  Mua Bột cường hóa -20 ruby
+[02:20:09 PM]  Mua Bột cường hóa -20 ruby
+[02:20:09 PM]  Mua Bột cường hóa -20 ruby
+[02:20:09 PM]  Mua Bột cường hóa -20 ruby
+[02:21:29 PM]  Cường hóa item Khố phong cách 2 -3000 beri
+[02:21:29 PM]  Cường hóa item Khố phong cách 2 -3000 beri
+[02:21:30 PM]  Cường hóa item Khố phong cách 2 -4000 beri
+[02:21:30 PM]  Cường hóa item Khố phong cách 2 -4000 beri
+[02:21:30 PM]  Cường hóa item Khố phong cách 2 -4000 beri
+[02:21:32 PM]  Cường hóa item Khố phong cách 2 -4000 beri
+[02:21:32 PM]  Cường hóa item Khố phong cách 2 -4000 beri
+[02:21:32 PM]  Cường hóa item Khố phong cách 2 -4000 beri
+[02:21:32 PM]  Cường hóa item Khố phong cách 2 -4000 beri
+[02:21:34 PM]  Cường hóa item Khố phong cách 2 -4000 beri
+[02:21:34 PM]  Cường hóa item Khố phong cách 2 -4000 beri
+[02:21:35 PM]  Cường hóa item Khố phong cách 2 -4000 beri
+[02:21:35 PM]  Cường hóa item Khố phong cách 2 -6000 beri
+[02:21:37 PM]  Cường hóa item Khố phong cách 2 -6000 beri
+[02:21:38 PM]  Cường hóa item Khố phong cách 2 -6000 beri
+[02:21:38 PM]  Cường hóa item Khố phong cách 2 -6000 beri
+[02:21:38 PM]  Cường hóa item Khố phong cách 2 -6000 beri
+[02:21:40 PM]  Cường hóa item Khố phong cách 2 -6000 beri
+[02:21:40 PM]  Cường hóa item Khố phong cách 2 -6000 beri
+[02:21:40 PM]  Cường hóa item Khố phong cách 2 -6000 beri
+[02:21:40 PM]  Cường hóa item Khố phong cách 2 -6000 beri
+[02:21:41 PM]  Cường hóa item Khố phong cách 2 -6000 beri
+[02:21:42 PM]  Cường hóa item Khố phong cách 2 -6000 beri
+[02:21:42 PM]  Cường hóa item Khố phong cách 2 -6000 beri
+[02:21:42 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:42 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:44 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:44 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:44 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:44 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:45 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:46 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:46 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:46 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:46 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:47 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:48 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:48 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:49 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:49 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:49 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:51 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:51 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:51 PM]  Cường hóa item Khố phong cách 2 -8000 beri
+[02:21:51 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:21:52 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:21:52 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:21:53 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:21:53 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:21:53 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:21:53 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:21:53 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:21:53 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:21:54 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:21:55 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:21:55 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:21:55 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:21:56 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:21:57 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:21:57 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:21:58 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:00 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:00 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:00 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:00 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:01 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:02 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:02 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:02 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:03 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:03 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:04 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:04 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:04 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:05 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:06 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:07 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:07 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:09 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:09 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:09 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:09 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:10 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:10 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:22:15 PM]  Mua Bột cường hóa -20 ruby
+[02:22:15 PM]  Mua Bột cường hóa -20 ruby
+[02:22:15 PM]  Mua Bột cường hóa -20 ruby
+[02:22:15 PM]  Mua Bột cường hóa -20 ruby
+[02:22:15 PM]  Mua Bột cường hóa -20 ruby
+[02:22:16 PM]  Mua Bột cường hóa -20 ruby
+[02:22:16 PM]  Mua Bột cường hóa -20 ruby
+[02:22:16 PM]  Mua Bột cường hóa -20 ruby
+[02:22:16 PM]  Mua Bột cường hóa -20 ruby
+[02:22:16 PM]  Mua Bột cường hóa -20 ruby
+[02:22:16 PM]  Mua Bột cường hóa -20 ruby
+[02:22:16 PM]  Mua Bột cường hóa -20 ruby
+[02:22:17 PM]  Mua Bột cường hóa -20 ruby
+[02:22:17 PM]  Mua Bột cường hóa -20 ruby
+[02:22:17 PM]  Mua Bột cường hóa -20 ruby
+[02:22:17 PM]  Mua Bột cường hóa -20 ruby
+[02:22:17 PM]  Mua Bột cường hóa -20 ruby
+[02:22:17 PM]  Mua Bột cường hóa -20 ruby
+[02:22:17 PM]  Mua Bột cường hóa -20 ruby
+[02:22:17 PM]  Mua Bột cường hóa -20 ruby
+[02:22:17 PM]  Mua Bột cường hóa -20 ruby
+[02:22:18 PM]  Mua Bột cường hóa -20 ruby
+[02:22:18 PM]  Mua Bột cường hóa -20 ruby
+[02:22:18 PM]  Mua Bột cường hóa -20 ruby
+[02:22:18 PM]  Mua Bột cường hóa -20 ruby
+[02:22:18 PM]  Mua Bột cường hóa -20 ruby
+[02:22:18 PM]  Mua Bột cường hóa -20 ruby
+[02:22:18 PM]  Mua Bột cường hóa -20 ruby
+[02:22:18 PM]  Mua Bột cường hóa -20 ruby
+[02:22:19 PM]  Mua Bột cường hóa -20 ruby
+[02:22:19 PM]  Mua Bột cường hóa -20 ruby
+[02:22:19 PM]  Mua Bột cường hóa -20 ruby
+[02:22:19 PM]  Mua Bột cường hóa -20 ruby
+[02:22:19 PM]  Mua Bột cường hóa -20 ruby
+[02:22:19 PM]  Mua Bột cường hóa -20 ruby
+[02:22:19 PM]  Mua Bột cường hóa -20 ruby
+[02:22:19 PM]  Mua Bột cường hóa -20 ruby
+[02:22:20 PM]  Mua Bột cường hóa -20 ruby
+[02:22:20 PM]  Mua Bột cường hóa -20 ruby
+[02:22:20 PM]  Mua Bột cường hóa -20 ruby
+[02:22:20 PM]  Mua Bột cường hóa -20 ruby
+[02:22:20 PM]  Mua Bột cường hóa -20 ruby
+[02:22:20 PM]  Mua Bột cường hóa -20 ruby
+[02:22:20 PM]  Mua Bột cường hóa -20 ruby
+[02:22:21 PM]  Mua Bột cường hóa -20 ruby
+[02:22:21 PM]  Mua Bột cường hóa -20 ruby
+[02:22:21 PM]  Mua Bột cường hóa -20 ruby
+[02:22:21 PM]  Mua Bột cường hóa -20 ruby
+[02:22:21 PM]  Mua Bột cường hóa -20 ruby
+[02:22:21 PM]  Mua Bột cường hóa -20 ruby
+[02:22:21 PM]  Mua Bột cường hóa -20 ruby
+[02:22:22 PM]  Mua Bột cường hóa -20 ruby
+[02:22:22 PM]  Mua Bột cường hóa -20 ruby
+[02:22:22 PM]  Mua Bột cường hóa -20 ruby
+[02:22:22 PM]  Mua Bột cường hóa -20 ruby
+[02:22:22 PM]  Mua Bột cường hóa -20 ruby
+[02:22:22 PM]  Mua Bột cường hóa -20 ruby
+[02:22:22 PM]  Mua Bột cường hóa -20 ruby
+[02:22:22 PM]  Mua Bột cường hóa -20 ruby
+[02:22:23 PM]  Mua Bột cường hóa -20 ruby
+[02:22:23 PM]  Mua Bột cường hóa -20 ruby
+[02:22:23 PM]  Mua Bột cường hóa -20 ruby
+[02:22:23 PM]  Mua Bột cường hóa -20 ruby
+[02:22:23 PM]  Mua Bột cường hóa -20 ruby
+[02:22:23 PM]  Mua Bột cường hóa -20 ruby
+[02:22:23 PM]  Mua Bột cường hóa -20 ruby
+[02:22:23 PM]  Mua Bột cường hóa -20 ruby
+[02:22:24 PM]  Mua Bột cường hóa -20 ruby
+[02:22:24 PM]  Mua Bột cường hóa -20 ruby
+[02:22:24 PM]  Mua Bột cường hóa -20 ruby
+[02:22:24 PM]  Mua Bột cường hóa -20 ruby
+[02:22:24 PM]  Mua Bột cường hóa -20 ruby
+[02:22:24 PM]  Mua Bột cường hóa -20 ruby
+[02:22:24 PM]  Mua Bột cường hóa -20 ruby
+[02:22:24 PM]  Mua Bột cường hóa -20 ruby
+[02:22:25 PM]  Mua Bột cường hóa -20 ruby
+[02:22:25 PM]  Mua Bột cường hóa -20 ruby
+[02:22:25 PM]  Mua Bột cường hóa -20 ruby
+[02:22:25 PM]  Mua Bột cường hóa -20 ruby
+[02:22:25 PM]  Mua Bột cường hóa -20 ruby
+[02:22:25 PM]  Mua Bột cường hóa -20 ruby
+[02:22:25 PM]  Mua Bột cường hóa -20 ruby
+[02:22:25 PM]  Mua Bột cường hóa -20 ruby
+[02:22:26 PM]  Mua Bột cường hóa -20 ruby
+[02:22:26 PM]  Mua Bột cường hóa -20 ruby
+[02:22:26 PM]  Mua Bột cường hóa -20 ruby
+[02:22:26 PM]  Mua Bột cường hóa -20 ruby
+[02:22:26 PM]  Mua Bột cường hóa -20 ruby
+[02:22:26 PM]  Mua Bột cường hóa -20 ruby
+[02:22:26 PM]  Mua Bột cường hóa -20 ruby
+[02:22:26 PM]  Mua Bột cường hóa -20 ruby
+[02:22:27 PM]  Mua Bột cường hóa -20 ruby
+[02:22:27 PM]  Mua Bột cường hóa -20 ruby
+[02:22:27 PM]  Mua Bột cường hóa -20 ruby
+[02:22:27 PM]  Mua Bột cường hóa -20 ruby
+[02:22:27 PM]  Mua Bột cường hóa -20 ruby
+[02:22:27 PM]  Mua Bột cường hóa -20 ruby
+[02:22:27 PM]  Mua Bột cường hóa -20 ruby
+[02:22:27 PM]  Mua Bột cường hóa -20 ruby
+[02:22:27 PM]  Mua Bột cường hóa -20 ruby
+[02:22:28 PM]  Mua Bột cường hóa -20 ruby
+[02:22:28 PM]  Mua Bột cường hóa -20 ruby
+[02:22:28 PM]  Mua Bột cường hóa -20 ruby
+[02:22:28 PM]  Mua Bột cường hóa -20 ruby
+[02:22:28 PM]  Mua Bột cường hóa -20 ruby
+[02:22:29 PM]  Mua Bột cường hóa -20 ruby
+[02:22:29 PM]  Mua Bột cường hóa -20 ruby
+[02:22:45 PM]  Mua Bột cường hóa -20 ruby
+[02:22:45 PM]  Mua Bột cường hóa -20 ruby
+[02:22:45 PM]  Mua Bột cường hóa -20 ruby
+[02:22:45 PM]  Mua Bột cường hóa -20 ruby
+[02:22:46 PM]  Mua Bột cường hóa -20 ruby
+[02:22:46 PM]  Mua Bột cường hóa -20 ruby
+[02:22:46 PM]  Mua Bột cường hóa -20 ruby
+[02:22:46 PM]  Mua Bột cường hóa -20 ruby
+[02:22:46 PM]  Mua Bột cường hóa -20 ruby
+[02:22:46 PM]  Mua Bột cường hóa -20 ruby
+[02:22:46 PM]  Mua Bột cường hóa -20 ruby
+[02:22:46 PM]  Mua Bột cường hóa -20 ruby
+[02:22:47 PM]  Mua Bột cường hóa -20 ruby
+[02:22:47 PM]  Mua Bột cường hóa -20 ruby
+[02:22:47 PM]  Mua Bột cường hóa -20 ruby
+[02:22:47 PM]  Mua Bột cường hóa -20 ruby
+[02:22:47 PM]  Mua Bột cường hóa -20 ruby
+[02:22:47 PM]  Mua Bột cường hóa -20 ruby
+[02:22:48 PM]  Mua Bột cường hóa -20 ruby
+[02:22:48 PM]  Mua Bột cường hóa -20 ruby
+[02:22:48 PM]  Mua Bột cường hóa -20 ruby
+[02:22:48 PM]  Mua Bột cường hóa -20 ruby
+[02:22:48 PM]  Mua Bột cường hóa -20 ruby
+[02:22:48 PM]  Mua Bột cường hóa -20 ruby
+[02:22:48 PM]  Mua Bột cường hóa -20 ruby
+[02:22:48 PM]  Mua Bột cường hóa -20 ruby
+[02:22:49 PM]  Mua Bột cường hóa -20 ruby
+[02:22:49 PM]  Mua Bột cường hóa -20 ruby
+[02:22:49 PM]  Mua Bột cường hóa -20 ruby
+[02:22:49 PM]  Mua Bột cường hóa -20 ruby
+[02:22:49 PM]  Mua Bột cường hóa -20 ruby
+[02:22:49 PM]  Mua Bột cường hóa -20 ruby
+[02:22:49 PM]  Mua Bột cường hóa -20 ruby
+[02:22:49 PM]  Mua Bột cường hóa -20 ruby
+[02:22:49 PM]  Mua Bột cường hóa -20 ruby
+[02:22:49 PM]  Mua Bột cường hóa -20 ruby
+[02:22:49 PM]  Mua Bột cường hóa -20 ruby
+[02:22:50 PM]  Mua Bột cường hóa -20 ruby
+[02:22:50 PM]  Mua Bột cường hóa -20 ruby
+[02:22:50 PM]  Mua Bột cường hóa -20 ruby
+[02:22:50 PM]  Mua Bột cường hóa -20 ruby
+[02:22:50 PM]  Mua Bột cường hóa -20 ruby
+[02:22:50 PM]  Mua Bột cường hóa -20 ruby
+[02:22:50 PM]  Mua Bột cường hóa -20 ruby
+[02:22:50 PM]  Mua Bột cường hóa -20 ruby
+[02:22:50 PM]  Mua Bột cường hóa -20 ruby
+[02:22:51 PM]  Mua Bột cường hóa -20 ruby
+[02:22:51 PM]  Mua Bột cường hóa -20 ruby
+[02:22:51 PM]  Mua Bột cường hóa -20 ruby
+[02:22:51 PM]  Mua Bột cường hóa -20 ruby
+[02:22:51 PM]  Mua Bột cường hóa -20 ruby
+[02:22:51 PM]  Mua Bột cường hóa -20 ruby
+[02:22:52 PM]  Mua Bột cường hóa -20 ruby
+[02:22:52 PM]  Mua Bột cường hóa -20 ruby
+[02:22:52 PM]  Mua Bột cường hóa -20 ruby
+[02:22:52 PM]  Mua Bột cường hóa -20 ruby
+[02:22:52 PM]  Mua Bột cường hóa -20 ruby
+[02:22:52 PM]  Mua Bột cường hóa -20 ruby
+[02:22:52 PM]  Mua Bột cường hóa -20 ruby
+[02:22:52 PM]  Mua Bột cường hóa -20 ruby
+[02:22:52 PM]  Mua Bột cường hóa -20 ruby
+[02:22:52 PM]  Mua Bột cường hóa -20 ruby
+[02:22:52 PM]  Mua Bột cường hóa -20 ruby
+[02:22:53 PM]  Mua Bột cường hóa -20 ruby
+[02:22:53 PM]  Mua Bột cường hóa -20 ruby
+[02:22:53 PM]  Mua Bột cường hóa -20 ruby
+[02:22:53 PM]  Mua Bột cường hóa -20 ruby
+[02:22:53 PM]  Mua Bột cường hóa -20 ruby
+[02:22:54 PM]  Mua Bột cường hóa -20 ruby
+[02:22:54 PM]  Mua Bột cường hóa -20 ruby
+[02:22:54 PM]  Mua Bột cường hóa -20 ruby
+[02:22:54 PM]  Mua Bột cường hóa -20 ruby
+[02:22:54 PM]  Mua Bột cường hóa -20 ruby
+[02:22:54 PM]  Mua Bột cường hóa -20 ruby
+[02:22:55 PM]  Mua Bột cường hóa -20 ruby
+[02:22:55 PM]  Mua Bột cường hóa -20 ruby
+[02:22:55 PM]  Mua Bột cường hóa -20 ruby
+[02:22:55 PM]  Mua Bột cường hóa -20 ruby
+[02:22:55 PM]  Mua Bột cường hóa -20 ruby
+[02:22:55 PM]  Mua Bột cường hóa -20 ruby
+[02:22:55 PM]  Mua Bột cường hóa -20 ruby
+[02:22:55 PM]  Mua Bột cường hóa -20 ruby
+[02:22:55 PM]  Mua Bột cường hóa -20 ruby
+[02:22:55 PM]  Mua Bột cường hóa -20 ruby
+[02:22:56 PM]  Mua Bột cường hóa -20 ruby
+[02:22:56 PM]  Mua Bột cường hóa -20 ruby
+[02:22:56 PM]  Mua Bột cường hóa -20 ruby
+[02:22:56 PM]  Mua Bột cường hóa -20 ruby
+[02:22:56 PM]  Mua Bột cường hóa -20 ruby
+[02:22:56 PM]  Mua Bột cường hóa -20 ruby
+[02:22:56 PM]  Mua Bột cường hóa -20 ruby
+[02:22:57 PM]  Mua Bột cường hóa -20 ruby
+[02:22:57 PM]  Mua Bột cường hóa -20 ruby
+[02:22:57 PM]  Mua Bột cường hóa -20 ruby
+[02:22:57 PM]  Mua Bột cường hóa -20 ruby
+[02:22:57 PM]  Mua Bột cường hóa -20 ruby
+[02:22:57 PM]  Mua Bột cường hóa -20 ruby
+[02:22:57 PM]  Mua Bột cường hóa -20 ruby
+[02:22:57 PM]  Mua Bột cường hóa -20 ruby
+[02:22:57 PM]  Mua Bột cường hóa -20 ruby
+[02:22:58 PM]  Mua Bột cường hóa -20 ruby
+[02:22:58 PM]  Mua Bột cường hóa -20 ruby
+[02:22:58 PM]  Mua Bột cường hóa -20 ruby
+[02:22:58 PM]  Mua Bột cường hóa -20 ruby
+[02:22:58 PM]  Mua Bột cường hóa -20 ruby
+[02:22:58 PM]  Mua Bột cường hóa -20 ruby
+[02:22:59 PM]  Mua Bột cường hóa -20 ruby
+[02:22:59 PM]  Mua Bột cường hóa -20 ruby
+[02:22:59 PM]  Mua Bột cường hóa -20 ruby
+[02:22:59 PM]  Mua Bột cường hóa -20 ruby
+[02:22:59 PM]  Mua Bột cường hóa -20 ruby
+[02:22:59 PM]  Mua Bột cường hóa -20 ruby
+[02:22:59 PM]  Mua Bột cường hóa -20 ruby
+[02:22:59 PM]  Mua Bột cường hóa -20 ruby
+[02:22:59 PM]  Mua Bột cường hóa -20 ruby
+[02:23:00 PM]  Mua Bột cường hóa -20 ruby
+[02:23:00 PM]  Mua Bột cường hóa -20 ruby
+[02:23:00 PM]  Mua Bột cường hóa -20 ruby
+[02:23:00 PM]  Mua Bột cường hóa -20 ruby
+[02:23:00 PM]  Mua Bột cường hóa -20 ruby
+[02:23:00 PM]  Mua Bột cường hóa -20 ruby
+[02:23:00 PM]  Mua Bột cường hóa -20 ruby
+[02:23:00 PM]  Mua Bột cường hóa -20 ruby
+[02:23:01 PM]  Mua Bột cường hóa -20 ruby
+[02:23:01 PM]  Mua Bột cường hóa -20 ruby
+[02:23:01 PM]  Mua Bột cường hóa -20 ruby
+[02:23:01 PM]  Mua Bột cường hóa -20 ruby
+[02:23:01 PM]  Mua Bột cường hóa -20 ruby
+[02:23:01 PM]  Mua Bột cường hóa -20 ruby
+[02:23:01 PM]  Mua Bột cường hóa -20 ruby
+[02:23:02 PM]  Mua Bột cường hóa -20 ruby
+[02:23:02 PM]  Mua Bột cường hóa -20 ruby
+[02:23:02 PM]  Mua Bột cường hóa -20 ruby
+[02:23:02 PM]  Mua Bột cường hóa -20 ruby
+[02:23:02 PM]  Mua Bột cường hóa -20 ruby
+[02:23:02 PM]  Mua Bột cường hóa -20 ruby
+[02:23:02 PM]  Mua Bột cường hóa -20 ruby
+[02:23:02 PM]  Mua Bột cường hóa -20 ruby
+[02:23:02 PM]  Mua Bột cường hóa -20 ruby
+[02:23:02 PM]  Mua Bột cường hóa -20 ruby
+[02:23:03 PM]  Mua Bột cường hóa -20 ruby
+[02:23:03 PM]  Mua Bột cường hóa -20 ruby
+[02:23:03 PM]  Mua Bột cường hóa -20 ruby
+[02:23:03 PM]  Mua Bột cường hóa -20 ruby
+[02:23:03 PM]  Mua Bột cường hóa -20 ruby
+[02:23:03 PM]  Mua Bột cường hóa -20 ruby
+[02:23:04 PM]  Mua Bột cường hóa -20 ruby
+[02:23:04 PM]  Mua Bột cường hóa -20 ruby
+[02:23:04 PM]  Mua Bột cường hóa -20 ruby
+[02:23:04 PM]  Mua Bột cường hóa -20 ruby
+[02:23:04 PM]  Mua Bột cường hóa -20 ruby
+[02:23:04 PM]  Mua Bột cường hóa -20 ruby
+[02:23:04 PM]  Mua Bột cường hóa -20 ruby
+[02:23:04 PM]  Mua Bột cường hóa -20 ruby
+[02:23:05 PM]  Mua Bột cường hóa -20 ruby
+[02:23:05 PM]  Mua Bột cường hóa -20 ruby
+[02:23:05 PM]  Mua Bột cường hóa -20 ruby
+[02:23:05 PM]  Mua Bột cường hóa -20 ruby
+[02:23:05 PM]  Mua Bột cường hóa -20 ruby
+[02:23:05 PM]  Mua Bột cường hóa -20 ruby
+[02:23:05 PM]  Mua Bột cường hóa -20 ruby
+[02:23:05 PM]  Mua Bột cường hóa -20 ruby
+[02:23:06 PM]  Mua Bột cường hóa -20 ruby
+[02:23:06 PM]  Mua Bột cường hóa -20 ruby
+[02:23:06 PM]  Mua Bột cường hóa -20 ruby
+[02:23:06 PM]  Mua Bột cường hóa -20 ruby
+[02:23:06 PM]  Mua Bột cường hóa -20 ruby
+[02:23:06 PM]  Mua Bột cường hóa -20 ruby
+[02:23:06 PM]  Mua Bột cường hóa -20 ruby
+[02:23:07 PM]  Mua Bột cường hóa -20 ruby
+[02:23:07 PM]  Mua Bột cường hóa -20 ruby
+[02:23:07 PM]  Mua Bột cường hóa -20 ruby
+[02:23:07 PM]  Mua Bột cường hóa -20 ruby
+[02:23:07 PM]  Mua Bột cường hóa -20 ruby
+[02:23:07 PM]  Mua Bột cường hóa -20 ruby
+[02:23:07 PM]  Mua Bột cường hóa -20 ruby
+[02:23:07 PM]  Mua Bột cường hóa -20 ruby
+[02:23:07 PM]  Mua Bột cường hóa -20 ruby
+[02:23:08 PM]  Mua Bột cường hóa -20 ruby
+[02:23:08 PM]  Mua Bột cường hóa -20 ruby
+[02:23:08 PM]  Mua Bột cường hóa -20 ruby
+[02:23:08 PM]  Mua Bột cường hóa -20 ruby
+[02:23:08 PM]  Mua Bột cường hóa -20 ruby
+[02:23:09 PM]  Mua Bột cường hóa -20 ruby
+[02:23:09 PM]  Mua Bột cường hóa -20 ruby
+[02:23:09 PM]  Mua Bột cường hóa -20 ruby
+[02:23:09 PM]  Mua Bột cường hóa -20 ruby
+[02:23:09 PM]  Mua Bột cường hóa -20 ruby
+[02:23:09 PM]  Mua Bột cường hóa -20 ruby
+[02:23:09 PM]  Mua Bột cường hóa -20 ruby
+[02:23:09 PM]  Mua Bột cường hóa -20 ruby
+[02:23:09 PM]  Mua Bột cường hóa -20 ruby
+[02:23:09 PM]  Mua Bột cường hóa -20 ruby
+[02:23:10 PM]  Mua Bột cường hóa -20 ruby
+[02:23:10 PM]  Mua Bột cường hóa -20 ruby
+[02:23:10 PM]  Mua Bột cường hóa -20 ruby
+[02:23:10 PM]  Mua Bột cường hóa -20 ruby
+[02:23:10 PM]  Mua Bột cường hóa -20 ruby
+[02:23:10 PM]  Mua Bột cường hóa -20 ruby
+[02:23:11 PM]  Mua Bột cường hóa -20 ruby
+[02:23:11 PM]  Mua Bột cường hóa -20 ruby
+[02:23:11 PM]  Mua Bột cường hóa -20 ruby
+[02:23:11 PM]  Mua Bột cường hóa -20 ruby
+[02:23:11 PM]  Mua Bột cường hóa -20 ruby
+[02:23:11 PM]  Mua Bột cường hóa -20 ruby
+[02:23:11 PM]  Mua Bột cường hóa -20 ruby
+[02:23:25 PM]  Mua Bột vàng -40 ruby
+[02:23:25 PM]  Mua Bột vàng -40 ruby
+[02:23:25 PM]  Mua Bột vàng -40 ruby
+[02:23:25 PM]  Mua Bột vàng -40 ruby
+[02:23:25 PM]  Mua Bột vàng -40 ruby
+[02:23:25 PM]  Mua Bột vàng -40 ruby
+[02:23:26 PM]  Mua Bột vàng -40 ruby
+[02:23:26 PM]  Mua Bột vàng -40 ruby
+[02:23:26 PM]  Mua Bột vàng -40 ruby
+[02:23:26 PM]  Mua Bột vàng -40 ruby
+[02:23:26 PM]  Mua Bột vàng -40 ruby
+[02:23:27 PM]  Mua Bột vàng -40 ruby
+[02:23:27 PM]  Mua Bột vàng -40 ruby
+[02:23:27 PM]  Mua Bột vàng -40 ruby
+[02:23:27 PM]  Mua Bột vàng -40 ruby
+[02:23:27 PM]  Mua Bột vàng -40 ruby
+[02:23:27 PM]  Mua Bột vàng -40 ruby
+[02:23:27 PM]  Mua Bột vàng -40 ruby
+[02:23:27 PM]  Mua Bột vàng -40 ruby
+[02:23:28 PM]  Mua Bột vàng -40 ruby
+[02:23:28 PM]  Mua Bột vàng -40 ruby
+[02:23:28 PM]  Mua Bột vàng -40 ruby
+[02:23:28 PM]  Mua Bột vàng -40 ruby
+[02:23:28 PM]  Mua Bột vàng -40 ruby
+[02:23:28 PM]  Mua Bột vàng -40 ruby
+[02:23:28 PM]  Mua Bột vàng -40 ruby
+[02:23:28 PM]  Mua Bột vàng -40 ruby
+[02:23:29 PM]  Mua Bột vàng -40 ruby
+[02:23:29 PM]  Mua Bột vàng -40 ruby
+[02:23:29 PM]  Mua Bột vàng -40 ruby
+[02:23:29 PM]  Mua Bột vàng -40 ruby
+[02:23:29 PM]  Mua Bột vàng -40 ruby
+[02:23:29 PM]  Mua Bột vàng -40 ruby
+[02:23:30 PM]  Mua Bột vàng -40 ruby
+[02:23:30 PM]  Mua Bột vàng -40 ruby
+[02:23:30 PM]  Mua Bột vàng -40 ruby
+[02:23:30 PM]  Mua Bột vàng -40 ruby
+[02:23:30 PM]  Mua Bột vàng -40 ruby
+[02:23:30 PM]  Mua Bột vàng -40 ruby
+[02:23:30 PM]  Mua Bột vàng -40 ruby
+[02:23:30 PM]  Mua Bột vàng -40 ruby
+[02:23:30 PM]  Mua Bột vàng -40 ruby
+[02:23:31 PM]  Mua Bột vàng -40 ruby
+[02:23:31 PM]  Mua Bột vàng -40 ruby
+[02:23:31 PM]  Mua Bột vàng -40 ruby
+[02:23:31 PM]  Mua Bột vàng -40 ruby
+[02:23:31 PM]  Mua Bột vàng -40 ruby
+[02:23:31 PM]  Mua Bột vàng -40 ruby
+[02:23:31 PM]  Mua Bột vàng -40 ruby
+[02:23:32 PM]  Mua Bột vàng -40 ruby
+[02:23:32 PM]  Mua Bột vàng -40 ruby
+[02:23:32 PM]  Mua Bột vàng -40 ruby
+[02:23:32 PM]  Mua Bột vàng -40 ruby
+[02:23:32 PM]  Mua Bột vàng -40 ruby
+[02:23:32 PM]  Mua Bột vàng -40 ruby
+[02:23:32 PM]  Mua Bột vàng -40 ruby
+[02:23:32 PM]  Mua Bột vàng -40 ruby
+[02:23:32 PM]  Mua Bột vàng -40 ruby
+[02:23:33 PM]  Mua Bột vàng -40 ruby
+[02:23:33 PM]  Mua Bột vàng -40 ruby
+[02:23:33 PM]  Mua Bột vàng -40 ruby
+[02:23:33 PM]  Mua Bột vàng -40 ruby
+[02:23:33 PM]  Mua Bột vàng -40 ruby
+[02:23:33 PM]  Mua Bột vàng -40 ruby
+[02:23:33 PM]  Mua Bột vàng -40 ruby
+[02:23:33 PM]  Mua Bột vàng -40 ruby
+[02:23:34 PM]  Mua Bột vàng -40 ruby
+[02:23:34 PM]  Mua Bột vàng -40 ruby
+[02:23:34 PM]  Mua Bột vàng -40 ruby
+[02:23:34 PM]  Mua Bột vàng -40 ruby
+[02:23:34 PM]  Mua Bột vàng -40 ruby
+[02:23:34 PM]  Mua Bột vàng -40 ruby
+[02:23:34 PM]  Mua Bột vàng -40 ruby
+[02:23:34 PM]  Mua Bột vàng -40 ruby
+[02:23:35 PM]  Mua Bột vàng -40 ruby
+[02:23:35 PM]  Mua Bột vàng -40 ruby
+[02:23:35 PM]  Mua Bột vàng -40 ruby
+[02:23:35 PM]  Mua Bột vàng -40 ruby
+[02:23:35 PM]  Mua Bột vàng -40 ruby
+[02:23:35 PM]  Mua Bột vàng -40 ruby
+[02:23:35 PM]  Mua Bột vàng -40 ruby
+[02:23:35 PM]  Mua Bột vàng -40 ruby
+[02:23:36 PM]  Mua Bột vàng -40 ruby
+[02:23:36 PM]  Mua Bột vàng -40 ruby
+[02:23:36 PM]  Mua Bột vàng -40 ruby
+[02:23:36 PM]  Mua Bột vàng -40 ruby
+[02:23:36 PM]  Mua Bột vàng -40 ruby
+[02:23:36 PM]  Mua Bột vàng -40 ruby
+[02:23:36 PM]  Mua Bột vàng -40 ruby
+[02:23:36 PM]  Mua Bột vàng -40 ruby
+[02:23:37 PM]  Mua Bột vàng -40 ruby
+[02:23:37 PM]  Mua Bột vàng -40 ruby
+[02:23:37 PM]  Mua Bột vàng -40 ruby
+[02:23:37 PM]  Mua Bột vàng -40 ruby
+[02:23:37 PM]  Mua Bột vàng -40 ruby
+[02:23:37 PM]  Mua Bột vàng -40 ruby
+[02:23:37 PM]  Mua Bột vàng -40 ruby
+[02:23:38 PM]  Mua Bột vàng -40 ruby
+[02:23:38 PM]  Mua Bột vàng -40 ruby
+[02:23:38 PM]  Mua Bột vàng -40 ruby
+[02:23:38 PM]  Mua Bột vàng -40 ruby
+[02:23:38 PM]  Mua Bột vàng -40 ruby
+[02:23:38 PM]  Mua Bột vàng -40 ruby
+[02:23:38 PM]  Mua Bột vàng -40 ruby
+[02:23:38 PM]  Mua Bột vàng -40 ruby
+[02:23:38 PM]  Mua Bột vàng -40 ruby
+[02:23:39 PM]  Mua Bột vàng -40 ruby
+[02:23:39 PM]  Mua Bột vàng -40 ruby
+[02:23:39 PM]  Mua Bột vàng -40 ruby
+[02:23:39 PM]  Mua Bột vàng -40 ruby
+[02:23:39 PM]  Mua Bột vàng -40 ruby
+[02:23:39 PM]  Mua Bột vàng -40 ruby
+[02:23:39 PM]  Mua Bột vàng -40 ruby
+[02:23:40 PM]  Mua Bột vàng -40 ruby
+[02:23:40 PM]  Mua Bột vàng -40 ruby
+[02:23:40 PM]  Mua Bột vàng -40 ruby
+[02:23:40 PM]  Mua Bột vàng -40 ruby
+[02:23:40 PM]  Mua Bột vàng -40 ruby
+[02:23:40 PM]  Mua Bột vàng -40 ruby
+[02:23:40 PM]  Mua Bột vàng -40 ruby
+[02:23:40 PM]  Mua Bột vàng -40 ruby
+[02:23:40 PM]  Mua Bột vàng -40 ruby
+[02:23:41 PM]  Mua Bột vàng -40 ruby
+[02:23:41 PM]  Mua Bột vàng -40 ruby
+[02:23:41 PM]  Mua Bột vàng -40 ruby
+[02:23:41 PM]  Mua Bột vàng -40 ruby
+[02:23:41 PM]  Mua Bột vàng -40 ruby
+[02:23:41 PM]  Mua Bột vàng -40 ruby
+[02:23:41 PM]  Mua Bột vàng -40 ruby
+[02:23:41 PM]  Mua Bột vàng -40 ruby
+[02:23:42 PM]  Mua Bột vàng -40 ruby
+[02:23:42 PM]  Mua Bột vàng -40 ruby
+[02:23:42 PM]  Mua Bột vàng -40 ruby
+[02:23:42 PM]  Mua Bột vàng -40 ruby
+[02:23:42 PM]  Mua Bột vàng -40 ruby
+[02:23:42 PM]  Mua Bột vàng -40 ruby
+[02:23:42 PM]  Mua Bột vàng -40 ruby
+[02:23:43 PM]  Mua Bột vàng -40 ruby
+[02:23:43 PM]  Mua Bột vàng -40 ruby
+[02:23:43 PM]  Mua Bột vàng -40 ruby
+[02:23:43 PM]  Mua Bột vàng -40 ruby
+[02:23:43 PM]  Mua Bột vàng -40 ruby
+[02:23:43 PM]  Mua Bột vàng -40 ruby
+[02:23:43 PM]  Mua Bột vàng -40 ruby
+[02:23:43 PM]  Mua Bột vàng -40 ruby
+[02:23:43 PM]  Mua Bột vàng -40 ruby
+[02:23:44 PM]  Mua Bột vàng -40 ruby
+[02:23:44 PM]  Mua Bột vàng -40 ruby
+[02:23:44 PM]  Mua Bột vàng -40 ruby
+[02:24:14 PM]  Mua Bột vàng -40 ruby
+[02:24:14 PM]  Mua Bột vàng -40 ruby
+[02:24:14 PM]  Mua Bột vàng -40 ruby
+[02:24:14 PM]  Mua Bột vàng -40 ruby
+[02:24:14 PM]  Mua Bột vàng -40 ruby
+[02:24:14 PM]  Mua Bột vàng -40 ruby
+[02:24:15 PM]  Mua Bột vàng -40 ruby
+[02:24:15 PM]  Mua Bột vàng -40 ruby
+[02:24:15 PM]  Mua Bột vàng -40 ruby
+[02:24:15 PM]  Mua Bột vàng -40 ruby
+[02:24:15 PM]  Mua Bột vàng -40 ruby
+[02:24:15 PM]  Mua Bột vàng -40 ruby
+[02:24:15 PM]  Mua Bột vàng -40 ruby
+[02:24:15 PM]  Mua Bột vàng -40 ruby
+[02:24:16 PM]  Mua Bột vàng -40 ruby
+[02:24:16 PM]  Mua Bột vàng -40 ruby
+[02:24:16 PM]  Mua Bột vàng -40 ruby
+[02:24:16 PM]  Mua Bột vàng -40 ruby
+[02:24:16 PM]  Mua Bột vàng -40 ruby
+[02:24:16 PM]  Mua Bột vàng -40 ruby
+[02:24:16 PM]  Mua Bột vàng -40 ruby
+[02:24:16 PM]  Mua Bột vàng -40 ruby
+[02:24:17 PM]  Mua Bột vàng -40 ruby
+[02:24:17 PM]  Mua Bột vàng -40 ruby
+[02:24:17 PM]  Mua Bột vàng -40 ruby
+[02:24:17 PM]  Mua Bột vàng -40 ruby
+[02:24:17 PM]  Mua Bột vàng -40 ruby
+[02:24:17 PM]  Mua Bột vàng -40 ruby
+[02:24:17 PM]  Mua Bột vàng -40 ruby
+[02:24:17 PM]  Mua Bột vàng -40 ruby
+[02:24:18 PM]  Mua Bột vàng -40 ruby
+[02:24:18 PM]  Mua Bột vàng -40 ruby
+[02:24:18 PM]  Mua Bột vàng -40 ruby
+[02:24:18 PM]  Mua Bột vàng -40 ruby
+[02:24:18 PM]  Mua Bột vàng -40 ruby
+[02:24:18 PM]  Mua Bột vàng -40 ruby
+[02:24:30 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:24:30 PM]  Cường hóa item Khố phong cách 2 -10000 beri
+[02:24:40 PM]  Cường hóa item Mũ len thần bí 2 -3000 beri
+[02:24:40 PM]  Cường hóa item Mũ len thần bí 2 -3000 beri
+[02:24:40 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:40 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:40 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:41 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:41 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:42 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:42 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:42 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:43 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:44 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:44 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:44 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:44 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:44 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:45 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:47 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:47 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:47 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:48 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:50 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:51 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:51 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:51 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:53 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:53 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:53 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:53 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:53 PM]  Cường hóa item Mũ len thần bí 2 -4000 beri
+[02:24:55 PM]  Cường hóa item Mũ len thần bí 2 -6000 beri
+[02:24:55 PM]  Cường hóa item Mũ len thần bí 2 -6000 beri
+[02:24:55 PM]  Cường hóa item Mũ len thần bí 2 -6000 beri
+[02:24:55 PM]  Cường hóa item Mũ len thần bí 2 -6000 beri
+[02:24:55 PM]  Cường hóa item Mũ len thần bí 2 -6000 beri
+[02:24:56 PM]  Cường hóa item Mũ len thần bí 2 -6000 beri
+[02:24:56 PM]  Cường hóa item Mũ len thần bí 2 -6000 beri
+[02:24:56 PM]  Cường hóa item Mũ len thần bí 2 -6000 beri
+[02:24:58 PM]  Cường hóa item Mũ len thần bí 2 -8000 beri
+[02:24:58 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:24:58 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:00 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:00 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:00 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:00 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:00 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:02 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:02 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:02 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:02 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:02 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:04 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:04 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:04 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:04 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:05 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:06 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:06 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:06 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:06 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:07 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:07 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:08 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:09 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:09 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:09 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:09 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:10 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:10 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:11 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:11 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:11 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:11 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:11 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:12 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:13 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:13 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:13 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:14 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:15 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:15 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:15 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:15 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:16 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:17 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:17 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:17 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:17 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:17 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:18 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:25:19 PM]  Cường hóa item Mũ len thần bí 2 -10000 beri
+[02:28:40 PM]  Mua Mai rùa -140 ruby
+[02:28:41 PM]  Mua Mai rùa -140 ruby
+[02:28:41 PM]  Mua Mai rùa -140 ruby
+[02:28:41 PM]  Mua Mai rùa -140 ruby
+[02:28:41 PM]  Mua Mai rùa -140 ruby
+[02:28:41 PM]  Mua Mai rùa -140 ruby
+[02:28:41 PM]  Mua Mai rùa -140 ruby
+[02:28:41 PM]  Mua Mai rùa -140 ruby
+[02:28:41 PM]  Mua Mai rùa -140 ruby
+[02:28:42 PM]  Mua Mai rùa -140 ruby
+[02:28:42 PM]  Mua Mai rùa -140 ruby
+[02:28:42 PM]  Mua Mai rùa -140 ruby
+[02:28:42 PM]  Mua Mai rùa -140 ruby
+[02:28:42 PM]  Mua Mai rùa -140 ruby
+[02:28:42 PM]  Mua Mai rùa -140 ruby
+[02:28:42 PM]  Mua Mai rùa -140 ruby
+[02:28:43 PM]  Mua Mai rùa -140 ruby
+[02:28:43 PM]  Mua Mai rùa -140 ruby
+[02:28:43 PM]  Mua Mai rùa -140 ruby
+[02:28:43 PM]  Mua Mai rùa -140 ruby
+[02:28:43 PM]  Mua Mai rùa -140 ruby
+[02:28:43 PM]  Mua Mai rùa -140 ruby
+[02:28:43 PM]  Mua Mai rùa -140 ruby
+[02:28:43 PM]  Mua Mai rùa -140 ruby
+[02:28:44 PM]  Mua Mai rùa -140 ruby
+[02:28:44 PM]  Mua Mai rùa -140 ruby
+[02:28:44 PM]  Mua Mai rùa -140 ruby
+[02:28:44 PM]  Mua Mai rùa -140 ruby
+[02:28:44 PM]  Mua Mai rùa -140 ruby
+[02:28:44 PM]  Mua Mai rùa -140 ruby
+[02:28:44 PM]  Mua Mai rùa -140 ruby
+[02:28:44 PM]  Mua Mai rùa -140 ruby
+[02:28:44 PM]  Mua Mai rùa -140 ruby
+[02:28:45 PM]  Mua Mai rùa -140 ruby
+[02:28:45 PM]  Mua Mai rùa -140 ruby
+[02:28:45 PM]  Mua Mai rùa -140 ruby
+[02:28:48 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:49 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:49 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:49 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:49 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:49 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:49 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:49 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:49 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:49 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:49 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:50 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:50 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:50 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:50 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:50 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:50 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:50 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:50 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:51 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:51 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:51 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:51 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:51 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:51 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:51 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:51 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:51 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:51 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:52 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:52 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:52 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:52 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:52 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:52 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:28:52 PM]  Mua Ngôi sao may mắn -100 ruby
+[02:29:03 PM]  Cường hóa item Dial 4 -3000 beri
+[02:29:03 PM]  Cường hóa item Dial 4 -3000 beri
+[02:29:03 PM]  Cường hóa item Dial 4 -3000 beri
+[02:29:03 PM]  Cường hóa item Dial 4 -3000 beri
+[02:29:04 PM]  Cường hóa item Dial 4 -3000 beri
+[02:29:05 PM]  Cường hóa item Dial 4 -4000 beri
+[02:29:05 PM]  Cường hóa item Dial 4 -4000 beri
+[02:29:05 PM]  Cường hóa item Dial 4 -4000 beri
+[02:29:05 PM]  Cường hóa item Dial 4 -4000 beri
+[02:29:06 PM]  Cường hóa item Dial 4 -4000 beri
+[02:29:06 PM]  Cường hóa item Dial 4 -4000 beri
+[02:29:07 PM]  Cường hóa item Dial 4 -4000 beri
+[02:29:07 PM]  Cường hóa item Dial 4 -4000 beri
+[02:29:07 PM]  Cường hóa item Dial 4 -4000 beri
+[02:29:07 PM]  Cường hóa item Dial 4 -4000 beri
+[02:29:07 PM]  Cường hóa item Dial 4 -4000 beri
+[02:29:08 PM]  Cường hóa item Dial 4 -4000 beri
+[02:29:08 PM]  Cường hóa item Dial 4 -4000 beri
+[02:29:09 PM]  Cường hóa item Dial 4 -4000 beri
+[02:29:09 PM]  Cường hóa item Dial 4 -4000 beri
+[02:29:09 PM]  Cường hóa item Dial 4 -6000 beri
+[02:29:09 PM]  Cường hóa item Dial 4 -6000 beri
+[02:29:09 PM]  Cường hóa item Dial 4 -6000 beri
+[02:29:10 PM]  Cường hóa item Dial 4 -6000 beri
+[02:29:12 PM]  Cường hóa item Dial 4 -6000 beri
+[02:29:12 PM]  Cường hóa item Dial 4 -6000 beri
+[02:29:12 PM]  Cường hóa item Dial 4 -6000 beri
+[02:29:13 PM]  Cường hóa item Dial 4 -6000 beri
+[02:29:14 PM]  Cường hóa item Dial 4 -6000 beri
+[02:29:14 PM]  Cường hóa item Dial 4 -6000 beri
+[02:29:14 PM]  Cường hóa item Dial 4 -6000 beri
+[02:29:14 PM]  Cường hóa item Dial 4 -6000 beri
+[02:29:14 PM]  Cường hóa item Dial 4 -6000 beri
+[02:29:16 PM]  Cường hóa item Dial 4 -6000 beri
+[02:29:16 PM]  Cường hóa item Dial 4 -8000 beri
+[02:29:16 PM]  Cường hóa item Dial 4 -8000 beri
+[02:29:16 PM]  Cường hóa item Dial 4 -8000 beri
+[02:29:17 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:18 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:19 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:19 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:19 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:19 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:19 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:20 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:21 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:21 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:21 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:23 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:23 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:23 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:24 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:24 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:25 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:25 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:26 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:26 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:26 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:26 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:28 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:28 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:28 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:29 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:30 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:30 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:30 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:30 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:30 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:30 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:30 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:31 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:32 PM]  Cường hóa item Dial 4 -10000 beri
+[02:29:40 PM]  Cường hóa item Quả Tim -3000 beri
+[02:29:40 PM]  Cường hóa item Quả Tim -3000 beri
+[02:29:41 PM]  Cường hóa item Quả Tim -3000 beri
+[02:29:41 PM]  Cường hóa item Quả Tim -3000 beri
+[02:29:42 PM]  Cường hóa item Quả Tim -4000 beri
+[02:29:42 PM]  Cường hóa item Quả Tim -4000 beri
+[02:29:42 PM]  Cường hóa item Quả Tim -4000 beri
+[02:29:43 PM]  Cường hóa item Quả Tim -4000 beri
+[02:29:44 PM]  Cường hóa item Quả Tim -4000 beri
+[02:29:45 PM]  Cường hóa item Quả Tim -4000 beri
+[02:29:45 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:47 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:47 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:47 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:47 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:47 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:47 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:49 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:49 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:49 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:49 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:49 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:51 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:51 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:51 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:52 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:53 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:53 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:53 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:54 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:55 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:55 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:55 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:56 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:57 PM]  Cường hóa item Quả Tim -6000 beri
+[02:29:57 PM]  Cường hóa item Quả Tim -8000 beri
+[02:29:57 PM]  Cường hóa item Quả Tim -8000 beri
+[02:29:57 PM]  Cường hóa item Quả Tim -8000 beri
+[02:29:57 PM]  Cường hóa item Quả Tim -8000 beri
+[02:29:59 PM]  Cường hóa item Quả Tim -8000 beri
+[02:29:59 PM]  Cường hóa item Quả Tim -10000 beri
+[02:30:00 PM]  Cường hóa item Quả Tim -10000 beri
+[02:30:00 PM]  Cường hóa item Quả Tim -10000 beri
+[02:30:00 PM]  Cường hóa item Quả Tim -10000 beri
+[02:30:01 PM]  Cường hóa item Quả Tim -10000 beri
+[02:30:01 PM]  Cường hóa item Quả Tim -10000 beri
+[02:30:02 PM]  Cường hóa item Quả Tim -10000 beri
+[02:30:02 PM]  Cường hóa item Quả Tim -10000 beri
+[02:30:04 PM]  Cường hóa item Quả Tim -10000 beri
+[02:30:04 PM]  Cường hóa item Quả Tim -10000 beri
+[02:30:04 PM]  Cường hóa item Quả Tim -10000 beri
+[02:30:44 PM]  Logout : [Beri] 1.704.411.231 [Ruby] 1.499.491.625
+[02:30:56 PM]  Login : [Beri] 1.704.411.231 [Ruby] 1.499.491.625
+[02:31:49 PM]  Nhặt +15840 beri
+[02:31:59 PM]  Nhặt +15048 beri
+[02:32:11 PM]  Nhặt +16731 beri
+[02:32:26 PM]  Nhặt +4554 beri
+[02:32:35 PM]  Nhặt +15642 beri
+[02:33:09 PM]  Nhặt +13563 beri
+[02:33:13 PM]  Nhặt +6039 beri
+[02:33:18 PM]  Nhặt +17721 beri
+[02:33:19 PM]  Nhặt +990 beri
+[02:33:22 PM]  Nhặt +18018 beri
+[02:33:26 PM]  Nhặt +9702 beri
+[02:33:35 PM]  Nhặt +11682 beri
+[02:33:38 PM]  Nhặt +17226 beri
+[02:33:41 PM]  Nhặt +12969 beri
+[02:33:47 PM]  Nhặt +12375 beri
+[02:33:50 PM]  Nhặt +11979 beri
+[02:34:05 PM]  Nhặt +11979 beri
+[02:34:21 PM]  Nhặt +6534 beri
+[02:34:23 PM]  Nhặt +11880 beri
+[02:34:28 PM]  Nhặt +10494 beri
+[02:34:38 PM]  Nhặt +6930 beri
+[02:34:41 PM]  Nhặt +7128 beri
+[02:34:50 PM]  Nhặt +9108 beri
+[02:34:52 PM]  Nhặt +19701 beri
+[02:34:59 PM]  Nhặt +1683 beri
+[02:35:14 PM]  Nhặt +17721 beri
+[02:35:17 PM]  Nhặt +12078 beri
+[02:35:33 PM]  Nhặt +9306 beri
+[02:36:01 PM]  Nhặt +12573 beri
+[02:36:13 PM]  Nhặt +2376 beri
+[02:36:24 PM]  Nhặt +10593 beri
+[02:36:31 PM]  Nhặt +10692 beri
+[02:36:37 PM]  Nhặt +15444 beri
+[02:36:45 PM]  Nhặt +13365 beri
+[02:37:02 PM]  Nhặt +198 beri
+[02:37:07 PM]  Nhặt +7128 beri
+[02:37:10 PM]  Nhặt +17424 beri
+[02:37:12 PM]  Nhặt +18216 beri
+[02:37:14 PM]  Nhặt +11088 beri
+[02:37:22 PM]  Nhặt +4158 beri
+[02:37:47 PM]  Nhặt +11583 beri
+[02:37:50 PM]  Nhặt +2970 beri
+[02:37:54 PM]  Nhặt +15939 beri
+[02:38:21 PM]  Nhặt +3465 beri
+[02:39:15 PM]  Giao dịch bery với kazulegend nhận +0 beri
+[02:39:48 PM]  Nhặt +14058 beri
+[02:39:51 PM]  Nhặt +19107 beri
+[02:39:53 PM]  Nhặt +17721 beri
+[02:39:57 PM]  Nhặt +19602 beri
+[02:39:59 PM]  Nhặt +792 beri
+[02:40:07 PM]  Nhặt +5742 beri
+[02:40:08 PM]  Nhặt +2871 beri
+[02:40:10 PM]  Nhặt +2475 beri
+[02:40:23 PM]  Nhặt +16137 beri
+[02:40:34 PM]  Nhặt +9405 beri
+[02:40:35 PM]  Nhặt +13959 beri
+[02:41:05 PM]  Nhặt +19602 beri
+[02:41:20 PM]  Nhặt +15048 beri
+[02:41:21 PM]  Nhặt +18909 beri
+[02:43:21 PM]  Cường hóa item Nhẫn 2 Lv70 -3000 beri
+[02:43:21 PM]  Cường hóa item Nhẫn 2 Lv70 -3000 beri
+[02:43:22 PM]  Cường hóa item Nhẫn 2 Lv70 -3000 beri
+[02:43:22 PM]  Cường hóa item Nhẫn 2 Lv70 -3000 beri
+[02:43:22 PM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:22 PM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:22 PM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:22 PM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:22 PM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:24 PM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:24 PM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:24 PM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:24 PM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:24 PM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:24 PM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:25 PM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:26 PM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:27 PM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:27 PM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:27 PM]  Cường hóa item Nhẫn 2 Lv70 -4000 beri
+[02:43:27 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:29 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:29 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:29 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:29 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:29 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:29 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:31 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:31 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:31 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:32 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:34 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:34 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:35 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:35 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:36 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:37 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:37 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:37 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:37 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:38 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:39 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:39 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:39 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:39 PM]  Cường hóa item Nhẫn 2 Lv70 -6000 beri
+[02:43:39 PM]  Cường hóa item Nhẫn 2 Lv70 -8000 beri
+[02:43:40 PM]  Cường hóa item Nhẫn 2 Lv70 -8000 beri
+[02:43:41 PM]  Cường hóa item Nhẫn 2 Lv70 -8000 beri
+[02:43:41 PM]  Cường hóa item Nhẫn 2 Lv70 -8000 beri
+[02:43:41 PM]  Cường hóa item Nhẫn 2 Lv70 -8000 beri
+[02:43:43 PM]  Cường hóa item Nhẫn 2 Lv70 -8000 beri
+[02:43:43 PM]  Cường hóa item Nhẫn 2 Lv70 -8000 beri
+[02:43:43 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:43 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:43 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:45 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:45 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:45 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:45 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:45 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:47 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:47 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:47 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:47 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:48 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:49 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:49 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:49 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:50 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:50 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:51 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:52 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:52 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:52 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:52 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:53 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:53 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:54 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:54 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:54 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:55 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:55 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:56 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:56 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:56 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:56 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:58 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:43:59 PM]  Cường hóa item Nhẫn 2 Lv70 -10000 beri
+[02:52:34 PM]  Nhặt +11484 beri
+[02:52:56 PM]  Nhặt +18909 beri
+[02:53:01 PM]  Nhặt +1485 beri
+[02:53:05 PM]  Nhặt +4455 beri
+[02:53:06 PM]  Nhặt +495 beri
+[02:53:11 PM]  Nhặt +9999 beri
+[02:53:19 PM]  Nhặt +9306 beri
+[02:53:26 PM]  Nhặt +3366 beri
+[02:53:41 PM]  Nhặt +2970 beri
+[02:53:52 PM]  Nhặt +12375 beri
+[02:53:55 PM]  Nhặt +9108 beri
+[02:54:14 PM]  Nhặt +18018 beri
+[02:54:19 PM]  Nhặt +2475 beri
+[02:54:21 PM]  Nhặt +7227 beri
+[02:54:24 PM]  Nhặt +18612 beri
+[02:58:10 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -3000 beri
+[02:58:11 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -3000 beri
+[02:58:12 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:12 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:13 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:13 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:13 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:13 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:13 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:13 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:14 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:15 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:16 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:16 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:16 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:16 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:16 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:16 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:18 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:18 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:18 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:18 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -4000 beri
+[02:58:18 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:58:18 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:58:19 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:58:20 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:58:21 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:58:21 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -6000 beri
+[02:58:21 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:58:22 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:58:22 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:58:22 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:58:22 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:58:23 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:58:23 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:58:23 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:58:24 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:58:24 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:58:24 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:58:24 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:58:26 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:58:26 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:58:26 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:58:26 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:58:27 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -8000 beri
+[02:58:28 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:28 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:28 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:28 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:29 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:29 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:30 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:30 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:31 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:32 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:33 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:33 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:33 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:35 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:35 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:35 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:35 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:36 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:37 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:37 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:37 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:38 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:39 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:39 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:39 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:40 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:41 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:41 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:42 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:42 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:43 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:46 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:54 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:55 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:55 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:56 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:56 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:56 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:57 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:58 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:59 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:59 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:59 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:58:59 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:01 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:01 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:01 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:02 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:02 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:02 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:02 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:03 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:03 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:04 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:04 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:04 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:06 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:06 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:06 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:06 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:07 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:07 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:08 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:08 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:09 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:09 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:10 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:11 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:11 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:11 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:12 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:12 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:12 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:13 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:13 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:15 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[02:59:15 PM]  Cường hóa item Dây chuyền 2 Lv70 2 -10000 beri
+[03:04:32 PM]  Giao dịch bery với kazulegend nhận +0 beri

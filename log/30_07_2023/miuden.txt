@@ -1,0 +1,243 @@
+[12:02:45 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[12:04:15 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.004
+[12:04:37 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.004
+[12:05:07 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[12:05:19 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[12:05:32 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[12:05:41 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[12:05:53 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.500.004
+[12:05:59 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.500.004
+[12:06:00 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.500.004
+[12:06:14 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.500.004
+[12:06:25 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[12:06:33 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[12:06:52 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[12:07:02 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.500.004
+[12:10:25 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.500.004
+[12:11:51 AM]  Mua 3000 vé vòng quay -45000 ruby
+[12:27:32 AM]  Mua 3000 vé vòng quay -45000 ruby
+[01:16:04 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.410.004
+[01:20:53 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.410.004
+[01:22:13 AM]  Mua Tóc Kool -500 ruby
+[01:22:32 AM]  Mua Pell -500 ruby
+[01:22:51 AM]  Mua gold roger -500 ruby
+[01:23:49 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.000.408.504
+[01:24:04 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.000.408.504
+[01:27:51 AM]  Logout : [Beri] 1.993.900.000 [Ruby] 1.000.408.504
+[01:29:12 AM]  Login : [Beri] 1.993.900.000 [Ruby] 1.000.408.504
+[01:29:49 AM]  Logout : [Beri] 1.993.900.000 [Ruby] 1.000.408.504
+[01:47:44 AM]  Login : [Beri] 1.993.900.000 [Ruby] 1.000.408.504
+[01:48:28 AM]  Logout : [Beri] 1.993.900.000 [Ruby] 1.000.408.504
+[01:50:12 AM]  Login : [Beri] 1.993.900.000 [Ruby] 1.000.408.504
+[02:04:40 AM]  Logout : [Beri] 1.981.050.000 [Ruby] 1.000.408.504
+[02:12:35 AM]  Login : [Beri] 1.981.050.000 [Ruby] 1.000.408.504
+[02:12:44 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:44 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:45 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:45 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:45 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:45 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:45 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:45 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:45 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:45 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:46 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:46 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:46 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:46 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:46 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:46 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:47 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:47 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:47 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:47 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:47 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:47 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:47 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:48 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:48 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:48 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:48 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:48 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:48 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:49 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:49 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:49 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:49 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:49 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:49 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:49 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:50 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:50 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:50 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:50 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:50 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:50 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:50 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:51 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:51 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:51 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:51 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:52 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:52 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:52 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:52 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:52 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:52 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:52 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:53 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:12:55 AM]  Mua Quả Conache -0 beri
+[02:12:55 AM]  Mua Quả Conache -0 beri
+[02:12:55 AM]  Mua Quả Conache -0 beri
+[02:12:55 AM]  Mua Quả Conache -0 beri
+[02:12:56 AM]  Mua Quả Conache -0 beri
+[02:12:56 AM]  Mua Quả Conache -0 beri
+[02:12:56 AM]  Mua Quả Conache -0 beri
+[02:12:56 AM]  Mua Quả Conache -0 beri
+[02:12:56 AM]  Mua Quả Conache -0 beri
+[02:12:57 AM]  Mua Quả Conache -0 beri
+[02:12:57 AM]  Mua Quả Conache -0 beri
+[02:12:57 AM]  Mua Quả Conache -0 beri
+[02:12:57 AM]  Mua Quả Conache -0 beri
+[02:12:58 AM]  Mua Quả Conache -0 beri
+[02:12:58 AM]  Mua Quả Conache -0 beri
+[02:12:58 AM]  Mua Quả Conache -0 beri
+[02:12:58 AM]  Mua Quả Conache -0 beri
+[02:12:58 AM]  Mua Quả Conache -0 beri
+[02:12:58 AM]  Mua Quả Conache -0 beri
+[02:12:58 AM]  Mua Quả Conache -0 beri
+[02:12:58 AM]  Mua Quả Conache -0 beri
+[02:12:59 AM]  Mua Quả Conache -0 beri
+[02:12:59 AM]  Mua Quả Conache -0 beri
+[02:12:59 AM]  Mua Quả Conache -0 beri
+[02:12:59 AM]  Mua Quả Conache -0 beri
+[02:12:59 AM]  Mua Quả Conache -0 beri
+[02:12:59 AM]  Mua Quả Conache -0 beri
+[02:13:00 AM]  Mua Quả Conache -0 beri
+[02:13:00 AM]  Mua Quả Conache -0 beri
+[02:13:00 AM]  Mua Quả Conache -0 beri
+[02:13:00 AM]  Mua Quả Conache -0 beri
+[02:13:00 AM]  Mua Quả Conache -0 beri
+[02:13:00 AM]  Mua Quả Conache -0 beri
+[02:13:00 AM]  Mua Quả Conache -0 beri
+[02:13:01 AM]  Mua Quả Conache -0 beri
+[02:13:01 AM]  Mua Quả Conache -0 beri
+[02:13:01 AM]  Mua Quả Conache -0 beri
+[02:13:01 AM]  Mua Quả Conache -0 beri
+[02:13:01 AM]  Mua Quả Conache -0 beri
+[02:13:01 AM]  Mua Quả Conache -0 beri
+[02:13:01 AM]  Mua Quả Conache -0 beri
+[02:13:01 AM]  Mua Quả Conache -0 beri
+[02:13:02 AM]  Mua Quả Conache -0 beri
+[02:13:02 AM]  Mua Quả Conache -0 beri
+[02:13:02 AM]  Mua Quả Conache -0 beri
+[02:13:02 AM]  Mua Quả Conache -0 beri
+[02:13:03 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:04 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:04 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:04 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:04 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:04 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:04 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:04 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:05 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:05 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:05 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:05 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:05 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:05 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:06 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:06 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:06 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:06 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:06 AM]  Mua Kinh nghiệm X2 -60 ruby
+[02:13:07 AM]  Mua Xp Chiêu thức -6000 ruby
+[02:13:07 AM]  Mua Xp Chiêu thức -6000 ruby
+[02:13:08 AM]  Mua Xp Chiêu thức -6000 ruby
+[02:13:08 AM]  Mua Xp Chiêu thức -6000 ruby
+[02:13:08 AM]  Mua Xp Chiêu thức -6000 ruby
+[02:13:08 AM]  Mua Xp Chiêu thức -6000 ruby
+[02:26:36 AM]  Logout : [Beri] 1.975.900.000 [Ruby] 1.000.371.364
+[02:35:09 AM]  Login : [Beri] 1.975.900.000 [Ruby] 1.000.371.364
+[02:52:32 AM]  Logout : [Beri] 1.970.650.000 [Ruby] 1.000.371.364
+[05:56:43 AM]  Login : [Beri] 1.970.650.000 [Ruby] 1.000.371.364
+[05:57:24 AM]  Mua Tóc khỉ con -500 ruby
+[05:57:44 AM]  Mua Killer -500 ruby
+[05:58:21 AM]  Mua Áo thun hải tặc -2000 beri
+[05:58:24 AM]  Mua Quần thun hải tặc -1800 beri
+[05:58:27 AM]  Mua Kiếm Ba tư -2300 beri
+[05:58:29 AM]  Mua Quần võ sĩ đạo -1500 beri
+[06:01:22 AM]  Logout : [Beri] 1.970.642.400 [Ruby] 1.000.370.274
+[06:22:58 AM]  Login : [Beri] 1.970.642.400 [Ruby] 1.000.370.274
+[06:25:07 AM]  Nhặt +5775 beri
+[06:26:15 AM]  Nhặt +3696 beri
+[06:28:08 AM]  Nhặt +7450 beri
+[06:28:59 AM]  Nhặt +6350 beri
+[06:31:07 AM]  Nhặt +900 beri
+[06:31:24 AM]  Nhặt +7750 beri
+[06:33:01 AM]  Nhặt +5900 beri
+[06:33:26 AM]  Logout : [Beri] 1.970.680.221 [Ruby] 1.000.370.274
+[09:45:38 AM]  Login : [Beri] 1.970.680.221 [Ruby] 1.000.370.274
+[09:46:11 AM]  Logout : [Beri] 1.970.680.221 [Ruby] 1.000.370.274
+[01:46:22 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:46:28 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:46:34 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:47:47 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.081
+[01:47:54 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.081
+[01:48:14 PM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[01:48:23 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x99, 
+[01:48:32 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[01:48:40 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[01:48:47 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[01:48:54 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[01:49:03 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[01:49:08 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.500.000.081
+[01:55:12 PM]  Login : [Beri] 2.000.000.000 [Ruby] 1.500.000.081
+[01:56:07 PM]  Mua 3000 vé vòng quay -45000 ruby
+[01:57:05 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.955.081
+[01:57:14 PM]  Login : [Beri] 2.000.000.000 [Ruby] 1.499.955.081
+[01:58:36 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.955.081
+[01:58:55 PM]  Login : [Beri] 2.000.000.000 [Ruby] 1.499.955.081
+[02:29:23 PM]  Logout : [Beri] 1.982.350.000 [Ruby] 1.499.955.081

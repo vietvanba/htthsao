@@ -1,0 +1,522 @@
+[09:14:50 PM]  Login : [Beri] 10.000.000 [Ruby] 50.000
+[09:15:16 PM]  Mua 500 vé vòng quay -7500 ruby
+[09:24:03 PM]  Logout : [Beri] 25.415.607 [Ruby] 39.000
+[09:27:33 PM]  Login : [Beri] 25.415.607 [Ruby] 39.000
+[09:31:24 PM]  Mua Kinh nghiệm X2 -60 ruby
+[09:31:25 PM]  Mua Kinh nghiệm X2 -60 ruby
+[09:31:30 PM]  Mua Xp Chiêu thức -6000 ruby
+[09:31:30 PM]  Mua Xp Chiêu thức -6000 ruby
+[09:31:36 PM]  Mua Quả Conache -0 beri
+[09:31:36 PM]  Mua Quả Conache -0 beri
+[09:31:36 PM]  Mua Quả Conache -0 beri
+[09:31:37 PM]  Mua Quả Conache -0 beri
+[09:31:37 PM]  Mua Quả Conache -0 beri
+[09:31:37 PM]  Mua Quả Conache -0 beri
+[09:31:37 PM]  Mua Quả Conache -0 beri
+[09:31:37 PM]  Mua Quả Conache -0 beri
+[09:31:38 PM]  Mua Quả Conache -0 beri
+[09:31:38 PM]  Mua Quả Conache -0 beri
+[09:31:38 PM]  Mua Quả Conache -0 beri
+[09:31:38 PM]  Mua Quả Conache -0 beri
+[09:31:39 PM]  Mua Quả Conache -0 beri
+[09:31:39 PM]  Mua Quả Conache -0 beri
+[09:31:40 PM]  Mua Quả Conache -0 beri
+[09:31:40 PM]  Mua Quả Conache -0 beri
+[09:31:40 PM]  Mua Quả Conache -0 beri
+[09:31:40 PM]  Mua Quả Conache -0 beri
+[09:31:41 PM]  Mua Quả Conache -0 beri
+[09:31:41 PM]  Mua Quả Conache -0 beri
+[09:31:41 PM]  Mua Quả Conache -0 beri
+[09:31:41 PM]  Mua Quả Conache -0 beri
+[09:31:41 PM]  Mua Quả Conache -0 beri
+[09:31:42 PM]  Mua Quả Conache -0 beri
+[09:31:44 PM]  Mua Quả Conache -0 beri
+[09:31:45 PM]  Mua Quả Conache -0 beri
+[09:31:45 PM]  Mua Quả Conache -0 beri
+[09:31:45 PM]  Mua Quả Conache -0 beri
+[09:31:45 PM]  Mua Quả Conache -0 beri
+[09:31:46 PM]  Mua Quả Conache -0 beri
+[09:31:46 PM]  Mua Quả Conache -0 beri
+[09:31:46 PM]  Mua Quả Conache -0 beri
+[09:31:46 PM]  Mua Quả Conache -0 beri
+[09:31:46 PM]  Mua Quả Conache -0 beri
+[09:31:46 PM]  Mua Quả Conache -0 beri
+[09:31:47 PM]  Mua Quả Conache -0 beri
+[09:31:47 PM]  Mua Quả Conache -0 beri
+[09:31:47 PM]  Mua Quả Conache -0 beri
+[09:31:47 PM]  Mua Quả Conache -0 beri
+[09:31:47 PM]  Mua Quả Conache -0 beri
+[09:31:51 PM]  Mua Súp baratie -1600 beri
+[09:31:52 PM]  Mua Súp baratie -1600 beri
+[09:31:52 PM]  Mua Súp baratie -1600 beri
+[09:31:52 PM]  Mua Súp baratie -1600 beri
+[09:31:52 PM]  Mua Súp baratie -1600 beri
+[09:31:52 PM]  Mua Súp baratie -1600 beri
+[09:31:52 PM]  Mua Súp baratie -1600 beri
+[09:31:52 PM]  Mua Súp baratie -1600 beri
+[09:31:52 PM]  Mua Súp baratie -1600 beri
+[09:31:52 PM]  Mua Súp baratie -1600 beri
+[09:31:53 PM]  Mua Súp baratie -1600 beri
+[09:31:54 PM]  Mua Súp baratie -1600 beri
+[09:31:54 PM]  Mua Súp baratie -1600 beri
+[09:31:54 PM]  Mua Súp baratie -1600 beri
+[09:31:54 PM]  Mua Súp baratie -1600 beri
+[09:31:54 PM]  Mua Súp baratie -1600 beri
+[09:31:54 PM]  Mua Súp baratie -1600 beri
+[09:31:54 PM]  Mua Súp baratie -1600 beri
+[09:31:54 PM]  Mua Súp baratie -1600 beri
+[09:31:54 PM]  Mua Súp baratie -1600 beri
+[09:31:55 PM]  Mua Súp baratie -1600 beri
+[09:31:55 PM]  Mua Súp baratie -1600 beri
+[09:31:55 PM]  Mua Súp baratie -1600 beri
+[09:31:55 PM]  Mua Súp baratie -1600 beri
+[09:31:55 PM]  Mua Súp baratie -1600 beri
+[09:31:56 PM]  Mua Súp baratie -1600 beri
+[09:31:56 PM]  Mua Súp baratie -1600 beri
+[09:31:57 PM]  Mua Súp baratie -1600 beri
+[09:31:57 PM]  Mua Súp baratie -1600 beri
+[09:31:57 PM]  Mua Súp baratie -1600 beri
+[09:31:57 PM]  Mua Súp baratie -1600 beri
+[09:31:57 PM]  Mua Súp baratie -1600 beri
+[09:31:57 PM]  Mua Súp baratie -1600 beri
+[09:31:57 PM]  Mua Súp baratie -1600 beri
+[09:31:57 PM]  Mua Súp baratie -1600 beri
+[09:31:58 PM]  Mua Súp baratie -1600 beri
+[09:31:58 PM]  Mua Súp baratie -1600 beri
+[09:31:59 PM]  Mua Súp baratie -1600 beri
+[09:31:59 PM]  Mua Súp baratie -1600 beri
+[09:31:59 PM]  Mua Súp baratie -1600 beri
+[09:31:59 PM]  Mua Súp baratie -1600 beri
+[09:31:59 PM]  Mua Súp baratie -1600 beri
+[09:31:59 PM]  Mua Súp baratie -1600 beri
+[09:31:59 PM]  Mua Súp baratie -1600 beri
+[09:31:59 PM]  Mua Súp baratie -1600 beri
+[09:31:59 PM]  Mua Súp baratie -1600 beri
+[09:32:00 PM]  Mua Súp baratie -1600 beri
+[09:32:00 PM]  Mua Súp baratie -1600 beri
+[09:32:01 PM]  Mua Súp baratie -1600 beri
+[09:32:01 PM]  Mua Súp baratie -1600 beri
+[09:32:01 PM]  Mua Súp baratie -1600 beri
+[09:32:03 PM]  Mua Súp baratie -1600 beri
+[09:32:03 PM]  Mua Súp baratie -1600 beri
+[09:32:04 PM]  Mua Súp baratie -1600 beri
+[09:32:04 PM]  Mua Súp baratie -1600 beri
+[09:32:04 PM]  Mua Súp baratie -1600 beri
+[09:32:04 PM]  Mua Súp baratie -1600 beri
+[09:32:04 PM]  Mua Súp baratie -1600 beri
+[09:32:04 PM]  Mua Súp baratie -1600 beri
+[09:32:05 PM]  Mua Súp baratie -1600 beri
+[09:32:05 PM]  Mua Súp baratie -1600 beri
+[09:32:05 PM]  Mua Súp baratie -1600 beri
+[09:32:05 PM]  Mua Súp baratie -1600 beri
+[09:32:06 PM]  Mua Súp baratie -1600 beri
+[09:32:06 PM]  Mua Súp baratie -1600 beri
+[09:32:06 PM]  Mua Súp baratie -1600 beri
+[09:32:06 PM]  Mua Súp baratie -1600 beri
+[09:32:06 PM]  Mua Súp baratie -1600 beri
+[09:32:06 PM]  Mua Súp baratie -1600 beri
+[09:32:07 PM]  Mua Súp baratie -1600 beri
+[09:32:07 PM]  Mua Súp baratie -1600 beri
+[09:32:07 PM]  Mua Súp baratie -1600 beri
+[09:32:07 PM]  Mua Súp baratie -1600 beri
+[09:32:07 PM]  Mua Súp baratie -1600 beri
+[09:32:08 PM]  Mua Súp baratie -1600 beri
+[09:32:08 PM]  Mua Súp baratie -1600 beri
+[09:32:08 PM]  Mua Súp baratie -1600 beri
+[09:32:08 PM]  Mua Súp baratie -1600 beri
+[09:32:09 PM]  Mua Súp baratie -1600 beri
+[09:32:09 PM]  Mua Súp baratie -1600 beri
+[09:32:09 PM]  Mua Súp baratie -1600 beri
+[09:32:09 PM]  Mua Súp baratie -1600 beri
+[09:32:09 PM]  Mua Súp baratie -1600 beri
+[09:32:09 PM]  Mua Súp baratie -1600 beri
+[09:32:09 PM]  Mua Súp baratie -1600 beri
+[09:32:10 PM]  Mua Súp baratie -1600 beri
+[09:32:10 PM]  Mua Súp baratie -1600 beri
+[09:32:10 PM]  Mua Súp baratie -1600 beri
+[09:32:11 PM]  Mua Súp baratie -1600 beri
+[09:32:11 PM]  Mua Súp baratie -1600 beri
+[09:32:11 PM]  Mua Súp baratie -1600 beri
+[09:32:11 PM]  Mua Súp baratie -1600 beri
+[09:32:11 PM]  Mua Súp baratie -1600 beri
+[09:32:15 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:15 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:15 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:15 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:16 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:16 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:16 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:16 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:16 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:17 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:17 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:17 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:18 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:18 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:18 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:18 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:18 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:18 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:18 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:18 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:19 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:19 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:19 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:19 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:32:48 PM]  Nhặt +28 beri
+[09:32:51 PM]  Nhặt +362 beri
+[09:32:55 PM]  Nhặt +192 beri
+[09:33:31 PM]  Nhặt +202 beri
+[09:34:44 PM]  Mua thiện xạ -500 ruby
+[09:35:06 PM]  Mua Tóc mốc lai -500 ruby
+[09:35:26 PM]  Mua Mũi dài -500 ruby
+[09:36:00 PM]  Nhặt +644 beri
+[09:36:16 PM]  Nhặt +632 beri
+[09:36:17 PM]  Nhặt +408 beri
+[09:36:44 PM]  Nhặt +80 beri
+[09:36:49 PM]  Nhặt +240 beri
+[09:36:58 PM]  Nhặt +428 beri
+[09:37:38 PM]  Nhặt +1080 beri
+[09:37:49 PM]  Nhặt +1136 beri
+[09:38:09 PM]  Nhặt +504 beri
+[09:38:12 PM]  Nhặt +1464 beri
+[09:38:18 PM]  Nhặt +1128 beri
+[09:38:33 PM]  Nhặt +536 beri
+[09:38:36 PM]  Nhặt +48 beri
+[09:38:56 PM]  Nhặt +56 beri
+[09:39:03 PM]  Nhặt +472 beri
+[09:39:58 PM]  Nhặt +1230 beri
+[09:40:22 PM]  Nhặt +980 beri
+[09:40:34 PM]  Nhặt +410 beri
+[09:40:53 PM]  Nhặt +1550 beri
+[09:40:54 PM]  Nhặt +1120 beri
+[09:41:37 PM]  Mua Súng bạc 2 -1700 beri
+[09:41:55 PM]  Mua Áo xạ thủ -1400 beri
+[09:42:06 PM]  Mua Quần xạ thủ 2 -1200 beri
+[09:43:08 PM]  Nhặt +2912 beri
+[09:43:11 PM]  Nhặt +3120 beri
+[09:43:21 PM]  Nhặt +608 beri
+[09:43:34 PM]  Nhặt +2112 beri
+[09:43:57 PM]  Nhặt +2768 beri
+[09:45:23 PM]  Nhặt +1152 beri
+[09:45:39 PM]  Nhặt +1184 beri
+[09:46:04 PM]  Nhặt +80 beri
+[09:46:21 PM]  Nhặt +1856 beri
+[09:46:46 PM]  Mua Quả Conache -0 beri
+[09:46:46 PM]  Mua Quả Conache -0 beri
+[09:46:46 PM]  Mua Quả Conache -0 beri
+[09:46:46 PM]  Mua Quả Conache -0 beri
+[09:46:46 PM]  Mua Quả Conache -0 beri
+[09:46:46 PM]  Mua Quả Conache -0 beri
+[09:46:47 PM]  Mua Quả Conache -0 beri
+[09:46:47 PM]  Mua Quả Conache -0 beri
+[09:46:47 PM]  Mua Quả Conache -0 beri
+[09:46:47 PM]  Mua Quả Conache -0 beri
+[09:46:47 PM]  Mua Quả Conache -0 beri
+[09:46:48 PM]  Mua Quả Conache -0 beri
+[09:46:48 PM]  Mua Quả Conache -0 beri
+[09:46:48 PM]  Mua Quả Conache -0 beri
+[09:46:48 PM]  Mua Quả Conache -0 beri
+[09:46:48 PM]  Mua Quả Conache -0 beri
+[09:46:49 PM]  Mua Quả Conache -0 beri
+[09:46:49 PM]  Mua Quả Conache -0 beri
+[09:46:49 PM]  Mua Quả Conache -0 beri
+[09:46:49 PM]  Mua Quả Conache -0 beri
+[09:46:49 PM]  Mua Quả Conache -0 beri
+[09:46:50 PM]  Mua Quả Conache -0 beri
+[09:46:50 PM]  Mua Quả Conache -0 beri
+[09:46:50 PM]  Mua Quả Conache -0 beri
+[09:46:50 PM]  Mua Quả Conache -0 beri
+[09:46:50 PM]  Mua Quả Conache -0 beri
+[09:46:50 PM]  Mua Quả Conache -0 beri
+[09:46:51 PM]  Mua Quả Conache -0 beri
+[09:46:51 PM]  Mua Quả Conache -0 beri
+[09:46:51 PM]  Mua Quả Conache -0 beri
+[09:46:51 PM]  Mua Quả Conache -0 beri
+[09:46:51 PM]  Mua Quả Conache -0 beri
+[09:46:52 PM]  Mua Quả Conache -0 beri
+[09:46:52 PM]  Mua Quả Conache -0 beri
+[09:46:52 PM]  Mua Quả Conache -0 beri
+[09:46:52 PM]  Mua Quả Conache -0 beri
+[09:46:52 PM]  Mua Quả Conache -0 beri
+[09:46:53 PM]  Mua Quả Conache -0 beri
+[09:46:53 PM]  Mua Quả Conache -0 beri
+[09:46:53 PM]  Mua Quả Conache -0 beri
+[09:46:53 PM]  Mua Quả Conache -0 beri
+[09:46:53 PM]  Mua Quả Conache -0 beri
+[09:46:53 PM]  Mua Quả Conache -0 beri
+[09:46:54 PM]  Mua Quả Conache -0 beri
+[09:46:54 PM]  Mua Quả Conache -0 beri
+[09:46:54 PM]  Mua Quả Conache -0 beri
+[09:46:54 PM]  Mua Quả Conache -0 beri
+[09:46:54 PM]  Mua Quả Conache -0 beri
+[09:46:55 PM]  Mua Quả Conache -0 beri
+[09:46:55 PM]  Mua Quả Conache -0 beri
+[09:46:55 PM]  Mua Quả Conache -0 beri
+[09:46:55 PM]  Mua Quả Conache -0 beri
+[09:46:55 PM]  Mua Quả Conache -0 beri
+[09:46:56 PM]  Mua Quả Conache -0 beri
+[09:46:56 PM]  Mua Quả Conache -0 beri
+[09:46:56 PM]  Mua Quả Conache -0 beri
+[09:46:56 PM]  Mua Quả Conache -0 beri
+[09:46:56 PM]  Mua Quả Conache -0 beri
+[09:46:57 PM]  Mua Quả Conache -0 beri
+[09:46:57 PM]  Mua Quả Conache -0 beri
+[09:46:57 PM]  Mua Quả Conache -0 beri
+[09:46:57 PM]  Mua Quả Conache -0 beri
+[09:46:57 PM]  Mua Quả Conache -0 beri
+[09:46:57 PM]  Mua Quả Conache -0 beri
+[09:46:58 PM]  Mua Quả Conache -0 beri
+[09:46:58 PM]  Mua Quả Conache -0 beri
+[09:46:58 PM]  Mua Quả Conache -0 beri
+[09:46:58 PM]  Mua Quả Conache -0 beri
+[09:46:59 PM]  Mua Quả Conache -0 beri
+[09:46:59 PM]  Mua Quả Conache -0 beri
+[09:46:59 PM]  Mua Quả Conache -0 beri
+[09:46:59 PM]  Mua Quả Conache -0 beri
+[09:46:59 PM]  Mua Quả Conache -0 beri
+[09:46:59 PM]  Mua Quả Conache -0 beri
+[09:47:00 PM]  Mua Quả Conache -0 beri
+[09:47:00 PM]  Mua Quả Conache -0 beri
+[09:47:00 PM]  Mua Quả Conache -0 beri
+[09:47:00 PM]  Mua Quả Conache -0 beri
+[09:47:00 PM]  Mua Quả Conache -0 beri
+[09:47:01 PM]  Mua Quả Conache -0 beri
+[09:47:01 PM]  Mua Quả Conache -0 beri
+[09:47:01 PM]  Mua Quả Conache -0 beri
+[09:47:01 PM]  Mua Quả Conache -0 beri
+[09:47:01 PM]  Mua Quả Conache -0 beri
+[09:47:01 PM]  Mua Quả Conache -0 beri
+[09:47:02 PM]  Mua Quả Conache -0 beri
+[09:47:02 PM]  Mua Quả Conache -0 beri
+[09:47:02 PM]  Mua Quả Conache -0 beri
+[09:47:02 PM]  Mua Quả Conache -0 beri
+[09:47:02 PM]  Mua Quả Conache -0 beri
+[09:47:03 PM]  Mua Quả Conache -0 beri
+[09:47:03 PM]  Mua Quả Conache -0 beri
+[09:47:03 PM]  Mua Quả Conache -0 beri
+[09:47:03 PM]  Mua Quả Conache -0 beri
+[09:47:04 PM]  Mua Quả Conache -0 beri
+[09:47:04 PM]  Mua Quả Conache -0 beri
+[09:47:04 PM]  Mua Quả Conache -0 beri
+[09:47:04 PM]  Mua Quả Conache -0 beri
+[09:47:04 PM]  Mua Quả Conache -0 beri
+[09:47:04 PM]  Mua Quả Conache -0 beri
+[09:47:05 PM]  Mua Quả Conache -0 beri
+[09:47:05 PM]  Mua Quả Conache -0 beri
+[09:47:05 PM]  Mua Quả Conache -0 beri
+[09:47:05 PM]  Mua Quả Conache -0 beri
+[09:47:05 PM]  Mua Quả Conache -0 beri
+[09:47:06 PM]  Mua Quả Conache -0 beri
+[09:47:06 PM]  Mua Quả Conache -0 beri
+[09:47:06 PM]  Mua Quả Conache -0 beri
+[09:47:06 PM]  Mua Quả Conache -0 beri
+[09:47:06 PM]  Mua Quả Conache -0 beri
+[09:47:07 PM]  Mua Quả Conache -0 beri
+[09:47:07 PM]  Mua Quả Conache -0 beri
+[09:47:07 PM]  Mua Quả Conache -0 beri
+[09:47:07 PM]  Mua Quả Conache -0 beri
+[09:47:07 PM]  Mua Quả Conache -0 beri
+[09:47:07 PM]  Mua Quả Conache -0 beri
+[09:47:08 PM]  Mua Quả Conache -0 beri
+[09:47:08 PM]  Mua Quả Conache -0 beri
+[09:47:08 PM]  Mua Quả Conache -0 beri
+[09:47:08 PM]  Mua Quả Conache -0 beri
+[09:47:09 PM]  Mua Quả Conache -0 beri
+[09:47:09 PM]  Mua Quả Conache -0 beri
+[09:47:09 PM]  Mua Quả Conache -0 beri
+[09:47:09 PM]  Mua Quả Conache -0 beri
+[09:47:09 PM]  Mua Quả Conache -0 beri
+[09:47:09 PM]  Mua Quả Conache -0 beri
+[09:47:10 PM]  Mua Quả Conache -0 beri
+[09:47:10 PM]  Mua Quả Conache -0 beri
+[09:47:10 PM]  Mua Quả Conache -0 beri
+[09:47:10 PM]  Mua Quả Conache -0 beri
+[09:47:11 PM]  Mua Quả Conache -0 beri
+[09:47:11 PM]  Mua Quả Conache -0 beri
+[09:47:11 PM]  Mua Quả Conache -0 beri
+[09:47:11 PM]  Mua Quả Conache -0 beri
+[09:47:11 PM]  Mua Quả Conache -0 beri
+[09:47:11 PM]  Mua Quả Conache -0 beri
+[09:47:12 PM]  Mua Quả Conache -0 beri
+[09:47:12 PM]  Mua Quả Conache -0 beri
+[09:47:12 PM]  Mua Quả Conache -0 beri
+[09:47:12 PM]  Mua Quả Conache -0 beri
+[09:47:12 PM]  Mua Quả Conache -0 beri
+[09:47:13 PM]  Mua Quả Conache -0 beri
+[09:47:13 PM]  Mua Quả Conache -0 beri
+[09:47:13 PM]  Mua Quả Conache -0 beri
+[09:47:13 PM]  Mua Quả Conache -0 beri
+[09:47:16 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:17 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:17 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:17 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:17 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:17 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:17 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:17 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:18 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:18 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:18 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:18 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:18 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:19 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:19 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:19 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:20 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:20 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:20 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:20 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:20 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:20 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:20 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:22 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:22 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:23 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:23 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:23 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:23 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:24 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:24 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:24 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:24 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:24 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:24 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:25 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:25 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:25 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:25 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:25 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:25 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:26 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:26 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:26 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:27 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:27 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:27 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:27 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:27 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:27 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:27 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:28 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:28 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:28 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:28 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:29 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:29 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:29 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:29 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:29 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:29 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:30 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:30 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:30 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:30 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:30 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:30 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:31 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:31 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:31 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:31 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:31 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:32 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:32 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:32 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:32 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:32 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:32 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:33 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:33 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:33 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:33 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:34 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:34 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:34 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:34 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:34 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:34 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:35 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:35 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:35 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:35 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:35 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:36 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:36 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:36 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:36 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:36 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:37 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:37 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:37 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:37 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:37 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:37 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:38 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:38 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:38 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:38 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:39 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:39 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:39 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:39 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:39 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:39 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:40 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:40 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:40 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:40 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:40 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:41 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:41 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:41 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:41 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:42 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:42 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:42 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:42 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:42 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:42 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:43 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:43 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:43 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:43 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:44 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:44 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:44 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:44 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:44 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:44 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:45 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:45 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:45 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:45 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:45 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:47:46 PM]  Mua Cơm hộp hải tặc -0 beri
+[09:49:31 PM]  Nhặt +1552 beri
+[09:51:22 PM]  Mua Vé tẩy tiềm năng -0 beri
+[09:52:10 PM]  Nhặt +2384 beri
+[09:52:16 PM]  Nhặt +224 beri
+[09:52:28 PM]  Nhặt +2848 beri
+[09:52:48 PM]  Mua Vé tẩy tiềm năng -0 beri
+[09:52:49 PM]  Mua Vé tẩy tiềm năng -0 beri
+[09:53:29 PM]  Nhặt +2752 beri
+[09:54:09 PM]  Nhặt +1552 beri
+[09:54:20 PM]  Nhặt +1840 beri
+[09:54:29 PM]  Nhặt +1536 beri
+[09:54:34 PM]  Nhặt +1760 beri
+[09:54:46 PM]  Nhặt +2336 beri
+[09:54:48 PM]  Nhặt +208 beri
+[09:55:06 PM]  Nhặt +1888 beri
+[09:55:15 PM]  Nhặt +2784 beri
+[09:55:53 PM]  Nhặt +2160 beri
+[09:56:18 PM]  Nhặt +2480 beri
+[09:56:51 PM]  Nhặt +2096 beri
+[09:57:11 PM]  Nhặt +1808 beri
+[09:58:13 PM]  Nhặt +2261 beri
+[09:58:33 PM]  Nhặt +2278 beri
+[09:59:26 PM]  Nhặt +1275 beri
+[10:00:14 PM]  Nhặt +3179 beri
+[10:01:45 PM]  Nhặt +2295 beri
+[10:02:11 PM]  Nhặt +2941 beri
+[11:15:40 PM]  Nhặt +1683 beri
+[11:16:17 PM]  Nhặt +3145 beri

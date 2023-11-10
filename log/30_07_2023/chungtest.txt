@@ -1,0 +1,15 @@
+[04:34:46 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[04:36:05 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000
+[04:36:24 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[04:36:42 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[04:37:03 AM]  Nhặt +2224 beri
+[04:41:38 AM]  Logout : [Beri] 2.000.002.224 [Ruby] 500.000
+[06:51:28 AM]  Login : [Beri] 2.000.002.224 [Ruby] 500.000
+[06:55:33 AM]  Giao dịch bery với chung1st nhận +0 beri
+[06:55:33 AM]  Giao dịch bery với chung1st nhận Quần short mùa hè
+[06:55:58 AM]  Giao dịch bery với spiderman nhận +0 beri
+[06:55:58 AM]  Giao dịch bery với spiderman nhận Áo khoác mùa hè 2
+[06:56:14 AM]  Logout : [Beri] 2.000.002.224 [Ruby] 500.000

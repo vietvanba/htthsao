@@ -1,0 +1,53 @@
+[08:57:05 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[08:57:49 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[08:57:55 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[08:59:51 AM]  Mua Nữ thần -500 ruby
+[09:00:38 AM]  Mua Tóc Kool -500 ruby
+[09:00:49 AM]  Mua Pell -500 ruby
+[09:02:58 AM]  Mua Xp Chiêu thức -1500 ruby
+[09:02:58 AM]  Mua Xp Chiêu thức -1500 ruby
+[09:03:02 AM]  Mua Kinh nghiệm X2 -15 ruby
+[09:03:03 AM]  Mua Kinh nghiệm X2 -15 ruby
+[09:05:01 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[09:05:12 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x99, 
+[09:06:26 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[09:06:42 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[09:06:52 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[09:07:02 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[09:07:12 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[09:07:48 AM]  Logout : [Beri] 1.999.850.000 [Ruby] 1.499.995.568
+[09:08:23 AM]  Login : [Beri] 1.999.850.000 [Ruby] 1.499.995.568
+[09:19:30 AM]  Nhặt +6683 beri
+[09:20:19 AM]  Mua 10000 vé vòng quay -150000 ruby
+[09:36:02 AM]  Logout : [Beri] 1.999.831.438 [Ruby] 1.499.845.568
+[09:36:19 AM]  Login : [Beri] 1.999.831.438 [Ruby] 1.499.845.568
+[09:38:20 AM]  Logout : [Beri] 1.999.831.438 [Ruby] 1.499.845.568
+[09:38:34 AM]  Login : [Beri] 1.999.831.438 [Ruby] 1.499.845.568
+[09:45:17 AM]  Logout : [Beri] 1.999.831.438 [Ruby] 1.499.845.568
+[12:19:41 PM]  Login : [Beri] 1.999.831.438 [Ruby] 1.499.845.568
+[12:30:21 PM]  Logout : [Beri] 1.999.831.438 [Ruby] 1.499.845.568
+[12:59:28 PM]  Login : [Beri] 1.999.831.438 [Ruby] 1.499.845.568
+[01:01:12 PM]  Logout : [Beri] 1.999.831.438 [Ruby] 1.499.845.568
+[01:01:33 PM]  Login : [Beri] 1.999.831.438 [Ruby] 1.499.845.568
+[01:06:02 PM]  Logout : [Beri] 1.999.831.438 [Ruby] 1.499.845.568

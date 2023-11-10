@@ -1,0 +1,15 @@
+[02:52:44 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[02:52:46 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[02:52:48 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[02:53:40 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[02:54:29 AM]  Mua 1000 vé vòng quay -15000 ruby
+[02:55:54 AM]  Mua Kinh nghiệm X2 -15 ruby
+[02:55:56 AM]  Mua Xp Chiêu thức -1500 ruby
+[02:55:58 AM]  Mua Quả Conache -0 beri
+[02:55:59 AM]  Mua Cơm hộp hải tặc -0 beri
+[02:58:49 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.983.415
+[04:45:28 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.499.983.415
+[04:45:30 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.983.415

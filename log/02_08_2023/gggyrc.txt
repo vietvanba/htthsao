@@ -1,0 +1,14 @@
+[01:56:13 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:56:15 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:56:24 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:57:03 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:57:12 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:57:21 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Nhẫn 10x x1, 
+[01:57:31 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dây chuyền 10x x1, 
+[01:57:37 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000

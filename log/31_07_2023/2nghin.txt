@@ -1,0 +1,7 @@
+[09:50:55 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[09:52:21 AM]  Mua 1000 vé vòng quay -15000 ruby
+[09:55:26 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 499.984.830
+[09:56:33 AM]  Login : [Beri] 2.000.000.000 [Ruby] 499.984.830
+[09:57:37 AM]  Mua 10000 vé vòng quay -150000 ruby
+[10:04:28 AM]  Mua Kinh nghiệm X2 -60 ruby
+[10:09:50 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 499.832.515

@@ -1,0 +1,113 @@
+[01:56:53 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:57:20 AM]  Nhặt +85 beri
+[01:57:38 AM]  Mua Kinh nghiệm X2 -15 ruby
+[01:57:39 AM]  Mua Xp Chiêu thức -1500 ruby
+[01:57:41 AM]  Mua Quả Conache -0 beri
+[01:57:41 AM]  Mua Quả Conache -0 beri
+[01:57:41 AM]  Mua Quả Conache -0 beri
+[01:57:41 AM]  Mua Quả Conache -0 beri
+[01:57:42 AM]  Mua Quả Conache -0 beri
+[01:57:42 AM]  Mua Quả Conache -0 beri
+[01:57:42 AM]  Mua Quả Conache -0 beri
+[01:57:42 AM]  Mua Quả Conache -0 beri
+[01:57:42 AM]  Mua Quả Conache -0 beri
+[01:57:42 AM]  Mua Quả Conache -0 beri
+[01:57:42 AM]  Mua Quả Conache -0 beri
+[01:57:43 AM]  Mua Quả Conache -0 beri
+[01:57:43 AM]  Mua Quả Conache -0 beri
+[01:57:43 AM]  Mua Quả Conache -0 beri
+[01:57:43 AM]  Mua Quả Conache -0 beri
+[01:57:43 AM]  Mua Quả Conache -0 beri
+[01:57:44 AM]  Mua Quả Conache -0 beri
+[01:57:44 AM]  Mua Quả Conache -0 beri
+[01:57:44 AM]  Mua Quả Conache -0 beri
+[01:57:44 AM]  Mua Quả Conache -0 beri
+[01:57:45 AM]  Mua Quả Conache -0 beri
+[01:57:45 AM]  Mua Quả Conache -0 beri
+[01:57:45 AM]  Mua Quả Conache -0 beri
+[01:57:45 AM]  Mua Quả Conache -0 beri
+[01:57:45 AM]  Mua Quả Conache -0 beri
+[01:57:45 AM]  Mua Quả Conache -0 beri
+[01:57:46 AM]  Mua Quả Conache -0 beri
+[01:57:46 AM]  Mua Quả Conache -0 beri
+[01:57:46 AM]  Mua Quả Conache -0 beri
+[01:57:46 AM]  Mua Quả Conache -0 beri
+[01:57:46 AM]  Mua Quả Conache -0 beri
+[01:57:46 AM]  Mua Quả Conache -0 beri
+[01:57:46 AM]  Mua Quả Conache -0 beri
+[01:57:47 AM]  Mua Quả Conache -0 beri
+[01:57:47 AM]  Mua Quả Conache -0 beri
+[01:57:47 AM]  Mua Quả Conache -0 beri
+[01:57:47 AM]  Mua Quả Conache -0 beri
+[01:57:47 AM]  Mua Quả Conache -0 beri
+[01:57:49 AM]  Mua Súp baratie -1600 beri
+[01:57:49 AM]  Mua Súp baratie -1600 beri
+[01:57:50 AM]  Mua Súp baratie -1600 beri
+[01:57:50 AM]  Mua Súp baratie -1600 beri
+[01:57:50 AM]  Mua Súp baratie -1600 beri
+[01:57:50 AM]  Mua Súp baratie -1600 beri
+[01:57:50 AM]  Mua Súp baratie -1600 beri
+[01:57:50 AM]  Mua Súp baratie -1600 beri
+[01:57:50 AM]  Mua Súp baratie -1600 beri
+[01:57:51 AM]  Mua Súp baratie -1600 beri
+[01:57:51 AM]  Mua Súp baratie -1600 beri
+[01:57:51 AM]  Mua Súp baratie -1600 beri
+[01:57:52 AM]  Mua Súp baratie -1600 beri
+[01:57:52 AM]  Mua Súp baratie -1600 beri
+[01:57:52 AM]  Mua Súp baratie -1600 beri
+[01:57:53 AM]  Mua Súp baratie -1600 beri
+[01:57:53 AM]  Mua Súp baratie -1600 beri
+[01:57:53 AM]  Mua Súp baratie -1600 beri
+[01:57:54 AM]  Mua Súp baratie -1600 beri
+[01:57:54 AM]  Mua Súp baratie -1600 beri
+[01:57:54 AM]  Mua Súp baratie -1600 beri
+[01:57:54 AM]  Mua Súp baratie -1600 beri
+[01:57:54 AM]  Mua Súp baratie -1600 beri
+[01:57:55 AM]  Mua Súp baratie -1600 beri
+[01:57:55 AM]  Mua Súp baratie -1600 beri
+[01:57:55 AM]  Mua Súp baratie -1600 beri
+[01:57:56 AM]  Mua Súp baratie -1600 beri
+[01:57:56 AM]  Mua Súp baratie -1600 beri
+[01:57:56 AM]  Mua Súp baratie -1600 beri
+[01:58:06 AM]  Logout : [Beri] 1.999.953.685 [Ruby] 499.998.485
+[01:58:28 AM]  Login : [Beri] 1.999.953.685 [Ruby] 499.998.485
+[01:58:56 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[01:59:07 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x99, 
+[01:59:28 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[01:59:37 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[01:59:45 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[02:00:00 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[02:00:36 AM]  Logout : [Beri] 1.999.953.685 [Ruby] 1.499.998.485
+[02:00:43 AM]  Login : [Beri] 1.999.953.685 [Ruby] 1.499.998.485
+[02:00:46 AM]  Logout : [Beri] 1.999.953.685 [Ruby] 1.499.998.485
+[02:00:59 AM]  Login : [Beri] 1.999.953.685 [Ruby] 1.499.998.485
+[02:01:07 AM]  Mua 30000 vé vòng quay -450000 ruby
+[02:13:49 AM]  Logout : [Beri] 1.999.953.685 [Ruby] 1.499.548.485
+[02:23:10 AM]  Login : [Beri] 1.999.953.685 [Ruby] 1.499.548.485
+[02:24:26 AM]  Mua Dr. Strange Zoombie -500 ruby
+[02:25:37 AM]  Nhặt +4917 beri
+[02:26:06 AM]  Nhặt +3432 beri
+[02:26:39 AM]  Nhặt +4653 beri
+[02:26:57 AM]  Logout : [Beri] 1.999.966.687 [Ruby] 1.499.547.985
+[04:30:31 AM]  Login : [Beri] 1.999.966.687 [Ruby] 1.499.547.985
+[04:30:34 AM]  Logout : [Beri] 1.999.966.687 [Ruby] 1.499.547.985
+[04:31:20 AM]  Login : [Beri] 1.999.966.687 [Ruby] 1.499.547.985
+[04:33:11 AM]  Logout : [Beri] 1.999.966.687 [Ruby] 1.499.547.985

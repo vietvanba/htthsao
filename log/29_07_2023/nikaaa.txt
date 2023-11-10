@@ -1,0 +1,8 @@
+[06:53:27 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[06:53:54 AM]  Nhặt +45 beri
+[06:56:49 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[06:58:56 AM]  Mua Pell -500 ruby
+[07:01:30 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 499.500
+[07:01:37 AM]  Login : [Beri] 2.000.000.000 [Ruby] 499.500
+[07:02:33 AM]  Nhặt +1568 beri
+[07:04:45 AM]  Logout : [Beri] 2.000.001.568 [Ruby] 499.500

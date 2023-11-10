@@ -1,0 +1,66 @@
+[01:22:19 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:24:33 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:24:39 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:25:14 PM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[01:26:01 PM]  Mua 99 vé vòng quay -1485 ruby
+[01:29:44 PM]  Mua Quả Conache -0 beri
+[01:29:44 PM]  Mua Quả Conache -0 beri
+[01:29:44 PM]  Mua Quả Conache -0 beri
+[01:29:44 PM]  Mua Quả Conache -0 beri
+[01:29:44 PM]  Mua Quả Conache -0 beri
+[01:29:44 PM]  Mua Quả Conache -0 beri
+[01:29:44 PM]  Mua Quả Conache -0 beri
+[01:29:45 PM]  Mua Quả Conache -0 beri
+[01:29:45 PM]  Mua Quả Conache -0 beri
+[01:29:45 PM]  Mua Quả Conache -0 beri
+[01:29:45 PM]  Mua Quả Conache -0 beri
+[01:29:45 PM]  Mua Quả Conache -0 beri
+[01:29:45 PM]  Mua Quả Conache -0 beri
+[01:29:45 PM]  Mua Quả Conache -0 beri
+[01:29:45 PM]  Mua Quả Conache -0 beri
+[01:29:46 PM]  Mua Quả Conache -0 beri
+[01:29:46 PM]  Mua Quả Conache -0 beri
+[01:29:46 PM]  Mua Quả Conache -0 beri
+[01:29:46 PM]  Mua Quả Conache -0 beri
+[01:29:54 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:54 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:54 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:54 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:54 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:54 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:55 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:55 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:55 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:55 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:55 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:55 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:55 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:55 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:56 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:56 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:56 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:56 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:56 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:56 PM]  Mua Cơm hộp hải tặc -0 beri
+[01:29:59 PM]  Mua Xp Chiêu thức -6000 ruby
+[01:30:00 PM]  Mua Xp Chiêu thức -6000 ruby
+[01:30:00 PM]  Mua Xp Chiêu thức -6000 ruby
+[01:30:00 PM]  Mua Xp Chiêu thức -6000 ruby
+[01:30:00 PM]  Mua Xp Chiêu thức -6000 ruby
+[01:30:02 PM]  Mua Kinh nghiệm X2 -60 ruby
+[01:30:02 PM]  Mua Kinh nghiệm X2 -60 ruby
+[01:30:02 PM]  Mua Kinh nghiệm X2 -60 ruby
+[01:30:02 PM]  Mua Kinh nghiệm X2 -60 ruby
+[01:33:30 PM]  Mua Thần chết -500 ruby
+[01:34:12 PM]  Nhặt +1320 beri
+[01:38:12 PM]  Mua Vé tẩy tiềm năng -0 beri
+[01:40:44 PM]  Nhặt +5550 beri
+[01:41:58 PM]  Nhặt +450 beri
+[01:44:46 PM]  Mua Vé tẩy tiềm năng -0 beri
+[01:46:58 PM]  Logout : [Beri] 2.000.007.320 [Ruby] 1.499.967.775
+[01:47:20 PM]  Login : [Beri] 2.000.007.320 [Ruby] 1.499.967.775
+[01:48:26 PM]  Mua 99 vé vòng quay -1485 ruby
+[01:51:37 PM]  Logout : [Beri] 2.000.007.320 [Ruby] 1.499.966.290

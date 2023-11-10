@@ -1,0 +1,13 @@
+[07:41:04 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[07:41:11 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[07:41:14 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[07:41:48 AM]  Chat KTG mất -5 ruby
+[07:42:01 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Nhẫn 10x x1, 
+[07:42:12 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dây chuyền 10x x1, 
+[07:42:22 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 499.999.995

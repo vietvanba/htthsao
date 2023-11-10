@@ -1,0 +1,784 @@
+[09:58:07 PM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[09:58:47 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[09:58:49 PM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[10:00:09 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[10:00:28 PM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[10:01:40 PM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[10:01:58 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[10:02:11 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[10:02:21 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[10:02:29 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[10:04:06 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:06 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:06 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:07 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:07 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:07 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:07 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:07 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:08 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:08 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:08 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:08 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:08 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:09 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:09 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:09 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:10 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:10 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:10 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:10 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:10 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:11 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:11 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:11 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:11 PM]  Mua Xp Chiêu thức -6000 ruby
+[10:04:17 PM]  Bán item +1 beri
+[10:05:42 PM]  Nhặt +648 beri
+[10:06:00 PM]  Nhặt +1120 beri
+[10:06:04 PM]  Nhặt +1416 beri
+[10:06:31 PM]  Mua Dr. Strange Zoombie -500 ruby
+[10:08:10 PM]  Mua Trang phục Franky -500 ruby
+[10:08:43 PM]  Mua Vé tẩy tiềm năng -0 beri
+[10:08:43 PM]  Mua Vé tẩy tiềm năng -0 beri
+[10:08:43 PM]  Mua Vé tẩy tiềm năng -0 beri
+[10:08:44 PM]  Mua Vé tẩy tiềm năng -0 beri
+[10:08:44 PM]  Mua Vé tẩy tiềm năng -0 beri
+[10:09:24 PM]  Mua Súp baratie -1600 beri
+[10:09:24 PM]  Mua Súp baratie -1600 beri
+[10:09:25 PM]  Mua Súp baratie -1600 beri
+[10:09:25 PM]  Mua Súp baratie -1600 beri
+[10:09:25 PM]  Mua Súp baratie -1600 beri
+[10:09:25 PM]  Mua Súp baratie -1600 beri
+[10:09:25 PM]  Mua Súp baratie -1600 beri
+[10:09:25 PM]  Mua Súp baratie -1600 beri
+[10:09:25 PM]  Mua Súp baratie -1600 beri
+[10:09:25 PM]  Mua Súp baratie -1600 beri
+[10:09:25 PM]  Mua Súp baratie -1600 beri
+[10:09:25 PM]  Mua Súp baratie -1600 beri
+[10:09:25 PM]  Mua Súp baratie -1600 beri
+[10:09:25 PM]  Mua Súp baratie -1600 beri
+[10:09:26 PM]  Mua Súp baratie -1600 beri
+[10:09:26 PM]  Mua Súp baratie -1600 beri
+[10:09:26 PM]  Mua Súp baratie -1600 beri
+[10:09:26 PM]  Mua Súp baratie -1600 beri
+[10:09:26 PM]  Mua Súp baratie -1600 beri
+[10:09:26 PM]  Mua Súp baratie -1600 beri
+[10:09:26 PM]  Mua Súp baratie -1600 beri
+[10:09:26 PM]  Mua Súp baratie -1600 beri
+[10:09:27 PM]  Mua Súp baratie -1600 beri
+[10:09:27 PM]  Mua Súp baratie -1600 beri
+[10:09:27 PM]  Mua Súp baratie -1600 beri
+[10:09:27 PM]  Mua Súp baratie -1600 beri
+[10:09:27 PM]  Mua Súp baratie -1600 beri
+[10:09:27 PM]  Mua Súp baratie -1600 beri
+[10:09:27 PM]  Mua Súp baratie -1600 beri
+[10:09:27 PM]  Mua Súp baratie -1600 beri
+[10:09:27 PM]  Mua Súp baratie -1600 beri
+[10:09:27 PM]  Mua Súp baratie -1600 beri
+[10:09:27 PM]  Mua Súp baratie -1600 beri
+[10:09:27 PM]  Mua Súp baratie -1600 beri
+[10:09:28 PM]  Mua Súp baratie -1600 beri
+[10:09:28 PM]  Mua Súp baratie -1600 beri
+[10:09:28 PM]  Mua Súp baratie -1600 beri
+[10:09:28 PM]  Mua Súp baratie -1600 beri
+[10:09:28 PM]  Mua Súp baratie -1600 beri
+[10:09:28 PM]  Mua Súp baratie -1600 beri
+[10:09:28 PM]  Mua Súp baratie -1600 beri
+[10:09:28 PM]  Mua Súp baratie -1600 beri
+[10:09:28 PM]  Mua Súp baratie -1600 beri
+[10:09:28 PM]  Mua Súp baratie -1600 beri
+[10:09:28 PM]  Mua Súp baratie -1600 beri
+[10:09:28 PM]  Mua Súp baratie -1600 beri
+[10:09:28 PM]  Mua Súp baratie -1600 beri
+[10:09:28 PM]  Mua Súp baratie -1600 beri
+[10:09:28 PM]  Mua Súp baratie -1600 beri
+[10:09:28 PM]  Mua Súp baratie -1600 beri
+[10:09:29 PM]  Mua Súp baratie -1600 beri
+[10:09:29 PM]  Mua Súp baratie -1600 beri
+[10:09:29 PM]  Mua Súp baratie -1600 beri
+[10:09:29 PM]  Mua Súp baratie -1600 beri
+[10:09:29 PM]  Mua Súp baratie -1600 beri
+[10:09:29 PM]  Mua Súp baratie -1600 beri
+[10:09:29 PM]  Mua Súp baratie -1600 beri
+[10:09:29 PM]  Mua Súp baratie -1600 beri
+[10:09:30 PM]  Mua Súp baratie -1600 beri
+[10:09:30 PM]  Mua Súp baratie -1600 beri
+[10:09:30 PM]  Mua Súp baratie -1600 beri
+[10:09:30 PM]  Mua Súp baratie -1600 beri
+[10:09:30 PM]  Mua Súp baratie -1600 beri
+[10:09:30 PM]  Mua Súp baratie -1600 beri
+[10:09:30 PM]  Mua Súp baratie -1600 beri
+[10:09:30 PM]  Mua Súp baratie -1600 beri
+[10:09:30 PM]  Mua Súp baratie -1600 beri
+[10:09:30 PM]  Mua Súp baratie -1600 beri
+[10:09:30 PM]  Mua Súp baratie -1600 beri
+[10:09:30 PM]  Mua Súp baratie -1600 beri
+[10:09:30 PM]  Mua Súp baratie -1600 beri
+[10:09:30 PM]  Mua Súp baratie -1600 beri
+[10:09:30 PM]  Mua Súp baratie -1600 beri
+[10:09:31 PM]  Mua Súp baratie -1600 beri
+[10:09:31 PM]  Mua Súp baratie -1600 beri
+[10:09:31 PM]  Mua Súp baratie -1600 beri
+[10:09:31 PM]  Mua Súp baratie -1600 beri
+[10:09:31 PM]  Mua Súp baratie -1600 beri
+[10:09:31 PM]  Mua Súp baratie -1600 beri
+[10:09:31 PM]  Mua Súp baratie -1600 beri
+[10:09:32 PM]  Mua Súp baratie -1600 beri
+[10:09:32 PM]  Mua Súp baratie -1600 beri
+[10:09:32 PM]  Mua Súp baratie -1600 beri
+[10:09:32 PM]  Mua Súp baratie -1600 beri
+[10:09:32 PM]  Mua Súp baratie -1600 beri
+[10:09:32 PM]  Mua Súp baratie -1600 beri
+[10:09:32 PM]  Mua Súp baratie -1600 beri
+[10:09:32 PM]  Mua Súp baratie -1600 beri
+[10:09:32 PM]  Mua Súp baratie -1600 beri
+[10:09:32 PM]  Mua Súp baratie -1600 beri
+[10:09:32 PM]  Mua Súp baratie -1600 beri
+[10:09:32 PM]  Mua Súp baratie -1600 beri
+[10:09:32 PM]  Mua Súp baratie -1600 beri
+[10:09:32 PM]  Mua Súp baratie -1600 beri
+[10:09:32 PM]  Mua Súp baratie -1600 beri
+[10:09:32 PM]  Mua Súp baratie -1600 beri
+[10:09:32 PM]  Mua Súp baratie -1600 beri
+[10:09:33 PM]  Mua Súp baratie -1600 beri
+[10:09:33 PM]  Mua Súp baratie -1600 beri
+[10:09:33 PM]  Mua Súp baratie -1600 beri
+[10:09:33 PM]  Mua Súp baratie -1600 beri
+[10:09:33 PM]  Mua Súp baratie -1600 beri
+[10:09:33 PM]  Mua Súp baratie -1600 beri
+[10:09:33 PM]  Mua Súp baratie -1600 beri
+[10:09:33 PM]  Mua Súp baratie -1600 beri
+[10:09:33 PM]  Mua Súp baratie -1600 beri
+[10:09:33 PM]  Mua Súp baratie -1600 beri
+[10:09:33 PM]  Mua Súp baratie -1600 beri
+[10:09:33 PM]  Mua Súp baratie -1600 beri
+[10:09:33 PM]  Mua Súp baratie -1600 beri
+[10:09:33 PM]  Mua Súp baratie -1600 beri
+[10:09:33 PM]  Mua Súp baratie -1600 beri
+[10:09:34 PM]  Mua Súp baratie -1600 beri
+[10:09:34 PM]  Mua Súp baratie -1600 beri
+[10:09:34 PM]  Mua Súp baratie -1600 beri
+[10:09:34 PM]  Mua Súp baratie -1600 beri
+[10:09:34 PM]  Mua Súp baratie -1600 beri
+[10:09:34 PM]  Mua Súp baratie -1600 beri
+[10:09:34 PM]  Mua Súp baratie -1600 beri
+[10:09:34 PM]  Mua Súp baratie -1600 beri
+[10:09:34 PM]  Mua Súp baratie -1600 beri
+[10:09:34 PM]  Mua Súp baratie -1600 beri
+[10:09:34 PM]  Mua Súp baratie -1600 beri
+[10:09:34 PM]  Mua Súp baratie -1600 beri
+[10:09:35 PM]  Mua Súp baratie -1600 beri
+[10:09:35 PM]  Mua Súp baratie -1600 beri
+[10:09:35 PM]  Mua Súp baratie -1600 beri
+[10:09:35 PM]  Mua Súp baratie -1600 beri
+[10:09:35 PM]  Mua Súp baratie -1600 beri
+[10:09:35 PM]  Mua Súp baratie -1600 beri
+[10:09:35 PM]  Mua Súp baratie -1600 beri
+[10:09:35 PM]  Mua Súp baratie -1600 beri
+[10:09:35 PM]  Mua Súp baratie -1600 beri
+[10:09:35 PM]  Mua Súp baratie -1600 beri
+[10:09:35 PM]  Mua Súp baratie -1600 beri
+[10:09:35 PM]  Mua Súp baratie -1600 beri
+[10:09:35 PM]  Mua Súp baratie -1600 beri
+[10:09:36 PM]  Mua Súp baratie -1600 beri
+[10:09:36 PM]  Mua Súp baratie -1600 beri
+[10:09:36 PM]  Mua Súp baratie -1600 beri
+[10:09:36 PM]  Mua Súp baratie -1600 beri
+[10:09:36 PM]  Mua Súp baratie -1600 beri
+[10:09:36 PM]  Mua Súp baratie -1600 beri
+[10:09:36 PM]  Mua Súp baratie -1600 beri
+[10:09:36 PM]  Mua Súp baratie -1600 beri
+[10:09:36 PM]  Mua Súp baratie -1600 beri
+[10:09:36 PM]  Mua Súp baratie -1600 beri
+[10:09:36 PM]  Mua Súp baratie -1600 beri
+[10:09:36 PM]  Mua Súp baratie -1600 beri
+[10:09:36 PM]  Mua Súp baratie -1600 beri
+[10:09:36 PM]  Mua Súp baratie -1600 beri
+[10:09:36 PM]  Mua Súp baratie -1600 beri
+[10:09:36 PM]  Mua Súp baratie -1600 beri
+[10:09:36 PM]  Mua Súp baratie -1600 beri
+[10:09:37 PM]  Mua Súp baratie -1600 beri
+[10:09:37 PM]  Mua Súp baratie -1600 beri
+[10:09:37 PM]  Mua Súp baratie -1600 beri
+[10:09:37 PM]  Mua Súp baratie -1600 beri
+[10:09:37 PM]  Mua Súp baratie -1600 beri
+[10:09:37 PM]  Mua Súp baratie -1600 beri
+[10:09:37 PM]  Mua Súp baratie -1600 beri
+[10:09:38 PM]  Mua Súp baratie -1600 beri
+[10:09:38 PM]  Mua Súp baratie -1600 beri
+[10:09:38 PM]  Mua Súp baratie -1600 beri
+[10:09:38 PM]  Mua Súp baratie -1600 beri
+[10:09:38 PM]  Mua Súp baratie -1600 beri
+[10:09:38 PM]  Mua Súp baratie -1600 beri
+[10:09:38 PM]  Mua Súp baratie -1600 beri
+[10:09:39 PM]  Mua Súp baratie -1600 beri
+[10:09:39 PM]  Mua Súp baratie -1600 beri
+[10:09:39 PM]  Mua Súp baratie -1600 beri
+[10:09:39 PM]  Mua Súp baratie -1600 beri
+[10:09:39 PM]  Mua Súp baratie -1600 beri
+[10:09:39 PM]  Mua Súp baratie -1600 beri
+[10:09:39 PM]  Mua Súp baratie -1600 beri
+[10:09:39 PM]  Mua Súp baratie -1600 beri
+[10:09:39 PM]  Mua Súp baratie -1600 beri
+[10:09:39 PM]  Mua Súp baratie -1600 beri
+[10:09:39 PM]  Mua Súp baratie -1600 beri
+[10:09:39 PM]  Mua Súp baratie -1600 beri
+[10:09:39 PM]  Mua Súp baratie -1600 beri
+[10:09:39 PM]  Mua Súp baratie -1600 beri
+[10:09:39 PM]  Mua Súp baratie -1600 beri
+[10:09:39 PM]  Mua Súp baratie -1600 beri
+[10:09:39 PM]  Mua Súp baratie -1600 beri
+[10:09:40 PM]  Mua Súp baratie -1600 beri
+[10:09:40 PM]  Mua Súp baratie -1600 beri
+[10:09:40 PM]  Mua Súp baratie -1600 beri
+[10:09:40 PM]  Mua Súp baratie -1600 beri
+[10:09:40 PM]  Mua Súp baratie -1600 beri
+[10:09:40 PM]  Mua Súp baratie -1600 beri
+[10:09:40 PM]  Mua Súp baratie -1600 beri
+[10:09:40 PM]  Mua Súp baratie -1600 beri
+[10:09:40 PM]  Mua Súp baratie -1600 beri
+[10:09:40 PM]  Mua Súp baratie -1600 beri
+[10:09:40 PM]  Mua Súp baratie -1600 beri
+[10:09:40 PM]  Mua Súp baratie -1600 beri
+[10:09:40 PM]  Mua Súp baratie -1600 beri
+[10:09:40 PM]  Mua Súp baratie -1600 beri
+[10:09:41 PM]  Mua Súp baratie -1600 beri
+[10:09:41 PM]  Mua Súp baratie -1600 beri
+[10:09:41 PM]  Mua Súp baratie -1600 beri
+[10:09:41 PM]  Mua Súp baratie -1600 beri
+[10:09:41 PM]  Mua Súp baratie -1600 beri
+[10:09:41 PM]  Mua Súp baratie -1600 beri
+[10:09:41 PM]  Mua Súp baratie -1600 beri
+[10:09:41 PM]  Mua Súp baratie -1600 beri
+[10:09:41 PM]  Mua Súp baratie -1600 beri
+[10:09:41 PM]  Mua Súp baratie -1600 beri
+[10:09:41 PM]  Mua Súp baratie -1600 beri
+[10:09:46 PM]  Mua Súp baratie -1600 beri
+[10:09:46 PM]  Mua Súp baratie -1600 beri
+[10:09:46 PM]  Mua Súp baratie -1600 beri
+[10:09:46 PM]  Mua Súp baratie -1600 beri
+[10:09:46 PM]  Mua Súp baratie -1600 beri
+[10:09:46 PM]  Mua Súp baratie -1600 beri
+[10:09:46 PM]  Mua Súp baratie -1600 beri
+[10:09:46 PM]  Mua Súp baratie -1600 beri
+[10:09:46 PM]  Mua Súp baratie -1600 beri
+[10:09:46 PM]  Mua Súp baratie -1600 beri
+[10:09:46 PM]  Mua Súp baratie -1600 beri
+[10:09:46 PM]  Mua Súp baratie -1600 beri
+[10:09:46 PM]  Mua Súp baratie -1600 beri
+[10:09:46 PM]  Mua Súp baratie -1600 beri
+[10:09:47 PM]  Mua Súp baratie -1600 beri
+[10:09:47 PM]  Mua Súp baratie -1600 beri
+[10:09:47 PM]  Mua Súp baratie -1600 beri
+[10:09:47 PM]  Mua Súp baratie -1600 beri
+[10:09:47 PM]  Mua Súp baratie -1600 beri
+[10:09:47 PM]  Mua Súp baratie -1600 beri
+[10:09:47 PM]  Mua Súp baratie -1600 beri
+[10:09:47 PM]  Mua Súp baratie -1600 beri
+[10:09:47 PM]  Mua Súp baratie -1600 beri
+[10:09:47 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:48 PM]  Mua Súp baratie -1600 beri
+[10:09:49 PM]  Mua Súp baratie -1600 beri
+[10:09:49 PM]  Mua Súp baratie -1600 beri
+[10:09:49 PM]  Mua Súp baratie -1600 beri
+[10:09:49 PM]  Mua Súp baratie -1600 beri
+[10:09:49 PM]  Mua Súp baratie -1600 beri
+[10:09:49 PM]  Mua Súp baratie -1600 beri
+[10:09:49 PM]  Mua Súp baratie -1600 beri
+[10:09:49 PM]  Mua Súp baratie -1600 beri
+[10:09:49 PM]  Mua Súp baratie -1600 beri
+[10:09:49 PM]  Mua Súp baratie -1600 beri
+[10:09:49 PM]  Mua Súp baratie -1600 beri
+[10:09:49 PM]  Mua Súp baratie -1600 beri
+[10:09:49 PM]  Mua Súp baratie -1600 beri
+[10:09:49 PM]  Mua Súp baratie -1600 beri
+[10:09:49 PM]  Mua Súp baratie -1600 beri
+[10:09:50 PM]  Mua Súp baratie -1600 beri
+[10:09:50 PM]  Mua Súp baratie -1600 beri
+[10:09:50 PM]  Mua Súp baratie -1600 beri
+[10:09:50 PM]  Mua Súp baratie -1600 beri
+[10:09:50 PM]  Mua Súp baratie -1600 beri
+[10:09:50 PM]  Mua Súp baratie -1600 beri
+[10:09:50 PM]  Mua Súp baratie -1600 beri
+[10:09:50 PM]  Mua Súp baratie -1600 beri
+[10:09:50 PM]  Mua Súp baratie -1600 beri
+[10:09:50 PM]  Mua Súp baratie -1600 beri
+[10:09:50 PM]  Mua Súp baratie -1600 beri
+[10:09:50 PM]  Mua Súp baratie -1600 beri
+[10:09:50 PM]  Mua Súp baratie -1600 beri
+[10:09:51 PM]  Mua Súp baratie -1600 beri
+[10:09:51 PM]  Mua Súp baratie -1600 beri
+[10:09:51 PM]  Mua Súp baratie -1600 beri
+[10:09:51 PM]  Mua Súp baratie -1600 beri
+[10:09:51 PM]  Mua Súp baratie -1600 beri
+[10:09:51 PM]  Mua Súp baratie -1600 beri
+[10:09:51 PM]  Mua Súp baratie -1600 beri
+[10:09:51 PM]  Mua Súp baratie -1600 beri
+[10:09:51 PM]  Mua Súp baratie -1600 beri
+[10:09:51 PM]  Mua Súp baratie -1600 beri
+[10:09:51 PM]  Mua Súp baratie -1600 beri
+[10:09:51 PM]  Mua Súp baratie -1600 beri
+[10:09:51 PM]  Mua Súp baratie -1600 beri
+[10:09:51 PM]  Mua Súp baratie -1600 beri
+[10:09:52 PM]  Mua Súp baratie -1600 beri
+[10:09:52 PM]  Mua Súp baratie -1600 beri
+[10:09:52 PM]  Mua Súp baratie -1600 beri
+[10:09:52 PM]  Mua Súp baratie -1600 beri
+[10:09:52 PM]  Mua Súp baratie -1600 beri
+[10:09:52 PM]  Mua Súp baratie -1600 beri
+[10:09:52 PM]  Mua Súp baratie -1600 beri
+[10:09:52 PM]  Mua Súp baratie -1600 beri
+[10:09:52 PM]  Mua Súp baratie -1600 beri
+[10:09:52 PM]  Mua Súp baratie -1600 beri
+[10:09:52 PM]  Mua Súp baratie -1600 beri
+[10:09:52 PM]  Mua Súp baratie -1600 beri
+[10:09:52 PM]  Mua Súp baratie -1600 beri
+[10:09:52 PM]  Mua Súp baratie -1600 beri
+[10:09:53 PM]  Mua Súp baratie -1600 beri
+[10:09:53 PM]  Mua Súp baratie -1600 beri
+[10:09:53 PM]  Mua Súp baratie -1600 beri
+[10:09:53 PM]  Mua Súp baratie -1600 beri
+[10:09:53 PM]  Mua Súp baratie -1600 beri
+[10:09:53 PM]  Mua Súp baratie -1600 beri
+[10:09:53 PM]  Mua Súp baratie -1600 beri
+[10:09:53 PM]  Mua Súp baratie -1600 beri
+[10:09:53 PM]  Mua Súp baratie -1600 beri
+[10:09:53 PM]  Mua Súp baratie -1600 beri
+[10:09:53 PM]  Mua Súp baratie -1600 beri
+[10:09:54 PM]  Mua Súp baratie -1600 beri
+[10:09:54 PM]  Mua Súp baratie -1600 beri
+[10:09:54 PM]  Mua Súp baratie -1600 beri
+[10:09:54 PM]  Mua Súp baratie -1600 beri
+[10:09:54 PM]  Mua Súp baratie -1600 beri
+[10:09:54 PM]  Mua Súp baratie -1600 beri
+[10:09:54 PM]  Mua Súp baratie -1600 beri
+[10:09:54 PM]  Mua Súp baratie -1600 beri
+[10:09:54 PM]  Mua Súp baratie -1600 beri
+[10:09:54 PM]  Mua Súp baratie -1600 beri
+[10:09:54 PM]  Mua Súp baratie -1600 beri
+[10:09:54 PM]  Mua Súp baratie -1600 beri
+[10:09:54 PM]  Mua Súp baratie -1600 beri
+[10:09:54 PM]  Mua Súp baratie -1600 beri
+[10:09:54 PM]  Mua Súp baratie -1600 beri
+[10:09:54 PM]  Mua Súp baratie -1600 beri
+[10:09:54 PM]  Mua Súp baratie -1600 beri
+[10:09:55 PM]  Mua Súp baratie -1600 beri
+[10:09:55 PM]  Mua Súp baratie -1600 beri
+[10:09:55 PM]  Mua Súp baratie -1600 beri
+[10:09:55 PM]  Mua Súp baratie -1600 beri
+[10:09:55 PM]  Mua Súp baratie -1600 beri
+[10:09:55 PM]  Mua Súp baratie -1600 beri
+[10:09:55 PM]  Mua Súp baratie -1600 beri
+[10:09:55 PM]  Mua Súp baratie -1600 beri
+[10:09:55 PM]  Mua Súp baratie -1600 beri
+[10:09:55 PM]  Mua Súp baratie -1600 beri
+[10:09:55 PM]  Mua Súp baratie -1600 beri
+[10:09:56 PM]  Mua Súp baratie -1600 beri
+[10:09:56 PM]  Mua Súp baratie -1600 beri
+[10:09:56 PM]  Mua Súp baratie -1600 beri
+[10:09:56 PM]  Mua Súp baratie -1600 beri
+[10:09:56 PM]  Mua Súp baratie -1600 beri
+[10:09:56 PM]  Mua Súp baratie -1600 beri
+[10:09:56 PM]  Mua Súp baratie -1600 beri
+[10:09:56 PM]  Mua Súp baratie -1600 beri
+[10:09:56 PM]  Mua Súp baratie -1600 beri
+[10:09:56 PM]  Mua Súp baratie -1600 beri
+[10:09:56 PM]  Mua Súp baratie -1600 beri
+[10:09:56 PM]  Mua Súp baratie -1600 beri
+[10:09:56 PM]  Mua Súp baratie -1600 beri
+[10:09:56 PM]  Mua Súp baratie -1600 beri
+[10:09:56 PM]  Mua Súp baratie -1600 beri
+[10:09:57 PM]  Mua Súp baratie -1600 beri
+[10:09:57 PM]  Mua Súp baratie -1600 beri
+[10:09:57 PM]  Mua Súp baratie -1600 beri
+[10:09:57 PM]  Mua Súp baratie -1600 beri
+[10:09:57 PM]  Mua Súp baratie -1600 beri
+[10:09:57 PM]  Mua Súp baratie -1600 beri
+[10:09:57 PM]  Mua Súp baratie -1600 beri
+[10:09:57 PM]  Mua Súp baratie -1600 beri
+[10:09:57 PM]  Mua Súp baratie -1600 beri
+[10:09:57 PM]  Mua Súp baratie -1600 beri
+[10:09:57 PM]  Mua Súp baratie -1600 beri
+[10:09:57 PM]  Mua Súp baratie -1600 beri
+[10:09:57 PM]  Mua Súp baratie -1600 beri
+[10:09:57 PM]  Mua Súp baratie -1600 beri
+[10:10:01 PM]  Mua Cola -800 beri
+[10:10:01 PM]  Mua Cola -800 beri
+[10:10:01 PM]  Mua Cola -800 beri
+[10:10:01 PM]  Mua Cola -800 beri
+[10:10:01 PM]  Mua Cola -800 beri
+[10:10:01 PM]  Mua Cola -800 beri
+[10:10:01 PM]  Mua Cola -800 beri
+[10:10:02 PM]  Mua Cola -800 beri
+[10:10:02 PM]  Mua Cola -800 beri
+[10:10:02 PM]  Mua Cola -800 beri
+[10:10:02 PM]  Mua Cola -800 beri
+[10:10:02 PM]  Mua Cola -800 beri
+[10:10:02 PM]  Mua Cola -800 beri
+[10:10:02 PM]  Mua Cola -800 beri
+[10:10:02 PM]  Mua Cola -800 beri
+[10:10:02 PM]  Mua Cola -800 beri
+[10:10:02 PM]  Mua Cola -800 beri
+[10:10:02 PM]  Mua Cola -800 beri
+[10:10:02 PM]  Mua Cola -800 beri
+[10:10:02 PM]  Mua Cola -800 beri
+[10:10:02 PM]  Mua Cola -800 beri
+[10:10:02 PM]  Mua Cola -800 beri
+[10:10:03 PM]  Mua Cola -800 beri
+[10:10:03 PM]  Mua Cola -800 beri
+[10:10:03 PM]  Mua Cola -800 beri
+[10:10:03 PM]  Mua Cola -800 beri
+[10:10:03 PM]  Mua Cola -800 beri
+[10:10:03 PM]  Mua Cola -800 beri
+[10:10:03 PM]  Mua Cola -800 beri
+[10:10:03 PM]  Mua Cola -800 beri
+[10:10:03 PM]  Mua Cola -800 beri
+[10:10:03 PM]  Mua Cola -800 beri
+[10:10:03 PM]  Mua Cola -800 beri
+[10:10:03 PM]  Mua Cola -800 beri
+[10:10:03 PM]  Mua Cola -800 beri
+[10:10:03 PM]  Mua Cola -800 beri
+[10:10:03 PM]  Mua Cola -800 beri
+[10:10:04 PM]  Mua Cola -800 beri
+[10:10:04 PM]  Mua Cola -800 beri
+[10:10:04 PM]  Mua Cola -800 beri
+[10:10:04 PM]  Mua Cola -800 beri
+[10:10:04 PM]  Mua Cola -800 beri
+[10:10:04 PM]  Mua Cola -800 beri
+[10:10:04 PM]  Mua Cola -800 beri
+[10:10:04 PM]  Mua Cola -800 beri
+[10:10:04 PM]  Mua Cola -800 beri
+[10:10:04 PM]  Mua Cola -800 beri
+[10:10:04 PM]  Mua Cola -800 beri
+[10:10:04 PM]  Mua Cola -800 beri
+[10:10:04 PM]  Mua Cola -800 beri
+[10:10:04 PM]  Mua Cola -800 beri
+[10:10:05 PM]  Mua Cola -800 beri
+[10:10:05 PM]  Mua Cola -800 beri
+[10:10:05 PM]  Mua Cola -800 beri
+[10:10:05 PM]  Mua Cola -800 beri
+[10:10:05 PM]  Mua Cola -800 beri
+[10:10:05 PM]  Mua Cola -800 beri
+[10:10:05 PM]  Mua Cola -800 beri
+[10:10:05 PM]  Mua Cola -800 beri
+[10:10:05 PM]  Mua Cola -800 beri
+[10:10:06 PM]  Mua Cola -800 beri
+[10:10:06 PM]  Mua Cola -800 beri
+[10:10:06 PM]  Mua Cola -800 beri
+[10:10:06 PM]  Mua Cola -800 beri
+[10:10:06 PM]  Mua Cola -800 beri
+[10:10:06 PM]  Mua Cola -800 beri
+[10:10:06 PM]  Mua Cola -800 beri
+[10:10:06 PM]  Mua Cola -800 beri
+[10:10:06 PM]  Mua Cola -800 beri
+[10:10:06 PM]  Mua Cola -800 beri
+[10:10:06 PM]  Mua Cola -800 beri
+[10:10:06 PM]  Mua Cola -800 beri
+[10:10:06 PM]  Mua Cola -800 beri
+[10:10:06 PM]  Mua Cola -800 beri
+[10:10:06 PM]  Mua Cola -800 beri
+[10:10:06 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:07 PM]  Mua Cola -800 beri
+[10:10:08 PM]  Mua Cola -800 beri
+[10:10:08 PM]  Mua Cola -800 beri
+[10:10:08 PM]  Mua Cola -800 beri
+[10:10:08 PM]  Mua Cola -800 beri
+[10:10:08 PM]  Mua Cola -800 beri
+[10:10:08 PM]  Mua Cola -800 beri
+[10:10:08 PM]  Mua Cola -800 beri
+[10:10:08 PM]  Mua Cola -800 beri
+[10:10:08 PM]  Mua Cola -800 beri
+[10:10:08 PM]  Mua Cola -800 beri
+[10:10:08 PM]  Mua Cola -800 beri
+[10:10:09 PM]  Mua Cola -800 beri
+[10:10:09 PM]  Mua Cola -800 beri
+[10:10:09 PM]  Mua Cola -800 beri
+[10:10:09 PM]  Mua Cola -800 beri
+[10:10:09 PM]  Mua Cola -800 beri
+[10:10:09 PM]  Mua Cola -800 beri
+[10:10:09 PM]  Mua Cola -800 beri
+[10:10:09 PM]  Mua Cola -800 beri
+[10:10:09 PM]  Mua Cola -800 beri
+[10:10:09 PM]  Mua Cola -800 beri
+[10:10:09 PM]  Mua Cola -800 beri
+[10:10:09 PM]  Mua Cola -800 beri
+[10:10:09 PM]  Mua Cola -800 beri
+[10:10:09 PM]  Mua Cola -800 beri
+[10:10:10 PM]  Mua Cola -800 beri
+[10:10:10 PM]  Mua Cola -800 beri
+[10:10:10 PM]  Mua Cola -800 beri
+[10:10:10 PM]  Mua Cola -800 beri
+[10:10:10 PM]  Mua Cola -800 beri
+[10:10:10 PM]  Mua Cola -800 beri
+[10:10:10 PM]  Mua Cola -800 beri
+[10:10:10 PM]  Mua Cola -800 beri
+[10:10:10 PM]  Mua Cola -800 beri
+[10:10:10 PM]  Mua Cola -800 beri
+[10:10:10 PM]  Mua Cola -800 beri
+[10:10:10 PM]  Mua Cola -800 beri
+[10:10:10 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:11 PM]  Mua Cola -800 beri
+[10:10:12 PM]  Mua Cola -800 beri
+[10:10:12 PM]  Mua Cola -800 beri
+[10:10:12 PM]  Mua Cola -800 beri
+[10:10:12 PM]  Mua Cola -800 beri
+[10:10:12 PM]  Mua Cola -800 beri
+[10:10:12 PM]  Mua Cola -800 beri
+[10:10:12 PM]  Mua Cola -800 beri
+[10:10:12 PM]  Mua Cola -800 beri
+[10:10:12 PM]  Mua Cola -800 beri
+[10:10:12 PM]  Mua Cola -800 beri
+[10:10:12 PM]  Mua Cola -800 beri
+[10:10:12 PM]  Mua Cola -800 beri
+[10:10:12 PM]  Mua Cola -800 beri
+[10:10:12 PM]  Mua Cola -800 beri
+[10:10:12 PM]  Mua Cola -800 beri
+[10:10:13 PM]  Mua Cola -800 beri
+[10:10:13 PM]  Mua Cola -800 beri
+[10:10:13 PM]  Mua Cola -800 beri
+[10:10:13 PM]  Mua Cola -800 beri
+[10:10:13 PM]  Mua Cola -800 beri
+[10:10:13 PM]  Mua Cola -800 beri
+[10:10:13 PM]  Mua Cola -800 beri
+[10:10:13 PM]  Mua Cola -800 beri
+[10:10:13 PM]  Mua Cola -800 beri
+[10:10:13 PM]  Mua Cola -800 beri
+[10:10:13 PM]  Mua Cola -800 beri
+[10:10:13 PM]  Mua Cola -800 beri
+[10:10:13 PM]  Mua Cola -800 beri
+[10:10:14 PM]  Mua Cola -800 beri
+[10:10:14 PM]  Mua Cola -800 beri
+[10:10:14 PM]  Mua Cola -800 beri
+[10:10:14 PM]  Mua Cola -800 beri
+[10:10:14 PM]  Mua Cola -800 beri
+[10:10:14 PM]  Mua Cola -800 beri
+[10:10:14 PM]  Mua Cola -800 beri
+[10:10:14 PM]  Mua Cola -800 beri
+[10:10:14 PM]  Mua Cola -800 beri
+[10:10:14 PM]  Mua Cola -800 beri
+[10:10:14 PM]  Mua Cola -800 beri
+[10:10:14 PM]  Mua Cola -800 beri
+[10:10:14 PM]  Mua Cola -800 beri
+[10:10:14 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:15 PM]  Mua Cola -800 beri
+[10:10:16 PM]  Mua Cola -800 beri
+[10:10:16 PM]  Mua Cola -800 beri
+[10:10:16 PM]  Mua Cola -800 beri
+[10:10:16 PM]  Mua Cola -800 beri
+[10:10:16 PM]  Mua Cola -800 beri
+[10:10:16 PM]  Mua Cola -800 beri
+[10:10:16 PM]  Mua Cola -800 beri
+[10:10:16 PM]  Mua Cola -800 beri
+[10:10:16 PM]  Mua Cola -800 beri
+[10:10:16 PM]  Mua Cola -800 beri
+[10:10:16 PM]  Mua Cola -800 beri
+[10:10:16 PM]  Mua Cola -800 beri
+[10:10:16 PM]  Mua Cola -800 beri
+[10:10:16 PM]  Mua Cola -800 beri
+[10:10:16 PM]  Mua Cola -800 beri
+[10:10:16 PM]  Mua Cola -800 beri
+[10:10:17 PM]  Mua Cola -800 beri
+[10:10:17 PM]  Mua Cola -800 beri
+[10:10:17 PM]  Mua Cola -800 beri
+[10:10:17 PM]  Mua Cola -800 beri
+[10:10:17 PM]  Mua Cola -800 beri
+[10:10:17 PM]  Mua Cola -800 beri
+[10:10:17 PM]  Mua Cola -800 beri
+[10:10:17 PM]  Mua Cola -800 beri
+[10:10:17 PM]  Mua Cola -800 beri
+[10:10:17 PM]  Mua Cola -800 beri
+[10:10:17 PM]  Mua Cola -800 beri
+[10:10:17 PM]  Mua Cola -800 beri
+[10:10:17 PM]  Mua Cola -800 beri
+[10:10:17 PM]  Mua Cola -800 beri
+[10:10:17 PM]  Mua Cola -800 beri
+[10:10:17 PM]  Mua Cola -800 beri
+[10:10:18 PM]  Mua Cola -800 beri
+[10:10:18 PM]  Mua Cola -800 beri
+[10:10:18 PM]  Mua Cola -800 beri
+[10:10:18 PM]  Mua Cola -800 beri
+[10:10:18 PM]  Mua Cola -800 beri
+[10:10:18 PM]  Mua Cola -800 beri
+[10:10:18 PM]  Mua Cola -800 beri
+[10:10:18 PM]  Mua Cola -800 beri
+[10:10:18 PM]  Mua Cola -800 beri
+[10:10:18 PM]  Mua Cola -800 beri
+[10:10:18 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:19 PM]  Mua Cola -800 beri
+[10:10:20 PM]  Mua Cola -800 beri
+[10:10:20 PM]  Mua Cola -800 beri
+[10:10:20 PM]  Mua Cola -800 beri
+[10:10:20 PM]  Mua Cola -800 beri
+[10:10:20 PM]  Mua Cola -800 beri
+[10:10:20 PM]  Mua Cola -800 beri
+[10:10:20 PM]  Mua Cola -800 beri
+[10:10:20 PM]  Mua Cola -800 beri
+[10:10:20 PM]  Mua Cola -800 beri
+[10:10:20 PM]  Mua Cola -800 beri
+[10:10:21 PM]  Mua Cola -800 beri
+[10:10:21 PM]  Mua Cola -800 beri
+[10:10:21 PM]  Mua Cola -800 beri
+[10:10:21 PM]  Mua Cola -800 beri
+[10:10:21 PM]  Mua Cola -800 beri
+[10:10:21 PM]  Mua Cola -800 beri
+[10:10:21 PM]  Mua Cola -800 beri
+[10:10:21 PM]  Mua Cola -800 beri
+[10:10:21 PM]  Mua Cola -800 beri
+[10:10:21 PM]  Mua Cola -800 beri
+[10:10:21 PM]  Mua Cola -800 beri
+[10:10:21 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:22 PM]  Mua Cola -800 beri
+[10:10:23 PM]  Mua Cola -800 beri
+[10:10:23 PM]  Mua Cola -800 beri
+[10:10:23 PM]  Mua Cola -800 beri
+[10:10:23 PM]  Mua Cola -800 beri
+[10:10:23 PM]  Mua Cola -800 beri
+[10:10:23 PM]  Mua Cola -800 beri
+[10:10:23 PM]  Mua Cola -800 beri
+[10:10:23 PM]  Mua Cola -800 beri
+[10:10:23 PM]  Mua Cola -800 beri
+[10:10:23 PM]  Mua Cola -800 beri
+[10:10:23 PM]  Mua Cola -800 beri
+[10:10:24 PM]  Mua Cola -800 beri
+[10:10:24 PM]  Mua Cola -800 beri
+[10:10:24 PM]  Mua Cola -800 beri
+[10:10:24 PM]  Mua Cola -800 beri
+[10:10:36 PM]  Nhặt +744 beri
+[10:11:01 PM]  Nhặt +432 beri
+[10:11:20 PM]  Logout : [Beri] 2.000.004.360 [Ruby] 1.004.849.000
+[10:18:14 PM]  Login : [Beri] 2.000.004.360 [Ruby] 1.004.849.000
+[10:19:16 PM]  Nhặt +1488 beri
+[10:19:28 PM]  Nhặt +928 beri
+[10:19:44 PM]  Nhặt +624 beri
+[10:19:57 PM]  Nhặt +2656 beri
+[10:20:08 PM]  Nhặt +3136 beri
+[10:21:10 PM]  Nhặt +1896 beri
+[10:23:28 PM]  Nhặt +3102 beri
+[10:25:34 PM]  Mua 30000 vé vòng quay -450000 ruby
+[10:30:08 PM]  Logout : [Beri] 2.000.018.190 [Ruby] 1.004.399.000

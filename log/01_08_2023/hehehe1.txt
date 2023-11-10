@@ -1,0 +1,433 @@
+[01:02:22 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:04:08 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:04:29 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:04:41 PM]  Nhập giftcode Bạn nhận được:
+Beri : 1000000000
+Ruby : 1000000000
+Item : Thiên thạch may mắn x99, 
+[01:04:46 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[01:04:57 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x1000, 
+[01:05:04 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[01:05:16 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[01:05:21 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Nhẫn 10x x1, 
+[01:05:27 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dây chuyền 10x x1, 
+[01:06:01 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[01:06:12 PM]  Login : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[01:07:07 PM]  Mua 10000 vé vòng quay -150000 ruby
+[01:09:05 PM]  Mua chopper -500 ruby
+[01:09:59 PM]  Nhặt +6560 beri
+[01:10:44 PM]  Nhặt +5699 beri
+[01:11:45 PM]  Nhặt +7011 beri
+[01:12:11 PM]  Nhặt +5289 beri
+[01:14:07 PM]  Mua Trang phục Spiderman Iron -500 ruby
+[01:14:14 PM]  Mua Tóc Siêu Sao -500 ruby
+[01:16:04 PM]  Nhặt +50 beri
+[01:16:19 PM]  Mua Búa siêu cấp -10000 ruby
+[01:16:19 PM]  Mua Búa siêu cấp -10000 ruby
+[01:16:20 PM]  Mua Búa siêu cấp -10000 ruby
+[01:16:20 PM]  Mua Búa siêu cấp -10000 ruby
+[01:16:20 PM]  Mua Búa siêu cấp -10000 ruby
+[01:16:20 PM]  Mua Búa siêu cấp -10000 ruby
+[01:16:20 PM]  Mua Búa siêu cấp -10000 ruby
+[01:16:25 PM]  Mua Búa siêu cấp -10000 ruby
+[01:16:25 PM]  Mua Búa siêu cấp -10000 ruby
+[01:16:41 PM]  Đục lỗ Nón 2 Lv20 -50 ruby
+[01:16:42 PM]  Đục lỗ Nón 2 Lv20 -50 ruby
+[01:16:43 PM]  Đục lỗ Nón 2 Lv20 -50 ruby
+[01:16:47 PM]  Đục lỗ Nón 2 Lv20 -50 ruby
+[01:16:47 PM]  Đục lỗ Nón 2 Lv20 -50 ruby
+[01:16:49 PM]  Đục lỗ Nón 2 Lv20 -50 ruby
+[01:16:49 PM]  Đục lỗ Nón 2 Lv20 -50 ruby
+[01:16:53 PM]  Đục lỗ Nón 2 Lv20 -100 ruby
+[01:16:53 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:16:53 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:16:55 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:16:55 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:17:02 PM]  Mua Bột vàng -40 ruby
+[01:17:02 PM]  Mua Bột vàng -40 ruby
+[01:17:02 PM]  Mua Bột vàng -40 ruby
+[01:17:02 PM]  Mua Bột vàng -40 ruby
+[01:17:02 PM]  Mua Bột vàng -40 ruby
+[01:17:02 PM]  Mua Bột vàng -40 ruby
+[01:17:03 PM]  Mua Bột vàng -40 ruby
+[01:17:03 PM]  Mua Bột vàng -40 ruby
+[01:17:03 PM]  Mua Bột vàng -40 ruby
+[01:17:03 PM]  Mua Bột vàng -40 ruby
+[01:17:03 PM]  Mua Bột vàng -40 ruby
+[01:17:03 PM]  Mua Bột vàng -40 ruby
+[01:17:03 PM]  Mua Bột vàng -40 ruby
+[01:17:04 PM]  Mua Bột vàng -40 ruby
+[01:17:04 PM]  Mua Ngôi sao may mắn -100 ruby
+[01:17:05 PM]  Mua Ngôi sao may mắn -100 ruby
+[01:17:05 PM]  Mua Ngôi sao may mắn -100 ruby
+[01:17:05 PM]  Mua Ngôi sao may mắn -100 ruby
+[01:17:05 PM]  Mua Ngôi sao may mắn -100 ruby
+[01:17:05 PM]  Mua Ngôi sao may mắn -100 ruby
+[01:17:05 PM]  Mua Ngôi sao may mắn -100 ruby
+[01:17:05 PM]  Mua Ngôi sao may mắn -100 ruby
+[01:17:05 PM]  Mua Ngôi sao may mắn -100 ruby
+[01:17:06 PM]  Mua Ngôi sao may mắn -100 ruby
+[01:17:07 PM]  Mua Mai rùa -140 ruby
+[01:17:07 PM]  Mua Mai rùa -140 ruby
+[01:17:07 PM]  Mua Mai rùa -140 ruby
+[01:17:07 PM]  Mua Mai rùa -140 ruby
+[01:17:07 PM]  Mua Mai rùa -140 ruby
+[01:17:07 PM]  Mua Mai rùa -140 ruby
+[01:17:07 PM]  Mua Mai rùa -140 ruby
+[01:17:08 PM]  Mua Mai rùa -140 ruby
+[01:17:08 PM]  Mua Mai rùa -140 ruby
+[01:17:08 PM]  Mua Mai rùa -140 ruby
+[01:17:09 PM]  Mua Bột cường hóa -20 ruby
+[01:17:09 PM]  Mua Bột cường hóa -20 ruby
+[01:17:09 PM]  Mua Bột cường hóa -20 ruby
+[01:17:09 PM]  Mua Bột cường hóa -20 ruby
+[01:17:10 PM]  Mua Bột cường hóa -20 ruby
+[01:17:10 PM]  Mua Bột cường hóa -20 ruby
+[01:17:15 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:17:15 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:17:16 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:17:17 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:17:20 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:17:20 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:17:23 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:17:23 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:17:25 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:17:25 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:17:27 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:17:27 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:17:29 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:17:29 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:17:31 PM]  Đục lỗ Nón 2 Lv20 -150 ruby
+[01:17:31 PM]  Đục lỗ Nón 2 Lv20 -200 ruby
+[01:17:33 PM]  Đục lỗ Nón 2 Lv20 -200 ruby
+[01:17:33 PM]  Đục lỗ Nón 2 Lv20 -250 ruby
+[01:17:35 PM]  Đục lỗ Nón 2 Lv20 -250 ruby
+[01:17:35 PM]  Đục lỗ Nón 2 Lv20 -250 ruby
+[01:17:37 PM]  Đục lỗ Nón 2 Lv20 -250 ruby
+[01:17:37 PM]  Đục lỗ Nón 2 Lv20 -250 ruby
+[01:17:39 PM]  Đục lỗ Nón 2 Lv20 -250 ruby
+[01:17:39 PM]  Đục lỗ Nón 2 Lv20 -250 ruby
+[01:17:41 PM]  Đục lỗ Nón 2 Lv20 -250 ruby
+[01:17:41 PM]  Đục lỗ Nón 2 Lv20 -250 ruby
+[01:17:43 PM]  Đục lỗ Nón 2 Lv20 -250 ruby
+[01:17:43 PM]  Đục lỗ Nón 2 Lv20 -250 ruby
+[01:17:45 PM]  Đục lỗ Nón 2 Lv20 -250 ruby
+[01:17:45 PM]  Đục lỗ Nón 2 Lv20 -300 ruby
+[01:17:47 PM]  Đục lỗ Nón 2 Lv20 -300 ruby
+[01:17:47 PM]  Đục lỗ Nón 2 Lv20 -350 ruby
+[01:17:55 PM]  Khảm ngọc lên -> Nón 2 Lv20 -350 ruby
+[01:17:58 PM]  Khảm ngọc lên -> Nón 2 Lv20 -350 ruby
+[01:18:01 PM]  Khảm ngọc lên -> Nón 2 Lv20 -350 ruby
+[01:18:11 PM]  Khảm ngọc lên -> Nón 2 Lv20 -350 ruby
+[01:18:15 PM]  Khảm ngọc lên -> Nón 2 Lv20 -350 ruby
+[01:18:17 PM]  Khảm ngọc lên -> Nón 2 Lv20 -350 ruby
+[01:18:27 PM]  Cường hóa item Nón 2 Lv20 -3000 beri
+[01:18:27 PM]  Cường hóa item Nón 2 Lv20 -3000 beri
+[01:18:29 PM]  Cường hóa item Nón 2 Lv20 -4000 beri
+[01:18:29 PM]  Cường hóa item Nón 2 Lv20 -4000 beri
+[01:18:31 PM]  Cường hóa item Nón 2 Lv20 -4000 beri
+[01:18:31 PM]  Cường hóa item Nón 2 Lv20 -4000 beri
+[01:18:33 PM]  Cường hóa item Nón 2 Lv20 -4000 beri
+[01:18:33 PM]  Cường hóa item Nón 2 Lv20 -4000 beri
+[01:18:34 PM]  Cường hóa item Nón 2 Lv20 -4000 beri
+[01:18:35 PM]  Cường hóa item Nón 2 Lv20 -4000 beri
+[01:18:36 PM]  Cường hóa item Nón 2 Lv20 -6000 beri
+[01:18:37 PM]  Cường hóa item Nón 2 Lv20 -6000 beri
+[01:18:38 PM]  Cường hóa item Nón 2 Lv20 -6000 beri
+[01:18:38 PM]  Cường hóa item Nón 2 Lv20 -6000 beri
+[01:18:40 PM]  Cường hóa item Nón 2 Lv20 -6000 beri
+[01:18:41 PM]  Cường hóa item Nón 2 Lv20 -6000 beri
+[01:18:42 PM]  Cường hóa item Nón 2 Lv20 -6000 beri
+[01:18:43 PM]  Cường hóa item Nón 2 Lv20 -6000 beri
+[01:18:44 PM]  Cường hóa item Nón 2 Lv20 -8000 beri
+[01:18:44 PM]  Cường hóa item Nón 2 Lv20 -8000 beri
+[01:18:46 PM]  Cường hóa item Nón 2 Lv20 -8000 beri
+[01:18:46 PM]  Cường hóa item Nón 2 Lv20 -8000 beri
+[01:18:48 PM]  Cường hóa item Nón 2 Lv20 -8000 beri
+[01:18:48 PM]  Cường hóa item Nón 2 Lv20 -8000 beri
+[01:18:50 PM]  Cường hóa item Nón 2 Lv20 -8000 beri
+[01:18:50 PM]  Cường hóa item Nón 2 Lv20 -8000 beri
+[01:18:52 PM]  Cường hóa item Nón 2 Lv20 -8000 beri
+[01:18:53 PM]  Cường hóa item Nón 2 Lv20 -8000 beri
+[01:18:54 PM]  Cường hóa item Nón 2 Lv20 -8000 beri
+[01:18:55 PM]  Cường hóa item Nón 2 Lv20 -8000 beri
+[01:18:56 PM]  Cường hóa item Nón 2 Lv20 -8000 beri
+[01:18:56 PM]  Cường hóa item Nón 2 Lv20 -8000 beri
+[01:21:01 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:01 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:01 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:02 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:02 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:02 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:02 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:02 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:02 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:02 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:02 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:03 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:03 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:03 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:03 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:03 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:03 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:04 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:04 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:04 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:04 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:04 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:04 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:04 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:05 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:05 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:05 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:05 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:05 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:06 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:06 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:06 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:06 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:06 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:06 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:06 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:07 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:07 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:07 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:07 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:07 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:07 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:07 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:08 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:08 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:08 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:08 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:08 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:08 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:09 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:09 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:09 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:09 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:10 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:10 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:10 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:10 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:10 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:11 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:11 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:11 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:11 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:11 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:11 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:12 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:12 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:12 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:12 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:13 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:13 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:13 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:13 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:13 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:13 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:14 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:14 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:14 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:14 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:14 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:14 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:14 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:14 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:15 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:15 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:15 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:15 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:15 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:15 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:16 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:16 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:16 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:16 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:16 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:16 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:17 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:17 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:17 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:17 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:17 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:17 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:17 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:18 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:18 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:18 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:18 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:18 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:18 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:18 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:18 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:19 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:19 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:19 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:19 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:19 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:19 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:19 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:20 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:20 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:20 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:20 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:20 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:20 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:20 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:21 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:21 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:21 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:21 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:21 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:22 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:22 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:22 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:22 PM]  Mua Đá Topaz cấp 1 -40 ruby
+[01:21:32 PM]  Hợp đá khảm -> Đá Topaz cấp 2 -50 ruby
+[01:21:35 PM]  Hợp đá khảm -> Đá Topaz cấp 3 -50 ruby
+[01:21:37 PM]  Hợp đá khảm -> Đá Topaz cấp 4 -50 ruby
+[01:21:41 PM]  Hợp đá khảm -> Đá Topaz cấp 5 -50 ruby
+[01:21:43 PM]  Hợp đá khảm -> Đá Topaz cấp 6 -50 ruby
+[01:23:02 PM]  Mua Kiếm diều hâu -900 beri
+[01:23:15 PM]  Đục lỗ Kiếm hải tặc 2 -50 ruby
+[01:23:15 PM]  Đục lỗ Kiếm hải tặc 2 -50 ruby
+[01:23:16 PM]  Đục lỗ Kiếm hải tặc 2 -50 ruby
+[01:23:17 PM]  Đục lỗ Kiếm hải tặc 2 -50 ruby
+[01:23:17 PM]  Đục lỗ Kiếm hải tặc 2 -50 ruby
+[01:23:19 PM]  Đục lỗ Kiếm hải tặc 2 -100 ruby
+[01:23:19 PM]  Đục lỗ Kiếm hải tặc 2 -100 ruby
+[01:23:22 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:22 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:25 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:25 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:27 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:27 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:30 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:30 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:33 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:33 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:33 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:35 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:35 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:37 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:37 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:39 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:39 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:41 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:41 PM]  Đục lỗ Kiếm hải tặc 2 -150 ruby
+[01:23:43 PM]  Đục lỗ Kiếm hải tặc 2 -200 ruby
+[01:23:43 PM]  Đục lỗ Kiếm hải tặc 2 -200 ruby
+[01:23:45 PM]  Đục lỗ Kiếm hải tặc 2 -200 ruby
+[01:23:45 PM]  Đục lỗ Kiếm hải tặc 2 -200 ruby
+[01:23:47 PM]  Đục lỗ Kiếm hải tặc 2 -200 ruby
+[01:23:47 PM]  Đục lỗ Kiếm hải tặc 2 -200 ruby
+[01:23:49 PM]  Đục lỗ Kiếm hải tặc 2 -200 ruby
+[01:23:49 PM]  Đục lỗ Kiếm hải tặc 2 -200 ruby
+[01:23:51 PM]  Đục lỗ Kiếm hải tặc 2 -200 ruby
+[01:23:51 PM]  Đục lỗ Kiếm hải tặc 2 -200 ruby
+[01:23:55 PM]  Đục lỗ Kiếm hải tặc 2 -200 ruby
+[01:23:55 PM]  Đục lỗ Kiếm hải tặc 2 -200 ruby
+[01:23:57 PM]  Đục lỗ Kiếm hải tặc 2 -200 ruby
+[01:23:57 PM]  Đục lỗ Kiếm hải tặc 2 -250 ruby
+[01:23:59 PM]  Đục lỗ Kiếm hải tặc 2 -250 ruby
+[01:23:59 PM]  Đục lỗ Kiếm hải tặc 2 -250 ruby
+[01:24:01 PM]  Đục lỗ Kiếm hải tặc 2 -250 ruby
+[01:24:01 PM]  Đục lỗ Kiếm hải tặc 2 -250 ruby
+[01:24:03 PM]  Đục lỗ Kiếm hải tặc 2 -250 ruby
+[01:24:03 PM]  Đục lỗ Kiếm hải tặc 2 -250 ruby
+[01:24:06 PM]  Đục lỗ Kiếm hải tặc 2 -250 ruby
+[01:24:06 PM]  Đục lỗ Kiếm hải tặc 2 -250 ruby
+[01:24:08 PM]  Đục lỗ Kiếm hải tặc 2 -250 ruby
+[01:24:08 PM]  Đục lỗ Kiếm hải tặc 2 -250 ruby
+[01:24:11 PM]  Đục lỗ Kiếm hải tặc 2 -250 ruby
+[01:24:11 PM]  Đục lỗ Kiếm hải tặc 2 -250 ruby
+[01:24:11 PM]  Đục lỗ Kiếm hải tặc 2 -250 ruby
+[01:24:13 PM]  Đục lỗ Kiếm hải tặc 2 -250 ruby
+[01:24:13 PM]  Đục lỗ Kiếm hải tặc 2 -250 ruby
+[01:24:15 PM]  Đục lỗ Kiếm hải tặc 2 -300 ruby
+[01:24:16 PM]  Đục lỗ Kiếm hải tặc 2 -300 ruby
+[01:24:18 PM]  Đục lỗ Kiếm hải tặc 2 -300 ruby
+[01:24:18 PM]  Đục lỗ Kiếm hải tặc 2 -300 ruby
+[01:24:20 PM]  Đục lỗ Kiếm hải tặc 2 -300 ruby
+[01:24:22 PM]  Đục lỗ Kiếm hải tặc 2 -300 ruby
+[01:24:22 PM]  Đục lỗ Kiếm hải tặc 2 -350 ruby
+[01:24:24 PM]  Đục lỗ Kiếm hải tặc 2 -350 ruby
+[01:24:25 PM]  Đục lỗ Kiếm hải tặc 2 -350 ruby
+[01:24:27 PM]  Đục lỗ Kiếm hải tặc 2 -350 ruby
+[01:24:27 PM]  Đục lỗ Kiếm hải tặc 2 -350 ruby
+[01:24:33 PM]  Khảm ngọc lên -> Kiếm hải tặc 2 -350 ruby
+[01:24:35 PM]  Khảm ngọc lên -> Kiếm hải tặc 2 -350 ruby
+[01:24:37 PM]  Khảm ngọc lên -> Kiếm hải tặc 2 -350 ruby
+[01:24:40 PM]  Khảm ngọc lên -> Kiếm hải tặc 2 -350 ruby
+[01:24:43 PM]  Khảm ngọc lên -> Kiếm hải tặc 2 -350 ruby
+[01:24:45 PM]  Khảm ngọc lên -> Kiếm hải tặc 2 -350 ruby
+[01:24:52 PM]  Cường hóa item Kiếm hải tặc 2 -3000 beri
+[01:24:52 PM]  Cường hóa item Kiếm hải tặc 2 -3000 beri
+[01:24:52 PM]  Cường hóa item Kiếm hải tặc 2 -3000 beri
+[01:24:54 PM]  Cường hóa item Kiếm hải tặc 2 -3000 beri
+[01:24:54 PM]  Cường hóa item Kiếm hải tặc 2 -4000 beri
+[01:24:56 PM]  Cường hóa item Kiếm hải tặc 2 -4000 beri
+[01:24:56 PM]  Cường hóa item Kiếm hải tặc 2 -4000 beri
+[01:24:58 PM]  Cường hóa item Kiếm hải tặc 2 -4000 beri
+[01:24:58 PM]  Cường hóa item Kiếm hải tặc 2 -4000 beri
+[01:25:00 PM]  Cường hóa item Kiếm hải tặc 2 -4000 beri
+[01:25:00 PM]  Cường hóa item Kiếm hải tặc 2 -4000 beri
+[01:25:02 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:02 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:04 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:04 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:06 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:06 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:08 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:08 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:25 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:25 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:27 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:27 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:29 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:29 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:31 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:31 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:33 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:33 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:35 PM]  Cường hóa item Kiếm hải tặc 2 -6000 beri
+[01:25:35 PM]  Cường hóa item Kiếm hải tặc 2 -8000 beri
+[01:25:37 PM]  Cường hóa item Kiếm hải tặc 2 -8000 beri
+[01:25:37 PM]  Cường hóa item Kiếm hải tặc 2 -8000 beri
+[01:25:38 PM]  Cường hóa item Kiếm hải tặc 2 -8000 beri
+[01:25:39 PM]  Cường hóa item Kiếm hải tặc 2 -8000 beri
+[01:25:40 PM]  Cường hóa item Kiếm hải tặc 2 -8000 beri
+[01:25:41 PM]  Cường hóa item Kiếm hải tặc 2 -8000 beri
+[01:25:42 PM]  Cường hóa item Kiếm hải tặc 2 -8000 beri
+[01:25:43 PM]  Cường hóa item Kiếm hải tặc 2 -8000 beri
+[01:25:44 PM]  Cường hóa item Kiếm hải tặc 2 -8000 beri
+[01:25:45 PM]  Cường hóa item Kiếm hải tặc 2 -8000 beri
+[01:27:22 PM]  Nhặt +5950 beri
+[01:27:59 PM]  Nhặt +8800 beri
+[01:28:27 PM]  Logout : [Beri] 2.000.039.359 [Ruby] 1.499.724.590
+[01:29:55 PM]  Login : [Beri] 2.000.039.359 [Ruby] 1.499.724.590
+[01:30:29 PM]  Logout : [Beri] 2.000.039.359 [Ruby] 1.499.724.590
+[01:30:44 PM]  Login : [Beri] 2.000.039.359 [Ruby] 1.499.724.590
+[01:30:45 PM]  Logout : [Beri] 2.000.039.359 [Ruby] 1.499.724.590
+[01:30:53 PM]  Login : [Beri] 2.000.039.359 [Ruby] 1.499.724.590
+[01:36:45 PM]  Logout : [Beri] 2.000.039.359 [Ruby] 1.499.724.590

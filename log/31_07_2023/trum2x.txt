@@ -1,0 +1,157 @@
+[03:36:46 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[03:37:41 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[03:37:50 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[03:38:52 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[03:39:11 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x99, 
+[03:39:28 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[03:39:55 AM]  Mua 1000 vé vòng quay -15000 ruby
+[03:53:30 AM]  Bán item +45 beri
+[03:53:30 AM]  Bán item +45 beri
+[03:53:30 AM]  Bán item +45 beri
+[03:53:31 AM]  Bán item +45 beri
+[03:53:32 AM]  Bán item +45 beri
+[03:53:32 AM]  Bán item +45 beri
+[03:53:33 AM]  Bán item +45 beri
+[03:53:33 AM]  Bán item +45 beri
+[03:53:34 AM]  Bán item +45 beri
+[03:53:35 AM]  Bán item +45 beri
+[03:53:35 AM]  Bán item +45 beri
+[03:53:36 AM]  Bán item +45 beri
+[03:53:36 AM]  Bán item +45 beri
+[03:53:37 AM]  Bán item +45 beri
+[03:53:38 AM]  Bán item +45 beri
+[03:53:38 AM]  Bán item +45 beri
+[03:53:39 AM]  Bán item +45 beri
+[03:53:40 AM]  Bán item +45 beri
+[03:53:41 AM]  Bán item +45 beri
+[03:57:46 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.984.645
+[05:47:58 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.499.984.645
+[05:48:55 AM]  Bán item +45 beri
+[05:48:55 AM]  Bán item +45 beri
+[05:48:56 AM]  Bán item +45 beri
+[05:48:56 AM]  Bán item +45 beri
+[05:48:57 AM]  Bán item +45 beri
+[05:48:58 AM]  Bán item +45 beri
+[05:48:58 AM]  Bán item +45 beri
+[05:48:59 AM]  Bán item +45 beri
+[05:49:00 AM]  Bán item +45 beri
+[05:49:01 AM]  Bán item +45 beri
+[05:49:01 AM]  Bán item +45 beri
+[05:49:02 AM]  Bán item +45 beri
+[05:49:03 AM]  Bán item +45 beri
+[05:49:03 AM]  Bán item +45 beri
+[05:49:04 AM]  Bán item +45 beri
+[05:49:04 AM]  Bán item +45 beri
+[05:49:05 AM]  Bán item +45 beri
+[05:49:06 AM]  Bán item +45 beri
+[05:49:07 AM]  Bán item +45 beri
+[05:49:07 AM]  Bán item +45 beri
+[05:49:35 AM]  Mua 10000 vé vòng quay -150000 ruby
+[05:52:55 AM]  Bán item +45 beri
+[05:52:56 AM]  Bán item +45 beri
+[05:52:56 AM]  Bán item +45 beri
+[05:52:57 AM]  Bán item +45 beri
+[05:52:57 AM]  Bán item +45 beri
+[05:52:58 AM]  Bán item +45 beri
+[05:52:58 AM]  Bán item +45 beri
+[05:52:59 AM]  Bán item +45 beri
+[05:52:59 AM]  Bán item +45 beri
+[05:53:00 AM]  Bán item +45 beri
+[05:53:01 AM]  Bán item +45 beri
+[05:53:01 AM]  Bán item +45 beri
+[05:53:02 AM]  Bán item +45 beri
+[05:53:03 AM]  Bán item +45 beri
+[05:53:03 AM]  Bán item +45 beri
+[05:53:04 AM]  Bán item +45 beri
+[05:53:05 AM]  Bán item +45 beri
+[05:53:06 AM]  Bán item +45 beri
+[05:53:06 AM]  Bán item +45 beri
+[05:55:45 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.833.480
+[05:16:24 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[05:17:01 PM]  Mua Súp baratie -1600 beri
+[05:17:01 PM]  Mua Súp baratie -1600 beri
+[05:17:01 PM]  Mua Súp baratie -1600 beri
+[05:17:01 PM]  Mua Súp baratie -1600 beri
+[05:17:02 PM]  Mua Súp baratie -1600 beri
+[05:17:02 PM]  Mua Súp baratie -1600 beri
+[05:17:02 PM]  Mua Súp baratie -1600 beri
+[05:17:02 PM]  Mua Súp baratie -1600 beri
+[05:17:02 PM]  Mua Súp baratie -1600 beri
+[05:17:02 PM]  Mua Súp baratie -1600 beri
+[05:17:02 PM]  Mua Súp baratie -1600 beri
+[05:17:03 PM]  Mua Súp baratie -1600 beri
+[05:17:03 PM]  Mua Súp baratie -1600 beri
+[05:17:03 PM]  Mua Súp baratie -1600 beri
+[05:17:03 PM]  Mua Súp baratie -1600 beri
+[05:17:03 PM]  Mua Súp baratie -1600 beri
+[05:17:03 PM]  Mua Súp baratie -1600 beri
+[05:17:04 PM]  Mua Súp baratie -1600 beri
+[05:17:04 PM]  Mua Súp baratie -1600 beri
+[05:17:04 PM]  Mua Súp baratie -1600 beri
+[05:17:04 PM]  Mua Súp baratie -1600 beri
+[05:17:04 PM]  Mua Súp baratie -1600 beri
+[05:17:05 PM]  Mua Súp baratie -1600 beri
+[05:17:05 PM]  Mua Súp baratie -1600 beri
+[05:17:05 PM]  Mua Súp baratie -1600 beri
+[05:17:05 PM]  Mua Súp baratie -1600 beri
+[05:17:06 PM]  Mua Cola -800 beri
+[05:17:06 PM]  Mua Cola -800 beri
+[05:17:06 PM]  Mua Cola -800 beri
+[05:17:07 PM]  Mua Cola -800 beri
+[05:17:07 PM]  Mua Cola -800 beri
+[05:17:07 PM]  Mua Cola -800 beri
+[05:17:07 PM]  Mua Cola -800 beri
+[05:17:07 PM]  Mua Cola -800 beri
+[05:17:07 PM]  Mua Cola -800 beri
+[05:17:08 PM]  Mua Cola -800 beri
+[05:17:08 PM]  Mua Cola -800 beri
+[05:17:08 PM]  Mua Cola -800 beri
+[05:17:08 PM]  Mua Cola -800 beri
+[05:17:08 PM]  Mua Cola -800 beri
+[05:17:08 PM]  Mua Cola -800 beri
+[05:17:09 PM]  Mua Cola -800 beri
+[05:17:09 PM]  Mua Cola -800 beri
+[05:17:09 PM]  Mua Cola -800 beri
+[05:17:09 PM]  Mua Cola -800 beri
+[05:17:09 PM]  Mua Cola -800 beri
+[05:17:09 PM]  Mua Cola -800 beri
+[05:17:09 PM]  Mua Cola -800 beri
+[05:17:10 PM]  Mua Cola -800 beri
+[05:17:10 PM]  Mua Cola -800 beri
+[05:17:10 PM]  Mua Cola -800 beri
+[05:17:10 PM]  Mua Cola -800 beri
+[05:17:10 PM]  Mua Cola -800 beri
+[05:17:10 PM]  Mua Cola -800 beri
+[05:17:11 PM]  Mua Cola -800 beri
+[05:17:11 PM]  Mua Cola -800 beri
+[05:17:11 PM]  Mua Cola -800 beri
+[05:17:11 PM]  Mua Cola -800 beri
+[05:17:11 PM]  Mua Cola -800 beri
+[05:17:13 PM]  Mua Xp Chiêu thức -6000 ruby
+[05:17:13 PM]  Mua Xp Chiêu thức -6000 ruby
+[05:17:13 PM]  Mua Xp Chiêu thức -6000 ruby
+[05:17:14 PM]  Mua Xp Chiêu thức -6000 ruby
+[05:17:14 PM]  Mua Xp Chiêu thức -6000 ruby
+[05:17:14 PM]  Mua Xp Chiêu thức -6000 ruby
+[05:17:14 PM]  Mua Xp Chiêu thức -6000 ruby
+[05:17:14 PM]  Mua Xp Chiêu thức -6000 ruby
+[05:17:14 PM]  Mua Xp Chiêu thức -6000 ruby
+[05:17:14 PM]  Mua Xp Chiêu thức -6000 ruby
+[05:17:15 PM]  Mua Xp Chiêu thức -6000 ruby
+[05:17:15 PM]  Mua Xp Chiêu thức -6000 ruby
+[05:17:15 PM]  Mua Xp Chiêu thức -6000 ruby
+[05:17:15 PM]  Mua Xp Chiêu thức -6000 ruby
+[05:17:15 PM]  Mua Xp Chiêu thức -6000 ruby
+[05:17:27 PM]  Mua Tóc khỉ con -500 ruby
+[05:18:34 PM]  Mua Thần chết -500 ruby
+[05:18:50 PM]  Mua 500 vé vòng quay -7500 ruby
+[05:24:53 PM]  Logout : [Beri] 1.999.932.000 [Ruby] 499.901.500

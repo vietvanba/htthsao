@@ -1,0 +1,34 @@
+[12:07:03 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[12:08:02 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[12:08:29 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[12:08:44 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[12:08:53 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[12:09:09 PM]  Nhập giftcode Bạn nhận được:
+Beri : 1000000000
+Ruby : 1000000000
+Item : Thiên thạch may mắn x99, 
+[12:09:24 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[12:09:33 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x1000, 
+[12:09:41 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[12:09:56 PM]  Giao dịch bery với doanhbro nhận +0 beri
+[12:10:28 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[12:11:09 PM]  Login : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[12:11:12 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[12:11:22 PM]  Login : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[12:11:49 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[12:12:01 PM]  Giao dịch bery với doanhbro nhận +0 beri
+[12:12:44 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[12:13:01 PM]  Login : [Beri] 2.000.000.000 [Ruby] 1.500.000.000
+[12:13:04 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.500.000.000

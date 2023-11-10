@@ -1,0 +1,39 @@
+[05:18:34 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[05:18:52 AM]  Nhặt +197 beri
+[05:19:22 AM]  Logout : [Beri] 2.000.000.197 [Ruby] 5.000.000
+[05:19:43 AM]  Login : [Beri] 2.000.000.197 [Ruby] 5.000.000
+[05:19:46 AM]  Logout : [Beri] 2.000.000.197 [Ruby] 5.000.000
+[05:19:53 AM]  Login : [Beri] 2.000.000.197 [Ruby] 5.000.000
+[05:20:24 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[05:21:05 AM]  Mua akainu -500 ruby
+[05:21:47 AM]  Mua Tóc khỉ con -500 ruby
+[05:21:54 AM]  Mua Pell -500 ruby
+[05:23:22 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[05:23:58 AM]  Mua xác ướp trắng -500 ruby
+[05:24:27 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[05:24:50 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[05:24:58 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[05:25:14 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[05:27:25 AM]  Nhặt +4464 beri
+[05:27:50 AM]  Nhặt +3576 beri
+[05:27:51 AM]  Nhặt +1440 beri
+[05:33:48 AM]  Nhặt +5016 beri
+[05:40:10 AM]  Logout : [Beri] 1.998.414.693 [Ruby] 1.004.998.000

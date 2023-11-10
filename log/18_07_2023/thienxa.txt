@@ -1,0 +1,176 @@
+[05:15:37 CH]  Login : [Beri] 100.000 [Ruby] 500
+[05:16:01 CH]  Logout : [Beri] 100.000 [Ruby] 500
+[05:19:43 CH]  Login : [Beri] 100.000 [Ruby] 500
+[05:19:53 CH]  Nhặt +123 beri
+[05:19:56 CH]  Nhặt +115 beri
+[05:20:03 CH]  Nhặt +163 beri
+[05:20:17 CH]  Nhặt +126 beri
+[05:20:20 CH]  Nhặt +178 beri
+[05:20:43 CH]  Nhặt +124 beri
+[05:20:45 CH]  Nhặt +50 beri
+[05:20:58 CH]  Nhặt +84 beri
+[05:21:09 CH]  Nhặt +164 beri
+[05:21:16 CH]  Nhặt +294 beri
+[05:21:23 CH]  Nhặt +368 beri
+[05:21:29 CH]  Nhặt +284 beri
+[05:21:31 CH]  Nhặt +46 beri
+[05:21:36 CH]  Nhặt +70 beri
+[05:21:43 CH]  Nhặt +398 beri
+[05:21:59 CH]  Nhặt +136 beri
+[05:22:02 CH]  Nhặt +266 beri
+[05:22:09 CH]  Nhặt +190 beri
+[05:22:16 CH]  Nhặt +252 beri
+[05:22:24 CH]  Nhặt +120 beri
+[05:22:44 CH]  Mua Bão tố -500 ruby
+[05:23:43 CH]  Mua Tóc khỉ con -500 ruby
+[05:23:55 CH]  Mua Râu đen -500 ruby
+[05:24:24 CH]  Mua Quả Conache -0 beri
+[05:24:24 CH]  Mua Quả Conache -0 beri
+[05:24:24 CH]  Mua Quả Conache -0 beri
+[05:24:24 CH]  Mua Quả Conache -0 beri
+[05:24:25 CH]  Mua Quả Conache -0 beri
+[05:24:25 CH]  Mua Quả Conache -0 beri
+[05:24:25 CH]  Mua Quả Conache -0 beri
+[05:24:25 CH]  Mua Quả Conache -0 beri
+[05:24:25 CH]  Mua Quả Conache -0 beri
+[05:24:26 CH]  Mua Quả Conache -0 beri
+[05:24:26 CH]  Mua Quả Conache -0 beri
+[05:24:26 CH]  Mua Quả Conache -0 beri
+[05:24:26 CH]  Mua Quả Conache -0 beri
+[05:24:26 CH]  Mua Quả Conache -0 beri
+[05:24:27 CH]  Mua Quả Conache -0 beri
+[05:24:27 CH]  Mua Quả Conache -0 beri
+[05:24:27 CH]  Mua Quả Conache -0 beri
+[05:24:28 CH]  Mua Quả Conache -0 beri
+[05:24:28 CH]  Mua Quả Conache -0 beri
+[05:24:28 CH]  Mua Quả Conache -0 beri
+[05:24:29 CH]  Mua Quả Conache -0 beri
+[05:24:29 CH]  Mua Quả Conache -0 beri
+[05:24:29 CH]  Mua Quả Conache -0 beri
+[05:24:29 CH]  Mua Quả Conache -0 beri
+[05:24:29 CH]  Mua Quả Conache -0 beri
+[05:24:30 CH]  Mua Quả Conache -0 beri
+[05:24:30 CH]  Mua Quả Conache -0 beri
+[05:24:30 CH]  Mua Quả Conache -0 beri
+[05:24:30 CH]  Mua Quả Conache -0 beri
+[05:24:30 CH]  Mua Quả Conache -0 beri
+[05:24:30 CH]  Mua Quả Conache -0 beri
+[05:24:31 CH]  Mua Quả Conache -0 beri
+[05:24:31 CH]  Mua Quả Conache -0 beri
+[05:24:31 CH]  Mua Quả Conache -0 beri
+[05:24:31 CH]  Mua Quả Conache -0 beri
+[05:24:32 CH]  Mua Quả Conache -0 beri
+[05:24:32 CH]  Mua Quả Conache -0 beri
+[05:24:33 CH]  Mua Quả Conache -0 beri
+[05:24:33 CH]  Mua Quả Conache -0 beri
+[05:24:33 CH]  Mua Quả Conache -0 beri
+[05:24:33 CH]  Mua Quả Conache -0 beri
+[05:24:34 CH]  Mua Quả Conache -0 beri
+[05:24:34 CH]  Mua Quả Conache -0 beri
+[05:24:34 CH]  Mua Quả Conache -0 beri
+[05:24:34 CH]  Mua Quả Conache -0 beri
+[05:24:34 CH]  Mua Quả Conache -0 beri
+[05:24:34 CH]  Mua Quả Conache -0 beri
+[05:24:35 CH]  Mua Quả Conache -0 beri
+[05:24:35 CH]  Mua Quả Conache -0 beri
+[05:24:35 CH]  Mua Quả Conache -0 beri
+[05:24:35 CH]  Mua Quả Conache -0 beri
+[05:24:35 CH]  Mua Quả Conache -0 beri
+[05:24:36 CH]  Mua Quả Conache -0 beri
+[05:24:36 CH]  Mua Quả Conache -0 beri
+[05:24:36 CH]  Mua Quả Conache -0 beri
+[05:24:36 CH]  Mua Quả Conache -0 beri
+[05:24:36 CH]  Mua Quả Conache -0 beri
+[05:24:36 CH]  Mua Quả Conache -0 beri
+[05:24:37 CH]  Mua Quả Conache -0 beri
+[05:24:37 CH]  Mua Quả Conache -0 beri
+[05:24:37 CH]  Mua Quả Conache -0 beri
+[05:24:37 CH]  Mua Quả Conache -0 beri
+[05:24:37 CH]  Mua Quả Conache -0 beri
+[05:24:38 CH]  Mua Quả Conache -0 beri
+[05:24:38 CH]  Mua Quả Conache -0 beri
+[05:24:38 CH]  Mua Quả Conache -0 beri
+[05:24:38 CH]  Mua Quả Conache -0 beri
+[05:24:38 CH]  Mua Quả Conache -0 beri
+[05:24:39 CH]  Mua Quả Conache -0 beri
+[05:24:39 CH]  Mua Quả Conache -0 beri
+[05:24:39 CH]  Mua Quả Conache -0 beri
+[05:24:39 CH]  Mua Quả Conache -0 beri
+[05:24:39 CH]  Mua Quả Conache -0 beri
+[05:24:39 CH]  Mua Quả Conache -0 beri
+[05:24:40 CH]  Mua Quả Conache -0 beri
+[05:24:40 CH]  Mua Quả Conache -0 beri
+[05:24:40 CH]  Mua Quả Conache -0 beri
+[05:24:40 CH]  Mua Quả Conache -0 beri
+[05:24:40 CH]  Mua Quả Conache -0 beri
+[05:24:41 CH]  Mua Quả Conache -0 beri
+[05:24:41 CH]  Mua Quả Conache -0 beri
+[05:24:41 CH]  Mua Quả Conache -0 beri
+[05:24:41 CH]  Mua Quả Conache -0 beri
+[05:25:02 CH]  Nhặt +160 beri
+[05:25:05 CH]  Nhặt +184 beri
+[05:25:07 CH]  Nhặt +162 beri
+[05:25:09 CH]  Nhặt +222 beri
+[05:25:12 CH]  Nhặt +332 beri
+[05:25:21 CH]  Nhặt +320 beri
+[05:25:35 CH]  Nhặt +78 beri
+[05:25:39 CH]  Nhặt +244 beri
+[05:25:55 CH]  Nhặt +284 beri
+[05:26:06 CH]  Nhặt +300 beri
+[05:26:23 CH]  Nhặt +38 beri
+[05:26:28 CH]  Nhặt +186 beri
+[05:26:39 CH]  Nhặt +38 beri
+[05:27:08 CH]  Nhặt +148 beri
+[05:27:21 CH]  Nhặt +294 beri
+[05:27:31 CH]  Nhặt +150 beri
+[05:27:34 CH]  Nhặt +178 beri
+[05:27:38 CH]  Nhặt +164 beri
+[05:27:41 CH]  Nhặt +150 beri
+[05:27:44 CH]  Nhặt +246 beri
+[05:27:59 CH]  Nhặt +188 beri
+[05:28:07 CH]  Nhặt +106 beri
+[05:28:26 CH]  Nhặt +314 beri
+[05:28:49 CH]  Nhặt +130 beri
+[05:29:04 CH]  Nhặt +396 beri
+[05:29:23 CH]  Nhặt +222 beri
+[05:29:41 CH]  Nhặt +344 beri
+[05:29:51 CH]  Nhặt +42 beri
+[05:29:58 CH]  Nhặt +174 beri
+[05:30:45 CH]  Nhặt +50 beri
+[05:30:47 CH]  Nhặt +142 beri
+[05:30:48 CH]  Nhặt +178 beri
+[05:31:07 CH]  Nhặt +192 beri
+[05:31:17 CH]  Nhặt +14 beri
+[05:31:26 CH]  Nhặt +486 beri
+[05:31:30 CH]  Nhặt +147 beri
+[05:31:31 CH]  Nhặt +552 beri
+[05:31:32 CH]  Nhặt +534 beri
+[05:31:50 CH]  Nhặt +312 beri
+[05:32:57 CH]  Mua 99 vé vòng quay -1485 ruby
+[05:33:34 CH]  Nhặt +3104 beri
+[05:33:48 CH]  Mua Killer -500 ruby
+[05:34:24 CH]  Logout : [Beri] 760.156 [Ruby] 17.015
+[05:35:51 CH]  Login : [Beri] 760.156 [Ruby] 17.015
+[05:38:31 CH]  Logout : [Beri] 10.156 [Ruby] 17.015
+[05:39:18 CH]  Login : [Beri] 1.015.600.000 [Ruby] 1.701.500.000
+[05:43:07 CH]  Logout : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[06:29:28 CH]  Login : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[06:30:14 CH]  Logout : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[06:39:21 CH]  Login : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[06:44:09 CH]  Logout : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[06:50:44 CH]  Login : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[06:51:12 CH]  Logout : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[06:52:18 CH]  Login : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[06:52:54 CH]  Logout : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[06:53:46 CH]  Login : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[06:54:34 CH]  Logout : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[07:39:12 CH]  Login : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[07:42:48 CH]  Logout : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[07:45:27 CH]  Login : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[07:45:44 CH]  Logout : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[07:47:12 CH]  Login : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[07:47:54 CH]  Logout : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[08:32:39 CH]  Login : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[08:32:53 CH]  Logout : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[09:01:37 CH]  Login : [Beri] 1.009.300.000 [Ruby] 1.701.500.000
+[09:02:36 CH]  Logout : [Beri] 1.009.300.000 [Ruby] 1.701.500.000

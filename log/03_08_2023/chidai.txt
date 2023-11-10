@@ -1,0 +1,31 @@
+[03:46:36 AM]  Login : [Beri] 1.998.500.000 [Ruby] 1.999.999.000
+[03:46:37 AM]  Logout : [Beri] 1.998.500.000 [Ruby] 1.999.999.000
+[03:46:45 AM]  Login : [Beri] 1.998.500.000 [Ruby] 1.999.999.000
+[03:49:44 AM]  Logout : [Beri] 1.998.500.000 [Ruby] 1.999.999.000
+[03:49:51 AM]  Login : [Beri] 1.998.500.000 [Ruby] 1.999.999.000
+[03:49:52 AM]  Logout : [Beri] 1.998.500.000 [Ruby] 1.999.999.000
+[03:50:02 AM]  Login : [Beri] 1.998.500.000 [Ruby] 1.999.999.000
+[03:50:11 AM]  Logout : [Beri] 1.998.500.000 [Ruby] 1.999.999.000
+[04:02:05 AM]  Login : [Beri] 1.998.500.000 [Ruby] 1.999.999.000
+[04:02:21 AM]  Mua 9000 vé vòng quay -135000 ruby
+[04:02:49 AM]  Logout : [Beri] 1.998.500.000 [Ruby] 1.999.996.000
+[04:08:09 AM]  Login : [Beri] 1.998.500.000 [Ruby] 1.999.996.000
+[04:08:28 AM]  Mua 1000 vé vòng quay -15000 ruby
+[04:08:36 AM]  Logout : [Beri] 1.998.500.000 [Ruby] 1.999.994.000
+[04:09:34 AM]  Login : [Beri] 1.998.500.000 [Ruby] 1.999.994.000
+[04:09:50 AM]  Mua 10000 vé vòng quay -150000 ruby
+[04:12:00 AM]  Logout : [Beri] 1.998.500.000 [Ruby] 1.999.982.000
+[04:12:07 AM]  Login : [Beri] 1.998.500.000 [Ruby] 1.999.982.000
+[04:12:08 AM]  Logout : [Beri] 1.998.500.000 [Ruby] 1.999.982.000
+[04:12:14 AM]  Login : [Beri] 1.998.500.000 [Ruby] 1.999.982.000
+[04:12:16 AM]  Logout : [Beri] 1.998.500.000 [Ruby] 1.999.982.000
+[04:12:35 AM]  Login : [Beri] 1.998.500.000 [Ruby] 1.999.982.000
+[04:14:16 AM]  Logout : [Beri] 1.999.846.117 [Ruby] 1.999.977.000
+[04:23:19 AM]  Login : [Beri] 1.999.846.117 [Ruby] 1.999.977.000
+[04:26:59 AM]  Mua minh vương -5000 ruby
+[04:29:30 AM]  Mua Búa siêu cấp -1000 ruby
+[04:29:31 AM]  Mua Búa siêu cấp -1000 ruby
+[04:29:32 AM]  Mua Búa siêu cấp -1000 ruby
+[04:29:32 AM]  Mua Búa siêu cấp -20000 ruby
+[04:29:32 AM]  Mua Búa siêu cấp -20000 ruby
+[04:35:31 AM]  Logout : [Beri] 1.999.846.117 [Ruby] 1.999.898.600

@@ -1,0 +1,15 @@
+[08:23:37 SA]  Login : [Beri] 10.000.004.332 [Ruby] 499.848.515
+[08:24:06 SA]  Mua Killer -500 ruby
+[08:25:30 SA]  Logout : [Beri] 10.000.004.332 [Ruby] 499.848.015
+[08:29:04 SA]  Login : [Beri] 10.000.004.332 [Ruby] 499.848.015
+[08:29:08 SA]  Logout : [Beri] 10.000.004.332 [Ruby] 499.848.015
+[12:48:12 CH]  Login : [Beri] 10.000.004.332 [Ruby] 499.848.015
+[12:48:28 CH]  Mua Gậy sấm giật 2 -50000 beri
+[12:48:44 CH]  Logout : [Beri] 10.000.004.332 [Ruby] 499.848.015
+[12:57:31 CH]  Login : [Beri] 10.000.004.332 [Ruby] 499.848.015
+[12:58:05 CH]  Mua Áo tím huyền bí 2 -50000 beri
+[12:58:07 CH]  Mua Váy thổ dân 2 -50000 beri
+[12:58:10 CH]  Mua Gậy sấm giật -50000 beri
+[12:58:28 CH]  Logout : [Beri] 10.000.004.332 [Ruby] 499.848.015
+[12:58:41 CH]  Login : [Beri] 10.000.004.332 [Ruby] 499.848.015
+[12:59:02 CH]  Logout : [Beri] 10.000.004.332 [Ruby] 499.848.015

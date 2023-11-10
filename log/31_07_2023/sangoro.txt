@@ -1,0 +1,15 @@
+[03:34:48 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[03:39:10 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[03:40:03 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[03:43:29 PM]  Nhặt +291 beri
+[03:44:34 PM]  Logout : [Beri] 2.000.000.291 [Ruby] 500.000.000
+[04:03:17 PM]  Login : [Beri] 2.000.000.291 [Ruby] 500.000.000
+[04:04:25 PM]  Mua 10000 vé vòng quay -150000 ruby
+[04:04:58 PM]  Mua 19999 vé vòng quay -299985 ruby
+[04:24:32 PM]  Logout : [Beri] 2.000.000.291 [Ruby] 499.550.015
+[04:37:49 PM]  Login : [Beri] 2.000.000.291 [Ruby] 499.550.015
+[04:47:44 PM]  Mua Râu đen -500 ruby
+[04:48:17 PM]  Mua Râu đen -500 ruby
+[04:53:25 PM]  Logout : [Beri] 2.000.000.291 [Ruby] 499.549.015
+[04:56:17 PM]  Login : [Beri] 2.000.000.291 [Ruby] 499.549.015
+[05:03:01 PM]  Logout : [Beri] 2.000.000.291 [Ruby] 499.549.015

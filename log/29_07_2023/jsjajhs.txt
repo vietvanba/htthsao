@@ -1,0 +1,21 @@
+[03:10:18 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[03:10:24 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[03:10:29 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[03:14:31 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[03:17:35 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[03:17:46 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[03:41:29 AM]  Login : [Beri] 2.000.000.000 [Ruby] 5.000.000
+[03:41:50 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[03:42:34 AM]  Mua Kizaru -500 ruby
+[03:42:39 AM]  Mua Tóc Siêu Sao -500 ruby
+[03:42:57 AM]  Mua Pell -500 ruby
+[03:43:00 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 4.998.500
+[04:44:56 AM]  Login : [Beri] 2.000.000.000 [Ruby] 4.998.500
+[04:45:01 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 4.998.500
+[04:45:14 AM]  Login : [Beri] 2.000.000.000 [Ruby] 4.998.500
+[04:49:37 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 4.998.500
+[06:48:27 AM]  Login : [Beri] 2.000.000.000 [Ruby] 4.998.500
+[06:49:51 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 4.998.500

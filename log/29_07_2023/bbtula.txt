@@ -1,0 +1,4 @@
+[07:00:02 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[07:00:54 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000
+[07:10:05 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[07:11:59 AM]  Mua 2000 vé vòng quay -30000 ruby

@@ -1,0 +1,6 @@
+[11:08:43 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[11:09:29 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[11:09:33 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[11:11:14 AM]  Mua thiện xạ -500 ruby
+[11:12:08 AM]  Mua 200 vé vòng quay -3000 ruby
+[11:16:55 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 499.996.500

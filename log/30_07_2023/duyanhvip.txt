@@ -1,0 +1,262 @@
+[06:22:43 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[06:24:13 AM]  Nhặt +65 beri
+[06:26:45 AM]  Logout : [Beri] 2.000.000.065 [Ruby] 500.000
+[06:26:59 AM]  Login : [Beri] 2.000.000.065 [Ruby] 500.000
+[06:27:39 AM]  Logout : [Beri] 2.000.000.065 [Ruby] 500.000
+[06:33:21 AM]  Login : [Beri] 2.000.000.065 [Ruby] 500.000
+[06:34:14 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[06:36:15 AM]  Logout : [Beri] 2.000.000.065 [Ruby] 1.000.500.000
+[06:36:25 AM]  Login : [Beri] 2.000.000.065 [Ruby] 1.000.500.000
+[06:36:48 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[06:37:40 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[06:37:57 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[06:38:10 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[06:38:28 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[06:38:57 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[06:39:40 AM]  Nhặt +976 beri
+[06:41:02 AM]  Mua 30000 vé vòng quay -450000 ruby
+[06:44:52 AM]  Mua Súp baratie -1600 beri
+[06:44:52 AM]  Mua Súp baratie -1600 beri
+[06:44:52 AM]  Mua Súp baratie -1600 beri
+[06:44:52 AM]  Mua Súp baratie -1600 beri
+[06:44:52 AM]  Mua Súp baratie -1600 beri
+[06:44:52 AM]  Mua Súp baratie -1600 beri
+[06:44:53 AM]  Mua Súp baratie -1600 beri
+[06:44:54 AM]  Mua Súp baratie -1600 beri
+[06:44:54 AM]  Mua Súp baratie -1600 beri
+[06:44:54 AM]  Mua Súp baratie -1600 beri
+[06:44:54 AM]  Mua Súp baratie -1600 beri
+[06:44:54 AM]  Mua Súp baratie -1600 beri
+[06:44:54 AM]  Mua Súp baratie -1600 beri
+[06:44:54 AM]  Mua Súp baratie -1600 beri
+[06:44:55 AM]  Mua Súp baratie -1600 beri
+[06:44:55 AM]  Mua Súp baratie -1600 beri
+[06:44:55 AM]  Mua Súp baratie -1600 beri
+[06:44:55 AM]  Mua Súp baratie -1600 beri
+[06:44:55 AM]  Mua Súp baratie -1600 beri
+[06:44:55 AM]  Mua Súp baratie -1600 beri
+[06:44:55 AM]  Mua Súp baratie -1600 beri
+[06:44:56 AM]  Mua Súp baratie -1600 beri
+[06:44:56 AM]  Mua Súp baratie -1600 beri
+[06:44:56 AM]  Mua Súp baratie -1600 beri
+[06:44:56 AM]  Mua Súp baratie -1600 beri
+[06:44:56 AM]  Mua Súp baratie -1600 beri
+[06:44:56 AM]  Mua Súp baratie -1600 beri
+[06:44:56 AM]  Mua Súp baratie -1600 beri
+[06:44:57 AM]  Mua Súp baratie -1600 beri
+[06:44:57 AM]  Mua Súp baratie -1600 beri
+[06:44:57 AM]  Mua Súp baratie -1600 beri
+[06:44:57 AM]  Mua Súp baratie -1600 beri
+[06:44:58 AM]  Mua Súp baratie -1600 beri
+[06:44:58 AM]  Mua Súp baratie -1600 beri
+[06:44:58 AM]  Mua Súp baratie -1600 beri
+[06:44:58 AM]  Mua Súp baratie -1600 beri
+[06:44:58 AM]  Mua Súp baratie -1600 beri
+[06:44:58 AM]  Mua Súp baratie -1600 beri
+[06:44:59 AM]  Mua Súp baratie -1600 beri
+[06:44:59 AM]  Mua Súp baratie -1600 beri
+[06:44:59 AM]  Mua Súp baratie -1600 beri
+[06:44:59 AM]  Mua Súp baratie -1600 beri
+[06:44:59 AM]  Mua Súp baratie -1600 beri
+[06:45:00 AM]  Mua Súp baratie -1600 beri
+[06:45:00 AM]  Mua Súp baratie -1600 beri
+[06:45:00 AM]  Mua Súp baratie -1600 beri
+[06:45:00 AM]  Mua Súp baratie -1600 beri
+[06:45:00 AM]  Mua Súp baratie -1600 beri
+[06:45:00 AM]  Mua Súp baratie -1600 beri
+[06:45:01 AM]  Mua Súp baratie -1600 beri
+[06:45:01 AM]  Mua Súp baratie -1600 beri
+[06:45:01 AM]  Mua Súp baratie -1600 beri
+[06:45:01 AM]  Mua Súp baratie -1600 beri
+[06:45:01 AM]  Mua Súp baratie -1600 beri
+[06:45:02 AM]  Mua Súp baratie -1600 beri
+[06:45:02 AM]  Mua Súp baratie -1600 beri
+[06:45:02 AM]  Mua Súp baratie -1600 beri
+[06:45:02 AM]  Mua Súp baratie -1600 beri
+[06:45:02 AM]  Mua Súp baratie -1600 beri
+[06:45:02 AM]  Mua Súp baratie -1600 beri
+[06:45:03 AM]  Mua Súp baratie -1600 beri
+[06:45:03 AM]  Mua Súp baratie -1600 beri
+[06:45:03 AM]  Mua Súp baratie -1600 beri
+[06:45:03 AM]  Mua Súp baratie -1600 beri
+[06:45:04 AM]  Mua Súp baratie -1600 beri
+[06:45:04 AM]  Mua Súp baratie -1600 beri
+[06:45:04 AM]  Mua Súp baratie -1600 beri
+[06:45:04 AM]  Mua Súp baratie -1600 beri
+[06:45:04 AM]  Mua Súp baratie -1600 beri
+[06:45:04 AM]  Mua Súp baratie -1600 beri
+[06:45:05 AM]  Mua Súp baratie -1600 beri
+[06:45:05 AM]  Mua Súp baratie -1600 beri
+[06:45:05 AM]  Mua Súp baratie -1600 beri
+[06:45:06 AM]  Mua Súp baratie -1600 beri
+[06:45:06 AM]  Mua Súp baratie -1600 beri
+[06:45:06 AM]  Mua Súp baratie -1600 beri
+[06:45:07 AM]  Mua Súp baratie -1600 beri
+[06:45:07 AM]  Mua Súp baratie -1600 beri
+[06:45:07 AM]  Mua Súp baratie -1600 beri
+[06:45:07 AM]  Mua Súp baratie -1600 beri
+[06:45:08 AM]  Mua Súp baratie -1600 beri
+[06:45:08 AM]  Mua Súp baratie -1600 beri
+[06:45:08 AM]  Mua Súp baratie -1600 beri
+[06:45:09 AM]  Mua Súp baratie -1600 beri
+[06:45:09 AM]  Mua Súp baratie -1600 beri
+[06:45:09 AM]  Mua Súp baratie -1600 beri
+[06:45:09 AM]  Mua Súp baratie -1600 beri
+[06:45:09 AM]  Mua Súp baratie -1600 beri
+[06:45:10 AM]  Mua Súp baratie -1600 beri
+[06:45:10 AM]  Mua Súp baratie -1600 beri
+[06:45:10 AM]  Mua Súp baratie -1600 beri
+[06:45:11 AM]  Mua Súp baratie -1600 beri
+[06:45:11 AM]  Mua Súp baratie -1600 beri
+[06:45:11 AM]  Mua Súp baratie -1600 beri
+[06:45:14 AM]  Mua Súp baratie -1600 beri
+[06:45:14 AM]  Mua Súp baratie -1600 beri
+[06:45:14 AM]  Mua Súp baratie -1600 beri
+[06:45:14 AM]  Mua Súp baratie -1600 beri
+[06:45:20 AM]  Mua Quả Conache -0 beri
+[06:45:20 AM]  Mua Quả Conache -0 beri
+[06:45:20 AM]  Mua Quả Conache -0 beri
+[06:45:20 AM]  Mua Quả Conache -0 beri
+[06:45:20 AM]  Mua Quả Conache -0 beri
+[06:45:21 AM]  Mua Quả Conache -0 beri
+[06:45:21 AM]  Mua Quả Conache -0 beri
+[06:45:21 AM]  Mua Quả Conache -0 beri
+[06:45:21 AM]  Mua Quả Conache -0 beri
+[06:45:21 AM]  Mua Quả Conache -0 beri
+[06:45:22 AM]  Mua Quả Conache -0 beri
+[06:45:22 AM]  Mua Quả Conache -0 beri
+[06:45:22 AM]  Mua Quả Conache -0 beri
+[06:45:22 AM]  Mua Quả Conache -0 beri
+[06:45:22 AM]  Mua Quả Conache -0 beri
+[06:45:22 AM]  Mua Quả Conache -0 beri
+[06:45:25 AM]  Mua Quả Conache -0 beri
+[06:45:25 AM]  Mua Quả Conache -0 beri
+[06:45:25 AM]  Mua Quả Conache -0 beri
+[06:45:25 AM]  Mua Quả Conache -0 beri
+[06:45:25 AM]  Mua Quả Conache -0 beri
+[06:45:25 AM]  Mua Quả Conache -0 beri
+[06:45:25 AM]  Mua Quả Conache -0 beri
+[06:45:25 AM]  Mua Quả Conache -0 beri
+[06:45:25 AM]  Mua Quả Conache -0 beri
+[06:45:25 AM]  Mua Quả Conache -0 beri
+[06:45:25 AM]  Mua Quả Conache -0 beri
+[06:45:25 AM]  Mua Quả Conache -0 beri
+[06:45:25 AM]  Mua Quả Conache -0 beri
+[06:45:25 AM]  Mua Quả Conache -0 beri
+[06:45:27 AM]  Mua Quả Conache -0 beri
+[06:45:27 AM]  Mua Quả Conache -0 beri
+[06:45:27 AM]  Mua Quả Conache -0 beri
+[06:45:28 AM]  Mua Quả Conache -0 beri
+[06:45:28 AM]  Mua Quả Conache -0 beri
+[06:45:28 AM]  Mua Quả Conache -0 beri
+[06:45:28 AM]  Mua Quả Conache -0 beri
+[06:45:28 AM]  Mua Quả Conache -0 beri
+[06:45:28 AM]  Mua Quả Conache -0 beri
+[06:45:28 AM]  Mua Quả Conache -0 beri
+[06:45:28 AM]  Mua Quả Conache -0 beri
+[06:45:29 AM]  Mua Quả Conache -0 beri
+[06:45:29 AM]  Mua Quả Conache -0 beri
+[06:45:29 AM]  Mua Quả Conache -0 beri
+[06:45:29 AM]  Mua Quả Conache -0 beri
+[06:45:29 AM]  Mua Quả Conache -0 beri
+[06:45:30 AM]  Mua Quả Conache -0 beri
+[06:45:30 AM]  Mua Quả Conache -0 beri
+[06:45:30 AM]  Mua Quả Conache -0 beri
+[06:45:30 AM]  Mua Quả Conache -0 beri
+[06:45:30 AM]  Mua Quả Conache -0 beri
+[06:45:31 AM]  Mua Quả Conache -0 beri
+[06:45:31 AM]  Mua Quả Conache -0 beri
+[06:45:31 AM]  Mua Quả Conache -0 beri
+[06:45:31 AM]  Mua Quả Conache -0 beri
+[06:45:31 AM]  Mua Quả Conache -0 beri
+[06:45:31 AM]  Mua Quả Conache -0 beri
+[06:45:32 AM]  Mua Quả Conache -0 beri
+[06:45:32 AM]  Mua Quả Conache -0 beri
+[06:45:32 AM]  Mua Quả Conache -0 beri
+[06:45:32 AM]  Mua Quả Conache -0 beri
+[06:45:32 AM]  Mua Quả Conache -0 beri
+[06:45:32 AM]  Mua Quả Conache -0 beri
+[06:45:33 AM]  Mua Quả Conache -0 beri
+[06:45:33 AM]  Mua Quả Conache -0 beri
+[06:45:33 AM]  Mua Quả Conache -0 beri
+[06:45:33 AM]  Mua Quả Conache -0 beri
+[06:45:33 AM]  Mua Quả Conache -0 beri
+[06:45:33 AM]  Mua Quả Conache -0 beri
+[06:45:34 AM]  Mua Quả Conache -0 beri
+[06:45:34 AM]  Mua Quả Conache -0 beri
+[06:45:34 AM]  Mua Quả Conache -0 beri
+[06:45:34 AM]  Mua Quả Conache -0 beri
+[06:45:34 AM]  Mua Quả Conache -0 beri
+[06:45:34 AM]  Mua Quả Conache -0 beri
+[06:45:35 AM]  Mua Quả Conache -0 beri
+[06:45:35 AM]  Mua Quả Conache -0 beri
+[06:45:35 AM]  Mua Quả Conache -0 beri
+[06:45:35 AM]  Mua Quả Conache -0 beri
+[06:45:35 AM]  Mua Quả Conache -0 beri
+[06:45:36 AM]  Mua Quả Conache -0 beri
+[06:45:36 AM]  Mua Quả Conache -0 beri
+[06:45:36 AM]  Mua Quả Conache -0 beri
+[06:45:36 AM]  Mua Quả Conache -0 beri
+[06:45:36 AM]  Mua Quả Conache -0 beri
+[06:45:37 AM]  Mua Quả Conache -0 beri
+[06:45:37 AM]  Mua Quả Conache -0 beri
+[06:45:37 AM]  Mua Quả Conache -0 beri
+[06:45:37 AM]  Mua Quả Conache -0 beri
+[06:45:37 AM]  Mua Quả Conache -0 beri
+[06:45:38 AM]  Mua Quả Conache -0 beri
+[06:45:38 AM]  Mua Quả Conache -0 beri
+[06:45:38 AM]  Mua Quả Conache -0 beri
+[06:45:38 AM]  Mua Quả Conache -0 beri
+[06:45:38 AM]  Mua Quả Conache -0 beri
+[06:45:38 AM]  Mua Quả Conache -0 beri
+[06:45:39 AM]  Mua Quả Conache -0 beri
+[06:45:39 AM]  Mua Quả Conache -0 beri
+[06:45:39 AM]  Mua Quả Conache -0 beri
+[06:45:39 AM]  Mua Quả Conache -0 beri
+[06:45:39 AM]  Mua Quả Conache -0 beri
+[06:45:39 AM]  Mua Quả Conache -0 beri
+[06:45:40 AM]  Mua Quả Conache -0 beri
+[06:45:40 AM]  Mua Quả Conache -0 beri
+[06:45:40 AM]  Mua Quả Conache -0 beri
+[06:45:40 AM]  Mua Quả Conache -0 beri
+[06:45:40 AM]  Mua Quả Conache -0 beri
+[06:45:41 AM]  Mua Quả Conache -0 beri
+[06:45:41 AM]  Mua Quả Conache -0 beri
+[06:46:58 AM]  Nhặt +3216 beri
+[06:47:27 AM]  Nhặt +1008 beri
+[06:58:02 AM]  Nhặt +8200 beri
+[06:58:21 AM]  Nhặt +5200 beri
+[07:01:14 AM]  Nhặt +6100 beri
+[07:01:37 AM]  Nhặt +700 beri
+[07:01:46 AM]  Nhặt +4750 beri
+[07:03:58 AM]  Nhặt +8050 beri
+[07:06:33 AM]  Nhặt +3200 beri
+[07:07:52 AM]  Logout : [Beri] 1.999.884.665 [Ruby] 1.000.049.935
+[07:08:14 AM]  Login : [Beri] 1.999.884.665 [Ruby] 1.000.049.935
+[07:10:00 AM]  Nhặt +8550 beri
+[07:13:41 AM]  Nhặt +7450 beri
+[07:19:15 AM]  Nhặt +2623 beri
+[07:24:16 AM]  Nhặt +4941 beri
+[07:24:25 AM]  Nhặt +122 beri
+[07:24:45 AM]  Logout : [Beri] 1.999.908.351 [Ruby] 1.000.049.935

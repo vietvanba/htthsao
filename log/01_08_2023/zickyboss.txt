@@ -1,0 +1,17 @@
+[07:21:28 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[07:22:24 AM]  Mua Tóc lưỡi liềm -500 ruby
+[07:22:36 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 499.999.500
+[07:22:49 AM]  Login : [Beri] 2.000.000.000 [Ruby] 499.999.500
+[07:23:04 AM]  Nhập giftcode Bạn nhận được:
+Beri : 1000000000
+Ruby : 1000000000
+Item : Thiên thạch may mắn x99, 
+[07:23:59 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Nhẫn 10x x1, 
+[07:24:07 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dây chuyền 10x x1, 
+[07:24:22 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.999.500

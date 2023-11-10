@@ -1,0 +1,27 @@
+[07:02:08 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
+[07:02:48 AM]  Mua Kinh nghiệm X2 -3 ruby
+[07:05:01 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 499.997
+[07:05:12 AM]  Login : [Beri] 2.000.000.000 [Ruby] 499.997
+[07:05:35 AM]  Giao dịch bery với spiderman nhận +0 beri
+[07:05:35 AM]  Giao dịch bery với spiderman nhận Quần short mùa hè
+[07:05:40 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 499.997
+[07:06:05 AM]  Login : [Beri] 2.000.000.000 [Ruby] 499.997
+[07:06:32 AM]  Giao dịch bery với spiderman nhận +0 beri
+[07:07:32 AM]  Giao dịch bery với spiderman nhận +0 beri
+[07:07:32 AM]  Giao dịch bery với spiderman nhận Quần short mùa hè
+[07:07:38 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 499.997
+[07:07:45 AM]  Login : [Beri] 2.000.000.000 [Ruby] 499.997
+[07:08:01 AM]  Mua Vé tẩy tiềm năng -0 beri
+[07:08:26 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 499.997
+[07:08:32 AM]  Login : [Beri] 2.000.000.000 [Ruby] 499.997
+[07:09:02 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 499.997
+[07:56:50 AM]  Login : [Beri] 2.000.000.000 [Ruby] 499.997
+[07:57:04 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[07:57:13 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x10, 
+[07:57:16 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 499.997

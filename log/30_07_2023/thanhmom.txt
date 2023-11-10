@@ -1,0 +1,759 @@
+[01:36:31 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:37:11 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:38:25 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[01:38:36 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[02:11:44 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[02:12:07 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[02:12:17 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x99, 
+[02:12:28 PM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[02:13:10 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[02:13:20 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[02:13:36 PM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[02:14:04 PM]  Mua 999 vé vòng quay -14985 ruby
+[02:20:59 PM]  Mua Trang phục Franky -500 ruby
+[02:21:54 PM]  Mua Thần chết -500 ruby
+[02:23:43 PM]  Mua Xp Chiêu thức -6000 ruby
+[02:23:46 PM]  Mua Kinh nghiệm X2 -60 ruby
+[02:23:47 PM]  Mua Quả Conache -0 beri
+[02:23:47 PM]  Mua Quả Conache -0 beri
+[02:23:47 PM]  Mua Quả Conache -0 beri
+[02:23:48 PM]  Mua Quả Conache -0 beri
+[02:23:48 PM]  Mua Quả Conache -0 beri
+[02:23:48 PM]  Mua Quả Conache -0 beri
+[02:23:48 PM]  Mua Quả Conache -0 beri
+[02:23:48 PM]  Mua Quả Conache -0 beri
+[02:23:48 PM]  Mua Quả Conache -0 beri
+[02:23:48 PM]  Mua Quả Conache -0 beri
+[02:23:49 PM]  Mua Quả Conache -0 beri
+[02:23:49 PM]  Mua Quả Conache -0 beri
+[02:23:49 PM]  Mua Quả Conache -0 beri
+[02:23:49 PM]  Mua Quả Conache -0 beri
+[02:23:49 PM]  Mua Quả Conache -0 beri
+[02:23:49 PM]  Mua Quả Conache -0 beri
+[02:23:49 PM]  Mua Quả Conache -0 beri
+[02:23:50 PM]  Mua Quả Conache -0 beri
+[02:23:50 PM]  Mua Quả Conache -0 beri
+[02:23:50 PM]  Mua Quả Conache -0 beri
+[02:23:50 PM]  Mua Quả Conache -0 beri
+[02:23:50 PM]  Mua Quả Conache -0 beri
+[02:23:50 PM]  Mua Quả Conache -0 beri
+[02:23:51 PM]  Mua Quả Conache -0 beri
+[02:23:51 PM]  Mua Quả Conache -0 beri
+[02:23:51 PM]  Mua Quả Conache -0 beri
+[02:23:58 PM]  Mua Quả Conache -0 beri
+[02:23:58 PM]  Mua Quả Conache -0 beri
+[02:23:58 PM]  Mua Quả Conache -0 beri
+[02:23:58 PM]  Mua Quả Conache -0 beri
+[02:23:58 PM]  Mua Quả Conache -0 beri
+[02:23:58 PM]  Mua Quả Conache -0 beri
+[02:23:58 PM]  Mua Quả Conache -0 beri
+[02:23:59 PM]  Mua Quả Conache -0 beri
+[02:23:59 PM]  Mua Quả Conache -0 beri
+[02:23:59 PM]  Mua Quả Conache -0 beri
+[02:23:59 PM]  Mua Quả Conache -0 beri
+[02:23:59 PM]  Mua Quả Conache -0 beri
+[02:23:59 PM]  Mua Quả Conache -0 beri
+[02:23:59 PM]  Mua Quả Conache -0 beri
+[02:23:59 PM]  Mua Quả Conache -0 beri
+[02:23:59 PM]  Mua Quả Conache -0 beri
+[02:23:59 PM]  Mua Quả Conache -0 beri
+[02:23:59 PM]  Mua Quả Conache -0 beri
+[02:23:59 PM]  Mua Quả Conache -0 beri
+[02:24:00 PM]  Mua Quả Conache -0 beri
+[02:24:00 PM]  Mua Quả Conache -0 beri
+[02:24:00 PM]  Mua Quả Conache -0 beri
+[02:24:00 PM]  Mua Quả Conache -0 beri
+[02:24:00 PM]  Mua Quả Conache -0 beri
+[02:24:00 PM]  Mua Quả Conache -0 beri
+[02:24:00 PM]  Mua Quả Conache -0 beri
+[02:24:00 PM]  Mua Quả Conache -0 beri
+[02:24:00 PM]  Mua Quả Conache -0 beri
+[02:24:00 PM]  Mua Quả Conache -0 beri
+[02:24:01 PM]  Mua Quả Conache -0 beri
+[02:24:01 PM]  Mua Quả Conache -0 beri
+[02:24:01 PM]  Mua Quả Conache -0 beri
+[02:24:01 PM]  Mua Quả Conache -0 beri
+[02:24:01 PM]  Mua Quả Conache -0 beri
+[02:24:01 PM]  Mua Quả Conache -0 beri
+[02:24:01 PM]  Mua Quả Conache -0 beri
+[02:24:01 PM]  Mua Quả Conache -0 beri
+[02:24:01 PM]  Mua Quả Conache -0 beri
+[02:24:01 PM]  Mua Quả Conache -0 beri
+[02:24:01 PM]  Mua Quả Conache -0 beri
+[02:24:02 PM]  Mua Quả Conache -0 beri
+[02:24:02 PM]  Mua Quả Conache -0 beri
+[02:24:02 PM]  Mua Quả Conache -0 beri
+[02:24:02 PM]  Mua Quả Conache -0 beri
+[02:24:02 PM]  Mua Quả Conache -0 beri
+[02:24:02 PM]  Mua Quả Conache -0 beri
+[02:24:02 PM]  Mua Quả Conache -0 beri
+[02:24:02 PM]  Mua Quả Conache -0 beri
+[02:24:02 PM]  Mua Quả Conache -0 beri
+[02:24:02 PM]  Mua Quả Conache -0 beri
+[02:24:03 PM]  Mua Quả Conache -0 beri
+[02:24:03 PM]  Mua Quả Conache -0 beri
+[02:24:03 PM]  Mua Quả Conache -0 beri
+[02:24:03 PM]  Mua Quả Conache -0 beri
+[02:24:03 PM]  Mua Quả Conache -0 beri
+[02:24:03 PM]  Mua Quả Conache -0 beri
+[02:24:03 PM]  Mua Quả Conache -0 beri
+[02:24:03 PM]  Mua Quả Conache -0 beri
+[02:24:03 PM]  Mua Quả Conache -0 beri
+[02:24:03 PM]  Mua Quả Conache -0 beri
+[02:24:03 PM]  Mua Quả Conache -0 beri
+[02:24:03 PM]  Mua Quả Conache -0 beri
+[02:24:04 PM]  Mua Quả Conache -0 beri
+[02:24:04 PM]  Mua Quả Conache -0 beri
+[02:24:04 PM]  Mua Quả Conache -0 beri
+[02:24:04 PM]  Mua Quả Conache -0 beri
+[02:24:04 PM]  Mua Quả Conache -0 beri
+[02:24:04 PM]  Mua Quả Conache -0 beri
+[02:24:04 PM]  Mua Quả Conache -0 beri
+[02:24:04 PM]  Mua Quả Conache -0 beri
+[02:24:04 PM]  Mua Quả Conache -0 beri
+[02:24:04 PM]  Mua Quả Conache -0 beri
+[02:24:04 PM]  Mua Quả Conache -0 beri
+[02:24:05 PM]  Mua Quả Conache -0 beri
+[02:24:05 PM]  Mua Quả Conache -0 beri
+[02:24:05 PM]  Mua Quả Conache -0 beri
+[02:24:05 PM]  Mua Quả Conache -0 beri
+[02:24:05 PM]  Mua Quả Conache -0 beri
+[02:24:05 PM]  Mua Quả Conache -0 beri
+[02:24:05 PM]  Mua Quả Conache -0 beri
+[02:24:05 PM]  Mua Quả Conache -0 beri
+[02:24:05 PM]  Mua Quả Conache -0 beri
+[02:24:05 PM]  Mua Quả Conache -0 beri
+[02:24:05 PM]  Mua Quả Conache -0 beri
+[02:24:05 PM]  Mua Quả Conache -0 beri
+[02:24:06 PM]  Mua Quả Conache -0 beri
+[02:24:06 PM]  Mua Quả Conache -0 beri
+[02:24:06 PM]  Mua Quả Conache -0 beri
+[02:24:06 PM]  Mua Quả Conache -0 beri
+[02:24:06 PM]  Mua Quả Conache -0 beri
+[02:24:06 PM]  Mua Quả Conache -0 beri
+[02:24:06 PM]  Mua Quả Conache -0 beri
+[02:24:06 PM]  Mua Quả Conache -0 beri
+[02:24:06 PM]  Mua Quả Conache -0 beri
+[02:24:06 PM]  Mua Quả Conache -0 beri
+[02:24:07 PM]  Mua Quả Conache -0 beri
+[02:24:07 PM]  Mua Quả Conache -0 beri
+[02:24:07 PM]  Mua Quả Conache -0 beri
+[02:24:07 PM]  Mua Quả Conache -0 beri
+[02:24:07 PM]  Mua Quả Conache -0 beri
+[02:24:07 PM]  Mua Quả Conache -0 beri
+[02:24:07 PM]  Mua Quả Conache -0 beri
+[02:24:07 PM]  Mua Quả Conache -0 beri
+[02:24:07 PM]  Mua Quả Conache -0 beri
+[02:24:07 PM]  Mua Quả Conache -0 beri
+[02:24:08 PM]  Mua Quả Conache -0 beri
+[02:24:08 PM]  Mua Quả Conache -0 beri
+[02:24:08 PM]  Mua Quả Conache -0 beri
+[02:24:08 PM]  Mua Quả Conache -0 beri
+[02:24:08 PM]  Mua Quả Conache -0 beri
+[02:24:08 PM]  Mua Quả Conache -0 beri
+[02:24:08 PM]  Mua Quả Conache -0 beri
+[02:24:08 PM]  Mua Quả Conache -0 beri
+[02:24:08 PM]  Mua Quả Conache -0 beri
+[02:24:08 PM]  Mua Quả Conache -0 beri
+[02:24:09 PM]  Mua Quả Conache -0 beri
+[02:24:09 PM]  Mua Quả Conache -0 beri
+[02:24:09 PM]  Mua Quả Conache -0 beri
+[02:24:09 PM]  Mua Quả Conache -0 beri
+[02:24:09 PM]  Mua Quả Conache -0 beri
+[02:24:09 PM]  Mua Quả Conache -0 beri
+[02:24:09 PM]  Mua Quả Conache -0 beri
+[02:24:09 PM]  Mua Quả Conache -0 beri
+[02:24:09 PM]  Mua Quả Conache -0 beri
+[02:24:10 PM]  Mua Quả Conache -0 beri
+[02:24:10 PM]  Mua Quả Conache -0 beri
+[02:24:10 PM]  Mua Quả Conache -0 beri
+[02:24:10 PM]  Mua Quả Conache -0 beri
+[02:24:10 PM]  Mua Quả Conache -0 beri
+[02:24:10 PM]  Mua Quả Conache -0 beri
+[02:24:10 PM]  Mua Quả Conache -0 beri
+[02:24:10 PM]  Mua Quả Conache -0 beri
+[02:24:10 PM]  Mua Quả Conache -0 beri
+[02:24:10 PM]  Mua Quả Conache -0 beri
+[02:24:11 PM]  Mua Quả Conache -0 beri
+[02:24:11 PM]  Mua Quả Conache -0 beri
+[02:24:11 PM]  Mua Quả Conache -0 beri
+[02:24:11 PM]  Mua Quả Conache -0 beri
+[02:24:11 PM]  Mua Quả Conache -0 beri
+[02:24:11 PM]  Mua Quả Conache -0 beri
+[02:24:11 PM]  Mua Quả Conache -0 beri
+[02:24:11 PM]  Mua Quả Conache -0 beri
+[02:24:11 PM]  Mua Quả Conache -0 beri
+[02:24:12 PM]  Mua Quả Conache -0 beri
+[02:24:12 PM]  Mua Quả Conache -0 beri
+[02:24:12 PM]  Mua Quả Conache -0 beri
+[02:24:12 PM]  Mua Quả Conache -0 beri
+[02:24:12 PM]  Mua Quả Conache -0 beri
+[02:24:12 PM]  Mua Quả Conache -0 beri
+[02:24:12 PM]  Mua Quả Conache -0 beri
+[02:24:12 PM]  Mua Quả Conache -0 beri
+[02:24:13 PM]  Mua Quả Conache -0 beri
+[02:24:13 PM]  Mua Quả Conache -0 beri
+[02:24:13 PM]  Mua Quả Conache -0 beri
+[02:24:13 PM]  Mua Quả Conache -0 beri
+[02:24:13 PM]  Mua Quả Conache -0 beri
+[02:24:13 PM]  Mua Quả Conache -0 beri
+[02:24:13 PM]  Mua Quả Conache -0 beri
+[02:24:13 PM]  Mua Quả Conache -0 beri
+[02:24:13 PM]  Mua Quả Conache -0 beri
+[02:24:13 PM]  Mua Quả Conache -0 beri
+[02:24:14 PM]  Mua Quả Conache -0 beri
+[02:24:14 PM]  Mua Quả Conache -0 beri
+[02:24:14 PM]  Mua Quả Conache -0 beri
+[02:24:14 PM]  Mua Quả Conache -0 beri
+[02:24:14 PM]  Mua Quả Conache -0 beri
+[02:24:14 PM]  Mua Quả Conache -0 beri
+[02:24:14 PM]  Mua Quả Conache -0 beri
+[02:24:14 PM]  Mua Quả Conache -0 beri
+[02:24:14 PM]  Mua Quả Conache -0 beri
+[02:24:14 PM]  Mua Quả Conache -0 beri
+[02:24:14 PM]  Mua Quả Conache -0 beri
+[02:24:14 PM]  Mua Quả Conache -0 beri
+[02:24:14 PM]  Mua Quả Conache -0 beri
+[02:24:15 PM]  Mua Quả Conache -0 beri
+[02:24:15 PM]  Mua Quả Conache -0 beri
+[02:24:15 PM]  Mua Quả Conache -0 beri
+[02:24:15 PM]  Mua Quả Conache -0 beri
+[02:24:15 PM]  Mua Quả Conache -0 beri
+[02:24:15 PM]  Mua Quả Conache -0 beri
+[02:24:15 PM]  Mua Quả Conache -0 beri
+[02:24:15 PM]  Mua Quả Conache -0 beri
+[02:24:15 PM]  Mua Quả Conache -0 beri
+[02:24:15 PM]  Mua Quả Conache -0 beri
+[02:24:15 PM]  Mua Quả Conache -0 beri
+[02:24:16 PM]  Mua Quả Conache -0 beri
+[02:24:16 PM]  Mua Quả Conache -0 beri
+[02:24:16 PM]  Mua Quả Conache -0 beri
+[02:24:16 PM]  Mua Quả Conache -0 beri
+[02:24:16 PM]  Mua Quả Conache -0 beri
+[02:24:16 PM]  Mua Quả Conache -0 beri
+[02:24:16 PM]  Mua Quả Conache -0 beri
+[02:24:16 PM]  Mua Quả Conache -0 beri
+[02:24:16 PM]  Mua Quả Conache -0 beri
+[02:24:16 PM]  Mua Quả Conache -0 beri
+[02:24:16 PM]  Mua Quả Conache -0 beri
+[02:24:16 PM]  Mua Quả Conache -0 beri
+[02:24:17 PM]  Mua Quả Conache -0 beri
+[02:24:17 PM]  Mua Quả Conache -0 beri
+[02:24:17 PM]  Mua Quả Conache -0 beri
+[02:24:17 PM]  Mua Quả Conache -0 beri
+[02:24:17 PM]  Mua Quả Conache -0 beri
+[02:24:17 PM]  Mua Quả Conache -0 beri
+[02:24:17 PM]  Mua Quả Conache -0 beri
+[02:24:17 PM]  Mua Quả Conache -0 beri
+[02:24:17 PM]  Mua Quả Conache -0 beri
+[02:24:17 PM]  Mua Quả Conache -0 beri
+[02:24:18 PM]  Mua Quả Conache -0 beri
+[02:24:18 PM]  Mua Quả Conache -0 beri
+[02:24:18 PM]  Mua Quả Conache -0 beri
+[02:24:18 PM]  Mua Quả Conache -0 beri
+[02:24:18 PM]  Mua Quả Conache -0 beri
+[02:24:18 PM]  Mua Quả Conache -0 beri
+[02:24:18 PM]  Mua Quả Conache -0 beri
+[02:24:18 PM]  Mua Quả Conache -0 beri
+[02:24:18 PM]  Mua Quả Conache -0 beri
+[02:24:18 PM]  Mua Quả Conache -0 beri
+[02:24:19 PM]  Mua Quả Conache -0 beri
+[02:24:19 PM]  Mua Quả Conache -0 beri
+[02:24:19 PM]  Mua Quả Conache -0 beri
+[02:24:19 PM]  Mua Quả Conache -0 beri
+[02:24:19 PM]  Mua Quả Conache -0 beri
+[02:24:19 PM]  Mua Quả Conache -0 beri
+[02:24:19 PM]  Mua Quả Conache -0 beri
+[02:24:19 PM]  Mua Quả Conache -0 beri
+[02:24:19 PM]  Mua Quả Conache -0 beri
+[02:24:19 PM]  Mua Quả Conache -0 beri
+[02:24:19 PM]  Mua Quả Conache -0 beri
+[02:24:20 PM]  Mua Quả Conache -0 beri
+[02:24:20 PM]  Mua Quả Conache -0 beri
+[02:24:20 PM]  Mua Quả Conache -0 beri
+[02:24:20 PM]  Mua Quả Conache -0 beri
+[02:24:20 PM]  Mua Quả Conache -0 beri
+[02:24:20 PM]  Mua Quả Conache -0 beri
+[02:24:20 PM]  Mua Quả Conache -0 beri
+[02:24:20 PM]  Mua Quả Conache -0 beri
+[02:24:20 PM]  Mua Quả Conache -0 beri
+[02:24:20 PM]  Mua Quả Conache -0 beri
+[02:24:20 PM]  Mua Quả Conache -0 beri
+[02:24:20 PM]  Mua Quả Conache -0 beri
+[02:24:21 PM]  Mua Quả Conache -0 beri
+[02:24:21 PM]  Mua Quả Conache -0 beri
+[02:24:21 PM]  Mua Quả Conache -0 beri
+[02:24:21 PM]  Mua Quả Conache -0 beri
+[02:24:21 PM]  Mua Quả Conache -0 beri
+[02:24:21 PM]  Mua Quả Conache -0 beri
+[02:24:21 PM]  Mua Quả Conache -0 beri
+[02:24:21 PM]  Mua Quả Conache -0 beri
+[02:24:21 PM]  Mua Quả Conache -0 beri
+[02:24:21 PM]  Mua Quả Conache -0 beri
+[02:24:21 PM]  Mua Quả Conache -0 beri
+[02:24:21 PM]  Mua Quả Conache -0 beri
+[02:24:22 PM]  Mua Quả Conache -0 beri
+[02:24:22 PM]  Mua Quả Conache -0 beri
+[02:24:22 PM]  Mua Quả Conache -0 beri
+[02:24:22 PM]  Mua Quả Conache -0 beri
+[02:24:22 PM]  Mua Quả Conache -0 beri
+[02:24:22 PM]  Mua Quả Conache -0 beri
+[02:24:22 PM]  Mua Quả Conache -0 beri
+[02:24:22 PM]  Mua Quả Conache -0 beri
+[02:24:22 PM]  Mua Quả Conache -0 beri
+[02:24:22 PM]  Mua Quả Conache -0 beri
+[02:24:22 PM]  Mua Quả Conache -0 beri
+[02:24:22 PM]  Mua Quả Conache -0 beri
+[02:24:23 PM]  Mua Quả Conache -0 beri
+[02:24:23 PM]  Mua Quả Conache -0 beri
+[02:24:23 PM]  Mua Quả Conache -0 beri
+[02:24:23 PM]  Mua Quả Conache -0 beri
+[02:24:23 PM]  Mua Quả Conache -0 beri
+[02:24:23 PM]  Mua Quả Conache -0 beri
+[02:24:23 PM]  Mua Quả Conache -0 beri
+[02:24:23 PM]  Mua Quả Conache -0 beri
+[02:24:23 PM]  Mua Quả Conache -0 beri
+[02:24:23 PM]  Mua Quả Conache -0 beri
+[02:24:23 PM]  Mua Quả Conache -0 beri
+[02:24:24 PM]  Mua Quả Conache -0 beri
+[02:24:24 PM]  Mua Quả Conache -0 beri
+[02:24:24 PM]  Mua Quả Conache -0 beri
+[02:24:24 PM]  Mua Quả Conache -0 beri
+[02:24:24 PM]  Mua Quả Conache -0 beri
+[02:24:24 PM]  Mua Quả Conache -0 beri
+[02:24:24 PM]  Mua Quả Conache -0 beri
+[02:24:24 PM]  Mua Quả Conache -0 beri
+[02:24:24 PM]  Mua Quả Conache -0 beri
+[02:24:24 PM]  Mua Quả Conache -0 beri
+[02:24:25 PM]  Mua Quả Conache -0 beri
+[02:24:25 PM]  Mua Quả Conache -0 beri
+[02:24:25 PM]  Mua Quả Conache -0 beri
+[02:24:25 PM]  Mua Quả Conache -0 beri
+[02:24:25 PM]  Mua Quả Conache -0 beri
+[02:24:25 PM]  Mua Quả Conache -0 beri
+[02:24:25 PM]  Mua Quả Conache -0 beri
+[02:24:25 PM]  Mua Quả Conache -0 beri
+[02:24:25 PM]  Mua Quả Conache -0 beri
+[02:24:25 PM]  Mua Quả Conache -0 beri
+[02:24:25 PM]  Mua Quả Conache -0 beri
+[02:24:26 PM]  Mua Quả Conache -0 beri
+[02:24:26 PM]  Mua Quả Conache -0 beri
+[02:24:26 PM]  Mua Quả Conache -0 beri
+[02:24:26 PM]  Mua Quả Conache -0 beri
+[02:24:26 PM]  Mua Quả Conache -0 beri
+[02:24:26 PM]  Mua Quả Conache -0 beri
+[02:24:26 PM]  Mua Quả Conache -0 beri
+[02:24:26 PM]  Mua Quả Conache -0 beri
+[02:24:26 PM]  Mua Quả Conache -0 beri
+[02:24:26 PM]  Mua Quả Conache -0 beri
+[02:24:26 PM]  Mua Quả Conache -0 beri
+[02:24:26 PM]  Mua Quả Conache -0 beri
+[02:24:26 PM]  Mua Quả Conache -0 beri
+[02:24:27 PM]  Mua Quả Conache -0 beri
+[02:24:27 PM]  Mua Quả Conache -0 beri
+[02:24:27 PM]  Mua Quả Conache -0 beri
+[02:24:27 PM]  Mua Quả Conache -0 beri
+[02:24:27 PM]  Mua Quả Conache -0 beri
+[02:24:27 PM]  Mua Quả Conache -0 beri
+[02:24:27 PM]  Mua Quả Conache -0 beri
+[02:24:27 PM]  Mua Quả Conache -0 beri
+[02:24:27 PM]  Mua Quả Conache -0 beri
+[02:24:27 PM]  Mua Quả Conache -0 beri
+[02:24:27 PM]  Mua Quả Conache -0 beri
+[02:24:28 PM]  Mua Quả Conache -0 beri
+[02:24:28 PM]  Mua Quả Conache -0 beri
+[02:24:28 PM]  Mua Quả Conache -0 beri
+[02:24:28 PM]  Mua Quả Conache -0 beri
+[02:24:28 PM]  Mua Quả Conache -0 beri
+[02:24:28 PM]  Mua Quả Conache -0 beri
+[02:24:28 PM]  Mua Quả Conache -0 beri
+[02:24:28 PM]  Mua Quả Conache -0 beri
+[02:24:28 PM]  Mua Quả Conache -0 beri
+[02:24:28 PM]  Mua Quả Conache -0 beri
+[02:24:29 PM]  Mua Quả Conache -0 beri
+[02:24:29 PM]  Mua Quả Conache -0 beri
+[02:24:29 PM]  Mua Quả Conache -0 beri
+[02:24:29 PM]  Mua Quả Conache -0 beri
+[02:24:29 PM]  Mua Quả Conache -0 beri
+[02:24:29 PM]  Mua Quả Conache -0 beri
+[02:24:29 PM]  Mua Quả Conache -0 beri
+[02:24:29 PM]  Mua Quả Conache -0 beri
+[02:24:29 PM]  Mua Quả Conache -0 beri
+[02:24:29 PM]  Mua Quả Conache -0 beri
+[02:24:29 PM]  Mua Quả Conache -0 beri
+[02:24:29 PM]  Mua Quả Conache -0 beri
+[02:24:30 PM]  Mua Quả Conache -0 beri
+[02:24:30 PM]  Mua Quả Conache -0 beri
+[02:24:30 PM]  Mua Quả Conache -0 beri
+[02:24:30 PM]  Mua Quả Conache -0 beri
+[02:24:30 PM]  Mua Quả Conache -0 beri
+[02:24:30 PM]  Mua Quả Conache -0 beri
+[02:24:30 PM]  Mua Quả Conache -0 beri
+[02:24:30 PM]  Mua Quả Conache -0 beri
+[02:24:30 PM]  Mua Quả Conache -0 beri
+[02:24:30 PM]  Mua Quả Conache -0 beri
+[02:24:30 PM]  Mua Quả Conache -0 beri
+[02:24:31 PM]  Mua Quả Conache -0 beri
+[02:24:31 PM]  Mua Quả Conache -0 beri
+[02:24:31 PM]  Mua Quả Conache -0 beri
+[02:24:31 PM]  Mua Quả Conache -0 beri
+[02:24:31 PM]  Mua Quả Conache -0 beri
+[02:24:31 PM]  Mua Quả Conache -0 beri
+[02:24:31 PM]  Mua Quả Conache -0 beri
+[02:24:31 PM]  Mua Quả Conache -0 beri
+[02:24:31 PM]  Mua Quả Conache -0 beri
+[02:24:31 PM]  Mua Quả Conache -0 beri
+[02:24:32 PM]  Mua Quả Conache -0 beri
+[02:24:32 PM]  Mua Quả Conache -0 beri
+[02:24:32 PM]  Mua Quả Conache -0 beri
+[02:24:32 PM]  Mua Quả Conache -0 beri
+[02:24:32 PM]  Mua Quả Conache -0 beri
+[02:24:32 PM]  Mua Quả Conache -0 beri
+[02:24:32 PM]  Mua Quả Conache -0 beri
+[02:24:32 PM]  Mua Quả Conache -0 beri
+[02:24:32 PM]  Mua Quả Conache -0 beri
+[02:24:32 PM]  Mua Quả Conache -0 beri
+[02:24:32 PM]  Mua Quả Conache -0 beri
+[02:24:33 PM]  Mua Quả Conache -0 beri
+[02:24:33 PM]  Mua Quả Conache -0 beri
+[02:24:33 PM]  Mua Quả Conache -0 beri
+[02:24:33 PM]  Mua Quả Conache -0 beri
+[02:24:33 PM]  Mua Quả Conache -0 beri
+[02:24:33 PM]  Mua Quả Conache -0 beri
+[02:24:33 PM]  Mua Quả Conache -0 beri
+[02:24:33 PM]  Mua Quả Conache -0 beri
+[02:24:33 PM]  Mua Quả Conache -0 beri
+[02:24:33 PM]  Mua Quả Conache -0 beri
+[02:24:33 PM]  Mua Quả Conache -0 beri
+[02:24:33 PM]  Mua Quả Conache -0 beri
+[02:24:33 PM]  Mua Quả Conache -0 beri
+[02:24:34 PM]  Mua Quả Conache -0 beri
+[02:24:34 PM]  Mua Quả Conache -0 beri
+[02:24:34 PM]  Mua Quả Conache -0 beri
+[02:24:34 PM]  Mua Quả Conache -0 beri
+[02:24:34 PM]  Mua Quả Conache -0 beri
+[02:24:34 PM]  Mua Quả Conache -0 beri
+[02:24:34 PM]  Mua Quả Conache -0 beri
+[02:24:34 PM]  Mua Quả Conache -0 beri
+[02:24:34 PM]  Mua Quả Conache -0 beri
+[02:24:34 PM]  Mua Quả Conache -0 beri
+[02:24:35 PM]  Mua Quả Conache -0 beri
+[02:24:35 PM]  Mua Quả Conache -0 beri
+[02:24:35 PM]  Mua Quả Conache -0 beri
+[02:24:35 PM]  Mua Quả Conache -0 beri
+[02:24:35 PM]  Mua Quả Conache -0 beri
+[02:24:35 PM]  Mua Quả Conache -0 beri
+[02:24:35 PM]  Mua Quả Conache -0 beri
+[02:24:35 PM]  Mua Quả Conache -0 beri
+[02:24:35 PM]  Mua Quả Conache -0 beri
+[02:24:35 PM]  Mua Quả Conache -0 beri
+[02:24:35 PM]  Mua Quả Conache -0 beri
+[02:24:35 PM]  Mua Quả Conache -0 beri
+[02:24:35 PM]  Mua Quả Conache -0 beri
+[02:24:35 PM]  Mua Quả Conache -0 beri
+[02:24:36 PM]  Mua Quả Conache -0 beri
+[02:24:36 PM]  Mua Quả Conache -0 beri
+[02:24:36 PM]  Mua Quả Conache -0 beri
+[02:24:36 PM]  Mua Quả Conache -0 beri
+[02:24:36 PM]  Mua Quả Conache -0 beri
+[02:24:36 PM]  Mua Quả Conache -0 beri
+[02:24:36 PM]  Mua Quả Conache -0 beri
+[02:24:36 PM]  Mua Quả Conache -0 beri
+[02:24:36 PM]  Mua Quả Conache -0 beri
+[02:24:36 PM]  Mua Quả Conache -0 beri
+[02:24:36 PM]  Mua Quả Conache -0 beri
+[02:24:37 PM]  Mua Quả Conache -0 beri
+[02:24:37 PM]  Mua Quả Conache -0 beri
+[02:24:37 PM]  Mua Quả Conache -0 beri
+[02:24:37 PM]  Mua Quả Conache -0 beri
+[02:24:37 PM]  Mua Quả Conache -0 beri
+[02:24:37 PM]  Mua Quả Conache -0 beri
+[02:24:37 PM]  Mua Quả Conache -0 beri
+[02:24:37 PM]  Mua Quả Conache -0 beri
+[02:24:37 PM]  Mua Quả Conache -0 beri
+[02:24:37 PM]  Mua Quả Conache -0 beri
+[02:24:37 PM]  Mua Quả Conache -0 beri
+[02:24:38 PM]  Mua Quả Conache -0 beri
+[02:24:38 PM]  Mua Quả Conache -0 beri
+[02:24:38 PM]  Mua Quả Conache -0 beri
+[02:24:38 PM]  Mua Quả Conache -0 beri
+[02:24:38 PM]  Mua Quả Conache -0 beri
+[02:24:38 PM]  Mua Quả Conache -0 beri
+[02:24:38 PM]  Mua Quả Conache -0 beri
+[02:24:38 PM]  Mua Quả Conache -0 beri
+[02:24:38 PM]  Mua Quả Conache -0 beri
+[02:24:38 PM]  Mua Quả Conache -0 beri
+[02:24:39 PM]  Mua Quả Conache -0 beri
+[02:24:39 PM]  Mua Quả Conache -0 beri
+[02:24:39 PM]  Mua Quả Conache -0 beri
+[02:24:39 PM]  Mua Quả Conache -0 beri
+[02:24:39 PM]  Mua Quả Conache -0 beri
+[02:24:39 PM]  Mua Quả Conache -0 beri
+[02:24:39 PM]  Mua Quả Conache -0 beri
+[02:24:39 PM]  Mua Quả Conache -0 beri
+[02:24:39 PM]  Mua Quả Conache -0 beri
+[02:24:39 PM]  Mua Quả Conache -0 beri
+[02:24:39 PM]  Mua Quả Conache -0 beri
+[02:24:40 PM]  Mua Quả Conache -0 beri
+[02:24:40 PM]  Mua Quả Conache -0 beri
+[02:24:40 PM]  Mua Quả Conache -0 beri
+[02:24:40 PM]  Mua Quả Conache -0 beri
+[02:24:40 PM]  Mua Quả Conache -0 beri
+[02:24:40 PM]  Mua Quả Conache -0 beri
+[02:24:40 PM]  Mua Quả Conache -0 beri
+[02:24:40 PM]  Mua Quả Conache -0 beri
+[02:24:40 PM]  Mua Quả Conache -0 beri
+[02:24:40 PM]  Mua Quả Conache -0 beri
+[02:24:40 PM]  Mua Quả Conache -0 beri
+[02:26:31 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:31 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:31 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:31 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:35 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:35 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:35 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:35 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:35 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:35 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:35 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:35 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:35 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:36 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:36 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:36 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:36 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:36 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:36 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:36 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:36 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:36 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:36 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:36 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:36 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:36 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:37 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:37 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:37 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:37 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:37 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:37 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:37 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:37 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:37 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:37 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:37 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:38 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:38 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:38 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:38 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:38 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:38 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:38 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:38 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:38 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:38 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:38 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:39 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:39 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:39 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:39 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:39 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:39 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:39 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:39 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:39 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:39 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:40 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:40 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:40 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:40 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:40 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:40 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:40 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:40 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:40 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:40 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:40 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:41 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:41 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:41 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:41 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:41 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:41 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:41 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:41 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:41 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:41 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:41 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:42 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:42 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:42 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:42 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:42 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:42 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:42 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:42 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:42 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:42 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:42 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:42 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:42 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:43 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:43 PM]  Mua Búa siêu cấp -10000 ruby
+[02:26:58 PM]  Đục lỗ Dây chuyền 2 Lv30 -50 ruby
+[02:27:00 PM]  Đục lỗ Dây chuyền 2 Lv30 -100 ruby
+[02:27:00 PM]  Đục lỗ Dây chuyền 2 Lv30 -100 ruby
+[02:27:02 PM]  Đục lỗ Dây chuyền 2 Lv30 -100 ruby
+[02:27:02 PM]  Đục lỗ Dây chuyền 2 Lv30 -150 ruby
+[02:27:05 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:05 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:07 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:07 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:09 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:09 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:12 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:12 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:14 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:14 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:16 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:16 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:18 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:18 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:21 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:24 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:24 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:26 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:26 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:29 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:29 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:33 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:36 PM]  Đục lỗ Dây chuyền 2 Lv30 -200 ruby
+[02:27:39 PM]  Đục lỗ Dây chuyền 2 Lv30 -250 ruby
+[02:27:41 PM]  Đục lỗ Dây chuyền 2 Lv30 -250 ruby
+[02:27:41 PM]  Đục lỗ Dây chuyền 2 Lv30 -300 ruby
+[02:27:44 PM]  Đục lỗ Dây chuyền 2 Lv30 -300 ruby
+[02:27:44 PM]  Đục lỗ Dây chuyền 2 Lv30 -300 ruby
+[02:27:46 PM]  Đục lỗ Dây chuyền 2 Lv30 -300 ruby
+[02:27:48 PM]  Đục lỗ Dây chuyền 2 Lv30 -300 ruby
+[02:27:48 PM]  Đục lỗ Dây chuyền 2 Lv30 -300 ruby
+[02:27:51 PM]  Đục lỗ Dây chuyền 2 Lv30 -300 ruby
+[02:27:53 PM]  Đục lỗ Dây chuyền 2 Lv30 -300 ruby
+[02:27:53 PM]  Đục lỗ Dây chuyền 2 Lv30 -300 ruby
+[02:27:55 PM]  Đục lỗ Dây chuyền 2 Lv30 -300 ruby
+[02:27:58 PM]  Đục lỗ Dây chuyền 2 Lv30 -300 ruby
+[02:27:58 PM]  Đục lỗ Dây chuyền 2 Lv30 -300 ruby
+[02:28:01 PM]  Đục lỗ Dây chuyền 2 Lv30 -300 ruby
+[02:28:04 PM]  Đục lỗ Dây chuyền 2 Lv30 -300 ruby
+[02:28:04 PM]  Đục lỗ Dây chuyền 2 Lv30 -300 ruby
+[02:28:06 PM]  Đục lỗ Dây chuyền 2 Lv30 -300 ruby
+[02:28:06 PM]  Đục lỗ Dây chuyền 2 Lv30 -300 ruby
+[02:28:08 PM]  Đục lỗ Dây chuyền 2 Lv30 -350 ruby
+[02:28:11 PM]  Đục lỗ Nón 2 Lv30 -50 ruby
+[02:28:14 PM]  Đục lỗ Nón 2 Lv30 -50 ruby
+[02:28:14 PM]  Đục lỗ Nón 2 Lv30 -50 ruby
+[02:28:16 PM]  Đục lỗ Nón 2 Lv30 -50 ruby
+[02:28:16 PM]  Đục lỗ Nón 2 Lv30 -50 ruby
+[02:28:19 PM]  Đục lỗ Nón 2 Lv30 -50 ruby
+[02:28:22 PM]  Đục lỗ Nón 2 Lv30 -50 ruby
+[02:28:22 PM]  Đục lỗ Nón 2 Lv30 -50 ruby
+[02:28:24 PM]  Đục lỗ Nón 2 Lv30 -50 ruby
+[02:28:29 PM]  Đục lỗ Nón 2 Lv30 -100 ruby
+[02:28:30 PM]  Đục lỗ Nón 2 Lv30 -100 ruby
+[02:28:33 PM]  Đục lỗ Nón 2 Lv30 -100 ruby
+[02:28:33 PM]  Đục lỗ Nón 2 Lv30 -100 ruby
+[02:28:35 PM]  Đục lỗ Súng xạ thủ 2 -50 ruby
+[02:28:36 PM]  Đục lỗ Súng xạ thủ 2 -100 ruby
+[02:28:38 PM]  Đục lỗ Súng xạ thủ 2 -100 ruby
+[02:28:39 PM]  Đục lỗ Súng xạ thủ 2 -100 ruby
+[02:28:41 PM]  Đục lỗ Súng xạ thủ 2 -100 ruby
+[02:28:41 PM]  Đục lỗ Súng xạ thủ 2 -150 ruby
+[02:28:43 PM]  Đục lỗ Nón 2 Lv30 -100 ruby
+[02:28:43 PM]  Đục lỗ Nón 2 Lv30 -150 ruby
+[02:28:45 PM]  Đục lỗ Súng xạ thủ 2 -150 ruby
+[02:28:45 PM]  Đục lỗ Súng xạ thủ 2 -150 ruby
+[02:28:47 PM]  Đục lỗ Súng xạ thủ 2 -150 ruby
+[02:28:48 PM]  Đục lỗ Súng xạ thủ 2 -150 ruby
+[02:28:50 PM]  Đục lỗ Súng xạ thủ 2 -200 ruby
+[02:28:50 PM]  Đục lỗ Súng xạ thủ 2 -250 ruby
+[02:28:52 PM]  Đục lỗ Súng xạ thủ 2 -250 ruby
+[02:28:52 PM]  Đục lỗ Súng xạ thủ 2 -250 ruby
+[02:28:56 PM]  Đục lỗ Nón 2 Lv30 -150 ruby
+[02:28:56 PM]  Đục lỗ Nón 2 Lv30 -150 ruby
+[02:29:02 PM]  Mua Đá khảm vô cực S -20000000 ruby
+[02:29:12 PM]  Khảm ngọc lên -> Dây chuyền 2 Lv30 -350 ruby
+[02:29:18 PM]  Khảm ngọc lên -> Dây chuyền 2 Lv30 -350 ruby
+[02:29:22 PM]  Khảm ngọc lên -> Dây chuyền 2 Lv30 -350 ruby
+[02:29:25 PM]  Khảm ngọc lên -> Dây chuyền 2 Lv30 -350 ruby
+[02:29:30 PM]  Khảm ngọc lên -> Dây chuyền 2 Lv30 -350 ruby
+[02:29:36 PM]  Khảm ngọc lên -> Dây chuyền 2 Lv30 -350 ruby
+[02:29:41 PM]  Khảm ngọc lên -> Nón 2 Lv30 -200 ruby
+[02:29:44 PM]  Khảm ngọc lên -> Nón 2 Lv30 -200 ruby
+[02:29:46 PM]  Khảm ngọc lên -> Nón 2 Lv30 -200 ruby
+[02:29:51 PM]  Khảm ngọc lên -> Súng xạ thủ 2 -250 ruby
+[02:29:54 PM]  Khảm ngọc lên -> Súng xạ thủ 2 -250 ruby
+[02:29:58 PM]  Khảm ngọc lên -> Súng xạ thủ 2 -250 ruby
+[02:30:02 PM]  Khảm ngọc lên -> Súng xạ thủ 2 -250 ruby
+[02:30:28 PM]  Đục lỗ Súng xạ thủ 2 -250 ruby
+[02:30:28 PM]  Đục lỗ Súng xạ thủ 2 -250 ruby
+[02:30:31 PM]  Đục lỗ Súng xạ thủ 2 -250 ruby
+[02:30:33 PM]  Đục lỗ Súng xạ thủ 2 -250 ruby
+[02:30:36 PM]  Đục lỗ Súng xạ thủ 2 -250 ruby
+[02:30:36 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:30:38 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:30:38 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:30:40 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:30:40 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:30:43 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:30:43 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:30:45 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:30:45 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:30:48 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:30:51 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:30:51 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:30:53 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:30:54 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:30:59 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:31:00 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:31:02 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:31:02 PM]  Đục lỗ Súng xạ thủ 2 -300 ruby
+[02:31:06 PM]  Đục lỗ Áo đường phố 2 -50 ruby
+[02:31:08 PM]  Đục lỗ Áo đường phố 2 -50 ruby
+[02:31:08 PM]  Đục lỗ Áo đường phố 2 -50 ruby
+[02:31:10 PM]  Đục lỗ Áo đường phố 2 -50 ruby
+[02:31:13 PM]  Đục lỗ Áo đường phố 2 -50 ruby
+[02:31:13 PM]  Đục lỗ Áo đường phố 2 -50 ruby
+[02:31:15 PM]  Đục lỗ Áo đường phố 2 -50 ruby
+[02:31:17 PM]  Đục lỗ Áo đường phố 2 -100 ruby
+[02:31:17 PM]  Đục lỗ Áo đường phố 2 -100 ruby
+[02:31:19 PM]  Đục lỗ Áo đường phố 2 -100 ruby
+[02:31:20 PM]  Đục lỗ Áo đường phố 2 -100 ruby
+[02:31:22 PM]  Đục lỗ Áo đường phố 2 -150 ruby
+[02:31:22 PM]  Đục lỗ Áo đường phố 2 -150 ruby
+[02:31:31 PM]  Khảm ngọc lên -> Súng xạ thủ 2 -300 ruby
+[02:31:34 PM]  Khảm ngọc lên -> Áo đường phố 2 -150 ruby
+[02:31:37 PM]  Khảm ngọc lên -> Áo đường phố 2 -150 ruby
+[02:32:01 PM]  Nhặt +2900 beri
+[02:32:24 PM]  Nhặt +3360 beri
+[02:33:13 PM]  Nhặt +4335 beri
+[02:33:55 PM]  Nhặt +156 beri
+[02:34:00 PM]  Nhặt +4590 beri
+[02:35:05 PM]  Nhặt +156 beri
+[02:35:28 PM]  Logout : [Beri] 2.000.015.497 [Ruby] 1.479.000.605

@@ -1,0 +1,471 @@
+[04:51:20 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[04:52:59 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[04:53:06 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[04:53:20 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[04:53:31 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x99, 
+[04:53:58 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[04:54:21 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[04:54:56 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[04:55:20 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[04:55:30 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[04:56:32 AM]  Mua 3000 vé vòng quay -45000 ruby
+[04:58:11 AM]  Mua 3000 vé vòng quay -45000 ruby
+[05:02:24 AM]  Mua Dr. Strange Zoombie -500 ruby
+[05:04:01 AM]  Mua Quả Conache -0 beri
+[05:04:01 AM]  Mua Quả Conache -0 beri
+[05:04:01 AM]  Mua Quả Conache -0 beri
+[05:04:02 AM]  Mua Quả Conache -0 beri
+[05:04:02 AM]  Mua Quả Conache -0 beri
+[05:04:02 AM]  Mua Quả Conache -0 beri
+[05:04:02 AM]  Mua Quả Conache -0 beri
+[05:04:02 AM]  Mua Quả Conache -0 beri
+[05:04:03 AM]  Mua Quả Conache -0 beri
+[05:04:03 AM]  Mua Quả Conache -0 beri
+[05:04:03 AM]  Mua Quả Conache -0 beri
+[05:04:03 AM]  Mua Quả Conache -0 beri
+[05:04:03 AM]  Mua Quả Conache -0 beri
+[05:04:04 AM]  Mua Quả Conache -0 beri
+[05:04:04 AM]  Mua Quả Conache -0 beri
+[05:04:04 AM]  Mua Quả Conache -0 beri
+[05:04:04 AM]  Mua Quả Conache -0 beri
+[05:04:04 AM]  Mua Quả Conache -0 beri
+[05:04:05 AM]  Mua Quả Conache -0 beri
+[05:04:05 AM]  Mua Quả Conache -0 beri
+[05:04:05 AM]  Mua Quả Conache -0 beri
+[05:04:05 AM]  Mua Quả Conache -0 beri
+[05:04:05 AM]  Mua Quả Conache -0 beri
+[05:04:05 AM]  Mua Quả Conache -0 beri
+[05:04:06 AM]  Mua Quả Conache -0 beri
+[05:04:06 AM]  Mua Quả Conache -0 beri
+[05:04:06 AM]  Mua Quả Conache -0 beri
+[05:04:06 AM]  Mua Quả Conache -0 beri
+[05:04:06 AM]  Mua Quả Conache -0 beri
+[05:04:07 AM]  Mua Quả Conache -0 beri
+[05:04:07 AM]  Mua Quả Conache -0 beri
+[05:04:07 AM]  Mua Quả Conache -0 beri
+[05:04:07 AM]  Mua Quả Conache -0 beri
+[05:04:07 AM]  Mua Quả Conache -0 beri
+[05:04:07 AM]  Mua Quả Conache -0 beri
+[05:04:08 AM]  Mua Quả Conache -0 beri
+[05:04:08 AM]  Mua Quả Conache -0 beri
+[05:04:08 AM]  Mua Quả Conache -0 beri
+[05:04:08 AM]  Mua Quả Conache -0 beri
+[05:04:08 AM]  Mua Quả Conache -0 beri
+[05:04:09 AM]  Mua Quả Conache -0 beri
+[05:04:09 AM]  Mua Quả Conache -0 beri
+[05:04:09 AM]  Mua Quả Conache -0 beri
+[05:04:09 AM]  Mua Quả Conache -0 beri
+[05:04:10 AM]  Mua Quả Conache -0 beri
+[05:04:10 AM]  Mua Quả Conache -0 beri
+[05:04:10 AM]  Mua Quả Conache -0 beri
+[05:04:10 AM]  Mua Quả Conache -0 beri
+[05:04:10 AM]  Mua Quả Conache -0 beri
+[05:04:11 AM]  Mua Quả Conache -0 beri
+[05:04:11 AM]  Mua Quả Conache -0 beri
+[05:04:11 AM]  Mua Quả Conache -0 beri
+[05:04:11 AM]  Mua Quả Conache -0 beri
+[05:04:11 AM]  Mua Quả Conache -0 beri
+[05:04:11 AM]  Mua Quả Conache -0 beri
+[05:04:12 AM]  Mua Quả Conache -0 beri
+[05:04:12 AM]  Mua Quả Conache -0 beri
+[05:04:12 AM]  Mua Quả Conache -0 beri
+[05:04:12 AM]  Mua Quả Conache -0 beri
+[05:04:14 AM]  Mua Súp baratie -1600 beri
+[05:04:14 AM]  Mua Súp baratie -1600 beri
+[05:04:14 AM]  Mua Súp baratie -1600 beri
+[05:04:14 AM]  Mua Súp baratie -1600 beri
+[05:04:15 AM]  Mua Súp baratie -1600 beri
+[05:04:15 AM]  Mua Súp baratie -1600 beri
+[05:04:15 AM]  Mua Súp baratie -1600 beri
+[05:04:15 AM]  Mua Súp baratie -1600 beri
+[05:04:15 AM]  Mua Súp baratie -1600 beri
+[05:04:16 AM]  Mua Súp baratie -1600 beri
+[05:04:16 AM]  Mua Súp baratie -1600 beri
+[05:04:16 AM]  Mua Súp baratie -1600 beri
+[05:04:16 AM]  Mua Súp baratie -1600 beri
+[05:04:16 AM]  Mua Súp baratie -1600 beri
+[05:04:17 AM]  Mua Súp baratie -1600 beri
+[05:04:17 AM]  Mua Súp baratie -1600 beri
+[05:04:17 AM]  Mua Súp baratie -1600 beri
+[05:04:17 AM]  Mua Súp baratie -1600 beri
+[05:04:18 AM]  Mua Súp baratie -1600 beri
+[05:04:18 AM]  Mua Súp baratie -1600 beri
+[05:04:18 AM]  Mua Súp baratie -1600 beri
+[05:04:18 AM]  Mua Súp baratie -1600 beri
+[05:04:18 AM]  Mua Súp baratie -1600 beri
+[05:04:19 AM]  Mua Súp baratie -1600 beri
+[05:04:19 AM]  Mua Súp baratie -1600 beri
+[05:04:19 AM]  Mua Súp baratie -1600 beri
+[05:04:19 AM]  Mua Súp baratie -1600 beri
+[05:04:19 AM]  Mua Súp baratie -1600 beri
+[05:04:20 AM]  Mua Súp baratie -1600 beri
+[05:04:20 AM]  Mua Súp baratie -1600 beri
+[05:04:20 AM]  Mua Súp baratie -1600 beri
+[05:04:20 AM]  Mua Súp baratie -1600 beri
+[05:04:20 AM]  Mua Súp baratie -1600 beri
+[05:04:21 AM]  Mua Súp baratie -1600 beri
+[05:04:21 AM]  Mua Súp baratie -1600 beri
+[05:04:21 AM]  Mua Súp baratie -1600 beri
+[05:04:21 AM]  Mua Súp baratie -1600 beri
+[05:04:21 AM]  Mua Súp baratie -1600 beri
+[05:04:22 AM]  Mua Súp baratie -1600 beri
+[05:04:22 AM]  Mua Súp baratie -1600 beri
+[05:04:22 AM]  Mua Súp baratie -1600 beri
+[05:04:22 AM]  Mua Súp baratie -1600 beri
+[05:05:40 AM]  Nhặt +6846 beri
+[05:36:58 AM]  Logout : [Beri] 1.999.939.646 [Ruby] 1.499.909.500
+[05:37:44 AM]  Login : [Beri] 1.999.939.646 [Ruby] 1.499.909.500
+[05:37:46 AM]  Logout : [Beri] 1.999.939.646 [Ruby] 1.499.909.500
+[05:37:53 AM]  Login : [Beri] 1.999.939.646 [Ruby] 1.499.909.500
+[05:37:54 AM]  Logout : [Beri] 1.999.939.646 [Ruby] 1.499.909.500
+[05:38:05 AM]  Login : [Beri] 1.999.939.646 [Ruby] 1.499.909.500
+[05:43:06 AM]  Mua Đá khảm vô cực S -20000000 ruby
+[05:43:06 AM]  Mua Đá khảm vô cực S -20000000 ruby
+[05:43:06 AM]  Mua Đá khảm vô cực S -20000000 ruby
+[05:43:06 AM]  Mua Đá khảm vô cực S -20000000 ruby
+[05:43:06 AM]  Mua Đá khảm vô cực S -20000000 ruby
+[05:43:07 AM]  Mua Đá khảm vô cực S -20000000 ruby
+[05:43:07 AM]  Mua Đá khảm vô cực S -20000000 ruby
+[05:43:07 AM]  Mua Đá khảm vô cực S -20000000 ruby
+[05:43:08 AM]  Mua Đá khảm vô cực S -20000000 ruby
+[05:43:36 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:37 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:37 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:37 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:38 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:38 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:38 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:38 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:38 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:39 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:39 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:39 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:39 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:39 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:40 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:40 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:40 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:40 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:40 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:40 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:41 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:41 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:41 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:41 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:41 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:42 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:42 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:42 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:42 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:43 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:43 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:43 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:43 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:43 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:44 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:44 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:44 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:44 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:44 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:45 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:45 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:45 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:45 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:45 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:46 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:46 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:46 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:46 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:46 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:47 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:47 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:47 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:47 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:48 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:48 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:48 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:48 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:48 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:49 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:49 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:49 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:49 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:49 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:50 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:50 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:50 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:50 AM]  Mua Búa siêu cấp -10000 ruby
+[05:43:50 AM]  Mua Búa siêu cấp -10000 ruby
+[05:44:47 AM]  Đục lỗ Quần short thám hiểm -50 ruby
+[05:44:51 AM]  Đục lỗ Quần short thám hiểm -50 ruby
+[05:45:42 AM]  Đục lỗ Găng tay võ sĩ 2 -50 ruby
+[05:45:57 AM]  Đục lỗ Găng tay võ sĩ 2 -100 ruby
+[05:45:57 AM]  Đục lỗ Găng tay võ sĩ 2 -150 ruby
+[05:45:58 AM]  Đục lỗ Găng tay võ sĩ 2 -150 ruby
+[05:45:58 AM]  Đục lỗ Găng tay võ sĩ 2 -150 ruby
+[05:45:59 AM]  Đục lỗ Găng tay võ sĩ 2 -150 ruby
+[05:46:00 AM]  Đục lỗ Găng tay võ sĩ 2 -150 ruby
+[05:46:01 AM]  Đục lỗ Găng tay võ sĩ 2 -200 ruby
+[05:46:02 AM]  Đục lỗ Găng tay võ sĩ 2 -200 ruby
+[05:46:02 AM]  Đục lỗ Găng tay võ sĩ 2 -200 ruby
+[05:46:03 AM]  Đục lỗ Găng tay võ sĩ 2 -200 ruby
+[05:46:04 AM]  Đục lỗ Găng tay võ sĩ 2 -200 ruby
+[05:46:07 AM]  Đục lỗ Găng tay võ sĩ 2 -200 ruby
+[05:46:07 AM]  Đục lỗ Găng tay võ sĩ 2 -250 ruby
+[05:46:07 AM]  Đục lỗ Găng tay võ sĩ 2 -250 ruby
+[05:46:09 AM]  Đục lỗ Găng tay võ sĩ 2 -300 ruby
+[05:46:10 AM]  Đục lỗ Găng tay võ sĩ 2 -300 ruby
+[05:46:10 AM]  Đục lỗ Găng tay võ sĩ 2 -300 ruby
+[05:46:11 AM]  Đục lỗ Găng tay võ sĩ 2 -300 ruby
+[05:46:13 AM]  Đục lỗ Găng tay võ sĩ 2 -300 ruby
+[05:46:13 AM]  Đục lỗ Găng tay võ sĩ 2 -300 ruby
+[05:46:14 AM]  Đục lỗ Găng tay võ sĩ 2 -300 ruby
+[05:46:14 AM]  Đục lỗ Găng tay võ sĩ 2 -300 ruby
+[05:46:17 AM]  Đục lỗ Găng tay võ sĩ 2 -300 ruby
+[05:46:18 AM]  Đục lỗ Găng tay võ sĩ 2 -300 ruby
+[05:46:19 AM]  Đục lỗ Găng tay võ sĩ 2 -300 ruby
+[05:46:21 AM]  Đục lỗ Găng tay võ sĩ 2 -300 ruby
+[05:46:22 AM]  Đục lỗ Găng tay võ sĩ 2 -300 ruby
+[05:46:23 AM]  Đục lỗ Găng tay võ sĩ 2 -300 ruby
+[05:46:24 AM]  Đục lỗ Găng tay võ sĩ 2 -350 ruby
+[05:47:19 AM]  Đục lỗ Găng tay võ sĩ 2 -350 ruby
+[05:47:20 AM]  Đục lỗ Găng tay võ sĩ 2 -350 ruby
+[05:47:28 AM]  Đục lỗ Quần short thám hiểm -50 ruby
+[05:47:29 AM]  Đục lỗ Quần short thám hiểm -50 ruby
+[05:47:29 AM]  Đục lỗ Quần short thám hiểm -100 ruby
+[05:47:30 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:31 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:32 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:32 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:32 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:33 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:33 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:34 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:34 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:35 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:36 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:38 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:38 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:39 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:50 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:50 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:51 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:52 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:47:54 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:48:10 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:48:10 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:48:11 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:48:12 AM]  Đục lỗ Quần short thám hiểm -150 ruby
+[05:48:13 AM]  Đục lỗ Quần short thám hiểm -200 ruby
+[05:48:13 AM]  Đục lỗ Quần short thám hiểm -200 ruby
+[05:48:15 AM]  Đục lỗ Quần short thám hiểm -200 ruby
+[05:48:16 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:17 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:17 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:18 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:19 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:20 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:21 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:22 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:23 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:24 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:25 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:26 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:27 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:27 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:28 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:29 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:29 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:30 AM]  Đục lỗ Quần short thám hiểm -250 ruby
+[05:48:31 AM]  Đục lỗ Quần short thám hiểm -300 ruby
+[05:48:32 AM]  Đục lỗ Quần short thám hiểm -300 ruby
+[05:48:32 AM]  Đục lỗ Quần short thám hiểm -300 ruby
+[05:48:33 AM]  Đục lỗ Quần short thám hiểm -300 ruby
+[05:48:34 AM]  Đục lỗ Quần short thám hiểm -300 ruby
+[05:48:35 AM]  Đục lỗ Quần short thám hiểm -300 ruby
+[05:48:35 AM]  Đục lỗ Quần short thám hiểm -300 ruby
+[05:48:36 AM]  Đục lỗ Quần short thám hiểm -300 ruby
+[05:48:37 AM]  Đục lỗ Quần short thám hiểm -300 ruby
+[05:48:38 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:40 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:41 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:42 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:43 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:43 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:44 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:44 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:45 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:46 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:47 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:48 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:49 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:50 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:51 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:52 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:53 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:54 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:48:54 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:00 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:00 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:01 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:02 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:03 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:04 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:05 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:05 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:07 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:07 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:08 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:09 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:10 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:11 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:12 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:12 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:46 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:47 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:47 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:48 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:49 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:49 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:49:50 AM]  Đục lỗ Quần short thám hiểm -350 ruby
+[05:50:17 AM]  Khảm ngọc lên -> Quần short thám hiểm -400 ruby
+[05:50:47 AM]  Khảm ngọc lên -> Quần short thám hiểm -400 ruby
+[05:50:54 AM]  Khảm ngọc lên -> Quần short thám hiểm -400 ruby
+[05:50:56 AM]  Khảm ngọc lên -> Quần short thám hiểm -400 ruby
+[05:50:57 AM]  Khảm ngọc lên -> Quần short thám hiểm -400 ruby
+[05:50:58 AM]  Khảm ngọc lên -> Quần short thám hiểm -400 ruby
+[05:50:59 AM]  Khảm ngọc lên -> Quần short thám hiểm -400 ruby
+[05:51:05 AM]  Khảm ngọc lên -> Găng tay võ sĩ 2 -400 ruby
+[05:51:06 AM]  Khảm ngọc lên -> Găng tay võ sĩ 2 -400 ruby
+[05:51:08 AM]  Khảm ngọc lên -> Găng tay võ sĩ 2 -400 ruby
+[05:51:09 AM]  Khảm ngọc lên -> Găng tay võ sĩ 2 -400 ruby
+[05:51:10 AM]  Khảm ngọc lên -> Găng tay võ sĩ 2 -400 ruby
+[05:51:11 AM]  Khảm ngọc lên -> Găng tay võ sĩ 2 -400 ruby
+[05:51:13 AM]  Khảm ngọc lên -> Găng tay võ sĩ 2 -400 ruby
+[05:52:41 AM]  Khảm ngọc lên -> Găng tay võ sĩ 2 -400 ruby
+[05:53:16 AM]  Khảm ngọc lên -> Găng tay võ sĩ 2 -400 ruby
+[05:53:16 AM]  Khảm ngọc lên -> Găng tay võ sĩ 2 -400 ruby
+[05:53:18 AM]  Khảm ngọc lên -> Găng tay võ sĩ 2 -400 ruby
+[05:53:19 AM]  Khảm ngọc lên -> Găng tay võ sĩ 2 -400 ruby
+[05:53:20 AM]  Khảm ngọc lên -> Găng tay võ sĩ 2 -400 ruby
+[05:53:21 AM]  Khảm ngọc lên -> Găng tay võ sĩ 2 -400 ruby
+[05:53:26 AM]  Khảm ngọc lên -> Quần short thám hiểm -400 ruby
+[05:53:28 AM]  Khảm ngọc lên -> Quần short thám hiểm -400 ruby
+[05:53:28 AM]  Khảm ngọc lên -> Quần short thám hiểm -400 ruby
+[05:53:30 AM]  Khảm ngọc lên -> Quần short thám hiểm -400 ruby
+[05:53:31 AM]  Khảm ngọc lên -> Quần short thám hiểm -400 ruby
+[05:53:32 AM]  Khảm ngọc lên -> Quần short thám hiểm -400 ruby
+[05:53:33 AM]  Khảm ngọc lên -> Quần short thám hiểm -400 ruby
+[05:54:19 AM]  Nhặt +7182 beri
+[05:55:02 AM]  Nhặt +1333 beri
+[05:55:20 AM]  Mua Tóc Kool -500 ruby
+[05:55:42 AM]  Mua Pell -500 ruby
+[05:56:34 AM]  Mua Trang phục Spiderman Iron -500 ruby
+[05:56:45 AM]  Nhặt +294 beri
+[05:57:08 AM]  Mua Xp Chiêu thức -6000 ruby
+[05:57:12 AM]  Mua Kinh nghiệm X2 -60 ruby
+[06:02:45 AM]  Nhặt +11966 beri
+[06:02:53 AM]  Nhặt +189 beri
+[06:03:13 AM]  Nhặt +9362 beri
+[06:03:43 AM]  Nhặt +2418 beri
+[06:03:57 AM]  Nhặt +11842 beri
+[06:04:33 AM]  Nhặt +5766 beri
+[06:05:23 AM]  Nhặt +1364 beri
+[06:05:35 AM]  Nhặt +1922 beri
+[06:06:16 AM]  Nhặt +12214 beri
+[06:06:38 AM]  Nhặt +9828 beri
+[06:07:17 AM]  Nhặt +1488 beri
+[06:07:59 AM]  Nhặt +1736 beri
+[06:08:25 AM]  Nhặt +4402 beri
+[06:08:29 AM]  Nhặt +1638 beri
+[06:08:55 AM]  Nhặt +3402 beri
+[06:09:43 AM]  Nhặt +10478 beri
+[06:09:53 AM]  Nhặt +4340 beri
+[06:12:11 AM]  Nhặt +3968 beri
+[06:30:38 AM]  Nhặt +5084 beri
+[06:30:45 AM]  Nhặt +11098 beri
+[06:30:49 AM]  Nhặt +2480 beri
+[06:30:57 AM]  Nhặt +3150 beri
+[06:31:07 AM]  Nhặt +882 beri
+[06:31:09 AM]  Nhặt +10602 beri
+[06:31:16 AM]  Nhặt +8556 beri
+[06:31:18 AM]  Nhặt +3843 beri
+[06:31:32 AM]  Nhặt +1449 beri
+[06:31:33 AM]  Nhặt +6200 beri
+[06:31:57 AM]  Nhặt +4347 beri
+[06:32:09 AM]  Nhặt +5544 beri
+[06:32:13 AM]  Nhặt +9450 beri
+[06:32:22 AM]  Nhặt +11842 beri
+[06:32:26 AM]  Nhặt +4092 beri
+[06:32:33 AM]  Nhặt +12348 beri
+[06:32:41 AM]  Nhặt +5456 beri
+[06:32:54 AM]  Nhặt +558 beri
+[06:33:00 AM]  Nhặt +1260 beri
+[06:33:01 AM]  Nhặt +9300 beri
+[06:33:08 AM]  Nhặt +252 beri
+[06:33:10 AM]  Nhặt +4712 beri
+[06:33:16 AM]  Nhặt +5580 beri
+[06:33:20 AM]  Nhặt +11098 beri
+[06:33:25 AM]  Nhặt +1984 beri
+[06:33:34 AM]  Nhặt +186 beri
+[06:33:35 AM]  Nhặt +2835 beri
+[06:33:37 AM]  Nhặt +11408 beri
+[06:35:30 AM]  Nhặt +1008 beri
+[06:37:06 AM]  Logout : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:37:21 AM]  Login : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:37:23 AM]  Logout : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:37:29 AM]  Login : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:37:31 AM]  Logout : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:37:38 AM]  Login : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:37:39 AM]  Logout : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:39:44 AM]  Login : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:39:44 AM]  Logout : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:40:48 AM]  Login : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:40:50 AM]  Logout : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:41:21 AM]  Login : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:41:22 AM]  Logout : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:41:46 AM]  Login : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:41:47 AM]  Logout : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:43:35 AM]  Login : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:43:36 AM]  Logout : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:44:15 AM]  Login : [Beri] 1.997.974.458 [Ruby] 1.319.173.140
+[06:44:34 AM]  Nhặt +4788 beri
+[06:44:37 AM]  Nhặt +7497 beri
+[07:04:50 AM]  Logout : [Beri] 1.997.986.743 [Ruby] 1.319.173.135
+[07:54:45 AM]  Login : [Beri] 1.997.986.743 [Ruby] 1.319.173.135
+[07:55:39 AM]  Mua 3000 vé vòng quay -45000 ruby
+[09:15:06 AM]  Logout : [Beri] 1.999.976.616 [Ruby] 1.319.128.135
+[09:37:08 AM]  Login : [Beri] 1.999.976.616 [Ruby] 1.319.128.135
+[09:37:11 AM]  Logout : [Beri] 1.999.976.616 [Ruby] 1.319.128.135
+[09:37:17 AM]  Login : [Beri] 1.999.976.616 [Ruby] 1.319.128.135
+[09:47:18 AM]  Logout : [Beri] 1.999.976.616 [Ruby] 1.319.128.135
+[11:11:22 AM]  Login : [Beri] 1.999.976.616 [Ruby] 1.319.128.135
+[11:12:14 AM]  Mua 9000 vé vòng quay -135000 ruby
+[11:21:46 AM]  Mua 9000 vé vòng quay -135000 ruby
+[11:37:36 AM]  Logout : [Beri] 1.999.976.616 [Ruby] 1.318.858.045
+[01:14:40 PM]  Login : [Beri] 1.999.976.616 [Ruby] 1.318.858.045
+[01:14:43 PM]  Logout : [Beri] 1.999.976.616 [Ruby] 1.318.858.045
+[01:14:58 PM]  Login : [Beri] 1.999.976.616 [Ruby] 1.318.858.045
+[01:20:44 PM]  Logout : [Beri] 1.999.976.616 [Ruby] 1.318.858.045
+[01:24:47 PM]  Login : [Beri] 1.999.976.616 [Ruby] 1.318.858.045

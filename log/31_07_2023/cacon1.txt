@@ -1,0 +1,39 @@
+[03:38:39 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[03:41:00 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[03:41:08 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000.000
+[03:41:49 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Quả Tim x1, 
+[03:42:15 AM]  Nhập giftcode Bạn nhận được:
+Beri : 2000000000
+Ruby : 1000000000
+Item : 
+[03:42:29 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Thiên thạch may mắn x99, 
+[03:43:15 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Dial 4 x1, 
+[03:43:27 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x1500, 
+[03:43:41 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Khiên x500, 
+[03:44:31 AM]  Nhập giftcode Bạn nhận được:
+Beri : 0
+Ruby : 0
+Item : Đá ác quỷ x20000, 
+[03:45:34 AM]  Mua 31999 vé vòng quay -479985 ruby
+[04:12:30 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.520.015
+[04:24:59 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.499.520.015
+[04:39:19 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.519.025
+[04:39:35 AM]  Login : [Beri] 2.000.000.000 [Ruby] 1.499.519.025
+[04:39:42 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.519.025
+[04:39:50 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.519.025
+[04:39:57 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 1.499.519.025
