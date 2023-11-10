@@ -617,34 +617,10 @@ public class Map implements Runnable {
             }
             if (CatBeFire == 1) {
                 if (exp_up[0] > 0) {
-                    if(p.level>9)
-                    {
-                        if(p.level>19)
-                        {
-                            if(p.level>29)
-                            {
-                                if(p.level>39)
-                                {
-                                    if(p.level>49)
-                                    {
-                                        exp_up[0]*=1;
-                                    }else {
-                                        exp_up[0]*=2;
-                                    }
-                                }else {
-                                    exp_up[0]*=3;
-                                }
-                            }else {
-                                exp_up[0]*=5;
-                            }
-                        }else {
-                            exp_up[0]*=7;
-                        }
-                    }else {
-                        exp_up[0]*=10;
-                    }
                     System.out.println("exp: "+exp_up[0]+"skill: "+exp_up[1]);
-                    p.update_exp(exp_up[0], true);
+                    if(p.level>30)
+                        p.update_exp(exp_up[0]*10, true);
+                    else p.update_exp(exp_up[0]*10, true);
                 }
                 if (exp_up[1] > 0) {
                     p.update_skill_exp(idSkill, exp_up[1]);
@@ -931,7 +907,14 @@ public class Map implements Runnable {
                 }
                 mob_target.hp -= dame;
                 dame_info[i] = dame;
-                exp_up[1] += (mob_target.level + expSkill)/(p.level/10);
+                if((p.level-mob_target.level)>10)
+                {
+                    exp_up[1]=1;
+                }else
+                {
+                    exp_up[1] += mob_target.level + expSkill;
+                }
+                
                 mob_target.id_target = p.id;
                 if (mob_target.hp <= 0) {
                     mob_target.hp = 0;

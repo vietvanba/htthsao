@@ -1,8 +1,0 @@
-[01:42:55 SA]  Login : [Beri] 100.000 [Ruby] 500
-[01:43:31 SA]  Logout : [Beri] 100.000 [Ruby] 500
-[01:47:34 SA]  Login : [Beri] 100.000 [Ruby] 500
-[01:52:39 SA]  Logout : [Beri] 100.000 [Ruby] 500
-[02:00:11 SA]  Login : [Beri] 100.000 [Ruby] 500
-[02:00:25 SA]  Logout : [Beri] 100.000 [Ruby] 500
-[02:01:02 SA]  Login : [Beri] 100.000 [Ruby] 500
-[02:01:07 SA]  Logout : [Beri] 100.000 [Ruby] 500

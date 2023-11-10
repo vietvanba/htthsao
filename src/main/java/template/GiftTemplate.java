@@ -19,15 +19,19 @@ public class GiftTemplate {
 	public short[] quant;
 	public String used;
 	public String special;
+	public int exp;
+	public int expSkill;
 
 	public GiftTemplate(String giftname, int luotnhap, int gioihan, String notice, int beri, int ruby, String item,
-	      String used, String special) {
+	      String used, String special, int exp,int expSkill) {
 		this.giftname = giftname;
 		this.luotnhap = luotnhap;
 		this.gioihan = gioihan;
 		this.notice = (notice != null) ? notice : "";
 		this.beri = beri;
 		this.ruby = ruby;
+		this.exp = exp;
+		this.expSkill=expSkill;
 		JSONArray js = (JSONArray) JSONValue.parse(item);
 		if (js.size() > 0) {
 			this.type = new byte[js.size()];

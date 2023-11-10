@@ -1,24 +1,19 @@
 package client;
 
-import java.io.IOException;
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
-import java.util.regex.Pattern;
 import core.Log;
 import core.Manager;
 import core.Service;
 import core.Util;
 import database.SQL;
 import io.Message;
-import template.GiftTemplate;
-import template.ItemBag47;
-import template.ItemTemplate3;
-import template.ItemTemplate4;
-import template.ItemTemplate7;
-import template.Item_wear;
-import template.Level;
+import template.*;
+
+import java.io.IOException;
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.regex.Pattern;
 
 public class ClientInput {
 
@@ -137,7 +132,7 @@ public class ClientInput {
                         }
                         temp = new GiftTemplate(rs.getString("giftname"), rs.getInt("luotnhap"), rs.getInt("gioihan"),
                                 rs.getString("thongbao"), rs.getInt("beri"), rs.getInt("ruby"), rs.getString("item"),
-                                rs.getString("used"), rs.getString("special"));
+                                rs.getString("used"), rs.getString("special"), rs.getInt("exp"), rs.getInt("expSkill"));
                     } catch (SQLException e) {
                         e.printStackTrace();
                         Service.send_box_ThongBao_OK(p, "Có lỗi xảy ra hãy thử lại!");
@@ -190,6 +185,10 @@ public class ClientInput {
                     p.update_vang(temp.beri);
                     p.update_ngoc(temp.ruby);
                     p.update_money();
+                    p.update_exp(temp.exp, false);
+                    p.update_skill_exp(0, temp.expSkill);
+                    p.update_skill_exp(1, temp.expSkill);
+                    p.update_skill_exp(2, temp.expSkill);
                     if (temp.type != null) {
                         for (int i = 0; i < temp.type.length; i++) {
                             switch (temp.type[i]) {
@@ -219,7 +218,7 @@ public class ClientInput {
                         p.item.update_Inventory(7, false);
                         p.item.update_Inventory(3, false);
                     }
-                    String notice = "Bạn nhận được:" + "\nBeri : " + temp.beri + "\nRuby : " + temp.ruby + "\nItem : ";
+                    String notice = "Bạn nhận được:" + "\nBeri : " + temp.beri + "\nRuby : " + temp.ruby + "\nExp : " + temp.exp + "\nExp SKill 1: " + temp.expSkill +"\nExp SKill 2: " + temp.expSkill +"\nExp SKill 3: " + temp.expSkill +"\nItem : ";
                     if (temp.type != null) {
                         for (int i = 0; i < temp.type.length; i++) {
                             switch (temp.type[i]) {

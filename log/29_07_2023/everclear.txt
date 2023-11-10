@@ -1,9 +1,0 @@
-[06:23:11 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
-[06:24:32 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000
-[06:25:16 AM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
-[06:25:35 AM]  Mua Tóc mốc lai -500 ruby
-[06:25:50 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 499.500
-[06:26:00 AM]  Login : [Beri] 2.000.000.000 [Ruby] 499.500
-[06:26:23 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 499.500
-[06:26:44 AM]  Login : [Beri] 2.000.000.000 [Ruby] 499.500
-[06:27:02 AM]  Logout : [Beri] 2.000.000.000 [Ruby] 499.500

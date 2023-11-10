@@ -1,9 +1,0 @@
-[03:26:36 AM]  Login : [Beri] 2.000.000.116 [Ruby] 1.004.954.500
-[03:29:48 AM]  Giao dịch bery với onekill nhận +0 beri
-[03:29:54 AM]  Logout : [Beri] 2.000.000.116 [Ruby] 1.004.954.500
-[03:31:02 AM]  Login : [Beri] 2.000.000.116 [Ruby] 1.004.954.500
-[03:31:04 AM]  Logout : [Beri] 2.000.000.116 [Ruby] 1.004.954.500
-[10:27:18 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
-[10:28:23 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000
-[10:28:29 PM]  Login : [Beri] 2.000.000.000 [Ruby] 500.000
-[10:29:03 PM]  Logout : [Beri] 2.000.000.000 [Ruby] 500.000

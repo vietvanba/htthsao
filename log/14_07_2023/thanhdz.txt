@@ -1,9 +1,0 @@
-[01:58:13 CH]  Login : [Beri] 100.000 [Ruby] 500
-[01:58:59 CH]  Mua Tóc Siêu Sao -500 ruby
-[01:59:40 CH]  Logout : [Beri] 100.000 [Ruby] 0
-[02:00:02 CH]  Login : [Beri] 100.000 [Ruby] 0
-[02:01:26 CH]  Logout : [Beri] 100.000 [Ruby] 0
-[02:01:31 CH]  Login : [Beri] 100.000 [Ruby] 0
-[02:01:54 CH]  Logout : [Beri] 100.000 [Ruby] 0
-[02:05:02 CH]  Login : [Beri] 100.000 [Ruby] 0
-[02:05:14 CH]  Logout : [Beri] 100.000 [Ruby] 0

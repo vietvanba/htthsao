@@ -1,2 +1,2 @@
-java -server -jar target/HTTH_v1-1.0-jar-with-dependencies.jar
+java -server -jar target/HTTHbyT-1.0-jar-with-dependencies.jar
 pause
