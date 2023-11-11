@@ -448,9 +448,9 @@ public class Map implements Runnable {
         short idSkill = m2.reader().readShort();
         byte CatBeFire = m2.reader().readByte();
         byte size_target = m2.reader().readByte();
-        System.out.println(idSkill);
-         System.out.println(CatBeFire);
-         System.out.println(size_target);
+//        System.out.println(idSkill);
+//         System.out.println(CatBeFire);
+//         System.out.println(size_target);
         if (!p.isdie) {
             if (!p.time_use_skill.containsKey(((int) idSkill))) {
                 p.time_use_skill.put(((int) idSkill), 1L);
@@ -579,6 +579,14 @@ public class Map implements Runnable {
                     dame = ((dame + sk_temp.get_dame()) * 400) / 100;
                     break;
                 }
+                case 2055:{
+                    dame = ((dame + sk_temp.get_dame()) * 1200) / 100;
+                    break;
+                }
+                case 2056:{
+                    dame = ((dame + sk_temp.get_dame()) * 1200) / 100;
+                    break;
+                }
             }
             if (idSkill == 3) {
                 dame /= 4;
@@ -617,7 +625,7 @@ public class Map implements Runnable {
             }
             if (CatBeFire == 1) {
                 if (exp_up[0] > 0) {
-                    System.out.println("exp: "+exp_up[0]+"skill: "+exp_up[1]);
+//                    System.out.println("exp: "+exp_up[0]+"skill: "+exp_up[1]);
                     if(p.level>30)
                         p.update_exp(exp_up[0]*10, true);
                     else p.update_exp(exp_up[0]*10, true);
