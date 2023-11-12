@@ -38,7 +38,7 @@ import template.Part;
 import template.Skill_Template;
 
 public class Manager {
-
+    private final byte map_thread = 5;
     private static Manager instance;
     public static String[] NAME_ITEM_SELL_TEMP = new String[]{"Shop Trang Bị Võ Sĩ", "Shop Trang Bị Kiếm Khách",
         "Shop Trang Bị Đầu Bếp", "Shop Trang Bị Hoa Tiêu", "Shop Trang Bị Xạ Thủ"};
@@ -170,7 +170,7 @@ public class Manager {
                     m_temp[i2] = new Map(map_id_add);
                     m_temp[i2].name = name_map_add;
                     m_temp[i2].max_player = (byte) max_player;
-                    m_temp[i2].max_zone = (byte) 5;
+                    m_temp[i2].max_zone = map_thread;
                     m_temp[i2].zone_id = (byte) i2;
                     try {
                         m_temp[i2].vgos = load_vgo(map_id_add);

@@ -468,19 +468,19 @@ public class MessageHandler {
         if (conn.p.clan != null) {
             ClanService.UpdateClan(conn.p, conn.p.clan);
         }
-        String notice = "Server: Hải Tặc ACE đang Beta Test, chúc các bạn chơi game vui vẻ";
+        String notice = "Server: Hải Tặc Meow meow đang Beta Test, chúc các bạn chơi game vui vẻ";
         Message m = new Message(-31);
         m.writer().writeByte(0);
         m.writer().writeUTF(notice);
         m.writer().writeByte(5);
         conn.p.list_msg_cache.add(m);
         sendNotice(conn.p,  "Đổi Coin sang Rubi, Beri tại NPC trưởng làng");
-//        sendNotice(conn.p,  "Đang diễn ra sự kiện x100 Exp skill");
-//        sendNotice(conn.p,  "Có thể nhận exp skill từ người chơi cùng nhóm khi họ train quái");
-//        sendNotice(conn.p,  "Cập nhật trái ác quỷ Bóng Tối và một số trái ác quỷ khác, hãy sử dụng rương Đại ác quỷ để có cơ hội sở hữu chúng");
-//        sendNotice(conn.p,  "Boss sẽ xuất hiện tại các phút 15, 30, 45. Tiêu diệt chúng sẽ nhận được Extol");
-//        sendNotice(conn.p,  "Tác dụng của ĐSC hiện tại là gcm, gpd, gn, ptm");
-//        sendNotice(conn.p,  "Nâng cấp quả tim lại Làng Hạt Dẻ NPC Law");
+        sendNotice(conn.p,  "Đang diễn ra sự kiện x100 Exp skill");
+        sendNotice(conn.p,  "Có thể nhận exp skill từ người chơi cùng nhóm khi họ train quái");
+        sendNotice(conn.p,  "Cập nhật trái ác quỷ Bóng Tối và một số trái ác quỷ khác, hãy sử dụng rương Đại ác quỷ để có cơ hội sở hữu chúng");
+        sendNotice(conn.p,  "Boss sẽ xuất hiện tại các phút 15, 30, 45. Tiêu diệt chúng sẽ nhận được Extol");
+        sendNotice(conn.p,  "Tác dụng của ĐSC hiện tại là gcm, gpd, gn, ptm");
+        sendNotice(conn.p,  "Nâng cấp quả tim lại Làng Hạt Dẻ NPC Law");
         for (int i = 0; i < Boss.ENTRYS.size(); i++) 
         {
             Boss boss = Boss.ENTRYS.get(i);

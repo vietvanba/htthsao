@@ -2,29 +2,28 @@ package map;
 
 import ReCode_Sever.myAdmin;
 import activities.Chat;
-import java.io.ByteArrayInputStream;
-import java.io.DataInputStream;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
 import client.Player;
-import core.Manager;
-import core.MenuController;
-import core.Service;
-import core.UpdateTopWanted;
-import core.Util;
+import core.*;
 import io.Message;
 import io.SessionManager;
 import template.EffTemplate;
 import template.ItemMap;
-import template.ItemTemplate3;
 import template.Skill_Template;
 import template.Skill_info;
+
+import java.io.ByteArrayInputStream;
+import java.io.DataInputStream;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 public class Map implements Runnable {
 
     public static List<Map[]> ENTRYS = new ArrayList<>();
+    public static int[] ID_ACCESS_MAP = {0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31, 32, 33, 34, 35, 36, 38, 39, 40, 41, 42, 43, 44, 46, 47, 48, 49, 50, 51, 52, 54, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 74, 78, 79, 80, 81, 82, 83, 84, 85, 86, 88, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 106, 55};
     // public static int id_eff = 0;
+    public static int page = 8;
     public boolean running;
     public String name;
     private Thread mythread;
@@ -358,6 +357,15 @@ public class Map implements Runnable {
         return null;
     }
 
+    public static String get_all_map(int page) {
+        String map = "Map details";
+        for (int i = page * 10; i < ((page + 1) * 10); i++) {
+            int id = Map.ID_ACCESS_MAP[i];
+            map += "\nId: " + id + " Name: " + Map.ENTRYS.get(id)[0].name;
+        }
+        return map;
+    }
+
     public static Player get_player_by_name_allmap(String name) {
         for (int i = 0; i < Map.ENTRYS.size(); i++) {
             for (int j = 0; j < Map.ENTRYS.get(i).length; j++) {
@@ -448,7 +456,7 @@ public class Map implements Runnable {
         short idSkill = m2.reader().readShort();
         byte CatBeFire = m2.reader().readByte();
         byte size_target = m2.reader().readByte();
-//        System.out.println(idSkill);
+        System.out.println(idSkill);
 //         System.out.println(CatBeFire);
 //         System.out.println(size_target);
         if (!p.isdie) {
@@ -579,11 +587,11 @@ public class Map implements Runnable {
                     dame = ((dame + sk_temp.get_dame()) * 400) / 100;
                     break;
                 }
-                case 2055:{
+                case 2055: {
                     dame = ((dame + sk_temp.get_dame()) * 1200) / 100;
                     break;
                 }
-                case 2056:{
+                case 2056: {
                     dame = ((dame + sk_temp.get_dame()) * 1200) / 100;
                     break;
                 }
@@ -626,18 +634,16 @@ public class Map implements Runnable {
             if (CatBeFire == 1) {
                 if (exp_up[0] > 0) {
 //                    System.out.println("exp: "+exp_up[0]+"skill: "+exp_up[1]);
-                    if(p.level>30)
-                        p.update_exp(exp_up[0]*10, true);
-                    else p.update_exp(exp_up[0]*10, true);
+                    if (p.level > 30)
+                        p.update_exp(exp_up[0] * 10, true);
+                    else p.update_exp(exp_up[0] * 10, true);
                 }
                 if (exp_up[1] > 0) {
                     p.update_skill_exp(idSkill, exp_up[1]);
-                    if(p.party != null)
-                    {
-                        for(int i = 0; i < p.party.list.size(); i++)
-                        {
+                    if (p.party != null) {
+                        for (int i = 0; i < p.party.list.size(); i++) {
                             Player pParty = p.party.list.get(i);
-                            if(pParty.id != p.id && pParty.map.equals(p.map)){
+                            if (pParty.id != p.id && pParty.map.equals(p.map)) {
                                 pParty.update_skill_exp(idSkill, exp_up[1]);
                             }
                         }
@@ -724,8 +730,8 @@ public class Map implements Runnable {
                     dame = ((long) dame * (1000 + p.body.get_multi_dame_when_crit(true) + multi_dame_skill)) / 1000;
                 }
                 dame = myAdmin.maxDame(dame);
-                if(dame_perHP_me > 0){
-                    if(dame_perHP_me > 100){
+                if (dame_perHP_me > 0) {
+                    if (dame_perHP_me > 100) {
                         dame_perHP_me = 100;
                     }
                     dame += (p_target.hp * dame_perHP_me) / 1000;
@@ -735,7 +741,7 @@ public class Map implements Runnable {
                 }
                 if (pst_Enemy_last > Util.random(1000) && dame != 0) { // pst
                     dame_mine_all += dame;
-                    if(dame_mine_all > p_target.hp){
+                    if (dame_mine_all > p_target.hp) {
                         dame_mine_all = p_target.hp;
                     }
                 }
@@ -744,10 +750,10 @@ public class Map implements Runnable {
                 } else {
                     p_target.hp -= dame;
                 }
-                    Chat.send_chat(p, "Test", "Bản thân      Đối thủ");
-                    Chat.send_chat(p, "Test", "cm " + crit_me + "-gcm " + crit_Enemy + "=" + crit_me_last);
-                    Chat.send_chat(p, "Test", "gn " + Gmiss_me + "-ne " + miss_Enemy + "=" + miss_Enemy_last);
-                    Chat.send_chat(p, "Test", "gpd " + Gpst_me + "-pd " + pst_Enemy + "=" + pst_Enemy_last);
+                Chat.send_chat(p, "Test", "Bản thân      Đối thủ");
+                Chat.send_chat(p, "Test", "cm " + crit_me + "-gcm " + crit_Enemy + "=" + crit_me_last);
+                Chat.send_chat(p, "Test", "gn " + Gmiss_me + "-ne " + miss_Enemy + "=" + miss_Enemy_last);
+                Chat.send_chat(p, "Test", "gpd " + Gpst_me + "-pd " + pst_Enemy + "=" + pst_Enemy_last);
                 dame_info[i] = dame;
                 if (p_target.hp <= 0) {
                     p_target.hp = 0;
@@ -891,38 +897,31 @@ public class Map implements Runnable {
                 if (10 > Util.random(100)) { // miss
                     dame = 0;
                 }
-                if(dame > mob_target.hp)
-                {
+                if (dame > mob_target.hp) {
                     dame = mob_target.hp;
                 }
                 // expSkill
                 long expSkill = ((dame * 10) / mob_target.hp_max);
-                if(expSkill < 0 || expSkill > 100)
-                {
+                if (expSkill < 0 || expSkill > 100) {
                     expSkill = 1;
                 }
                 // Dame To Boss
-                if(mob_target.boss_info != null)
-                {
-                    if(dame > mob_target.hp_max / 100)
-                    {
+                if (mob_target.boss_info != null) {
+                    if (dame > mob_target.hp_max / 100) {
                         dame = mob_target.hp_max / 100;
                     }
                 }
-                if(dame < 0)
-                {
+                if (dame < 0) {
                     dame = 0;
                 }
                 mob_target.hp -= dame;
                 dame_info[i] = dame;
-                if((p.level-mob_target.level)>10)
-                {
-                    exp_up[1]=1;
-                }else
-                {
+                if ((p.level - mob_target.level) > 10) {
+                    exp_up[1] = 1;
+                } else {
                     exp_up[1] += mob_target.level + expSkill;
                 }
-                
+
                 mob_target.id_target = p.id;
                 if (mob_target.hp <= 0) {
                     mob_target.hp = 0;
@@ -931,7 +930,7 @@ public class Map implements Runnable {
                     // leave item
                     if (75 > Util.random(100)) {
                         LeaveItemMap.leave_vang(this, mob_target, p);
-                        LeaveItemMap.leave_item4_List(this, mob_target, p, new short[] {121, 131, 284, 285, 324, 325, 326, 452, 453, 545, 547 }, new short[]{10, 5, 10, 10, 1, 5, 1, 1, 1, 5, 5}, 3);
+                        LeaveItemMap.leave_item4_List(this, mob_target, p, new short[]{121, 131, 284, 285, 324, 325, 326, 452, 453, 545, 547}, new short[]{10, 5, 10, 10, 1, 5, 1, 1, 1, 5, 5}, 3);
                     }
                     // daily quest
                     if (p.quest_daily[0] == mob_target.mob_template.mob_id && p.quest_daily[2] < p.quest_daily[3]) {
@@ -946,34 +945,26 @@ public class Map implements Runnable {
                         p.update_money();
                         int count = 0;
                         String[] nameAnKe = new String[2];
-                        for (int h = 0; h < mob_target.mob_template.map.players.size(); h++) 
-                        {
+                        for (int h = 0; h < mob_target.mob_template.map.players.size(); h++) {
                             Player p0 = mob_target.mob_template.map.players.get(h);
-                            if(p0 != null && p0.id != p.id)
-                            {
-                                if(count < 2 && Util.random(100) < 50)
-                                {
+                            if (p0 != null && p0.id != p.id) {
+                                if (count < 2 && Util.random(100) < 50) {
                                     nameAnKe[count] = p0.name;
                                     p0.update_Vnd(200);
                                     p0.update_money();
                                     count++;
-                                }
-                                else
-                                {
+                                } else {
                                     p0.update_Vnd(100);
                                     p0.update_money();
                                 }
                             }
                         }
-                        if(count == 1)
-                                {
-                                    Manager.gI().sendChatKTG("Server: Tên hải tặc may mắn hưởng lợi từ chiến công của " + p.name + "  là " +  nameAnKe[0] + "nhận được 200 Extol");
-                                }
-                                else if(count == 2)
-                                {
-                                    Manager.gI().sendChatKTG("Server: Hai tên hải tặc may mắn hưởng lợi từ chiến công của " + p.name + "  là " +  nameAnKe[0] + " và " + nameAnKe[0]+ "nhận được 200 Extol mỗi tên");
-                                }
-                                Manager.gI().sendChatKTG("Server: Những tên hải tặc còn lại có mặt khi " + mob_target.mob_template.name + " bị tiêu diệt nhận được 100 Extol");
+                        if (count == 1) {
+                            Manager.gI().sendChatKTG("Server: Tên hải tặc may mắn hưởng lợi từ chiến công của " + p.name + "  là " + nameAnKe[0] + "nhận được 200 Extol");
+                        } else if (count == 2) {
+                            Manager.gI().sendChatKTG("Server: Hai tên hải tặc may mắn hưởng lợi từ chiến công của " + p.name + "  là " + nameAnKe[0] + " và " + nameAnKe[0] + "nhận được 200 Extol mỗi tên");
+                        }
+                        Manager.gI().sendChatKTG("Server: Những tên hải tặc còn lại có mặt khi " + mob_target.mob_template.name + " bị tiêu diệt nhận được 100 Extol");
                     }
                 }
                 list_show.add(i);
@@ -1037,41 +1028,61 @@ public class Map implements Runnable {
 //            this.send_chat_popup(0, p.id, s);
 //            return;
 //        }
-        if (s.equals("debug")) 
-        {
+        if (s.equals("debug")) {
             Manager.gI().debug = !Manager.gI().debug;
-        } 
-        else if (s.equals("xem")) 
-        {
+        } else if (s.equals("xem")) {
             Service.send_box_ThongBao_OK(p,
-            "Vị trí: map " + p.map.id + "\nX : " + p.x + "\nY : " + p.y + "\n Tổng số kết nối : "
-            + SessionManager.CLIENT_ENTRYS.size() + "\n Tổng số người chơi : "
-            + Manager.gI().get_total_p_inmap());
-        } else if (s.equals("check")) 
-        {
+                    "Vị trí: map " + p.map.id + "\nX : " + p.x + "\nY : " + p.y + "\n Tổng số kết nối : "
+                            + SessionManager.CLIENT_ENTRYS.size() + "\n Tổng số người chơi : "
+                            + Manager.gI().get_total_p_inmap());
+        } else if (s.equals("check")) {
             System.err.println(p.x + " " + p.y);
-        } 
-        else if (s.equals("admin")) 
-        {
+        } else if (s.equals("admin")) {
             MenuController.send_dynamic_menu(
-            p, 9999, "Menu Admin", new String[]{"Bảo trì", "Refresh connection", "1t Beri + 1t Ruby", "Uplevel",
-            "setXP", "get item", "update part", "save data player", "save data clan"},
-            new short[]{168, 168, 168, 168, 168, 168, 168, 168, 168});
-        } 
-        else if (s.equals("it")) {
+                    p, 9999, "Menu Admin", new String[]{"Bảo trì", "Refresh connection", "1t Beri + 1t Ruby", "Uplevel",
+                            "setXP", "get item", "update part", "save data player", "save data clan"},
+                    new short[]{168, 168, 168, 168, 168, 168, 168, 168, 168});
+        } else if (s.equals("it")) {
             Service.input_text(p, 32002, "Get Item", new String[]{"Type item", "Id item", "Số lượng"});
-        }
-        else if (s.equals("thoatket")) {
+        } else if (s.equals("thoatket")) {
             Vgo vgo = new Vgo();
             vgo.name_map_goto = Map.get_map_by_id(1)[0].name;
             vgo.xnew = 782;
             vgo.ynew = 203;
             p.change_map(vgo);
-        } 
-        else if (s.equals("zz")) {
+        } else if (s.equals("zz")) {
             Service.Send_UI_Shop(p, 107);
             System.out.print("zz");
-        
+
+        } else if (s.contains("map")) {
+            String[] text = s.split(" ");
+            if (text[1].toLowerCase().equals("page")) {
+                int id = Integer.parseInt(text[2]);
+                if (id >= Map.page) {
+                    Service.send_box_ThongBao_OK(p, "Page number không hợp lệ");
+                } else {
+                    Chat.send_chat(p, "Map", Map.get_all_map(id));
+                    Service.send_box_ThongBao_OK(p, "Lấy data map thành công.\nVui lòng vào phần hộp thư đến để kiểm tra");
+                }
+            }
+        } else if (s.contains("move")) {
+            try {
+                int map = Integer.parseInt(s.substring(5));
+                if (Arrays.stream(Map.ID_ACCESS_MAP).noneMatch(value ->
+                        value == map
+                )) {
+                    Service.send_box_ThongBao_OK(p, "Map không hợp lệ");
+                } else {
+                    Vgo vgo = new Vgo();
+                    vgo.name_map_goto = Map.get_map_by_id(map)[0].name;
+                    vgo.xnew = 200;
+                    vgo.ynew = 200;
+                    p.change_map(vgo);
+                }
+            } catch (Exception e) {
+                Service.send_box_ThongBao_OK(p, "Map không hợp lệ");
+            }
+
         }
     }
 
@@ -1089,7 +1100,7 @@ public class Map implements Runnable {
         }
         m.cleanup();
     }
-    
+
     private void send_Mob_chat_popup(int type, int id_Mob, String s) throws IOException {
         Message m = new Message(17);
         switch (type) {

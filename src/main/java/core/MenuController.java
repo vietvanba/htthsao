@@ -56,7 +56,7 @@ public class MenuController {
             case -24:
             case -16:
             case -8: {
-                send_dynamic_menu(p, type, "Nhiệm vụ", new String[]{"Nhiệm vụ chính", "Nhiệm vụ lặp"}, null);
+                send_dynamic_menu(p, type, "Nhiệm vụ", new String[]{"Bản đồ", "Nhiệm vụ lặp"}, null);
                 break;
             }
             case -6: {
