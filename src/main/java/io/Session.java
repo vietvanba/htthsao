@@ -60,7 +60,7 @@ public class Session implements Runnable {
     public byte zoomlv;
     public boolean get_in4;
     public String version;
-    public byte lock;
+    public byte lock_status;
     public byte kichhoat;
     public long timeConnectTo;
 
@@ -342,7 +342,7 @@ public class Session implements Runnable {
         //if (!user_.equals("admin")) {
         //  return;
         //}
-        this.lock = 0;
+        this.lock_status = 0;
         this.kichhoat = 0;
         list_char = new ArrayList<>();
         if(type == 1){
@@ -354,7 +354,7 @@ public class Session implements Runnable {
                     try {
                         conn = SQL.gI().getCon();
                         st = conn.createStatement();
-                        st.execute("INSERT INTO `accounts` (`user`, `pass`, `coin`, `kichhoat`, `lock`) VALUES ('" + user_
+                        st.execute("INSERT INTO `accounts` (`user`, `pass`, `coin`, `kichhoat`, `lock_status`) VALUES ('" + user_
                                 + "', '1', 999999, 0, 0)");
                     } catch (SQLException e) {
                         e.printStackTrace();
@@ -397,9 +397,9 @@ public class Session implements Runnable {
                             login_notice("Tài khoản hoặc mật khẩu không chính xác");
                             return;
                         }
-                        this.lock = rs.getByte("lock");
+                        this.lock_status = rs.getByte("lock_status");
                         this.kichhoat = rs.getByte("kichhoat");
-                        if (this.lock == 1) {
+                        if (this.lock_status == 1) {
                             login_notice("Tài khoản này đang bị khóa, liên hệ Admin để biết thêm chi tiết");
                             return;
                         }
@@ -459,9 +459,9 @@ public class Session implements Runnable {
                     login_notice("Tài khoản hoặc mật khẩu không chính xác");
                     return;
                 }
-                this.lock = rs.getByte("lock");
+                this.lock_status = rs.getByte("lock_status");
                 this.kichhoat = rs.getByte("kichhoat");
-                if (this.lock == 1) {
+                if (this.lock_status == 1) {
                     login_notice("Tài khoản này đang bị khóa, liên hệ admin để biết thêm chi tiết");
                     return;
                 }
