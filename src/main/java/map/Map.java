@@ -634,17 +634,26 @@ public class Map implements Runnable {
             if (CatBeFire == 1) {
                 if (exp_up[0] > 0) {
 //                    System.out.println("exp: "+exp_up[0]+"skill: "+exp_up[1]);
-                    if (p.level > 30)
-                        p.update_exp(exp_up[0] * 10, true);
-                    else p.update_exp(exp_up[0] * 10, true);
+                    if (p.level > 30) {
+                        p.update_exp(exp_up[0], true);
+                        Log.gI().add_log(p, "EXP +" + exp_up[0] + " EXP");
+                    } else {
+                        p.update_exp(exp_up[0], true);
+                        Log.gI().add_log(p, "EXP +" + exp_up[0] + " EXP");
+
+                    }
                 }
                 if (exp_up[1] > 0) {
                     p.update_skill_exp(idSkill, exp_up[1]);
+                    Log.gI().add_log(p, "EXP SKILL +" + idSkill + ": " + exp_up[1] + " EXP");
+
                     if (p.party != null) {
                         for (int i = 0; i < p.party.list.size(); i++) {
                             Player pParty = p.party.list.get(i);
                             if (pParty.id != p.id && pParty.map.equals(p.map)) {
                                 pParty.update_skill_exp(idSkill, exp_up[1]);
+                                Log.gI().add_log(p, "EXP SKILL +" + idSkill + ": " + exp_up[1] + " EXP");
+
                             }
                         }
                     }
@@ -1007,8 +1016,6 @@ public class Map implements Runnable {
         if (eff != null) {
             exp_up[1] *= 2;
         }
-        // Bonus Exp
-        exp_up[1] *= 2;
         return exp_up;
     }
 

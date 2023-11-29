@@ -14,7 +14,7 @@ public class Level {
 	}
 
 	static {
-		long a = 12_000;
+		long a = 20000;
 		for (int i = 0; i < 150; i++) {
 			Level.ENTRYS.add(new Level(a, 2));
 			if (i < 99) {

@@ -162,6 +162,8 @@ public class ClientYesNo {
                     short[] icon_ = new short[]{32, 30, 29};
                     Service.NewDialog_eat_taq(p, name_, icon_, (id - 4000));
                     p.get_skill_taq_new(id - 4000);
+                    p.item.remove_item47(4, 32, 1);
+                    p.item.update_Inventory(4, false);
                     break;
                 }
                 case 4033: {
@@ -169,6 +171,8 @@ public class ClientYesNo {
                     short[] icon_ = new short[]{34, 33, 31};
                     Service.NewDialog_eat_taq(p, name_, icon_, (id - 4000));
                     p.get_skill_taq_new(id - 4000);
+                    p.item.remove_item47(4, 33, 1);
+                    p.item.update_Inventory(4, false);
                     break;
                 }
                 case 4034: {
@@ -176,6 +180,8 @@ public class ClientYesNo {
                     short[] icon_ = new short[]{37, 36, 35};
                     Service.NewDialog_eat_taq(p, name_, icon_, (id - 4000));
                     p.get_skill_taq_new(id - 4000);
+                    p.item.remove_item47(4, 34, 1);
+                    p.item.update_Inventory(4, false);
                     break;
                 }
                 case 4088: {
@@ -183,6 +189,8 @@ public class ClientYesNo {
                     short[] icon_ = new short[]{38, 39, 40};
                     Service.NewDialog_eat_taq(p, name_, icon_, (id - 4000));
                     p.get_skill_taq_new(id - 4000);
+                    p.item.remove_item47(4, 88, 1);
+                    p.item.update_Inventory(4, false);
                     break;
                 }
                 case 4090: {
@@ -190,6 +198,8 @@ public class ClientYesNo {
                     short[] icon_ = new short[]{48, 47, 46};
                     Service.NewDialog_eat_taq(p, name_, icon_, (id - 4000));
                     p.get_skill_taq_new(id - 4000);
+                    p.item.remove_item47(4, 90, 1);
+                    p.item.update_Inventory(4, false);
                     break;
                 }
                 case 4091: {
@@ -197,6 +207,8 @@ public class ClientYesNo {
                     short[] icon_ = new short[]{51, 50, 49};
                     Service.NewDialog_eat_taq(p, name_, icon_, (id - 4000));
                     p.get_skill_taq_new(id - 4000);
+                    p.item.remove_item47(4, 91, 1);
+                    p.item.update_Inventory(4, false);
                     break;
                 }
                 case 4092: {
@@ -204,6 +216,8 @@ public class ClientYesNo {
                     short[] icon_ = new short[]{57, 56, 53};
                     Service.NewDialog_eat_taq(p, name_, icon_, (id - 4000));
                     p.get_skill_taq_new(id - 4000);
+                    p.item.remove_item47(4, 92, 1);
+                    p.item.update_Inventory(4, false);
                     break;
                 }
                 case 4093: {
@@ -211,6 +225,8 @@ public class ClientYesNo {
                     short[] icon_ = new short[]{55, 54, 52};
                     Service.NewDialog_eat_taq(p, name_, icon_, (id - 4000));
                     p.get_skill_taq_new(id - 4000);
+                    p.item.remove_item47(4, 93, 1);
+                    p.item.update_Inventory(4, false);
                     break;
                 }
                 case 4160: {
@@ -218,6 +234,8 @@ public class ClientYesNo {
                     short[] icon_ = new short[]{61, 60, 59, 58};
                     Service.NewDialog_eat_taq(p, name_, icon_, (id - 4000));
                     p.get_skill_taq_new(id - 4000);
+                    p.item.remove_item47(4, 160, 1);
+                    p.item.update_Inventory(4, false);
                     break;
                 }
                 case 4161: {
@@ -225,6 +243,8 @@ public class ClientYesNo {
                     short[] icon_ = new short[]{65, 64, 63, 62};
                     Service.NewDialog_eat_taq(p, name_, icon_, (id - 4000));
                     p.get_skill_taq_new(id - 4000);
+                    p.item.remove_item47(4, 161, 1);
+                    p.item.update_Inventory(4, false);
                     break;
                 }
                 case 4219: {
@@ -232,6 +252,8 @@ public class ClientYesNo {
                     short[] icon_ = new short[]{72, 71, 70};
                     Service.NewDialog_eat_taq(p, name_, icon_, (id - 4000));
                     p.get_skill_taq_new(id - 4000);
+                    p.item.remove_item47(4, 219, 1);
+                    p.item.update_Inventory(4, false);
                     break;
                 }
                 case 4220: {
@@ -239,6 +261,8 @@ public class ClientYesNo {
                     short[] icon_ = new short[]{69, 68, 67};
                     Service.NewDialog_eat_taq(p, name_, icon_, (id - 4000));
                     p.get_skill_taq_new(id - 4000);
+                    p.item.remove_item47(4, 220, 1);
+                    p.item.update_Inventory(4, false);
                     break;
                 }
                 case 4240: {
@@ -246,6 +270,8 @@ public class ClientYesNo {
                     short[] icon_ = new short[]{76, 75, 73, 74};
                     Service.NewDialog_eat_taq(p, name_, icon_, (id - 4000));
                     p.get_skill_taq_new(id - 4000);
+                    p.item.remove_item47(4, 240, 1);
+                    p.item.update_Inventory(4, false);
                     break;
                 }
                 case 4316: {
@@ -253,6 +279,8 @@ public class ClientYesNo {
                     short[] icon_ = new short[]{79, 77, 78};
                     Service.NewDialog_eat_taq(p, name_, icon_, (id - 4000));
                     p.get_skill_taq_new(id - 4000);
+                    p.item.remove_item47(4, 316, 1);
+                    p.item.update_Inventory(4, false);
                     break;
                 }
                 case 4317: {
@@ -260,6 +288,8 @@ public class ClientYesNo {
                     short[] icon_ = new short[]{82, 81, 80};
                     Service.NewDialog_eat_taq(p, name_, icon_, (id - 4000));
                     p.get_skill_taq_new(id - 4000);
+                    p.item.remove_item47(4, 317, 1);
+                    p.item.update_Inventory(4, false);
                     break;
                 }
                 case 4318: {
@@ -267,6 +297,8 @@ public class ClientYesNo {
                     short[] icon_ = new short[]{85, 84, 83};
                     Service.NewDialog_eat_taq(p, name_, icon_, (id - 4000));
                     p.get_skill_taq_new(id - 4000);
+                    p.item.remove_item47(4, 318, 1);
+                    p.item.update_Inventory(4, false);
                     break;
                 }
                 case 4427: {
@@ -274,6 +306,8 @@ public class ClientYesNo {
                     short[] icon_ = new short[]{91, 90, 89, 88};
                     Service.NewDialog_eat_taq(p, name_, icon_, (id - 4000));
                     p.get_skill_taq_new(id - 4000);
+                    p.item.remove_item47(4, 427, 1);
+                    p.item.update_Inventory(4, false);
                     break;
                 }
                 case 1: {

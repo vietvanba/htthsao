@@ -355,7 +355,7 @@ public class Session implements Runnable {
                         conn = SQL.gI().getCon();
                         st = conn.createStatement();
                         st.execute("INSERT INTO `accounts` (`user`, `pass`, `coin`, `kichhoat`, `lock_status`) VALUES ('" + user_
-                                + "', '1', 999999, 0, 0)");
+                                + "', '1', 0, 0, 0)");
                     } catch (SQLException e) {
                         e.printStackTrace();
                         return;
@@ -782,8 +782,8 @@ public class Session implements Runnable {
                     break;
                 }
             }
-            query = String.format(query, name, "[" + head + "," + hair + "]", 1, 0, clazz, 1999999999, // beri create
-                    1999999999, // ruby create
+            query = String.format(query, name, "[" + head + "," + hair + "]", 1, 0, clazz, 100000000, // beri create
+                    100000, // ruby create
                     "[0,300,300,-1,1000]", "[]", body_wear, "[5,0,1,1,1,1,1]", "[]", "[[],[],[],[],[],[],[],[],[],[],[]]",
                     skill_by_clazz, "[]", "[]", "[[],[]]", "[]", "[]", "[]", "[-1,-1,0,0,100,1]",
                     Date.from(Instant.now()).toString());

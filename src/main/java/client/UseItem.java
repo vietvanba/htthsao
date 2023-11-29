@@ -431,7 +431,6 @@ public class UseItem {
 		// System.out.println(id);
 		if (p.item.total_item_bag_by_id(4, id) > 0) {
 			use_item_4(p, id);
-			p.item.remove_item47(4, id, 1);
 			Message m2 = new Message(-13);
 			m2.writer().writeShort(id);
 			m2.writer().writeShort(p.item.total_item_bag_by_id(4, id));
